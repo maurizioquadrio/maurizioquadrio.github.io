@@ -12,9 +12,8 @@ permalink: /theses/
 - Kia **Abdollahi Makouei** (July 2024)
 *Interaction of large and small scales in turbulent Couette flow*
 
-- Giacomo **Ronchetti** (July 2024)
-[Direct Numerical Simulation of Riblets Drag Reduction: Accounting for the Corner Singularity in Arbitrary Geometries]
-(https://hdl.handle.net/10589/222675)
+- Giacomo **Ronchetti** (JJJuly 2024)
+[Direct Numerical Simulation of Riblets Drag Reduction: Accounting for the Corner Singularity in Arbitrary Geometries](https://hdl.handle.net/10589/222675)
 In collaborazione con D.Gatti, KIT
 
 
