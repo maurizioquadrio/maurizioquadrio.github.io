@@ -1,11 +1,11 @@
 ---
 layout: page
-title: pagina tesi
+title: Pagina delle tesi
 permalink: /tesi/
 ---
+
+# Header
 
 Lista contenuti
 
 Seconda linea
-
-# header
