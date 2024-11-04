@@ -4,16 +4,15 @@ title: Theses
 permalink: /theses/
 ---
 
-# Master thesis work
+# Master 
 
-- Angelo Raimondo Favero (July 2024)
-A reduced model for the flow in the human nose
+- Angelo Raimondo **Favero** (July 2024)
+*A reduced model for the flow in the human nose*
 
-- Kia Abdollahi Makouei (July 2024)
-Interaction of large and small scales in turbulent Couette flow
+- Kia **Abdollahi Makouei** (July 2024)
+*Interaction of large and small scales in turbulent Couette flow*
 
-- Giacomo Ronchetti (July 2024)
-Direct Numerical Simulation of Riblets Drag Reduction: Accounting for the Corner Singularity in Arbitrary Geometries
-
+- **Giacomo Ronchetti** (July 2024)
+*Direct Numerical Simulation of Riblets Drag Reduction: Accounting for the Corner Singularity in Arbitrary Geometries*   
 In collaborazione con D.Gatti, KIT
 
