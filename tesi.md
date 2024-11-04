@@ -1,6 +1,6 @@
 layout: page
 title: "pagina tesi"
-permalink: /
+permalink: /tesi/
 
 Lista contenuti
 
