@@ -7,13 +7,13 @@ permalink: /theses/
 # Master 
 
 - Angelo Raimondo **Favero** (July 2024)
-*A reduced model for the flow in the human nose*
+*[A reduced model for the flow in the human nose](https://hdl.handle.net/10589/223634)*
 
 - Kia **Abdollahi Makouei** (July 2024)
-*Interaction of large and small scales in turbulent Couette flow*
+*[Interaction of large and small scales in turbulent Couette flow](https://hdl.handle.net/10589/223546)*
 
-- Giacomo **Ronchetti** (JJJuly 2024)
-[Direct Numerical Simulation of Riblets Drag Reduction: Accounting for the Corner Singularity in Arbitrary Geometries](https://hdl.handle.net/10589/222675)
+- Giacomo **Ronchetti** (July 2024)
+*[Direct Numerical Simulation of Riblets Drag Reduction: Accounting for the Corner Singularity in Arbitrary Geometries](https://hdl.handle.net/10589/222675)*
 In collaborazione con D.Gatti, KIT
 
 
