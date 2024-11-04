@@ -15,7 +15,7 @@ Spettrale, FFT con GPU
 - Carlantonio Di Venosa (settembre 2024)
 Naso, functional mapping
 
-Michele Andreozzi (marzo 2024)
+- Michele Andreozzi (marzo 2024)
 Wiener-Hopf control of turbulence
 
 - Luigi Raggi (aprile 2024)
