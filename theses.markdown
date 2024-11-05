@@ -440,27 +440,23 @@ Caratterizzazione aerodinamica di un velivolo addestratore
 in vista di un’applicazione di controllo attivo.
 In collaborazione con Alenia Aermacchi 
 
-- Simone Battaini (aprile 2013)
-Sensitività aerodinamica nelle autovetture da competizione: 
-uno studio basato su codice open-source e operatore aggiunto.
-In collaborazione con Scuderia Toro Rosso
+- Simone **Battaini** (2013, April)
+*[Sensitività aerodinamica nelle autovetture da competizione: uno studio basato su codice open-source e operatore aggiunto.](https://hdl.handle.net/10589/79902)*
 
-- Marco Edoardo Rosti (aprile 2013)
-Direct numerical simulation of turbulent channel flow over porous walls.
+- Marco Edoardo **Rosti** (2013, April)
+*[Direct numerical simulation of turbulent channel flow over porous walls.](https://hdl.handle.net/10589/79920)*
 
-- Davide Scarselli (aprile 2013)
-Non-modal stability of laminar channel flow over porous walls.
+- Davide **Scarselli** (2013, April)
+*[Non-modal stability of laminar channel flow over porous walls.](https://hdl.handle.net/10589/79904)*
 
-- Martina Biggi (aprile 2013)
-Riduzione di resistenza in flussi turbolenti di parete:
-confronto tra esperimenti e simulazione numerica diretta.
+- Martina **Biggi** (2013, April)
+*[Riduzione di resistenza in flussi turbolenti di parete: confronto tra esperimenti e simulazione numerica diretta.](https://hdl.handle.net/10589/79915)*
 
-- Mattia Lui (aprile 2013)
-Stenosi carotidea in geometrie patient-specific: potenzialità di modelli RANS transizionali.
+- Mattia **Lui** (2013, April)
+*[Stenosi carotidea in geometrie patient-specific: potenzialità di modelli RANS transizionali.](https://hdl.handle.net/10589/79826)*
 
-- Marco Angiolini (aprile 2013)
-Funzioni di parete adattive per il modello di turbolenza k − ω.
-In collaborazione con Fondmetal Technologies
+- Marco **Angiolini** (2013, April)
+*[Funzioni di parete adattive per il modello di turbolenza k − ω.](https://hdl.handle.net/10589/79932)*
 
 - Francesco Gritta (dicembre 2012)
 Sperimentazione e Applicazione di codici di aerodinamica numerica (Open Source) 
@@ -485,24 +481,23 @@ Politecnico di Torino - ASP (co-relatore)
 - Marco **Nicotra** (2012, April)
 *[Radial fingering in a Hele-Shaw cell](https://hdl.handle.net/10589/47722)*
 
-- Carlo Sovardi (aprile 2012)
-Linear stability of plane Poiseuille flow over a steady Stokes layer
+- Carlo **Sovardi** (2012, April)
+*[Linear stability of plane Poiseuille flow over a steady Stokes layer](https://hdl.handle.net/10589/44601)*
 
-- Marcello Vitali (aprile 2012)
-Un attuatore al plasma per applicazioni aeronautiche
+- Marcello **Vitali** (2012, April)
+*[Un attuatore al plasma per applicazioni aeronautiche](https://hdl.handle.net/10589/44302)*
 
-- Niccolo' Fabbiane (dicembre 2011)
-An innovative DNS code for high-Re turbulent pipe flow
+- Niccolo' **Fabbiane** (2011, December)
+*[An innovative DNS code for high-Re turbulent pipe flow](https://hdl.handle.net/10589/33202)*
 
-- Davide Gatti	(dicembre 2011)
-Turbulent drag reduction at moderate Reynolds numbers via spanwise velocity waves
+- Davide **Gatti** (2011, December)
+*[Turbulent drag reduction at moderate Reynolds numbers via spanwise velocity waves](https://hdl.handle.net/10589/30923)*
 
 - Francesco **Pasqua** (2011, December)
 *[Analisi sperimentale preliminare di un dispositivo innovativo per il mixing turbolento](https://hdl.handle.net/10589/41501)*
 
-- Stefano Corti (luglio 2011)
-Studio numerico della fluidodinamica all'interno della cavità nasale
-In collaborazione con Polo Ospedaliero s.Paolo -- Milano 
+- Stefano **Corti** (2011, July)
+*[Studio numerico della fluidodinamica all'interno della cavità nasale](https://hdl.handle.net/10589/23201)*
 
 - Gabriele **Pozzi** (2011, July)
 *[Verifica computazionale di una configurazione operativa per uno spinnaker asimmetrico da regata](https://hdl.handle.net/10589/22561)*
