@@ -6,61 +6,44 @@ permalink: /conferences/
 
 # 2024
 
-M.Castelletti & M.Quadrio  
+**M.Castelletti** & M.Quadrio  
 A machine-learning-based zonal approach for turbulence modeling  
 1st European Fluid Dynamics Conference, Sept 16--20 2024, Aachen (DE)
 
-M.Quadrio, A.R.Favero & A.Schillaci, 2024.
-Machine learning and CFD can work together for surgery planning in the human nose 
-\htmladdnormallink{Abstract}{../../papers/2024-efdc1-quadrio-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2024-efdc1-quadrio-presentation.pdf}
+**M.Quadrio**, A.R.Favero & A.Schillaci  
+Machine learning and CFD can work together for surgery planning in the human nose  
 1st European Fluid Dynamics Conference, Sept 16--20 2024, Aachen (DE)
 
-F.Gattere, A.Codrignani, D.Gatti & M.Quadrio, 2024.
-Mean Impulse Response in a Turbulent Channel Flow 
-\htmladdnormallink{Abstract}{../../papers/2024-efdc1-gattere-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2024-efdc1-gattere-presentation.pdf}
+**F.Gattere**, A.Codrignani, D.Gatti & M.Quadrio  
+Mean Impulse Response in a Turbulent Channel Flow  
 1st European Fluid Dynamics Conference, Sept 16--20 2024, Aachen (DE)
 
-E. Gallorini & M. Quadrio, 2024.
-A large scale multipatient DNS study of nasal flow 
-\htmladdnormallink{Abstract}{../../papers/2024-efdc1-gallorini-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2024-efdc1-gallorini-presentation.pdf}
+**E.Gallorini** & M.Quadrio  
+A large scale multipatient DNS study of nasal flow  
 1st European Fluid Dynamics Conference, Sept 16--20 2024, Aachen (DE)
 
-E.Gallorini, D.Massaro, P.Schlatter & M.Quadrio, 2024.
+**E.Gallorini**, D.Massaro, P.Schlatter & M.Quadrio  
 The state of turbulence in a pipe flow with drag reduction
-\htmladdnormallink{Abstract}{../../papers/2024-edrfcm-gallorini-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2024-edrfcm-gallorini-presentation.pdf}
 European Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
 
-S.Cipelli, M.Quadrio, F.Gattere, A.Chiarini, P.Luchini & D.Gatti, 2024.
-Sinusoidal riblets for turbulent drag reduction
-\htmladdnormallink{Abstract}{../../papers/2024-edrfcm-cipelli-abstract.pdf}
+**S.Cipelli**, M.Quadrio, F.Gattere, A.Chiarini, P.Luchini & D.Gatti  
+Sinusoidal riblets for turbulent drag reduction  
 European Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
 
-F.Gattere, A.Chiarini, M.Castelletti & M.Quadrio, 2024.
-On the optimal period of spanwise forcing for turbulent drag reduction
-\htmladdnormallink{Abstract}{../../papers/2024-edrfcm-gattere-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2024-edrfcm-gattere-presentation.pdf}
+**F.Gattere**, A.Chiarini, M.Castelletti & M.Quadrio  
+On the optimal period of spanwise forcing for turbulent drag reduction  
 European Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
 
-M.Castelletti, E.Gallorini & M.Quadrio, 2024.
-Spanwise wall oscillation in a damped channel flow for turbulent drag reduction 
-\htmladdnormallink{Abstract}{../../papers/2024-edrfcm-castelletti-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2024-edrfcm-castelletti-presentation.pdf}
+**M.Castelletti**, E.Gallorini & M.Quadrio  
+Spanwise wall oscillation in a damped channel flow for turbulent drag reduction  
 European Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
 
-N.Berizzi, D.Gatti, S.Pirozzoli, G.Soldati & M.Quadrio, 2024.
-Direct numerical simulations of a transonic airfoil with spanwise forcing for drag reduction 
-\htmladdnormallink{Abstract}{../../papers/2024-edrfcm-berizzi-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2024-edrfcm-berizzi-presentation.pdf}
+**N.Berizzi**, D.Gatti, S.Pirozzoli, G.Soldati & M.Quadrio  
+Direct numerical simulations of a transonic airfoil with spanwise forcing for drag reduction  
 European Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
 
-D.Gatti, M.Quadrio, F.Gattere, A.Chiarini & S.Pirozzoli, 2024.
-Numerical study of turbulent skin-friction drag reduction via spanwise forcing at large values of Reynolds number 
-\htmladdnormallink{Abstract}{../../papers/2024-edrfcm-gatti-abstract.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2024-edrfcm-gatti-presentation.pdf}
+**D.Gatti**, M.Quadrio, F.Gattere, A.Chiarini & S.Pirozzoli  
+Numerical study of turbulent skin-friction drag reduction via spanwise forcing at large values of Reynolds number  
 European Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
 
 \item \html{[} 
