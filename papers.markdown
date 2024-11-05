@@ -21,29 +21,25 @@ permalink: /papers/
 
 -->
 
-- D.Gatti, M.Quadrio, A.Chiarini, F.Gattere & S.Pirozzoli, 2024  
-Turbulent skin-friction drag reduction via spanwise forcing at high Reynolds number  
-Submitted to *J. Fluid Mechanics*  
+- Turbulent skin-friction drag reduction via spanwise forcing at high Reynolds number  
+D.Gatti, M.Quadrio, A.Chiarini, F.Gattere & S.Pirozzoli  
+Submitted to *J. Fluid Mechanics*, 2024  
 [Arxiv:2409.07230](https://doi.org/10.48550/arXiv.2409.07230)
 
-- Marcello Macellari, Andrea Schillaci, Umberto Tanzini, Matteo Trimarchi & Maurizio Quadrio  
-An adjoint-based approach for the surgical correction of nasal septal deviations  
+- An adjoint-based approach for the surgical correction of nasal septal deviations  
+M.Macellari, A. Schillaci, U. Tanzini, M. Trimarchi & M. Quadrio  
 *Computers in Biology and Medicine* **176** 108566, pp.1--11, 2024  
 [Arxiv:2405.07959](https://doi.org/10.48550/arXiv.2405.07959)
 
-- S.M.Tauwald, F.Erzinger, M.Quadrio, M.Rütten, C.Stemmer & L.Krenkel, 2024.
-\htmladdnormallink{Tomo-PIV in a Patient-Specific Model of Human Nasal Cavities: A Methodological Approach}
-{../../papers/2024-MST.pdf}
-\html{]}
-{\em Measurement Science and Technology} {\bf 35}, 055203, pp.1--17, 2024.
+- Tomo-PIV in a Patient-Specific Model of Human Nasal Cavities: A Methodological Approach  
+S.M.Tauwald, F.Erzinger, M.Quadrio, M.Rütten, C.Stemmer & L.Krenkel  
+*Measurement Science and Technology* **35**, 055203, pp.1--17, 2024
 
-- E.Gallorini & M.Quadrio, 2024.
-\htmladdnormallink{Spatial discretization effects in spanwise forcing for turbulent drag reduction}
-{../../papers/2024-JFMa.pdf}
-\html{]}
-{\em Journal of Fluid Mechanics} {\bf 982}, A11, pp.1--25, 2024.
-\htmladdnormallink{Arxiv {\tt physics.flu-dyn/2401.11722v1}}
-{../../papers/2024-JFMa-arxiv.pdf}
+- Spatial discretization effects in spanwise forcing for turbulent drag reduction  
+E.Gallorini & M.Quadrio  
+[*J. Fluid Mechanics* **982** A11, pp.1--25, 2024.](https://doi.org/10.1017/jfm.2024.107)  
+[Arxiv:2401.11722v1](https://doi.org/10.48550/arXiv.2401.11722)
+
 
 \item \html{[}
 A.Schillaci, K.Hasegawa, C.Pipolo, G.Boracchi and M.Quadrio, 2024.
