@@ -4,19 +4,54 @@ title: Theses
 permalink: /theses/
 ---
 
+# Ongoing
+
+- Simone **Lomolino** (beg. 2024, Oct.) 
+Tracers in a turbulent channel flow
+
+- Luca **Virecci Fana** (beg. 2024, Oct.)
+GPU-based FFT on a spectra DNS code
+
+- Carlantonio **Di Venosa** (beg. 2024, Sept.)
+Functional mapping for the human nose
+
+- Michele **Andreozzi** (beg. 2024, Mar)
+Wiener-Hopf control of turbulence
+
+- Luigi **Raggi** (beg. 2024, Apr.)
+Riblets with imperfect geometry
+
+- Karl **Vieths** (beg. 2024, Apr.)
+Spanwise forcing without walls
+
+- Francesco **Esposito** (beg. 2024, Mar)
+Adding LES infrastructure to an IBM DNS code
+
+- Andrea **Portioli** (beg. 2024, Feb)
+GPU programming on hybrid computing architectures 
+
+- Francesca **Cerbone** (beg. 2023, Sept.)
+Turbulence in solids
+
+- Fabiana **Ghilardi** (beg. 2023, Apr)
+Drag reduction in transitional pipe flows
+
+- Lorenzo **Pionetti** (beg. 2022, Oct)
+Drag reduction via tensegrity fabrics
+
+
 # Master 
 
-- Angelo Raimondo **Favero** (July 2024)
+- Angelo Raimondo **Favero** (2024, July)
 *[A reduced model for the flow in the human nose](https://hdl.handle.net/10589/223634)*
 
-- Kia **Abdollahi Makouei** (July 2024)
+- Kia **Abdollahi Makouei** (2024, July)
 *[Interaction of large and small scales in turbulent Couette flow](https://hdl.handle.net/10589/223546)*
 
-- Giacomo **Ronchetti** (July 2024)
+- Giacomo **Ronchetti** (2024, July)
 *[Direct Numerical Simulation of Riblets Drag Reduction: Accounting for the Corner Singularity in Arbitrary Geometries](https://hdl.handle.net/10589/222675)*
-In collaborazione con D.Gatti, KIT
 
-- Simone Gallo (July 2024)
+- Simone Gallo (2024, July)
 Statistical analysis of Rayleigh--Benard convection 
 On the existence of large structures in Rayleigh–Bénard convection
 In collaborazione con D.Angeli, Un. Modena e Reggio Emilia
@@ -32,13 +67,11 @@ In collaborazione con D.Gatti, KIT
 - Marco Galli (aprile 2024)
 Spanwise forcing for turbulent heat transfer enhancement
 
-- Marildo Kola (aprile 2024)
-Particle-laden turbulent wavy channel flow
-In collaborazione con M.Rosti e A.Chiarini OIST
+- Marildo **Kola** (2024, April)
+*[Particle-laden turbulent wavy channel flow](https://hdl.handle.net/10589/219170)*
 
 - Riccardo Bertoncello (aprile 2024)
 Space-scale analysis of turbulent canopy flows
-In collaborazione con M.Rosti e A.Chiarini OIST
 
 - Maria Vittoria Pennisi (aprile 2024)
 Analytical modelling of Conjugate
@@ -86,9 +119,10 @@ A machine-learning based zonal approach for turbulence modeling
 - Guido Tesa (maggio 2023)
 Rinomanometria: uno studio teorico-sperimentale
 
-- Riccardo Margheritti (ottobre 2022)
-A Computational Geometry approach for Machine Learning based
-diagnosis of nasal breathing difficulties aided by CFD 
+- Riccardo **Margheritti** (2022, Oct)
+*[A Computational Geometry approach for Machine Learning based diagnosis of nasal breathing difficulties aided by CFD](https://www.politesi.polimi.it/retrieve/8e8c7511-c2da-4af1-81aa-ac2e08e41e47/2022_10_Margheritti.pdf)*
+
+*[A Computational Geometry approach for Machine Learning based diagnosis of nasal breathing difficulties aided by CFD](*[A Computational Geometry approach for Machine Learning based diagnosis of nasal breathing difficulties aided by CFD](https://hdl.handle.net/10589/195573)*
 
 - Pietro Cassottana (ottobre 2022)
 A Lagrangian method for coherent structures identification based on the finite-time Lyapunov exponent 
@@ -461,7 +495,7 @@ In collaborazione con Ecole Polytechnique (F)
 Linear stability of plane Poiseuille flow over a steady Stokes layer
 
 - Marcello Vitali (aprile 2012)
-Un attuatore al plasma per applicazioni aeronautiche  
+Un attuatore al plasma per applicazioni aeronautiche
 
 - Niccolo' Fabbiane (dicembre 2011)
 An innovative DNS code for high-Re turbulent pipe flow
@@ -473,7 +507,7 @@ Turbulent drag reduction at moderate Reynolds numbers via spanwise velocity wave
 Analisi sperimentale preliminare di un dispositivo innovativo per il mixing turbolento 
 
 - Stefano Corti (luglio 2011)
-Studio numerico della fluidodinamica all'interno della cavità nasale  
+Studio numerico della fluidodinamica all'interno della cavità nasale
 In collaborazione con Polo Ospedaliero s.Paolo -- Milano 
 
 - Gabriele Pozzi (luglio 2011)
@@ -550,7 +584,7 @@ Simulazione numerica delle alterazioni indotte in un flusso turbolento da getti 
 Simulazione numerica del flusso turbolento in un canale a sezione anulare. 
 
 
-# Batchelor theses
+# Batchelor
 
 - Michele Marogna (luglio 2010)
 Studio fluidodinamico di un motore a due tempi
