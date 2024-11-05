@@ -391,11 +391,9 @@ Modelling aspects of wall flows with turbulent drag reduction.
 - Andrea Codrignani (aprile 2014)
 Impulse Response in a Turbulent Channel Flow. 
 
-- Filippo Salmoiraghi (aprile 2014)
-Reduced-order models for potential flows
-past parametrized NACA airfoils based on an
-isogeometric boundary element method. 
-In collaborazione con SISSA -- Trieste
+- Filippo **Salmoiraghi** (2014, April)
+*[Reduced-order models for potential flows past parametrized NACA airfoils based on an
+isogeometric boundary element method](https://hdl.handle.net/10589/91302)*
 
 - Luca Cirrottola (aprile 2014)
 Optimal feedback control of plane channel flow over porous walls. 
@@ -417,10 +415,9 @@ Misure di mescolamento turbolento per la qualifica
 di un innovativo mixer a risparmio energetico.
 In collaborazione con Un. Brescia
 
-- Roberto Pieri (luglio 2013)
-Stanford University Unstructured: un software innovativo per la simulazione
-e l’ottimizzazione geometrica.
-In collaborazione con Scuderia Toro Rosso
+- Roberto **Pieri** (2013, July)
+*[Stanford University Unstructured: un software innovativo per la simulazione
+e l’ottimizzazione geometrica](https://hdl.handle.net/10589/81422)*
 			
 - Domenico Sgro' (luglio 2013) 
 Miscelamento in microcanali: miglioramento dell'efficienza 
@@ -435,40 +432,35 @@ Sviluppo di un efficiente solutore Chebyshev-tau per la DNS di flussi turbolenti
 - Chiara Pesci (luglio 2013)
 OpenNOSE: an open-source procedure for the simulation of nasal aerodynamics.
 
-- Alice Marocco	(aprile 2013)
-Caratterizzazione aerodinamica di un velivolo addestratore 
-in vista di un’applicazione di controllo attivo.
-In collaborazione con Alenia Aermacchi 
+- Alice **Marocco** (2013, April)
+*[Caratterizzazione aerodinamica di un velivolo addestratore in vista di un’applicazione di controllo attivo](https://hdl.handle.net/10589/79952)*
 
 - Simone **Battaini** (2013, April)
 *[Sensitività aerodinamica nelle autovetture da competizione: uno studio basato su codice open-source e operatore aggiunto.](https://hdl.handle.net/10589/79902)*
 
 - Marco Edoardo **Rosti** (2013, April)
-*[Direct numerical simulation of turbulent channel flow over porous walls.](https://hdl.handle.net/10589/79920)*
+*[Direct numerical simulation of turbulent channel flow over porous walls](https://hdl.handle.net/10589/79920)*
 
 - Davide **Scarselli** (2013, April)
-*[Non-modal stability of laminar channel flow over porous walls.](https://hdl.handle.net/10589/79904)*
+*[Non-modal stability of laminar channel flow over porous walls](https://hdl.handle.net/10589/79904)*
 
 - Martina **Biggi** (2013, April)
-*[Riduzione di resistenza in flussi turbolenti di parete: confronto tra esperimenti e simulazione numerica diretta.](https://hdl.handle.net/10589/79915)*
+*[Riduzione di resistenza in flussi turbolenti di parete: confronto tra esperimenti e simulazione numerica diretta](https://hdl.handle.net/10589/79915)*
 
 - Mattia **Lui** (2013, April)
-*[Stenosi carotidea in geometrie patient-specific: potenzialità di modelli RANS transizionali.](https://hdl.handle.net/10589/79826)*
+*[Stenosi carotidea in geometrie patient-specific: potenzialità di modelli RANS transizionali](https://hdl.handle.net/10589/79826)*
 
 - Marco **Angiolini** (2013, April)
-*[Funzioni di parete adattive per il modello di turbolenza k − ω.](https://hdl.handle.net/10589/79932)*
+*[Funzioni di parete adattive per il modello di turbolenza k − ω](https://hdl.handle.net/10589/79932)*
 
-- Francesco Gritta (dicembre 2012)
-Sperimentazione e Applicazione di codici di aerodinamica numerica (Open Source) 
-a casi di sviluppo aerodinamico per autovetture di Formula Uno
-In collaborazione con Scuderia Toro Rosso
+- Francesco **Gritta** (2012, December)
+*[Studio CFD dell'anteriore di una vettura di Formula 1](https://hdl.handle.net/10589/71761)*
 
-- Daniele Cappelli (dicembre 2012)
-Direct Numerical Simulation of Separated Boundary Layers
-In collaborazione con NASA Ames - Moffett Field 
+- Daniele **Cappelli** (2012, December)
+*[Performance of Reynolds averaged Navier Stokes models in predicting separated flows : study of the hump flow model problem](https://hdl.handle.net/10589/71742)*
 
-- Enrico Sumatra (luglio 2012)
-Fenomeni fluidodinamici in geometrie stenotiche: stabilita' non-modale e perturbazioni ottime
+- Enrico **Sumatra** (2012, July)
+*[Fenomeni fluidodinamici in geometrie stenotiche: stabilita' non-modale e perturbazioni ottime](https://hdl.handle.net/10589/57063)*
 
 - Daniele Di Pasquale (luglio 2012)
 La fluidodinamica come nuovo strumento di analisi del flusso nasale: risultati preliminari
