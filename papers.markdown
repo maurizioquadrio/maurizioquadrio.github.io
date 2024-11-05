@@ -104,42 +104,35 @@ F.Gattere, A.Chiarini & M.Quadrio
 *[Fluids]()* **7** n.7, 240 Special Issue on *Drag Reduction in Turbulent Flows*  
 [Arxiv:physics.flu-dyn/2207.04446](https://doi.org/10.48550/arXiv.2207.04446)
 
-P.Luchini & M.Quadrio, 2022. 
-\htmladdnormallink{Wall Turbulence and Turbulent Drag Reduction}
-{../../papers/2022-aimeta.pdf}
+Wall Turbulence and Turbulent Drag Reduction
+P.Luchini & M.Quadrio, 2022
 In: Rega, G. (eds) 50+ Years of AIMETA. Springer, Cham. https://doi.org/10.1007/978-3-030-94195-6_22
 
 Drag Reduction by Riblets on a Commercial UAV
-L.Cacciatori, C.Brignoli, B.Mele, F.Gattere, C.M.Monti & M.Quadrio, 2022.
-{\em Applied Science, Energy Science and Technology} {\bf 12} n.10, Special Issue on {\em Flow Control, Active and Passive Applications}
+L.Cacciatori, C.Brignoli, B.Mele, F.Gattere, C.M.Monti & M.Quadrio
+*[Applied Science, Energy Science and Technology]()* **12** n.10, Special Issue on *Flow Control, Active and Passive Applications*, 2022
 
 - Drag reduction on a transonic airfoil  
 M.Quadrio, A.Chiarini, J.Banchetti, D.Gatti, A.Memmolo & S.Pirozzoli  
 *[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2022.369)* **942** R2, 2022  
 [Arxiv:physics.flu-dyn/2204.12172](https://doi.org/10.48550/arXiv.2204.12172)
 
-\item \html{[}
 A. Schillaci & M. Quadrio, 2022.
 \htmladdnormallink{
 Importance of the numerical schemes in the CFD of the human nose}
 {../../papers/2022-JBiomech.pdf}
-\html{]} 
 {\em J. Biomechanics}, {\bf 138}, 111100, pp.1--9, 2022. 
 
-\item \html{[}
 A.Chiarini, M.Quadrio & F.Auteri, 2022.
 \htmladdnormallink{
 A new scaling for the steady flow past two-dimensional bluff bodies}
 {../../papers/2022-JFMb.pdf}
-\html{]} 
 {\em Journal of Fluid Mechanics} {\bf 936} R2, pp.1--11, 2022.
 
-\item \html{[}
 A.Chiarini, M.Quadrio & F.Auteri, 2022.
 \htmladdnormallink{
 On the frequency selection mechanism of the low-Re flow around rectangular cylinders}
 {../../papers/2022-JFMa.pdf}
-\html{]} 
 {\em Journal of Fluid Mechanics} {\bf 933}, A44 pp.1--25, 2022.
 
 The importance of corner sharpness in the BARC test case: A numerical study  
@@ -154,12 +147,10 @@ A.Chiarini, M.Mauriello, D.Gatti & M.Quadrio
 *[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2021.886)* **930** A9, pp.1--22, 2021  
 [Arxiv:physics.flu-dyn/2109.03522](https://doi.org/10.48550/arXiv.2109.11183)
 
-\item \html{[}
 A.Chiarini, M.Quadrio & F.Auteri, 2021.
 \htmladdnormallink{
 Linear stability of the steady flow past rectangular cylinders}
 {../../papers/2021-JFMc.pdf}
-\html{]} 
 {\em Journal of Fluid Mechanics} {\bf 929}, A36 pp.1--30, 2021.
 
 - Global energy budgets in turbulent Couette and Poiseuille flows  
@@ -170,7 +161,6 @@ A.Andreolli, M.Quadrio & D.Gatti
 X.Q.Cheng, Z.X.Qiao, X.Zhang, M.Quadrio & Y.Zhou, 2021.
 \htmladdnormallink{Skin-friction reduction using periodic blowing through streamwise slits}
 {../../papers/2021-JFMa.pdf}
-\html{]} 
 {\em Journal of Fluid Mechanics}, {\bf 920}, A50 pp.1--33, 2021. 
 
 The turbulent flow over the BARC rectangular cylinder: a DNS study
@@ -182,23 +172,17 @@ C.Pipolo, A.M.Bulfamante, A.Schillaci, J.Banchetti, L.Castellani, A.M.Saibene,
 G.Felisati & M.Quadrio, 2021.
 \htmladdnormallink{Through The Back Door: Expiratory Accumulation of SARS-Cov-2 in the Olfactory Mucosa as Mechanism for CNS Penetration}
 {../../papers/2021-MedSci.pdf}
-\html{]}
 {\em International Journal of Medical Sciences}, {\bf 18}, pp.2102--2018, 2021. 
 \htmladdnormallink{MedRxiv {\tt doi:10.1101/2020.12.09.20242396}}{../../papers/2021-medrxiv.pdf}
 
-\item \html{[} 
 A.Chiarini, M.Quadrio & F.Auteri, 2021.
-\htmladdnormallink{
 A direction-splitting Navier--Stokes solver on co-located grids}
 {../../papers/2021-JCP.pdf}
-\html{]}
 {\em Journal of Computational Physics}, {\bf 429}, 110023, pp.1--20, 2021.
 
-\item \html{[} 
 A.Chiarini & M.Quadrio, 2021.
 \htmladdnormallink{The light/dark cycle of microalgae in a thin-layer photobioreactor}
 {../../papers/2021-JAP.pdf}
-\html{]}
 {\em Journal of Applied Phycology}, {\bf 33}, pp.183--195, 2021.
 
 - Structure function tensor equations in inhomogeneous turbulence  
@@ -212,19 +196,12 @@ J.Banchetti, P.Luchini & M.Quadrio
 [ArXiv:physics.flu-dyn/2004.12086}(https://doi.org/10.48550/arXiv.2004.12086)
 
 \html{[} A.Saibene, G.Felisati, C.Pipolo, A.Bulfamante, M.Quadrio & V.Covello, 2020.
-\htmladdnormallink{
 Partial preservation of the inferior turbinate in endoscopic medial maxillectomy:
 a computational fluid dynamics study}
-{../../papers/2020-AJRA.pdf}
-\html{]}
 {\em American Journal of Rhinology & Allergy}, {\bf 34} n.3, pp.409--416, 2020.
 
-\item \html{[} 
 M.Lui, S.Martino, M.Salerno & M.Quadrio, 2020.
-\htmladdnormallink{
 On the turbulence modeling of blood flow in a stenotic vessel}
-{../../papers/2020-JBiomech.pdf}
-\html{]} 
 {\em J. Biomechanical Eng.}, {\bf 142} n.1, 001009-11, 2020.
 
 ----------
@@ -247,38 +224,27 @@ D.Gatti, A. Cimarelli, Y. Hasegawa, B. Frohnapfel & M.Quadrio
 
 \item \html{[} V.Covello, C.Pipolo, A.Saibene, G.Felisati & M.Quadrio, 2018. 
 \htmladdnormallink{Numerical simulation of thermal water delivery in the human nasal cavity}
-{../../papers/2018-CBM.pdf}
-\html{]} 
 {\em Computers in Biology and Medicine}, {\bf 100}, pp.62--73, 2018.
 
 \item \html{[} M.Quadrio & K.-S. Choi, 2018.
 \htmladdnormallink{Preface to the Theme Issue on Drag Reduction and Flow Control}
 {../../papers/2018-FTaC.pdf}
-\html{]} 
 {\em Flow, Turbulence and Combustion}, {\bf 100}, pp.875--876, 2018.
 
 \item \html{[} E.Mori, M.Quadrio & K.Fukagata, 2017.
 \htmladdnormallink{Turbulent Drag Reduction by Uniform Blowing Over a Two-dimensional Roughness}
-{../../papers/2017-FTaC2.pdf}
-\html{]} 
 {\em Flow, Turbulence and Combustion}, {\bf 99}, pp.765--785, 2017.
 
 \item \html{[} F.Cozzi, G.Felisati & M.Quadrio, 2017.
 \htmladdnormallink{Velocity measurements in nasal cavities by means of stereoscopic PIV -- Preliminary tests}
-{../../papers/2017-JPhysConf.pdf}
-\html{]} 
 {\em Journal of Physics: Conf. Series} 1234567890 {\bf 882} 012010, 2017.
 
 \item \html{[} G.Coleman, S.Pirozzoli, M.Quadrio & P.Spalart, 2017.
 \htmladdnormallink{Direct Numerical Simulation and Theory of a Wall-Bounded Flow with Zero Skin Friction}
-{../../papers/2017-FTaC.pdf}
-\html{]} 
 {\em Flow, Turbulence and Combustion}, {\bf 99}, pp.553--564, 2017.
 
 \item \html{[} C.Vergara, D.Le Van, M.Quadrio, L.Formaggia & M.Domanin, 2017.
 \htmladdnormallink{Large Eddy Simulations of blood dynamics in abdominal aortic aneurysms}
-{../../papers/2017-MEP.pdf}
-\html{]} 
 {\em Medical Engineering & Physics}, {\bf 47}, pp.38--46, 2017. MOX report 54/2016
 
 - Reynolds-number dependence of skin-friction drag reduction induced by spanwise forcing  
@@ -297,10 +263,9 @@ Does the choice of the forcing term affect flow statistics in DNS of turbulent c
 *[European Journal of Mechanics B / Fluids](https://doi.org/10.1016/j.euromechflu.2015.09.005)* **55** pp.286--293, 2016  
 [ArXiv:physics.flu-dyn/1509.04877](https://doi.org/10.48550/arXiv.1509.04877)
 
-\item \html{[} M.Quadrio, C.Pipolo, S.Corti, F.Messina, C.Pesci, A.M.Saibene, S.Zampini, G.Felisati, 2016.
+M.Quadrio, C.Pipolo, S.Corti, F.Messina, C.Pesci, A.M.Saibene, S.Zampini, G.Felisati, 2016.
 \htmladdnormallink{Effects of CT resolution and radiodensity threshold on the CFD evaluation of nasal airflow.}
 {../../papers/2016-MBEC.pdf}
-\html{]} 
 {\em Medical and Biological Eng. and Computing}, {\bf 54}, pp.411--419, 2016.
 
 - Direct numerical simulation of turbulent channel flow over porous walls  
@@ -313,26 +278,21 @@ M.Zhang, F.Martinelli, J.Wu, P.Schmid & M.Quadrio
 *[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2015.134)* **770** pp.319--349, 2015  
 [ArXiv:physics.flu-dyn/1504.00561](https://doi.org/10.48550/arXiv.1504.00561)
 
-\item \html{[} E.Borlandelli, D.Scarselli, A.Nespoli, D.Rigamonti, P.Bettini, M.Morandini, E. Villa, G. Sala, & M. Quadrio, 2015.
-\htmladdnormallink{Design and experimental characterization of a NiTi-based, high-frequency, centripetal peristaltic actuator}
-{../../papers/2015-sms.pdf}
-\html{]} Smart Mater. Struct., {\bf 24}, No.3, 035008, 2015.
+E.Borlandelli, D.Scarselli, A.Nespoli, D.Rigamonti, P.Bettini, M.Morandini, E. Villa, G. Sala & M. Quadrio, 2015.
+Design and experimental characterization of a NiTi-based, high-frequency, centripetal peristaltic actuator}
+Smart Mater. Struct., {\bf 24}, No.3, 035008, 2015.
 
-\item \html{[} Y.Hasegawa, B.Frohnapfel & M.Quadrio, 2014.
-\htmladdnormallink{Money versus Time: Evaluation of Control Performance based on Convenience and Energy Consumption}
-{../../papers/2014-seisan.pdf}
-\html{]} {\em Seisankenkyu}, {\bf 66}, No.1, pp.39--42, 2014.
+Y.Hasegawa, B.Frohnapfel & M.Quadrio, 2014.
+\htmladdnormallink{Money versus Time: Evaluation of Control Performance based on Convenience and Energy Consumption
+{\em Seisankenkyu}, {\bf 66}, No.1, pp.39--42, 2014.
 
 - Numerical simulation of turbulent duct flows with constant power input  
 Y.Hasegawa, M.Quadrio & B.Frohnapfel  
 *[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2014.269)*  **750** pp.191--209, 2014  
 [ArXiv:physics.flu-dyn/1212.6052](https://doi.org/10.48550/arXiv.1405.1750)
 
-\item \html{[}  M.Quadrio, C.Pipolo, S.Corti, R.Lenzi,
-F.Messina, C.Pesci & G.Felisati, 2014. 
+\item \html{[}  M.Quadrio, C.Pipolo, S.Corti, R.Lenzi, F.Messina, C.Pesci & G.Felisati, 2014. 
 \htmladdnormallink{Review of Computational Fluid Dynamics in the assessment of nasal air flow and Analysis of its Limitations.}
-{../../papers/2013-EURARCHORL.pdf}
-\html{]} 
 {\em European Archives of Oto-Rhino-Laryngology and Head & Neck}, DOI 10.1007/s00405-013-2742-3, September 2014, {\bf 271}, n.9, pp 2349-2354 
 
 Performance losses of drag-reducing spanwise forcing at moderate values of the Reynolds number  
