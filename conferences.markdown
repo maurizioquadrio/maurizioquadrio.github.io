@@ -6,44 +6,44 @@ permalink: /conferences/
 
 # 2024
 
+- A machine-learning-based zonal approach for turbulence modeling  
 **M.Castelletti** & M.Quadrio  
-A machine-learning-based zonal approach for turbulence modeling  
 1st European Fluid Dynamics Conference, Sept 16--20 2024, Aachen (DE)
 
+- Machine learning and CFD can work together for surgery planning in the human nose  
 **M.Quadrio**, A.R.Favero & A.Schillaci  
-Machine learning and CFD can work together for surgery planning in the human nose  
 1st European Fluid Dynamics Conference, Sept 16--20 2024, Aachen (DE)
 
+- Mean Impulse Response in a Turbulent Channel Flow  
 **F.Gattere**, A.Codrignani, D.Gatti & M.Quadrio  
-Mean Impulse Response in a Turbulent Channel Flow  
 1st European Fluid Dynamics Conference, Sept 16--20 2024, Aachen (DE)
 
+- A large scale multipatient DNS study of nasal flow  
 **E.Gallorini** & M.Quadrio  
-A large scale multipatient DNS study of nasal flow  
 1st European Fluid Dynamics Conference, Sept 16--20 2024, Aachen (DE)
 
+- The state of turbulence in a pipe flow with drag reduction
 **E.Gallorini**, D.Massaro, P.Schlatter & M.Quadrio  
-The state of turbulence in a pipe flow with drag reduction
 European Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
 
+- Sinusoidal riblets for turbulent drag reduction  
 **S.Cipelli**, M.Quadrio, F.Gattere, A.Chiarini, P.Luchini & D.Gatti  
-Sinusoidal riblets for turbulent drag reduction  
 European Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
 
+- On the optimal period of spanwise forcing for turbulent drag reduction  
 **F.Gattere**, A.Chiarini, M.Castelletti & M.Quadrio  
-On the optimal period of spanwise forcing for turbulent drag reduction  
 European Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
 
+- Spanwise wall oscillation in a damped channel flow for turbulent drag reduction  
 **M.Castelletti**, E.Gallorini & M.Quadrio  
-Spanwise wall oscillation in a damped channel flow for turbulent drag reduction  
 European Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
 
+- Direct numerical simulations of a transonic airfoil with spanwise forcing for drag reduction  
 **N.Berizzi**, D.Gatti, S.Pirozzoli, G.Soldati & M.Quadrio  
-Direct numerical simulations of a transonic airfoil with spanwise forcing for drag reduction  
 European Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
 
+- Numerical study of turbulent skin-friction drag reduction via spanwise forcing at large values of Reynolds number  
 **D.Gatti**, M.Quadrio, F.Gattere, A.Chiarini & S.Pirozzoli  
-Numerical study of turbulent skin-friction drag reduction via spanwise forcing at large values of Reynolds number  
 European Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
 
 \item \html{[} 
