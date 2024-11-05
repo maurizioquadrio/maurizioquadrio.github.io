@@ -80,8 +80,10 @@ V.Garcia Bennett, M.Alberti, M.Quadrio & J.O.Pralits
 
 - Saving Energy in Turbulent Flows with Unsteady Pumping  
 G.Foggi Rota, A.Monti, M.E.Rosti & M.Quadrio  
-*[Nature Sci.Rep.]() **13** 1299, pp.1--6  
+*[Nature Sci.Rep.](https://doi.org/10.1038/s41598-023-28519-x)* **13** 1299, pp.1--6, 2023  
 [Arxiv {\tt physics.flu-dyn/2212.08874}]()
+
+---------
 
 - Coherent near-wall structures and drag reduction by spanwise forcing  
 E.Gallorini, M.Quadrio & D.Gatti  
