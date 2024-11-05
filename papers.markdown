@@ -17,13 +17,14 @@ permalink: /papers/
 
 %Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose" has just been submitted to "Applied Mathematical Modelling" (PENNISI)
 
-- D.Gatti, M.Quadrio, A.Chiarini, F.Gattere & S.Pirozzoli, 2024.
-Turbulent skin-friction drag reduction via spanwise forcing at high Reynolds number
+- D.Gatti, M.Quadrio, A.Chiarini, F.Gattere & S.Pirozzoli, 2024  
+Turbulent skin-friction drag reduction via spanwise forcing at high Reynolds number  
+Submitted to *J. Fluid Mechanics*  
 [Arxiv:2409.07230](https://doi.org/10.48550/arXiv.2409.07230)
 
-- Marcello **Macellari**, Andrea **Schillaci**, Umberto **Tanzini**, Matteo **Trimarchi** & Maurizio **Quadrio**, 2024.
-An adjoint-based approach for the surgical correction of nasal septal deviations
-*Computers in Biology and Medicine* **176** 108566, pp.1--11, 2024
+- Marcello Macellari, Andrea Schillaci, Umberto Tanzini, Matteo Trimarchi & Maurizio Quadrio  
+An adjoint-based approach for the surgical correction of nasal septal deviations  
+*Computers in Biology and Medicine* **176** 108566, pp.1--11, 2024  
 [Arxiv:2405.07959](https://doi.org/10.48550/arXiv.2405.07959)
 
 - S.M.Tauwald, F.Erzinger, M.Quadrio, M.Rütten, C.Stemmer & L.Krenkel, 2024.
