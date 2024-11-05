@@ -362,75 +362,67 @@ intorno a corpi tozzi con inserti in materiale poroso
 - Giacomo Lamberti e Francesco Manara (aprile 2015)
 Simulazioni RANS e LES della fluidodinamica delle cavita' nasali
 
-- Alessandro Monti (aprile 2015)
-Skin-friction drag reduction in a turbulent channel flow via pulsating forcing
+- Alessandro **Monti** (2015, April)
+*[Skin-friction drag reduction in a turbulent channel flow via pulsating forcing](https://hdl.handle.net/10589/107853)*
 
 - Eleonora Biondi (ottobre 2014)
 Simulazione LES del flusso nelle cavita' nasali.
 
-- Damiano Molinari (ottobre 2014)
-Miglioramento di un modello di turbolenza nel codice di calcolo OpenFOAM
-In collaborazione con Fondmetal Technologies
+- Damiano **Molinari** (2014, October)
+*[Miglioramento di un modello di turbolenza nel codice di calcolo OpenFOAM](https://hdl.handle.net/10589/95544)*
 
-- Matteo Binda	(luglio 2014)
-Simulazione fluidodinamica del processo di sovrariscaldamento 
-di un motore al mozzo per bicicletta elettrica.
+- Matteo **Binda** (2014, July)
+*[Simulazione fluidodinamica del processo di sovrariscaldamento di un motore al mozzo per bicicletta elettrica](https://hdl.handle.net/10589/93670)*
 
-- Antonio Plebani (luglio 2014)
-Simulazione numerica del flusso in microcanali.
+- Antonio **Plebani** (2014, July)
+*[Correnti gassose all'interno di micro-canali: studio e sviluppo di modelli matematici e simulazioni mediante OpenFOAM](https://hdl.handle.net/10589/93740)*
 
-- Enrico Calore	(luglio 2014)
-Traccianti lagrangiani in flussi turbolenti di parete.
+- Enrico **Calore** (2014, July)
+*[Traccianti lagrangiani in flussi turbolenti di parete](https://hdl.handle.net/10589/93674)*
 
-- Matteo Marchi (luglio 2014)
-Viscous fingering in a Hele-Shaw cell.
+- Matteo **Marchi** (2014, July)
+*[Viscous fingering in a Hele-Shaw cell](https://hdl.handle.net/10589/93683)*
 
-- Ilaria De Dominicis (luglio 2014)
-Modelling aspects of wall flows with turbulent drag reduction.
+- Ilaria **De Dominicis** (2014, July)
+*[Modelling aspects of wall flows with turbulent drag reduction](https://hdl.handle.net/10589/93678)*
 
-- Andrea Codrignani (aprile 2014)
-Impulse Response in a Turbulent Channel Flow. 
+- Andrea **Codrignani** (2014, April)
+*[Impulse Response in a Turbulent Channel Flow](https://hdl.handle.net/10589/91563)*
 
 - Filippo **Salmoiraghi** (2014, April)
-*[Reduced-order models for potential flows past parametrized NACA airfoils based on an
-isogeometric boundary element method](https://hdl.handle.net/10589/91302)*
+*[Reduced-order models for potential flows past parametrized NACA airfoils based on an isogeometric boundary element method](https://hdl.handle.net/10589/91302)*
 
-- Luca Cirrottola (aprile 2014)
-Optimal feedback control of plane channel flow over porous walls. 
+- Luca **Cirrottola** (2014, April)
+*[Optimal feedback control of plane channel flow over porous walls](https://hdl.handle.net/10589/91126)*
 
-- Luca Marchesani (aprile 2014)
-Turbulent drag reduction via oblique travelling waves.
+- Luca **Marchesani** (2014, April)
+*[Turbulent drag reduction via oblique travelling waves](https://hdl.handle.net/10589/90882)*
 In collaborazione con Un. Warwick (UK)
 
-- Claudio Alati (aprile 2014)
-Ottimizzazione di un dispositivo per la respirazione assistita tramite CFD.
-In collaborazione con Breathe Technologies Inc.
+- Claudio **Alati** (2014, April)
+*[Ottimizzazione di un dispositivo per la respirazione assistita tramite CFD](https://hdl.handle.net/10589/90242)*
 
-- Selene Piantanida (dicembre 2013)
-System Identification for the Sound Field of a Subsonic Jet
-In collaborazione con Un. Poitiers (F)
+- Selene **Piantanida** (2013, December)
+*[System Identification for the Sound Field of a Subsonic Jet](https://hdl.handle.net/10589/87204)*
 
-- Davide Arnone (dicembre 2013)
-Misure di mescolamento turbolento per la qualifica
-di un innovativo mixer a risparmio energetico.
-In collaborazione con Un. Brescia
+- Davide **Arnone** (2013, December)
+*[Experimental measurement of the efficiency of turbulent mixing for non conventional mixers](https://hdl.handle.net/10589/86721)*
 
 - Roberto **Pieri** (2013, July)
 *[Stanford University Unstructured: un software innovativo per la simulazione
 e l’ottimizzazione geometrica](https://hdl.handle.net/10589/81422)*
 			
-- Domenico Sgro' (luglio 2013) 
-Miscelamento in microcanali: miglioramento dell'efficienza 
-con il metodo delle equazioni aggiunte.
+- Domenico **Sgro'** (2013, July) 
+*[Miscelamento in microcanali: miglioramento dell'efficienza con il metodo delle equazioni aggiunte](https://hdl.handle.net/10589/81444)*
 
-- Michele Galli	(luglio 2013)
-Studio DNS della riduzione di attrito turbolento mediante forzamento virtuale.
+- Michele **Galli** (2013, July)
+*[Studio DNS della riduzione di attrito turbolento mediante forzamento virtuale](https://hdl.handle.net/10589/81433)*
 
-- Francesco Gilardoni (luglio 2013)
-Sviluppo di un efficiente solutore Chebyshev-tau per la DNS di flussi turbolenti di parete.
+- Francesco **Gilardoni** (2013, July)
+*[Sviluppo di un efficiente solutore Chebyshev-tau per la DNS di flussi turbolenti di parete](https://hdl.handle.net/10589/81445)*
 
-- Chiara Pesci (luglio 2013)
-OpenNOSE: an open-source procedure for the simulation of nasal aerodynamics.
+- Chiara **Pesci** (2013, July)
+*[OpenNOSE: an open-source procedure for the simulation of nasal aerodynamics](https://hdl.handle.net/10589/81309)*
 
 - Alice **Marocco** (2013, April)
 *[Caratterizzazione aerodinamica di un velivolo addestratore in vista di un’applicazione di controllo attivo](https://hdl.handle.net/10589/79952)*
