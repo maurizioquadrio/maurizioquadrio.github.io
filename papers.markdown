@@ -343,7 +343,7 @@ M.Bernardini, S.Pirozzoli, M.Quadrio & P.Orlandi
 # 2012
 
 - Changes in turbulent dissipation in a channel flow with oscillating walls  
-P.Ricco, C. Ottonelli, Y.Hasegawa & M.Quadrio
+P.Ricco, C. Ottonelli, Y.Hasegawa & M.Quadrio  
 *[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2012.97)* **700** pp.77--104, 2012  
 [ArXiv:physics.flu-dyn/1202.3534](https://doi.org/10.48550/arXiv.1202.3534)
 
@@ -389,9 +389,9 @@ F.Auteri, A.Baron, M.Belan, G.Campanardi & M.Quadrio
 *[Physics of Fluids](https://doi.org/10.1063/1.3491203)* **22** 115103/14, 2010   
 [ArXiv:physics.flu-dyn/1008.2584](https://doi.org/10.48550/arXiv.1008.2584)
 
-Very fine structures of scalar mixing in wall-bounded turbulence  
+- Very fine structures of scalar mixing in wall-bounded turbulence  
 L. Galantucci & M.Quadrio  
-*[Int. J. Heat Fluid Flow]()* **31** pp.499--506, 2010  
+*[Int. J. Heat Fluid Flow](doi:10.1016/j.ijheatﬂuidﬂow.2010.04.002)* **31** pp.499--506, 2010  
 [ArXiv;physics.flu-dyn/1005.3775](https://doi.org/10.48550/arXiv.1005.3775)
 
 --------
@@ -412,9 +412,9 @@ Streamwise-traveling waves of spanwise wall velocity in a turbulent channel flow
 
 # 2008
 
-Wall-oscillation conditions for drag reduction in turbulent channel flow
-P.Ricco & M.Quadrio
-*[International Journal of Heat and Fluid Flow]()* **29** pp.601--612, 2008
+- Wall-oscillation conditions for drag reduction in turbulent channel flow  
+P.Ricco & M.Quadrio  
+*[International Journal of Heat and Fluid Flow](doi:10.1016/j.ijheatﬂuidﬂow.2007.12.005)* **29** pp.601--612, 2008
 [ArXiv:physics.flu-dyn/0802.0114](https://doi.org/10.48550/arXiv.0802.0114)
 
 - Direct numerical simulation of turbulent Taylor--Couette flow  
@@ -426,12 +426,9 @@ D.Pirr\`o & M.Quadrio
 
 # 2007
 
-\item \html{[}M.Quadrio, J.M.Floryan & P.Luchini, 2007.
-\htmladdnormallink{Effects of streamwise-periodic wall transpiration on turbulent
-friction drag.}
-{../../papers/2007-JFM.pdf}
-\html{]}
-{\em J. Fluid Mech.} {\bf 576}, pp.425--444, 2007.
+- Effects of streamwise-periodic wall transpiration on turbulent friction drag  
+M.Quadrio, J.M.Floryan & P.Luchini  
+*[Journal of Fluid Mechanics](doi:10.1017/S0022112007004727)* **576** pp.425--444, 2007
 
 ------
 
@@ -442,144 +439,114 @@ P.Luchini, M.Quadrio & S.Zuccher
 *[Physics of Fluids](https://doi.org/10.1063/1.2409729)* **18** 121702/4, 2006  
 [ArXiv:physics/0611195](https://doi.org/10.48550/arXiv.physics/0611195)
 
-- A low-cost parallel implementation of direct numerical simulation of
-wall turbulence  
+A low-cost parallel implementation of direct numerical simulation of wall turbulence  
 P.Luchini & M.Quadrio  
-*[Journal of Computational Physics]()* **211** n.2, pp.551--571, 2006   
+*[Journal of Computational Physics](doi:10.1016/j.jcp.2005.06.003)* **211** n.2, pp.551--571, 2006   
 [ArXiv:physics/0506155](https://doi.org/10.48550/arXiv.physics/0506155)
 
 ---------
 
 # 2005
 
-\item \html{[}M.Quadrio, J.M. Floryan & P.Luchini, 2005. 
-\htmladdnormallink{Modification of Turbulent Flow using Distributed Suction.}{../../papers/2005-CASJ.pdf} 
-\html{]}
-{\em Canadian Aeronautics and Space Journal}, {\bf 51} n. 2, pp.61--69.
+Modification of Turbulent Flow using Distributed Suction  
+M.Quadrio, J.M. Floryan & P.Luchini  
+*Canadian Aeronautics and Space Journal* **51** n.2, pp.61--69, 2005
 
 ---
 
 # 2004
 
-\item \html{[}M.Quadrio & P.Ricco, 2004. 
-\htmladdnormallink{Critical assessment of
-turbulent drag reduction through spanwise wall oscillations.}
-{../../papers/2004-JFM.pdf} 
-\html{]}
-{\em Journal of Fluid Mechanics}, {\bf 521}, pp.251--271, 2004.
+
+Critical assessment of turbulent drag reduction through spanwise wall oscillations  
+M.Quadrio & P.Ricco  
+*[Journal of Fluid Mechanics](https://doi.org/10.1017/S0022112004001855)* **521** pp.251--271, 2004
 
 ---
 
 # 2003
 
-\item \html{[}M.Quadrio & P.Luchini, 2003. 
-  \htmladdnormallink{Integral space-time scales
-  in turbulent wall flows.}
-  {../../papers/2003-pof.pdf} \html{]}
-  {\em Physics of Fluids}, {\bf 15}, n.8, pp.2219--2227, 2003.
+Integral space-time scales in turbulent wall flows  
+M.Quadrio & P.Luchini  
+*[Physics of Fluids](10.1063/1.1586273)* **15** n.8, pp.2219--2227, 2003
 
-\item \html{[}M.Quadrio & P.Ricco, 2003. 
-  \htmladdnormallink{Initial response of a turbulent
-  channel flow to spanwise oscillations of the wall.}
-  {../../papers/2003-jot.pdf} \html{]}
-  {\em Journal of Turbulence}, {\bf 4}, n. 007, 2003.
+Initial response of a turbulent channel flow to spanwise oscillations of the wall  
+M.Quadrio & P.Ricco  
+*[Journal of Turbulence]()* **4** n.007, 2003
 
 ---
 
 # 2002
 
-\item \html{[} M.Quadrio & P.Luchini, 2002. 
-  \htmladdnormallink{Direct numerical simulation 
-  of the turbulent flow in a pipe with annular cross-section.}
-  {../../papers/2002-EJMB.pdf} \html{]}
-  {\em European Journal of Mechanics B / Fluids}, {\bf 21}, pp. 413--427,
-  2002.
+Direct numerical simulation of the turbulent flow in a pipe with annular cross-section  
+M.Quadrio & P.Luchini  
+*[European Journal of Mechanics B / Fluids]()* **21** pp. 413--427, 2002
 
 ---
 
 # 2000
 
-\item \html{[} M.Quadrio & S.Sibilla, 2000.
-\htmladdnormallink{Numerical simulation of
-  turbulent flow in a pipe oscillating around its axis.}
-  {../../papers/2000-jfm.ps} \html{]} {\em
-  Journal of Fluid Mechanics}, {\bf 424}, pp.217--241, 2000.
+- Numerical simulation of turbulent flow in a pipe oscillating around its axis  
+M.Quadrio & S.Sibilla  
+*{Journal of Fluid Mechanics](https://doi.org/10.1017/S0022112000001889)* **424** pp.217--241, 2000
 
 ---
 
 # 1999
 
-
-\item \html{[} R.Cucitore, M.Quadrio & A.Baron, 1999. 
-\htmladdnormallink{On the
-  effectiveness and limitations of local criteria for the
-  identification of a vortex.}
-  {../../papers/1999-ejmb.pdf} \html{]} {\em
-  European Journal of Mechanics B / Fluids}, {\bf 18} n.2,
-  pp. 261--282, 1999.
+On the effectiveness and limitations of local criteria for the identification of a vortex  
+R.Cucitore, M.Quadrio & A.Baron  
+*[European Journal of Mechanics B / Fluids]()* **18** n.2, pp. 261--282, 1999
 
 ---
 
 # 1997
 
-\item \html{[} A.Baron & M.Quadrio, 1997.  
-\htmladdnormallink{Turbulent boundary layer over
-  riblets: conditional analysis of ejection-like events.}
-  {../../papers/1997-IJHFF.pdf} \html{]}
-  {\em The
-  International Journal of Heat and Fluid Flow}, {\bf 18} n.2, pp.
-  188--196, 1997.
+Turbulent boundary layer over riblets: conditional analysis of ejection-like events  
+A.Baron & M.Quadrio  
+*[The International Journal of Heat and Fluid Flow]()* **18** n.2, pp. 188--196, 1997
 
-\item \html{[} A.Baron & M.Quadrio, 1997.  
-\htmladdnormallink{On the accuracy of
-  wall-similarity methods in determining friction velocity over smooth
-  and ribletted surfaces.}
-  {../../papers/1997-JFE.pdf} \html{]}
-  Transaction of the {\em ASME Journal of
-  Fluids Engineering}, {\bf 119}, pp. 1009--1011, 1997.
+On the accuracy of wall-similarity methods in determining friction velocity over smooth and ribletted surfaces  
+A.Baron & M.Quadrio  
+Transaction of the ASME Journal of Fluids Engineering, **119** pp.1009--1011, 1997
 
 ---
 
 # 1996
 
-\item \html{[}A.Baron & M.Quadrio, 1996. Turbulent drag reduction by
-  spanwise wall oscillation. \html{]} {\em Applied Scientific Research}, {\bf 55}, pp. 311--326, 1996.
+Turbulent drag reduction by spanwise wall oscillation  
+A.Baron & M.Quadrio  
+*[Applied Scientific Research]()* **55** pp. 311--326, 1996
 
 ---
 
 # 1994
 
-
-\item \html{[}A.Baron & M.Quadrio, 1994.  Direct numerical simulation
-  of turbulent flows under the Narrow Channel assumption. \html{]}  {\em
-    L'Aerotecnica Missili e Spazio}, {\bf 73} n.1, pp. 3--13, 1994.
+Direct numerical simulation of turbulent flows under the Narrow Channel assumption
+A.Baron & M.Quadrio
+*[L'Aerotecnica Missili e Spazio]()* **73** n.1, pp. 3--13, 1994
 
 ---
 
 # 1993
 
-\item \html{[}A.Baron, M.Quadrio & L.Vigevano, 1993.
-  \htmladdnormallink{On the boundary layer/riblets interaction mechanism 
-  and the prediction of the  turbulent drag reduction.} 
-  {../../papers/1993-IJHFF.pdf} \html{]}  
-  {\em The International Journal of Heat and Fluid Flow}, {\bf 14} n.4, pp. 324--332, 1993.
+On the boundary layer/riblets interaction mechanism and the prediction of the  turbulent drag reduction  
+A.Baron, M.Quadrio & L.Vigevano  
+*[The International Journal of Heat and Fluid Flow]()* **14** n.4, pp. 324--332, 1993
 
-\item \html{[}A.Baron & M.Quadrio, 1993.  Some preliminary results on
-  the influence of riblets on the structure of the turbulent boundary layer. \html{]}
-  {\em The International Journal of Heat and Fluid Flow}, {\bf 14} n.3, pp.223--230, 1993.
+Some preliminary results on the influence of riblets on the structure of the turbulent boundary layer  
+A.Baron & M.Quadrio  
+*[The International Journal of Heat and Fluid Flow]()* **14** n.3, pp.223--230, 1993
 
 ---
 
 # 1989
 
-\item \html{[}A.Baron, M.Quadrio & L.Vigevano, 1989. Riduzione della
-  resistenza di attrito in correnti turbolente e altezza di
-  protrusione di correnti scanalate.\html{]} {\em L'Aerotecnica Missili e
-    Spazio}, {\bf 68} n.3--4, pp. 129--136, 1989.
+Riduzione della resistenza di attrito in correnti turbolente e altezza di protrusione di pareti scanalate  
+A.Baron, M.Quadrio & L.Vigevano  
+L'Aerotecnica Missili e Spazio **68** n.3--4, pp. 129--136, 1989
 
 # Conferences
 
-%---(150)
 
 M.Castelletti & M.Quadrio, 2024.
 A machine-learning-based zonal approach for turbulence modeling 
