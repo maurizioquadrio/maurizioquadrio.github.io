@@ -180,7 +180,7 @@ G.Felisati & M.Quadrio
 A.Chiarini, M.Quadrio & F.Auteri  
 *[Journal of Computational Physics](https://doi.org/10.1016/j.jcp.2020.110023)* **429** 110023, pp.1--20, 2021
 
-The light/dark cycle of microalgae in a thin-layer photobioreactor  
+- The light/dark cycle of microalgae in a thin-layer photobioreactor  
 A.Chiarini & M.Quadrio  
 *[Journal of Applied Phycology](https://doi.org/10.1007/s10811-020-02310-1)* **33** pp.183--195, 2021
 
@@ -198,14 +198,14 @@ J.Banchetti, P.Luchini & M.Quadrio
 *[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2020.338) **896** A10, pp.1--23, 2020   
 [ArXiv:physics.flu-dyn/2004.12086}(https://doi.org/10.48550/arXiv.2004.12086)
 
-\html{[} A.Saibene, G.Felisati, C.Pipolo, A.Bulfamante, M.Quadrio & V.Covello, 2020.
-Partial preservation of the inferior turbinate in endoscopic medial maxillectomy:
-a computational fluid dynamics study}
-{\em American Journal of Rhinology & Allergy}, {\bf 34} n.3, pp.409--416, 2020.
+- Partial preservation of the inferior turbinate in endoscopic medial maxillectomy:
+a computational fluid dynamics study  
+A.Saibene, G.Felisati, C.Pipolo, A.Bulfamante, M.Quadrio & V.Covello  
+*[American Journal of Rhinology & Allergy](http://dx.doi.org/10.1177/1945892420902005)* **34** n.3, pp.409--416, 2020
 
-M.Lui, S.Martino, M.Salerno & M.Quadrio, 2020.
-On the turbulence modeling of blood flow in a stenotic vessel}
-{\em J. Biomechanical Eng.}, {\bf 142} n.1, 001009-11, 2020.
+- On the turbulence modeling of blood flow in a stenotic vessel  
+M.Lui, S.Martino, M.Salerno & M.Quadrio  
+*[Journal of Biomechanical Engineering](https://doi.org/10.1115/1.4044029)* **142** n.1, 001009-11, 2020
 
 ----------
 
@@ -236,7 +236,11 @@ D.Gatti, A. Cimarelli, Y. Hasegawa, B. Frohnapfel & M.Quadrio
 \item \html{[} M.Quadrio & K.-S. Choi, 2018.
 \htmladdnormallink{Preface to the Theme Issue on Drag Reduction and Flow Control}
 {../../papers/2018-FTaC.pdf}
-{\em Flow, Turbulence and Combustion}, {\bf 100}, pp.875--876, 2018.
+{\em Flow, Turbulence and Combustion}, {\bf 100}, pp.875--876, 2018
+
+--------
+
+# 2017
 
 \item \html{[} E.Mori, M.Quadrio & K.Fukagata, 2017.
 \htmladdnormallink{Turbulent Drag Reduction by Uniform Blowing Over a Two-dimensional Roughness}
@@ -253,6 +257,10 @@ D.Gatti, A. Cimarelli, Y. Hasegawa, B. Frohnapfel & M.Quadrio
 \item \html{[} C.Vergara, D.Le Van, M.Quadrio, L.Formaggia & M.Domanin, 2017.
 \htmladdnormallink{Large Eddy Simulations of blood dynamics in abdominal aortic aneurysms}
 {\em Medical Engineering & Physics}, {\bf 47}, pp.38--46, 2017. MOX report 54/2016
+
+---------
+
+# 2016
 
 - Reynolds-number dependence of skin-friction drag reduction induced by spanwise forcing  
 D.Gatti & M.Quadrio
@@ -274,6 +282,10 @@ M.Quadrio, C.Pipolo, S.Corti, F.Messina, C.Pesci, A.M.Saibene, S.Zampini, G.Feli
 \htmladdnormallink{Effects of CT resolution and radiodensity threshold on the CFD evaluation of nasal airflow.}
 {../../papers/2016-MBEC.pdf}
 {\em Medical and Biological Eng. and Computing}, {\bf 54}, pp.411--419, 2016.
+
+---------
+
+# 2015
 
 - Direct numerical simulation of turbulent channel flow over porous walls  
 M.E.Rosti, L.Cortelezzi & M.Quadrio  
