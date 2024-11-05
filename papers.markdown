@@ -17,10 +17,9 @@ permalink: /papers/
 
 %Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose" has just been submitted to "Applied Mathematical Modelling" (PENNISI)
 
-- D.Gatti, M.Quadrio, A.Chiarini, F.Gattere \& S.Pirozzoli, 2024.
+- D.Gatti, M.Quadrio, A.Chiarini, F.Gattere & S.Pirozzoli, 2024.
 Turbulent skin-friction drag reduction via spanwise forcing at high Reynolds number
-\htmladdnormallink{Arxiv {\tt physics.flu-dyn/2409.07230v1}}
-{../../papers/2024-JFMc-arxiv.pdf}
+[Arxiv](https://doi.org/10.48550/arXiv.2409.07230)
 
 - M.Macellari, A.Schillaci, U.Tanzini, M.Trimarchi \& M.Quadrio, 2024.
 \htmladdnormallink{An adjoint-based approach for the surgical correction of nasal septal deviations}
@@ -295,7 +294,6 @@ D.Gatti, A.Chiarini, A.Cimarelli \& M.Quadrio, 2020.
 {\em Journal of Fluid Mechanics}, {\bf 896}, A10 pp.1--23, 2020. 
 \htmladdnormallink{ArXiv {\tt physics.flu-dyn/2004.12086v1}}{../../papers/2020-JFM-arxiv.pdf}
 
-\item  
 \html{[} A.Saibene, G.Felisati, C.Pipolo, A.Bulfamante, M.Quadrio \& V.Covello, 2020.
 \htmladdnormallink{
 Partial preservation of the inferior turbinate in endoscopic medial maxillectomy:
@@ -666,17 +664,10 @@ turbulent drag reduction through spanwise wall oscillations.}
   protrusione di correnti scanalate.\html{]} {\em L'Aerotecnica Missili e
     Spazio}, {\bf 68} n.3--4, pp. 129--136, 1989.
 
-\end{htmllist}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection*{Conferences}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\begin{htmllist}[GreenBall]
+# Conferences
 
 %---(150)
 
-\item \html{[} 
 M.Castelletti \& M.Quadrio, 2024.
 A machine-learning-based zonal approach for turbulence modeling 
 \html{]} 

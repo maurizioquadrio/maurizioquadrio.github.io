@@ -66,7 +66,7 @@ Drag reduction via tensegrity fabrics
 - Marildo **Kola** (2024, April)
 *[Particle-laden turbulent wavy channel flow](https://hdl.handle.net/10589/219170)*
 
-- Riccardo Bertoncello (aprile 2024, April)
+- Riccardo Bertoncello (2024, April)
 Space-scale analysis of turbulent canopy flows
 
 - Maria Vittoria **Pennisi** (2024, April)
@@ -124,8 +124,7 @@ Space-scale analysis of turbulent canopy flows
 *[On-off pumping for drag reduction in a turbulent channel flow](https://hdl.handle.net/10589/186461)*
 
 - Giorgio Maria **Cavallazzi**  (2022, April)
-A DNS code to evaluate drag reduction with sinusoidal riblets](https://hdl.handle.net/10589/187410)*
-In collaborazione con D.Gatti, KIT 
+*[A DNS code to evaluate drag reduction with sinusoidal riblets](https://hdl.handle.net/10589/187410)*
 
 - Carlo **Brignoli**, Lorenzo **Cacciatori** (2022, April)
 *[Drag reduction by riblets on a commercial UAV](https://hdl.handle.net/10589/187185)*
@@ -321,8 +320,8 @@ Studio sperimentale di onde peristaltiche per la riduzione dell'attrito turbolen
 - Alessandro **Monti** (2015, April)
 *[Skin-friction drag reduction in a turbulent channel flow via pulsating forcing](https://hdl.handle.net/10589/107853)*
 
-- Eleonora Biondi (ottobre 2014)
-Simulazione LES del flusso nelle cavita' nasali.
+- Eleonora Biondi (2014, Oct)
+*[Simulazione LES del flusso nelle cavita' nasali](https://hdl.handle.net/10589/95866)*
 
 - Damiano **Molinari** (2014, October)
 *[Miglioramento di un modello di turbolenza nel codice di calcolo OpenFOAM](https://hdl.handle.net/10589/95544)*
