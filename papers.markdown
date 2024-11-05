@@ -113,12 +113,12 @@ F.Gattere, A.Chiarini & M.Quadrio
 *[Fluids](https://doi.org/10.3390/fluids7070240)* **7** n.7, 240 Special Issue on *Drag Reduction in Turbulent Flows*  
 [Arxiv:physics.flu-dyn/2207.04446](https://doi.org/10.48550/arXiv.2207.04446)
 
-Wall Turbulence and Turbulent Drag Reduction
-P.Luchini & M.Quadrio, 2022
-In: Rega, G. (eds) 50+ Years of AIMETA. Springer, Cham. https://doi.org/10.1007/978-3-030-94195-6_22
+- Wall Turbulence and Turbulent Drag Reduction  
+P.Luchini & M.Quadrio, 2022  
+*[50+ Years of AIMETA](https://doi.org/10.1007/978-3-030-94195-6_22)*, Springer, ed. G.Rega
 
-- Drag Reduction by Riblets on a Commercial UAV
-L.Cacciatori, C.Brignoli, B.Mele, F.Gattere, C.M.Monti & M.Quadrio
+- Drag Reduction by Riblets on a Commercial UAV  
+L.Cacciatori, C.Brignoli, B.Mele, F.Gattere, C.M.Monti & M.Quadrio  
 *[Applied Science, Energy Science and Technology](https://doi.org/10.3390/app12105070)* **12** n.10, Special Issue on *Flow Control, Active and Passive Applications*, 2022
 
 - Drag reduction on a transonic airfoil  
@@ -140,7 +140,7 @@ A.Chiarini, M.Quadrio & F.Auteri, 2022
 
 - The importance of corner sharpness in the BARC test case: A numerical study  
 A.Chiarini & M.Quadrio  
-*[Wind and Structures, an International Journal](https://doi.org/10.12989/was.2022.34.1.043)* **34** n.1, pp.43--58 , 2022
+*[Wind and Structures, an International Journal](https://doi.org/10.12989/was.2022.34.1.043)* **34** n.1, pp.43--58, 2022  
 [Arxiv:physics.flu-dyn/2109.03522](https://doi.org/10.48550/arXiv.2109.03522)
 
 --------------
@@ -159,7 +159,7 @@ A.Chiarini, M.Quadrio & F.Auteri, 2021
 - Global energy budgets in turbulent Couette and Poiseuille flows  
 A.Andreolli, M.Quadrio & D.Gatti  
 *[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2021.598)* **924** A25 pp.1--20, 2021  
-[Arxiv:physics.flu-dyn/2106.14495]
+[Arxiv:physics.flu-dyn/2106.14495](https://doi.org/10.48550/arXiv.2106.14495)
 
 - Skin-friction reduction using periodic blowing through streamwise slits  
 X.Q.Cheng, Z.X.Qiao, X.Zhang, M.Quadrio & Y.Zhou  
@@ -174,7 +174,7 @@ A.Chiarini & M.Quadrio
 C.Pipolo, A.M.Bulfamante, A.Schillaci, J.Banchetti, L.Castellani, A.M.Saibene, 
 G.Felisati & M.Quadrio  
 *[International Journal of Medical Sciences](doi:10.7150/ijms.56324)* **18** pp.2102--2018, 2021   
-[MedRxiv:20201209](doi:10.1101/2020.12.09.20242396}
+[MedRxiv:20201209](doi:10.1101/2020.12.09.20242396)
 
 - A direction-splitting Navier--Stokes solver on co-located grids  
 A.Chiarini, M.Quadrio & F.Auteri  
@@ -195,11 +195,10 @@ D.Gatti, A.Chiarini, A.Cimarelli & M.Quadrio
 
 - Turbulent drag reduction over curved walls  
 J.Banchetti, P.Luchini & M.Quadrio  
-*[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2020.338) **896** A10, pp.1--23, 2020   
-[ArXiv:physics.flu-dyn/2004.12086}(https://doi.org/10.48550/arXiv.2004.12086)
+*[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2020.338)* **896** A10, pp.1--23, 2020   
+[ArXiv:physics.flu-dyn/2004.12086](https://doi.org/10.48550/arXiv.2004.12086)
 
-- Partial preservation of the inferior turbinate in endoscopic medial maxillectomy:
-a computational fluid dynamics study  
+- Partial preservation of the inferior turbinate in endoscopic medial maxillectomy: a computational fluid dynamics study  
 A.Saibene, G.Felisati, C.Pipolo, A.Bulfamante, M.Quadrio & V.Covello  
 *[American Journal of Rhinology & Allergy](http://dx.doi.org/10.1177/1945892420902005)* **34** n.3, pp.409--416, 2020
 
@@ -218,7 +217,7 @@ An efficient numerical method for the Generalized Kolmogorov Equation
 
 - Thermal water delivery in the nose: an assessment of droplet deposition through computational fluid dynamics  
 E.Buijs, V.Covello, C.Pipolo, A.Saibene, G.Felisati & M.Quadrio  
-*[Acta Othorinolaringologica Italica](doi: 10.14639/0392-100X-2250)* Epub 2019 Jan 31, pp.1--8, 2019
+*[Acta Othorinolaringologica Italica](http://doi.org/10.14639/0392-100X-2250)* Epub 2019 Jan 31, pp.1--8, 2019
 
 -----------
 
@@ -247,7 +246,7 @@ E.Mori, M.Quadrio & K.Fukagata
 
 - Velocity measurements in nasal cavities by means of stereoscopic PIV -- Preliminary tests  
 F.Cozzi, G.Felisati & M.Quadrio  
-*[Journal of Physics: Conf. Series](doi:10.1088/1742-6596/882/1/012010)* **882** 012010, 2017
+*[Journal of Physics: Conf. Series](https://doi.org/10.1088/1742-6596/882/1/012010)* **882** 012010, 2017
 
 - Direct Numerical Simulation and Theory of a Wall-Bounded Flow with Zero Skin Friction  
 G.Coleman, S.Pirozzoli, M.Quadrio & P.Spalart  
@@ -262,23 +261,22 @@ C.Vergara, D.Le Van, M.Quadrio, L.Formaggia & M.Domanin
 # 2016
 
 - Reynolds-number dependence of skin-friction drag reduction induced by spanwise forcing  
-D.Gatti & M.Quadrio
+D.Gatti & M.Quadrio  
 *[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2016.485)* **802** pp.553--582, 2016  
 [ArXiv:physics.flu-dyn/1512.08118](https://doi.org/10.48550/arXiv.1512.08118)
 
-L.Palma, R.Pieri, R.Ponzini & M.Quadrio
-Ottimizzazione di forma e codici CFD RANS: una strategia adjoint-based per applicazioni automobilistiche
-{http://aec-analisiecalcolo.it/pubblicazioni/aec/74/ottimizzazione-di-forma-e-codici-cfd-rans-una-stra/}
-*[Analisi e Calcolo]()* **74** ISSN 1228-3874, May-June, 2016
+- Ottimizzazione di forma e codici CFD RANS: una strategia adjoint-based per applicazioni automobilistiche  
+L.Palma, M.Quadrio, R.Pieri & R.Ponzini  
+*Analisi e Calcolo* **17** n.74, 2016
 
 - M.Quadrio, B.Frohnapfel & Y.Hasegawa  
 Does the choice of the forcing term affect flow statistics in DNS of turbulent channel flow?  
 *[European Journal of Mechanics B / Fluids](https://doi.org/10.1016/j.euromechflu.2015.09.005)* **55** pp.286--293, 2016  
 [ArXiv:physics.flu-dyn/1509.04877](https://doi.org/10.48550/arXiv.1509.04877)
 
-Effects of CT resolution and radiodensity threshold on the CFD evaluation of nasal airflow  
+- Effects of CT resolution and radiodensity threshold on the CFD evaluation of nasal airflow  
 M.Quadrio, C.Pipolo, S.Corti, F.Messina, C.Pesci, A.M.Saibene, S.Zampini, G.Felisati  
-*[Medical and Biological Eng. and Computing]()* **54** pp.411--419, 2016
+*[Medical and Biological Eng. and Computing](https://doi.org/10.1007/s11517-015-1325-4)* **54** pp.411--419, 2016
 
 ---------
 
@@ -294,17 +292,17 @@ M.Zhang, F.Martinelli, J.Wu, P.Schmid & M.Quadrio
 *[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2015.134)* **770** pp.319--349, 2015  
 [ArXiv:physics.flu-dyn/1504.00561](https://doi.org/10.48550/arXiv.1504.00561)
 
-Design and experimental characterization of a NiTi-based, high-frequency, centripetal peristaltic actuator  
+- Design and experimental characterization of a NiTi-based, high-frequency, centripetal peristaltic actuator  
 E.Borlandelli, D.Scarselli, A.Nespoli, D.Rigamonti, P.Bettini, M.Morandini, E. Villa, G. Sala & M. Quadrio  
-*[Smart Materials and Structures]()* **24** n.3, 035008, 2015
+*[Smart Materials and Structures](http://dx.doi.org/10.1088/0964-1726/24/3/035008)* **24** n.3, 035008, 2015
 
 --------
 
 # 2014
 
-Money versus Time: Evaluation of Control Performance based on Convenience and Energy Consumption
-Y.Hasegawa, B.Frohnapfel & M.Quadrio
-*[Seisankenkyu]()* **66** n.1, pp.39--42, 2014
+- Money versus Time: Evaluation of Control Performance based on Convenience and Energy Consumption  
+Y.Hasegawa, B.Frohnapfel & M.Quadrio  
+*[Seisankenkyu](https://doi.org/10.11188/seisankenkyu.66.39)* **66** n.1, pp.39--42, 2014
 
 - Numerical simulation of turbulent duct flows with constant power input  
 Y.Hasegawa, M.Quadrio & B.Frohnapfel  
@@ -312,8 +310,8 @@ Y.Hasegawa, M.Quadrio & B.Frohnapfel
 [ArXiv:physics.flu-dyn/1212.6052](https://doi.org/10.48550/arXiv.1405.1750)
 
 - Review of Computational Fluid Dynamics in the assessment of nasal air flow and Analysis of its Limitations  
-M.Quadrio, C.Pipolo, S.Corti, R.Lenzi, F.Messina, C.Pesci & G.Felisati
-*[European Archives of Oto-Rhino-Laryngology and Head & Neck](DOI 10.1007/s00405-013-2742-3)* **271** n.9, pp 2349-2354, 2014 
+M.Quadrio, C.Pipolo, S.Corti, R.Lenzi, F.Messina, C.Pesci & G.Felisati  
+*[European Archives of Oto-Rhino-Laryngology and Head & Neck](https://doi.org/10.1007/s00405-013-2742-3)* **271** n.9, pp 2349-2354, 2014 
 
 ---------
 
@@ -356,7 +354,7 @@ B.Frohnapfel, Y.Hasegawa & M.Quadrio
 
 # 2011
 
-Drag reduction in boundary layers by in-plane wall motion  
+- Drag reduction in boundary layers by in-plane wall motion  
 M.Quadrio  
 *[Philosophical Transactions of the Royal Society A](https://doi.org/10.1098/rsta.2010.0366)* **369** 1428--1442, 2011
 
@@ -391,7 +389,7 @@ F.Auteri, A.Baron, M.Belan, G.Campanardi & M.Quadrio
 
 - Very fine structures of scalar mixing in wall-bounded turbulence  
 L. Galantucci & M.Quadrio  
-*[Int. J. Heat Fluid Flow](doi:10.1016/j.ijheatﬂuidﬂow.2010.04.002)* **31** pp.499--506, 2010  
+*[International Journal of Heat Fluid Flow](doi:10.1016/j.ijheatﬂuidﬂow.2010.04.002)* **31** pp.499--506, 2010  
 [ArXiv;physics.flu-dyn/1005.3775](https://doi.org/10.48550/arXiv.1005.3775)
 
 --------
@@ -414,11 +412,11 @@ Streamwise-traveling waves of spanwise wall velocity in a turbulent channel flow
 
 - Wall-oscillation conditions for drag reduction in turbulent channel flow  
 P.Ricco & M.Quadrio  
-*[International Journal of Heat and Fluid Flow](doi:10.1016/j.ijheatﬂuidﬂow.2007.12.005)* **29** pp.601--612, 2008
+*[International Journal of Heat and Fluid Flow](doi:10.1016/j.ijheatﬂuidﬂow.2007.12.005)* **29** pp.601--612, 2008  
 [ArXiv:physics.flu-dyn/0802.0114](https://doi.org/10.48550/arXiv.0802.0114)
 
 - Direct numerical simulation of turbulent Taylor--Couette flow  
-D.Pirr\`o & M.Quadrio  
+D.Pirro' & M.Quadrio  
 *[European Journal of Mechanics B / Fluids](https://doi.org/10.1016/j.euromechflu.2007.10.005)* **27** pp.552--566, 2008  
 [ArXiv:physics.flu-dyn/0711.1429](https://doi.org/10.48550/arXiv.0711.1429)
 
@@ -428,7 +426,7 @@ D.Pirr\`o & M.Quadrio
 
 - Effects of streamwise-periodic wall transpiration on turbulent friction drag  
 M.Quadrio, J.M.Floryan & P.Luchini  
-*[Journal of Fluid Mechanics](doi:10.1017/S0022112007004727)* **576** pp.425--444, 2007
+*[Journal of Fluid Mechanics](https://doi.org/10.1017/S0022112007004727)* **576** pp.425--444, 2007
 
 ------
 
@@ -439,16 +437,16 @@ P.Luchini, M.Quadrio & S.Zuccher
 *[Physics of Fluids](https://doi.org/10.1063/1.2409729)* **18** 121702/4, 2006  
 [ArXiv:physics/0611195](https://doi.org/10.48550/arXiv.physics/0611195)
 
-A low-cost parallel implementation of direct numerical simulation of wall turbulence  
+- A low-cost parallel implementation of direct numerical simulation of wall turbulence  
 P.Luchini & M.Quadrio  
-*[Journal of Computational Physics](doi:10.1016/j.jcp.2005.06.003)* **211** n.2, pp.551--571, 2006   
+*[Journal of Computational Physics](https://doi.org/10.1016/j.jcp.2005.06.003)* **211** n.2, pp.551--571, 2006   
 [ArXiv:physics/0506155](https://doi.org/10.48550/arXiv.physics/0506155)
 
 ---------
 
 # 2005
 
-Modification of Turbulent Flow using Distributed Suction  
+- Modification of Turbulent Flow using Distributed Suction  
 M.Quadrio, J.M. Floryan & P.Luchini  
 *Canadian Aeronautics and Space Journal* **51** n.2, pp.61--69, 2005
 
@@ -456,8 +454,7 @@ M.Quadrio, J.M. Floryan & P.Luchini
 
 # 2004
 
-
-Critical assessment of turbulent drag reduction through spanwise wall oscillations  
+- Critical assessment of turbulent drag reduction through spanwise wall oscillations  
 M.Quadrio & P.Ricco  
 *[Journal of Fluid Mechanics](https://doi.org/10.1017/S0022112004001855)* **521** pp.251--271, 2004
 
@@ -465,21 +462,21 @@ M.Quadrio & P.Ricco
 
 # 2003
 
-Integral space-time scales in turbulent wall flows  
+- Integral space-time scales in turbulent wall flows  
 M.Quadrio & P.Luchini  
-*[Physics of Fluids](10.1063/1.1586273)* **15** n.8, pp.2219--2227, 2003
+*[Physics of Fluids](https://doi.org/10.1063/1.1586273)* **15** n.8, pp.2219--2227, 2003
 
-Initial response of a turbulent channel flow to spanwise oscillations of the wall  
+- Initial response of a turbulent channel flow to spanwise oscillations of the wall  
 M.Quadrio & P.Ricco  
-*[Journal of Turbulence]()* **4** n.007, 2003
+*[Journal of Turbulence](https://doi.org/10.1088/1468-5248/4/1/007)* **4** n.007, 2003
 
 ---
 
 # 2002
 
-Direct numerical simulation of the turbulent flow in a pipe with annular cross-section  
+- Direct numerical simulation of the turbulent flow in a pipe with annular cross-section  
 M.Quadrio & P.Luchini  
-*[European Journal of Mechanics B / Fluids]()* **21** pp. 413--427, 2002
+*[European Journal of Mechanics B / Fluids](https://doi.org/10.1016/S0997-7546(02)01192-5)* **21** pp. 413--427, 2002
 
 ---
 
@@ -495,7 +492,7 @@ M.Quadrio & S.Sibilla
 
 On the effectiveness and limitations of local criteria for the identification of a vortex  
 R.Cucitore, M.Quadrio & A.Baron  
-*[European Journal of Mechanics B / Fluids]()* **18** n.2, pp. 261--282, 1999
+*[European Journal of Mechanics B / Fluids](https://doi.org/10.1016/S0997-7546(99)80026-0)* **18** n.2, pp. 261--282, 1999
 
 ---
 
@@ -503,39 +500,39 @@ R.Cucitore, M.Quadrio & A.Baron
 
 Turbulent boundary layer over riblets: conditional analysis of ejection-like events  
 A.Baron & M.Quadrio  
-*[The International Journal of Heat and Fluid Flow]()* **18** n.2, pp. 188--196, 1997
+*[The International Journal of Heat and Fluid Flow](https://doi.org/10.1016/S0142-727X(96)00087-2)* **18** n.2, pp. 188--196, 1997
 
 On the accuracy of wall-similarity methods in determining friction velocity over smooth and ribletted surfaces  
 A.Baron & M.Quadrio  
-Transaction of the ASME Journal of Fluids Engineering, **119** pp.1009--1011, 1997
+*[Transaction of the ASME Journal of Fluids Engineering](https://doi.org/10.1115/1.2819489)* **119** pp.1009--1011, 1997
 
 ---
 
 # 1996
 
-Turbulent drag reduction by spanwise wall oscillation  
+- Turbulent drag reduction by spanwise wall oscillation  
 A.Baron & M.Quadrio  
-*[Applied Scientific Research]()* **55** pp. 311--326, 1996
+*[Applied Scientific Research](https://doi.org/10.1007/BF00856638)* **55** pp. 311--326, 1996
 
 ---
 
 # 1994
 
-Direct numerical simulation of turbulent flows under the Narrow Channel assumption
+- Direct numerical simulation of turbulent flows under the Narrow Channel assumption
 A.Baron & M.Quadrio
-*[L'Aerotecnica Missili e Spazio]()* **73** n.1, pp. 3--13, 1994
+*L'Aerotecnica Missili e Spazio]* **73** n.1, pp. 3--13, 1994
 
 ---
 
 # 1993
 
-On the boundary layer/riblets interaction mechanism and the prediction of the  turbulent drag reduction  
+- On the boundary layer/riblets interaction mechanism and the prediction of the  turbulent drag reduction  
 A.Baron, M.Quadrio & L.Vigevano  
-*[The International Journal of Heat and Fluid Flow]()* **14** n.4, pp. 324--332, 1993
+*[The International Journal of Heat and Fluid Flow](https://doi.org/10.1016/0142-727X(93)90005-8)* **14** n.4, pp. 324--332, 1993
 
 Some preliminary results on the influence of riblets on the structure of the turbulent boundary layer  
 A.Baron & M.Quadrio  
-*[The International Journal of Heat and Fluid Flow]()* **14** n.3, pp.223--230, 1993
+*[The International Journal of Heat and Fluid Flow](https://doi.org/10.1016/0142-727X(93)90052-O)* **14** n.3, pp.223--230, 1993
 
 ---
 
@@ -543,5 +540,4 @@ A.Baron & M.Quadrio
 
 Riduzione della resistenza di attrito in correnti turbolente e altezza di protrusione di pareti scanalate  
 A.Baron, M.Quadrio & L.Vigevano  
-L'Aerotecnica Missili e Spazio **68** n.3--4, pp. 129--136, 1989
-
+*L'Aerotecnica Missili e Spazio* **68** n.3--4, pp. 129--136, 1989
