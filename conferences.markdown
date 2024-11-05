@@ -46,51 +46,33 @@ European Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
 **D.Gatti**, M.Quadrio, F.Gattere, A.Chiarini & S.Pirozzoli  
 European Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
 
-\item \html{[} 
-F.Gattere, A.Codrignani, D.Gatti & M.Quadrio, 2024.
-Linear Impulse Response of a Turbulent Channel Flow
-\html{]} 
-\htmladdnormallink{Absract}{../../papers/2024-ictam-gattere-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2024-ictam-gattere-presentation.pdf}
+- Linear Impulse Response of a Turbulent Channel Flow  
+**F.Gattere**, A.Codrignani, D.Gatti & M.Quadrio  
 ICTAM2024, 26-30 August 2024, Daegu (Korea)
 
-\item \html{[} 
-M.Quadrio, G.Boracchi, R.Margheritti, C.Pipolo & A.Schillaci, 2024.
-Surgery planning for the human nose: tackling anatomic variability with CFD and ML
-\html{]} 
-\htmladdnormallink{Absract}{../../papers/2024-ictam-quadrio-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2024-ictam-quadrio-presentation.pdf}
+- Surgery planning for the human nose: tackling anatomic variability with CFD and ML  
+**M.Quadrio**, G.Boracchi, R.Margheritti, C.Pipolo & A.Schillaci  
 ICTAM2024, 26-30 August 2024, Daegu (Korea)
 
-\item \html{[} 
-M.Atzori, G.G.Tesa, G.Dini Ciacci & M.Quadrio, 2024.
-The airflow in the human nose: simulations and experiments of clinical interest
-\html{]} 
-\htmladdnormallink{Paper}{../../papers/2024-tsfp-paper.pdf} and
-\htmladdnormallink{presentation}{../../papers/2024-tsfp-presentation.pdf}
-13th International Symposium on Turbulence and Shear Flow Phenomena (TSFP13)
-Montreal, Canada, June 25–28, 2024
+- The airflow in the human nose: simulations and experiments of clinical interest  
+**M.Atzori**, G.G.Tesa, G.Dini Ciacci & M.Quadrio  
+13th International Symposium on Turbulence and Shear Flow Phenomena (TSFP13), June 25–28 2024, Montreal (CAN)
 
-\item \html{[}
-M.Quadrio, 2024. Fluid mechanics of the human nose: where surgery meets flow control
-\html{]} 
-\htmladdnormallink{Presentation}{../../papers/2024-quadrio-presentation.pdf}, 
-invited plenary talk, IX ECCOMAS Congress, Lisbon, Jun 3-7 2024
+- Fluid mechanics of the human nose: where surgery meets flow control  
+**M.Quadrio**  
+*Invited plenary talk*, IX ECCOMAS Congress, Jun 3-7 2024, Lisbon (P)
 
-\item \html{[} 
-M.Ruetten, L.Krenkel & M.Quadrio, 2024. Simulation and analysis of the unsteady flow within nasal airways
-\html{]} 
-\htmladdnormallink{Absract}{../../papers/2024-eccomas-ruetten-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2024-eccomas-ruetten-presentation.pdf}
-IX ECCOMAS Congress, Lisbon, Jun 3-7 2024
+- Simulation and analysis of the unsteady flow within nasal airways  
+**M.Ruetten**, L.Krenkel & M.Quadrio
+IX ECCOMAS Congress, Jun 3-7 2024, Lisbon (P)
 
-\item \html{[} 
-J.Garicano-Mena, A.Chiarini & M.Quadrio, 2024.
-On the turbulent flow around rectangular cylinders: Effect of the aspect ration
-\html{]} 
-\htmladdnormallink{Absract}{../../papers/2024-eccomas-garicano-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2024-eccomas-garicano-presentation.pdf}
-IX ECCOMAS Congress, Lisbon, Jun 3-7 2024
+- On the turbulent flow around rectangular cylinders: Effect of the aspect ration
+**J.Garicano-Mena**, A.Chiarini & M.Quadrio  
+IX ECCOMAS Congress, Jun 3-7 2024, Lisbon (P)
+
+-------
+
+# 2023
 
 \item \html{[} 
 M.Quadrio, 2023. The OpenNOSE project: of interest for the lung modelling community
