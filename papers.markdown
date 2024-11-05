@@ -4,8 +4,6 @@ title: Papers
 permalink: /papers/
 ---
 
-%---- Submitted
-
 %Margheritti, Schillaci, Pipolo, Quadrio, Boracchi
 %Data Augmentation Based on Computational Geometry for Neural Network Training in Medical Flow Field Classification
 
@@ -19,31 +17,25 @@ permalink: /papers/
 
 %Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose" has just been submitted to "Applied Mathematical Modelling" (PENNISI)
 
-\item \html{[}
-D.Gatti, M.Quadrio, A.Chiarini, F.Gattere \& S.Pirozzoli, 2024.
+- D.Gatti, M.Quadrio, A.Chiarini, F.Gattere \& S.Pirozzoli, 2024.
 Turbulent skin-friction drag reduction via spanwise forcing at high Reynolds number
-\html{]}
 \htmladdnormallink{Arxiv {\tt physics.flu-dyn/2409.07230v1}}
 {../../papers/2024-JFMc-arxiv.pdf}
 
-\item \html{[}
-M.Macellari, A.Schillaci, U.Tanzini, M.Trimarchi \& M.Quadrio, 2024.
+- M.Macellari, A.Schillaci, U.Tanzini, M.Trimarchi \& M.Quadrio, 2024.
 \htmladdnormallink{An adjoint-based approach for the surgical correction of nasal septal deviations}
 {../../papers/2024-CBM.pdf}
-\html{]}
 {\em Computers in Biology and Medicine} {\bf 176}, 108566, pp.1--11, 2024
 \htmladdnormallink{Arxiv {\tt physics.flu-dyn/2405.07959v1}}
 {../../papers/2024-CBM-arxiv.pdf}
 
-\item \html{[}
-S.M.Tauwald, F.Erzinger, M.Quadrio, M.Rütten, C.Stemmer \& L.Krenkel, 2024.
+- S.M.Tauwald, F.Erzinger, M.Quadrio, M.Rütten, C.Stemmer \& L.Krenkel, 2024.
 \htmladdnormallink{Tomo-PIV in a Patient-Specific Model of Human Nasal Cavities: A Methodological Approach}
 {../../papers/2024-MST.pdf}
 \html{]}
 {\em Measurement Science and Technology} {\bf 35}, 055203, pp.1--17, 2024.
 
-\item \html{[}
-E.Gallorini \& M.Quadrio, 2024.
+- E.Gallorini \& M.Quadrio, 2024.
 \htmladdnormallink{Spatial discretization effects in spanwise forcing for turbulent drag reduction}
 {../../papers/2024-JFMa.pdf}
 \html{]}

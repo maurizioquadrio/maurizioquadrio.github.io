@@ -51,126 +51,108 @@ Drag reduction via tensegrity fabrics
 - Giacomo **Ronchetti** (2024, July)
 *[Direct Numerical Simulation of Riblets Drag Reduction: Accounting for the Corner Singularity in Arbitrary Geometries](https://hdl.handle.net/10589/222675)*
 
-- Simone Gallo (2024, July)
-Statistical analysis of Rayleigh--Benard convection 
-On the existence of large structures in Rayleigh–Bénard convection
-In collaborazione con D.Angeli, Un. Modena e Reggio Emilia
+- Simone **Gallo** (2024, July)
+*[On the existence of large structures in Rayleigh–Bénard convection](https://hdl.handle.net/10589/223752)*
 
-- Andrea Cavallari (aprile 2024)
-The turbulent wake after a bluff
-body: a phase-aware analysis
+- Andrea **Cavallari** (2024, April)
+*[The turbulent wake after a bluff body: a phase-aware analysis](https://hdl.handle.net/10589/218186)*
 
-- Niccolò Berizzi (aprile 2024)
-Turbulent Drag Reduction on a Transonic Airfoil with a Shock wave: Direct Numerical Simulation and Aeroacoustic Analysis
-In collaborazione con D.Gatti, KIT
+- Niccolò **Berizzi** (2024, April)
+*[Turbulent Drag Reduction on a Transonic Airfoil with a Shock wave: Direct Numerical Simulation and Aeroacoustic Analysis](https://hdl.handle.net/10589/218679)*
 
-- Marco Galli (aprile 2024)
-Spanwise forcing for turbulent heat transfer enhancement
+- Marco **Galli** (2024, April)
+*[Spanwise forcing for turbulent heat transfer enhancement](https://hdl.handle.net/10589/219005)*
 
 - Marildo **Kola** (2024, April)
 *[Particle-laden turbulent wavy channel flow](https://hdl.handle.net/10589/219170)*
 
-- Riccardo Bertoncello (aprile 2024)
+- Riccardo Bertoncello (aprile 2024, April)
 Space-scale analysis of turbulent canopy flows
 
-- Maria Vittoria Pennisi (aprile 2024)
-Analytical modelling of Conjugate
-Heat Transfer for the nasal flow
-In collaborazione con J.Pralits, U.Genova
+- Maria Vittoria **Pennisi** (2024, April)
+*[Analytical modelling of Conjugate Heat Transfer for the nasal flow](https://hdl.handle.net/10589/218802)*
 
-- Riccardo Consonni (aprile 2024)
-Data assimilation using PINN 
-Adjoint-based data assimilation of a compressible starting jet
-In collaborazione con J.Sesterhenn, U.Bayreuth
+- Riccardo **Consonni** (2024, April)
+*[Adjoint-based data assimilation of a compressible starting jet](https://hdl.handle.net/10589/219451)*
 
-- Nil Couto Ovejero  (aprile 2024)
-Streamwise traveling waves of wall
-deformation for turbulent drag reduction
+- Nil **Couto Ovejero** (2024, April)
+*[Streamwise traveling waves of wall deformation for turbulent drag reduction](https://hdl.handle.net/10589/219541)*
 
-- Berkay Ukoz  (dicembre 2023)
-Understanding the mismatch between clinical and
-numerical measurements of nasal resistance
+- Berkay **Ukoz** (2023, December)
+*[Understanding the mismatch between clinical and numerical measurements of nasal resistance](https://hdl.handle.net/10589/214124)*
 
-- Aditya Raman (dicembre 2023)
-DNS of a Turbulent Channel Flow with Partial Slip
+- Aditya **Raman** (2023, December)
+*[DNS of a Turbulent Channel Flow with Partial Slip](ttps://hdl.handle.net/10589/214807)*
 
-- Ludovico Petrucci (dicembre 2023)
-Application of Machine Learning techniques for flowfield features reconstruction
-In collaboration with con Aston Martin 
+- Ludovico **Petrucci** (2023, December)
+*[Application of Machine Learning techniques for flowfield features reconstruction](https://hdl.handle.net/10589/214148)*
 
-- Riccardo Armellini (ottobre 2023)
-A patient-specific CFD study of expiration for normal and pathological nasal anatomies
+- Riccardo **Armellini** (2023, October)
+*[A patient-specific CFD study of expiration for normal and pathological nasal anatomies](https://hdl.handle.net/10589/209653)*
 
-- Julien Cerutti  (ottobre 2023)
-DNS investigation of turbulent flow over a circular recess
+- Julien **Cerutti** (2023, October)
+*[DNS investigation of turbulent flow over a circular recess](https://hdl.handle.net/10589/210835)*
 
-- Lorenzo Pierpaoli (luglio 2023)
-Critical assessment of RANS turbulence models in predicting the turbulent flow past a rectangular cylinder
+- Lorenzo **Pierpaoli** (2023, July)
+*[Critical assessment of RANS turbulence models in predicting the turbulent flow past a rectangular cylinder](https://hdl.handle.net/10589/212759)*
 
-- Andrea Conforti (maggio 2023)
-Understanding friction drag reduction via synthetic forcing
+- Andrea **Conforti** (2023, May)
+*[Understanding friction drag reduction via synthetic forcing](https://hdl.handle.net/10589/211513)*
 
-- Stefano Cipelli (maggio 2023)
-Efficient Direct Numerical Simulations of Straight and Sinusoidal Riblets in Turbulent Channel Flows
+- Stefano **Cipelli** (2023, May)
+*[Efficient Direct Numerical Simulations of Straight and Sinusoidal Riblets in Turbulent Channel Flows](https://hdl.handle.net/10589/203176)*
 
-- Marco Castelletti (maggio 2023)
-A machine-learning based zonal approach for turbulence modeling
+- Marco **Castelletti** (2023, May)
+*[A machine-learning based zonal approach for turbulence modeling](https://hdl.handle.net/10589/206368)*
 
-- Guido Tesa (maggio 2023)
-Rinomanometria: uno studio teorico-sperimentale
+- Guido Guglielmo **Tesa** (2023, May)
+*[Rinomanometria: uno studio teorico-sperimentale](https://hdl.handle.net/10589/205304)*
 
-- Riccardo **Margheritti** (2022, Oct)
+- Riccardo **Margheritti** (2022, October)
 *[A Computational Geometry approach for Machine Learning based diagnosis of nasal breathing difficulties aided by CFD](https://hdl.handle.net/10589/195573)*
 
-- Pietro Cassottana (ottobre 2022)
-A Lagrangian method for coherent structures identification based on the finite-time Lyapunov exponent 
-in collaborazione con M.Carnevale, U.Bath 
+- Pietro **Cassottana** (2022, october)
+*[A Lagrangian method for coherent structures identification based on the finite-time Lyapunov exponent](https://hdl.handle.net/10589/195562)*
 
+- Umberto **Zucchelli** (2022, July)
+*[Assessment and validation of an in-house finite-volume compressible CFD solver for Large Eddy Simulation](https://hdl.handle.net/10589/189604)*
 
-- Umberto Zucchelli (luglio 2022)
-Assessment and validation of an in-house finite-volume compressible
-CFD solver for Large Eddy Simulation
-In collaborazione con M.Carnevale, Univ. Bath
+- Marcello **Macellari** (2022, April)
+*[Fluid dynamics optimization for the surgical treatment of septal deviations](https://hdl.handle.net/10589/187072)*
 
-- Marcello Macellari (aprile 2022)
-Fluid dynamics optimization for the surgical treatment of septal deviations
-In collaborazione con M.Trimarchi, Università Vita-Salute San Raffaele 
+- Giulio **Foggi Rota** (2022, April)
+*[On-off pumping for drag reduction in a turbulent channel flow](https://hdl.handle.net/10589/186461)*
 
-- Giulio Foggi Rota (aprile 2022)
-On-off pumping for drag reduction in a turbulent channel flow
-in collaborazione con M.Rosti, Okinawa Institute Science and Technology
-
-- Giorgio M. Cavallazzi  (aprile 2022)
-A DNS code to evaluate drag reduction with sinusoidal riblets
+- Giorgio Maria **Cavallazzi**  (2022, April)
+A DNS code to evaluate drag reduction with sinusoidal riblets](https://hdl.handle.net/10589/187410)*
 In collaborazione con D.Gatti, KIT 
 
-- Carlo Brignoli e Lorenzo Cacciatori (aprile 2022)
-Drag reduction by riblets on a commercial UAV 
-In collaborazione con C.M.Monti, SkyEye Systems 
+- Carlo **Brignoli**, Lorenzo **Cacciatori** (2022, April)
+*[Drag reduction by riblets on a commercial UAV](https://hdl.handle.net/10589/187185)*
 
-- Davide Selvatici (dicembre 2021)
-Structural effects of curvature on near-wall turbulence
+- Davide **Selvatici** (2021, December)
+*[Structural effects of curvature on near-wall turbulence](https://hdl.handle.net/10589/183557)*
 
-- Lorenzo Vecchietti (dicembre 2021)
-A Direct Numerical Simulation code for the flow in the human nose 
+- Lorenzo **Vecchietti** (2021, December)
+*[A Direct Numerical Simulation code for the flow in the human nose](https://hdl.handle.net/10589/183423)*
 
-- Amedeo Marzini (ottobre 2021)
-Linear stability analysis of the flow past two staggered square cylinders 
+- Amedeo **Marzini** (2021, October)
+*[Linear stability analysis of the flow past two staggered square cylinders](https://hdl.handle.net/10589/179336)*
 
-- Matteo Paolo Silvani (ottobre 2021)
-Dimples as a drag reduction technique: a preliminary DNS approach
+- Matteo Paolo **Silvani** (2021, October)
+*[Dimples as a drag reduction technique: a preliminary DNS approach](https://hdl.handle.net/10589/179334)*
 
 - Giacomo Nosotti (luglio 2021)
 Verifica sperimentale di un rinomanometro a quattro fasi
 
-- Marco Negri (luglio 2021)
-Wall turbulence: an exploratory approach to analyse roughness
+- Marco **Negri** (2021, July)
+*[Wall turbulence: an exploratory approach to analyse roughness](https://hdl.handle.net/10589/177501)*
 
-- Marco Leali (luglio 2021)
-The influcence of endplate geometry and tip structure on wheel wake aerodynamics
+- Marco **Leali** (2021, July)
+*[The influence of endplate geometry and tip structure on wheel wake aerodynamics](https://hdl.handle.net/10589/177502)*
 
-- Kazuto Hasegawa (luglio 2021)
-Prediction of pathologies of human nose by machine learning with flow physics
+- Kazuto **Hasegawa** (2021, July)
+*[Prediction of pathologies of human nose by machine learning with flow physics](https://hdl.handle.net/10589/177692)*
 
 - Jimmy **Vianello** (2021, June)
 *[Development of a multi-GPU Navier-Stokes solver](https://hdl.handle.net/10589/176080)*
@@ -184,9 +166,8 @@ Prediction of pathologies of human nose by machine learning with flow physics
 - Andrea **Rossi** (2021, April)
 *[Analytical correction of corner singularity for the turbulent flow over riblets](https://hdl.handle.net/10589/175058)*
 
-- Massimo Zanolini  (aprile 2021)
-Turbulent drag reduction using spanwise forcing in compressible regime
-In collaborazione con D.Gatti, Karlsruhe Institute of Technology 
+- Massimo **Zanolini**  (2021, April)
+*[Turbulent drag reduction using spanwise forcing in compressible regime](https://hdl.handle.net/10589/173844)*
 
 - Jacopo **Casella** (2021, April)
 *[Machine-learning based classification of geometrically defective airfoils](https://hdl.handle.net/10589/174213)*
@@ -194,9 +175,8 @@ In collaborazione con D.Gatti, Karlsruhe Institute of Technology
 - Francesco Romano' (dicembre 2020)
 Ottimizzazione fluidodinamica per la chirurgia del setto nasale 
 
-- Victor Garcia (luglio 2020)
-A Numerical CFD Study to Support Clinical Tests of Graft-Gas Coverage after DMEK Eye Surgery
-In collaborazione con J.Pralits, Univ. di Genova
+- Victor **Garcia Bennet** (2020, July)
+*[A Numerical CFD Study to Support Clinical Tests of Graft-Gas Coverage after DMEK Eye Surgery](https://hdl.handle.net/10589/164610)*
 
 - Andrea **Spini** (2020, July)
 *[A neural-network approach for predicting the aerodynamic performance of airfoils](https://hdl.handle.net/10589/164519)
@@ -204,8 +184,8 @@ In collaborazione con J.Pralits, Univ. di Genova
 - Alessandro **Testa** (2020, July)
 *[Active turbulence control through wall deformation in channel flow](https://hdl.handle.net/10589/164354)*
 
-- Francesca Mangani (2020, July)
-Effetto della temperatura nella fluidodinamica nasale
+- Francesca **Mangani** (2020, July)
+*[Effetto della temperatura nella fluidodinamica nasale](https://hdl.handle.net/10589/165307)
 
 - Umberto Tanzini (giugno 2020)
 Fluidodinamica computazionale e deviazione del setto nasale: risultati preliminari di un approccio moderno alla progettazione dell'intervento chirurgico di settoplastica
