@@ -216,9 +216,9 @@ An efficient numerical method for the Generalized Kolmogorov Equation
 *[Journal of Turbulence](https://doi.org/10.1080/14685248.2019.1664746)* **20** n.8, pp.457--480, 2019  
 [ArXiv:physics.flu-dyn/1910.06409](https://doi.org/10.48550/arXiv.1910.06409)
 
-E.Buijs, V.Covello, C.Pipolo, A.Saibene, G.Felisati & M.Quadrio, 2019
-Thermal water delivery in the nose: an assessment of droplet deposition through computational fluid dynamics}
-{\em Acta Othorinolaringologica Italica}, Epub 2019 Jan 31. https://doi.org/10.14639/0392-100X-225 pp.1--8, 2019.
+Thermal water delivery in the nose: an assessment of droplet deposition through computational fluid dynamics  
+E.Buijs, V.Covello, C.Pipolo, A.Saibene, G.Felisati & M.Quadrio  
+*[Acta Othorinolaringologica Italica](doi: 10.14639/0392-100X-2250)* Epub 2019 Jan 31, pp.1--8, 2019
 
 -----------
 
@@ -229,14 +229,13 @@ D.Gatti, A. Cimarelli, Y. Hasegawa, B. Frohnapfel & M.Quadrio
 *[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2018.749)* **857** pp.345--373, 2018
 [ArXiv:physics.flu-dyn/1809.00730](https://doi.org/10.48550/arXiv.1809.00730)
 
-\item \html{[} V.Covello, C.Pipolo, A.Saibene, G.Felisati & M.Quadrio, 2018. 
-\htmladdnormallink{Numerical simulation of thermal water delivery in the human nasal cavity}
-{\em Computers in Biology and Medicine}, {\bf 100}, pp.62--73, 2018.
+- Numerical simulation of thermal water delivery in the human nasal cavity  
+V.Covello, C.Pipolo, A.Saibene, G.Felisati & M.Quadrio  
+*[Computers in Biology and Medicine](https://doi.org/10.1016/j.compbiomed.2018.06.029)* **100** pp.62--73, 2018
 
-\item \html{[} M.Quadrio & K.-S. Choi, 2018.
-\htmladdnormallink{Preface to the Theme Issue on Drag Reduction and Flow Control}
-{../../papers/2018-FTaC.pdf}
-{\em Flow, Turbulence and Combustion}, {\bf 100}, pp.875--876, 2018
+- Preface to the Theme Issue on Drag Reduction and Flow Control  
+M.Quadrio & K.-S. Choi  
+*[Flow, Turbulence and Combustion](https://doi.org/10.1007/s10494-018-9922-6)* **100** pp.875--876, 2018
 
 --------
 
