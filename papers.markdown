@@ -17,6 +17,11 @@ permalink: /papers/
 
 -->
 
+
+------
+
+# 2024
+
 - Turbulent skin-friction drag reduction via spanwise forcing at high Reynolds number  
 D.Gatti, M.Quadrio, A.Chiarini, F.Gattere & S.Pirozzoli  
 Submitted to *J. Fluid Mechanics*, 2024  
@@ -52,14 +57,14 @@ On the comparison between pre- and post-surgery nasal anatomies via computationa
 E.Segalerba, G. Dini Ciacci, M.Quadrio & J.O.Pralits  
 *[Biomechanics and Modelling in Mechanobiology]()* **23** pp.305--314, 2023  
 [Arxiv:physics.flu-dyn/2308.10701](https://doi.org/10.48550/arXiv.2308.10701)  
-[BioRrxiv](https://doi.org/10.1101/2023.08.21.554118)
+[BioRxiv:20230822](https://doi.org/10.1101/2023.08.21.554118)
 
 Linear stability of Poiseuille flow over a steady spanwise Stokes layer  
 D.Massaro, F.Martinelli, P.J.Schmid & M.Quadrio  
 *[Physics Review Fluids]()* **8** 103920, pp.1--23, 2023  
 [Arxiv:physics.flu-dyn/2308.11525](https://doi.org/10.48550/arXiv.2308.11525)
 
-Curvature effects on the structure of near-wall turbulence  
+- Curvature effects on the structure of near-wall turbulence  
 D.Selvatici, M.Quadrio & A.Chiarini  
 *[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2023.723)* **972** A39, pp.1--28, 2023  
 [Arxiv:physics.flu-dyn/2308.09039](https://doi.org/10.48550/arXiv.2308.09039)
@@ -67,7 +72,7 @@ D.Selvatici, M.Quadrio & A.Chiarini
 - On-off pumping for drag reduction in a turbulent channel flow  
 G.Foggi Rota, A.Monti, M.E.Rosti & M.Quadrio  
 *[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2023.451)* **966** A12, pp.1--12, 2023  
-[Arxiv:physics.flu-dyn/2305.00214}}](https://doi.org/10.48550/arXiv.2305.00214)
+[Arxiv:physics.flu-dyn/2305.00214](https://doi.org/10.48550/arXiv.2305.00214)
 
 - Structure function tensor equations with triple decomposition  
 F.Gattere, A.Chiarini, E.Gallorini & M.Quadrio  
@@ -76,23 +81,23 @@ F.Gattere, A.Chiarini, E.Gallorini & M.Quadrio
 
 Optimization of patient positioning for improved healing after corneal transplantation  
 V.Garcia Bennett, M.Alberti, M.Quadrio & J.O.Pralits  
-*[J. Biomechanics]() **150** 111510, pp.1--9, 2023
+*[J. Biomechanics]()* **150** 111510, pp.1--9, 2023
 
 - Saving Energy in Turbulent Flows with Unsteady Pumping  
 G.Foggi Rota, A.Monti, M.E.Rosti & M.Quadrio  
 *[Nature Sci.Rep.](https://doi.org/10.1038/s41598-023-28519-x)* **13** 1299, pp.1--6, 2023  
-[Arxiv:physics.flu-dyn/2212.08874}](https://doi.org/10.48550/arXiv.2212.08874)
+[Arxiv:physics.flu-dyn/2212.08874](https://doi.org/10.48550/arXiv.2212.08874)
 
 ---------
 
 Coherent near-wall structures and drag reduction by spanwise forcing  
 E.Gallorini, M.Quadrio & D.Gatti  
 *[Physical Review Fluids]()* **7** 114602, pp.1--19, 2022   
-[Arxiv:physics.flu-dyn/2208.09955}](https://doi.org/10.48550/arXiv.2208.09955)
+[Arxiv:physics.flu-dyn/2208.09955](https://doi.org/10.48550/arXiv.2208.09955)
 
-An almost subharmonic instability in the flow past rectangular cylinders  
+- An almost subharmonic instability in the flow past rectangular cylinders  
 A.Chiarini, M.Quadrio & F.Auteri  
-*[Journal of Fluid Mechanics]()* **950** A20, pp.1--25, 2022
+*[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2022.712)* **950** A20, pp.1--25, 2022
 
 - Structure of turbulence in the flow around a rectangular cylinder  
 A.Chiarini, D.Gatti, A.Cimarelli & M.Quadrio  
@@ -123,17 +128,13 @@ Importance of the numerical schemes in the CFD of the human nose}
 {../../papers/2022-JBiomech.pdf}
 {\em J. Biomechanics}, {\bf 138}, 111100, pp.1--9, 2022. 
 
-A.Chiarini, M.Quadrio & F.Auteri, 2022.
-\htmladdnormallink{
-A new scaling for the steady flow past two-dimensional bluff bodies}
-{../../papers/2022-JFMb.pdf}
-{\em Journal of Fluid Mechanics} {\bf 936} R2, pp.1--11, 2022.
+- A new scaling for the flow instability past symmetric bluff bodies  
+A.Chiarini, M.Quadrio & F.Auteri  
+*[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2022.99)* **936** R2, pp.1--11, 2022
 
-A.Chiarini, M.Quadrio & F.Auteri, 2022.
-\htmladdnormallink{
-On the frequency selection mechanism of the low-Re flow around rectangular cylinders}
-{../../papers/2022-JFMa.pdf}
-{\em Journal of Fluid Mechanics} {\bf 933}, A44 pp.1--25, 2022.
+- On the frequency selection mechanism of the low-$Re$ flow around rectangular cylinders  
+A.Chiarini, M.Quadrio & F.Auteri, 2022  
+*[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2021.1027)* **933** A44 pp.1--25, 2022
 
 The importance of corner sharpness in the BARC test case: A numerical study  
 A.Chiarini & M.Quadrio  
@@ -147,11 +148,9 @@ A.Chiarini, M.Mauriello, D.Gatti & M.Quadrio
 *[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2021.886)* **930** A9, pp.1--22, 2021  
 [Arxiv:physics.flu-dyn/2109.03522](https://doi.org/10.48550/arXiv.2109.11183)
 
-A.Chiarini, M.Quadrio & F.Auteri, 2021.
-\htmladdnormallink{
-Linear stability of the steady flow past rectangular cylinders}
-{../../papers/2021-JFMc.pdf}
-{\em Journal of Fluid Mechanics} {\bf 929}, A36 pp.1--30, 2021.
+- Linear stability of the steady flow past rectangular cylinders  
+A.Chiarini, M.Quadrio & F.Auteri, 2021  
+*[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2021.819)* **929** A36 pp.1--30, 2021
 
 - Global energy budgets in turbulent Couette and Poiseuille flows  
 A.Andreolli, M.Quadrio & D.Gatti  
