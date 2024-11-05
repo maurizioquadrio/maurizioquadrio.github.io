@@ -216,7 +216,7 @@ An efficient numerical method for the Generalized Kolmogorov Equation
 *[Journal of Turbulence](https://doi.org/10.1080/14685248.2019.1664746)* **20** n.8, pp.457--480, 2019  
 [ArXiv:physics.flu-dyn/1910.06409](https://doi.org/10.48550/arXiv.1910.06409)
 
-Thermal water delivery in the nose: an assessment of droplet deposition through computational fluid dynamics  
+- Thermal water delivery in the nose: an assessment of droplet deposition through computational fluid dynamics  
 E.Buijs, V.Covello, C.Pipolo, A.Saibene, G.Felisati & M.Quadrio  
 *[Acta Othorinolaringologica Italica](doi: 10.14639/0392-100X-2250)* Epub 2019 Jan 31, pp.1--8, 2019
 
@@ -224,16 +224,16 @@ E.Buijs, V.Covello, C.Pipolo, A.Saibene, G.Felisati & M.Quadrio
 
 # 2018
 
-- Global energy fluxes in fully-developed turbulent channels with flow control
-D.Gatti, A. Cimarelli, Y. Hasegawa, B. Frohnapfel & M.Quadrio
-*[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2018.749)* **857** pp.345--373, 2018
+- Global energy fluxes in fully-developed turbulent channels with flow control  
+D.Gatti, A. Cimarelli, Y. Hasegawa, B. Frohnapfel & M.Quadrio  
+*[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2018.749)* **857** pp.345--373, 2018  
 [ArXiv:physics.flu-dyn/1809.00730](https://doi.org/10.48550/arXiv.1809.00730)
 
 - Numerical simulation of thermal water delivery in the human nasal cavity  
 V.Covello, C.Pipolo, A.Saibene, G.Felisati & M.Quadrio  
 *[Computers in Biology and Medicine](https://doi.org/10.1016/j.compbiomed.2018.06.029)* **100** pp.62--73, 2018
 
-- Preface to the Theme Issue on Drag Reduction and Flow Control  
+- Preface to the Theme Issue on *Drag Reduction and Flow Control*  
 M.Quadrio & K.-S. Choi  
 *[Flow, Turbulence and Combustion](https://doi.org/10.1007/s10494-018-9922-6)* **100** pp.875--876, 2018
 
@@ -241,21 +241,20 @@ M.Quadrio & K.-S. Choi
 
 # 2017
 
-\item \html{[} E.Mori, M.Quadrio & K.Fukagata, 2017.
-\htmladdnormallink{Turbulent Drag Reduction by Uniform Blowing Over a Two-dimensional Roughness}
-{\em Flow, Turbulence and Combustion}, {\bf 99}, pp.765--785, 2017.
+Turbulent Drag Reduction by Uniform Blowing Over a Two-dimensional Roughness  
+E.Mori, M.Quadrio & K.Fukagata  
+*[Flow, Turbulence and Combustion](https://doi.org/10.1007/s10494-017-9858-2)* **99** pp.765--785, 2017
 
-\item \html{[} F.Cozzi, G.Felisati & M.Quadrio, 2017.
-\htmladdnormallink{Velocity measurements in nasal cavities by means of stereoscopic PIV -- Preliminary tests}
-{\em Journal of Physics: Conf. Series} 1234567890 {\bf 882} 012010, 2017.
+- Velocity measurements in nasal cavities by means of stereoscopic PIV -- Preliminary tests  
+F.Cozzi, G.Felisati & M.Quadrio  
+*[Journal of Physics: Conf. Series](doi:10.1088/1742-6596/882/1/012010)* **882** 012010, 2017
 
-\item \html{[} G.Coleman, S.Pirozzoli, M.Quadrio & P.Spalart, 2017.
-\htmladdnormallink{Direct Numerical Simulation and Theory of a Wall-Bounded Flow with Zero Skin Friction}
-{\em Flow, Turbulence and Combustion}, {\bf 99}, pp.553--564, 2017.
+- Direct Numerical Simulation and Theory of a Wall-Bounded Flow with Zero Skin Friction  G.Coleman, S.Pirozzoli, M.Quadrio & P.Spalart  
+*[Flow, Turbulence and Combustion](https://doi.org/10.1007/s10494-017-9834-x)* **99**, pp.553--564, 2017
 
-\item \html{[} C.Vergara, D.Le Van, M.Quadrio, L.Formaggia & M.Domanin, 2017.
-\htmladdnormallink{Large Eddy Simulations of blood dynamics in abdominal aortic aneurysms}
-{\em Medical Engineering & Physics}, {\bf 47}, pp.38--46, 2017. MOX report 54/2016
+- Large Eddy Simulations of blood dynamics in abdominal aortic aneurysms  
+C.Vergara, D.Le Van, M.Quadrio, L.Formaggia & M.Domanin  
+*[Medical Engineering & Physics](http://dx.doi.org/10.1016/j.medengphy.2017.06.030)* **47** pp.38--46, 2017
 
 ---------
 
