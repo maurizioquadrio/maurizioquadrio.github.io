@@ -120,9 +120,7 @@ A machine-learning based zonal approach for turbulence modeling
 Rinomanometria: uno studio teorico-sperimentale
 
 - Riccardo **Margheritti** (2022, Oct)
-*[A Computational Geometry approach for Machine Learning based diagnosis of nasal breathing difficulties aided by CFD](https://www.politesi.polimi.it/retrieve/8e8c7511-c2da-4af1-81aa-ac2e08e41e47/2022_10_Margheritti.pdf)*
-
-*[A Computational Geometry approach for Machine Learning based diagnosis of nasal breathing difficulties aided by CFD](*[A Computational Geometry approach for Machine Learning based diagnosis of nasal breathing difficulties aided by CFD](https://hdl.handle.net/10589/195573)*
+*[A Computational Geometry approach for Machine Learning based diagnosis of nasal breathing difficulties aided by CFD](https://hdl.handle.net/10589/195573)*
 
 - Pietro Cassottana (ottobre 2022)
 A Lagrangian method for coherent structures identification based on the finite-time Lyapunov exponent 
@@ -205,10 +203,8 @@ In collaborazione con J.Pralits, Univ. di Genova
 A neural-network approach for predicting the aerodynamic performance of airfoils
 in collaborazione con M.Rutten, DLR Goettingen 
 
- Alessandro Testa  (luglio 2020)
-<A HREF="testa/testa.html">	
+- Alessandro Testa  (luglio 2020)
 Active Turbulence Control Through Wall Deformation in Channel Flow
-<span class=cpl></span>
 
 - Francesca Mangani (luglio 2020)
 Effetto della temperatura nella fluidodinamica nasale
@@ -225,7 +221,7 @@ In collaborazione con S.Leonardi, Un.Texas Dallas
 Inner-outer scale interactions in turbulent Couette flow 
 
 - Andrea Andreolli (aprile 2020)
-Global energy budgets in turbulent plane Couette and Poiseuille flows  
+Global energy budgets in turbulent plane Couette and Poiseuille flows
 In collaborazione con D.Gatti, Karlsruhe Institute of Technology 
 
 - Francesca Fugaro  (aprile 2020)
@@ -321,7 +317,6 @@ In collaborazione con University of California at Irvine
 - Celeste M. Monti (aprile 2017)
 Metodo dei contorni immersi per la simulazione numerica diretta
 di correnti turbolente su pareti non piane.
-<span class=cpl></span>
 
 - Alberto Remigi (aprile 2017)
 Generalized Kolmogorov equation for turbulent wall flows with drag reduction.
@@ -477,7 +472,7 @@ Direct Numerical Simulation of Separated Boundary Layers
 In collaborazione con NASA Ames - Moffett Field 
 
 - Enrico Sumatra (luglio 2012)
-Fenomeni fluidodinamici in geometrie stenotiche: stabilita' non-modale e perturbazioni ottime  
+Fenomeni fluidodinamici in geometrie stenotiche: stabilita' non-modale e perturbazioni ottime
 
 - Daniele Di Pasquale (luglio 2012)
 La fluidodinamica come nuovo strumento di analisi del flusso nasale: risultati preliminari
@@ -487,9 +482,8 @@ Laurea in Medicina e Chirurgia - UniMI (co-relatore)
 The effect of taper in an idealized aortic geometry
 Politecnico di Torino - ASP (co-relatore)
 
-- Marco Nicotra (aprile 2012)
-Radial fingering in a Hele-Shaw cell
-In collaborazione con Ecole Polytechnique (F)
+- Marco **Nicotra** (2012, April)
+*[Radial fingering in a Hele-Shaw cell](https://hdl.handle.net/10589/47722)*
 
 - Carlo Sovardi (aprile 2012)
 Linear stability of plane Poiseuille flow over a steady Stokes layer
@@ -503,26 +497,24 @@ An innovative DNS code for high-Re turbulent pipe flow
 - Davide Gatti	(dicembre 2011)
 Turbulent drag reduction at moderate Reynolds numbers via spanwise velocity waves
 
-- Francesco Pasqua (dicembre 2011)
-Analisi sperimentale preliminare di un dispositivo innovativo per il mixing turbolento 
+- Francesco **Pasqua** (2011, December)
+*[Analisi sperimentale preliminare di un dispositivo innovativo per il mixing turbolento](https://hdl.handle.net/10589/41501)*
 
 - Stefano Corti (luglio 2011)
 Studio numerico della fluidodinamica all'interno della cavità nasale
 In collaborazione con Polo Ospedaliero s.Paolo -- Milano 
 
-- Gabriele Pozzi (luglio 2011)
-Studio numerico di configurazioni asimmetriche di spinnaker
-In collaborazione con Un.Udine 
+- Gabriele **Pozzi** (2011, July)
+*[Verifica computazionale di una configurazione operativa per uno spinnaker asimmetrico da regata](https://hdl.handle.net/10589/22561)*
 
-- Alberto Lunghi (luglio 2011)
-Tecniche di High-Throughput Computing per la simulazione fluidodinamica 
+- Alberto **Lunghi** (2011, July)
+*[Tecniche di High-Throughput Computing per la simulazione fluidodinamica](https://hdl.handle.net/10589/23761)*
 
-- Simone Benelli (marzo 2011)
-Simulazioni fluidodinamiche in geometrie di interesse automobilistico
+- Simone **Benelli** (2011, March)
+*[Simulazioni fluidodinamiche in geometrie di interesse automobilistico](https://hdl.handle.net/10589/15803)*
 
-- Emanuele Bezzecchi (dicembre 2010)
-Stabilità non-modale di flussi EHD con cross-flow 
-In collaborazione con Ecole Polytechnique (F) 
+- Emanuele **Bezzecchi** (2010, December)
+*[Non modal linear stability analysis of an EHD channel flow](https://hdl.handle.net/10589/13141)*
 
 - Daniele Cavaglieri  (ottobre 2010)
 Optimal feedback control of turbulent channel flow through wall-based sensors and actuators 
@@ -530,12 +522,11 @@ Optimal feedback control of turbulent channel flow through wall-based sensors an
 - Andrea Bertolucci (ottobre 2010)
 Studio sperimentale di onde viaggianti in flussi turbolenti di parete 
 
-- Marcello Pelis e Michele Rampanelli (luglio 2010)
-Risposta impulsiva in un flusso turbolento 
+- Marcello **Pelis**, Michele **Rampanelli** (2010, July)
+*[Risposta impulsiva in un flusso turbolento](https://hdl.handle.net/10589/2562)*
 
-- Claudio Ottonelli (luglio 2010)
-Energy and enstrophy balances for wall-bounded turbulent flows with drag reduction 
-In collaborazione con King's College, London 
+- Claudio **Ottonelli** (2010, July)
+*[Energy and enstrophy balances for wall-bounded turbulent flows with drag reduction](https://hdl.handle.net/10589/2513)*
 
 - Marco Carini (luglio 2009)
 Risposta impulsiva di un flusso turbolento omogeneo e isotropo 
