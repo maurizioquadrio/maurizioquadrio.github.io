@@ -24,12 +24,12 @@ Submitted to *J. Fluid Mechanics*, 2024
 
 - An adjoint-based approach for the surgical correction of nasal septal deviations  
 M.Macellari, A.Schillaci, U.Tanzini, M.Trimarchi & M.Quadrio  
-*[Computers in Biology and Medicine]*(https://doi.org/10.1016/j.compbiomed.2024.108566) **176** 108566, pp.1--11, 2024  
+*[Computers in Biology and Medicine](https://doi.org/10.1016/j.compbiomed.2024.108566)* **176** 108566, pp.1--11, 2024  
 [Arxiv:physics.flu-dyn/2405.07959](https://doi.org/10.48550/arXiv.2405.07959)
 
 - Tomo-PIV in a patient-specific model of human nasal cavities: a methodological approach  
 S.M.Tauwald, F.Erzinger, M.Quadrio, M.Rütten, C.Stemmer & L.Krenkel  
-*[Measurement Science and Technology]*(https://iopscience.iop.org/article/10.1088/1361-6501/ad282c) **35** n.5, 055203, pp.1--17, 2024
+*[Measurement Science and Technology](https://iopscience.iop.org/article/10.1088/1361-6501/ad282c)* **35** n.5, 055203, pp.1--17, 2024
 
 - Spatial discretization effects in spanwise forcing for turbulent drag reduction  
 E.Gallorini & M.Quadrio  
@@ -52,76 +52,50 @@ F.Gattere, M.Zanolini, D.Gatti, M.Bernardini & M.Quadrio
 E.Segalerba, G. Dini Ciacci, M.Quadrio & J.O.Pralits  
 *[Biomechanics and Modelling in Mechanobiology]()* **23** pp.305--314, 2023  
 [Arxiv:physics.flu-dyn/2308.10701]()  
-[BioRrxiv}(https://doi.org/10.1101/2023.08.21.554118)
+[BioRrxiv](https://doi.org/10.1101/2023.08.21.554118)
 
-D.Massaro, F.Martinelli, P.J.Schmid & M.Quadrio, 2023.
-\htmladdnormallink{Linear stability of Poiseuille flow over a steady spanwise Stokes layer}
-{../../papers/2023-PRF.pdf}
-\html{]}
-{\em Physics Review Fluids}, {\bf 8} 103920, pp.1--23, 2023.
-\htmladdnormallink{Arxiv {\tt physics.flu-dyn/2308.11525}}
-{../../papers/2023-PRF-arxiv.pdf}
+- Linear stability of Poiseuille flow over a steady spanwise Stokes layer  
+D.Massaro, F.Martinelli, P.J.Schmid & M.Quadrio  
+*[Physics Review Fluids]()* **8** 103920, pp.1--23, 2023  
+[Arxiv {\tt physics.flu-dyn/2308.11525]()
 
-\item \html{[}
-D.Selvatici, M.Quadrio & A.Chiarini, 2023.
-\htmladdnormallink{Curvature effects on the structure of near-wall turbulence}
-{../../papers/2023-JFMc.pdf}
-\html{]} 
-{\em Journal of Fluid Mechanics}, {\bf 972}, A39, pp.1--28, 2023.
-\htmladdnormallink{Arxiv {\tt physics.flu-dyn/2308.09039}}
-{../../papers/2023-JFMc-arxiv.pdf}
+- Curvature effects on the structure of near-wall turbulence  
+D.Selvatici, M.Quadrio & A.Chiarini  
+*[Journal of Fluid Mechanics]()* **972** A39, pp.1--28, 2023  
+[Arxiv {\tt physics.flu-dyn/2308.09039}}]()
 
-G.Foggi Rota, A.Monti, M.E.Rosti & M.Quadrio, 2023.
-\htmladdnormallink{On-off pumping for drag reduction in a turbulent channel flow}
-{../../papers/2023-JFMb.pdf}
-\html{]} 
-{\em Journal of Fluid Mechanics}, {\bf 966}, A12, pp.1--12, 2023. 
-\htmladdnormallink{Arxiv {\tt physics.flu-dyn/2212.08874}}{../../papers/2023-JFMb-arxiv.pdf}
+- On-off pumping for drag reduction in a turbulent channel flow  
+G.Foggi Rota, A.Monti, M.E.Rosti & M.Quadrio  
+*[Journal of Fluid Mechanics]()* **966** A12, pp.1--12, 2023  
+[Arxiv {\tt physics.flu-dyn/2212.08874}}]()
 
-\item \html{[}
-F.Gattere, A.Chiarini, E.Gallorini & M.Quadrio, 2023.
-\htmladdnormallink{Structure function tensor equations with triple decomposition}
-{../../papers/2023-JFMa.pdf}
-\html{]} 
-{\em Journal of Fluid Mechanics}, {\bf 960}, A7, pp.1--42, 2023. 
-\htmladdnormallink{Arxiv {\tt physics.flu-dyn/2302.09305}}{../../papers/2023-JFMa-arxiv.pdf}
+- Structure function tensor equations with triple decomposition  
+F.Gattere, A.Chiarini, E.Gallorini & M.Quadrio  
+*[Journal of Fluid Mechanics]()* **960** A7, pp.1--42, 2023   
+[Arxiv {\tt physics.flu-dyn/2302.09305}]()
 
-\item \html{[}
-V.Garcia Bennett, M.Alberti, M.Quadrio & J.O.Pralits, 2023.
-\htmladdnormallink{Optimization of patient positioning for improved healing after corneal transplantation}
-{../../papers/2023-JBiomech.pdf}
-\html{]} 
-{\em J. Biomechanics}, {\bf 150}, 111510, pp.1--9, 2023. 
+- Optimization of patient positioning for improved healing after corneal transplantation  
+V.Garcia Bennett, M.Alberti, M.Quadrio & J.O.Pralits  
+*[J. Biomechanics]() **150** 111510, pp.1--9, 2023
 
-\item \html{[}
-G.Foggi Rota, A.Monti, M.E.Rosti & M.Quadrio, 2023.
-\htmladdnormallink{Saving Energy in Turbulent Flows with Unsteady Pumping}
-{../../papers/2023-nature.pdf}
-\html{]} 
-{\em Nature Sci.Rep.} {\bf 13}:1299, pp.1--6
-\htmladdnormallink{Arxiv {\tt physics.flu-dyn/2212.08874}}{../../papers/2023-nature-arxiv.pdf}
+- Saving Energy in Turbulent Flows with Unsteady Pumping  
+G.Foggi Rota, A.Monti, M.E.Rosti & M.Quadrio  
+*[Nature Sci.Rep.]() **13** 1299, pp.1--6  
+[Arxiv {\tt physics.flu-dyn/2212.08874}]()
 
-\item \html{[}
-E.Gallorini, M.Quadrio & D.Gatti, 2022.
-\htmladdnormallink{Coherent near-wall structures and drag reduction by spanwise forcing}
-{../../papers/2022-PRF.pdf}
-\html{]} 
-{\em Physical Review Fluids} {\bf 7} 114602, pp.1--19, 2022. 
-\htmladdnormallink{Arxiv {\tt physics.flu-dyn/2208.09955v1}}{../../papers/2022-PRF-arxiv.pdf}
+- Coherent near-wall structures and drag reduction by spanwise forcing  
+E.Gallorini, M.Quadrio & D.Gatti  
+*[Physical Review Fluids]()* **7** 114602, pp.1--19, 2022   
+[Arxiv {\tt physics.flu-dyn/2208.09955v1}]()
 
-\item \html{[}
-A.Chiarini, M.Quadrio & F.Auteri, 2022.
-\htmladdnormallink{An almost subharmonic instability in the flow past rectangular cylinders}{../../papers/2022-JFMe.pdf}
-\html{]} 
-{\em Journal of Fluid Mechanics}, {\bf 950}, A20, pp.1--25, 2022.
+- An almost subharmonic instability in the flow past rectangular cylinders  
+A.Chiarini, M.Quadrio & F.Auteri  
+*[Journal of Fluid Mechanics]()* **950** A20, pp.1--25, 2022
 
-\item \html{[}
-A.Chiarini, D.Gatti, A.Cimarelli & M.Quadrio, 2022.
-\htmladdnormallink{Structure of turbulence in the flow around a rectangular cylinder}
-{../../papers/2022-JFMd.pdf}
-\html{]} 
-{\em Journal of Fluid Mechanics},  {\bf 946}, A35, pp.1--35, 2022.
-\htmladdnormallink{Arxiv {\tt physics.flu-dyn/2207.05799v1}}{../../papers/2022-JFMd-arxiv.pdf}
+- Structure of turbulence in the flow around a rectangular cylinder  
+A.Chiarini, D.Gatti, A.Cimarelli & M.Quadrio  
+*[Journal of Fluid Mechanics]()* **946** A35, pp.1--35, 2022  
+*[Arxiv {\tt physics.flu-dyn/2207.05799]()*
 
 \item \html{[}
 F.Gattere, A.Chiarini & M.Quadrio, 2022.
