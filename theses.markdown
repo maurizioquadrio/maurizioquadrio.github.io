@@ -172,25 +172,24 @@ The influcence of endplate geometry and tip structure on wheel wake aerodynamics
 - Kazuto Hasegawa (luglio 2021)
 Prediction of pathologies of human nose by machine learning with flow physics
 
-- Jimmy Vianello (giugno 2021)
-Development of a multi-GPU Navier-Stokes solver 
+- Jimmy **Vianello** (2021, June)
+*[Development of a multi-GPU Navier-Stokes solver](https://hdl.handle.net/10589/176080)*
 
-- Alessio Malli  (aprile 2021)
-DNS study of turbulent drag reduction via DBD plasma actuators
+- Alessio **Malli** (2021, April)
+*[DNS study of turbulent drag reduction via DBD plasma actuators](https://hdl.handle.net/10589/174887)*
 
-- Federica Gattere  (aprile 2021)
-Turbulent skin-friction drag reduction described with AGKE and triple decomposition
+- Federica **Gattere** (2021, April)
+*[Turbulent skin-friction drag reduction described with AGKE and triple decomposition](https://hdl.handle.net/10589/175817)*
 
-- Andrea Rossi  (aprile 2021)
-Analytical correction of corner singularity for the turbulent flow over riblets
-In collaborazione con D.Gatti, Karlsruhe Institute of Technology 
+- Andrea **Rossi** (2021, April)
+*[Analytical correction of corner singularity for the turbulent flow over riblets](https://hdl.handle.net/10589/175058)*
 
 - Massimo Zanolini  (aprile 2021)
 Turbulent drag reduction using spanwise forcing in compressible regime
 In collaborazione con D.Gatti, Karlsruhe Institute of Technology 
 
-- Jacopo Casella  (aprile 2021)
-Machine-learning based classification of geometrically defective airfoils
+- Jacopo **Casella** (2021, April)
+*[Machine-learning based classification of geometrically defective airfoils](https://hdl.handle.net/10589/174213)*
 
 - Francesco Romano' (dicembre 2020)
 Ottimizzazione fluidodinamica per la chirurgia del setto nasale 
@@ -199,168 +198,145 @@ Ottimizzazione fluidodinamica per la chirurgia del setto nasale
 A Numerical CFD Study to Support Clinical Tests of Graft-Gas Coverage after DMEK Eye Surgery
 In collaborazione con J.Pralits, Univ. di Genova
 
-- Andrea Spini (luglio 2020)
-A neural-network approach for predicting the aerodynamic performance of airfoils
-in collaborazione con M.Rutten, DLR Goettingen 
+- Andrea **Spini** (2020, July)
+*[A neural-network approach for predicting the aerodynamic performance of airfoils](https://hdl.handle.net/10589/164519)
 
-- Alessandro Testa  (luglio 2020)
-Active Turbulence Control Through Wall Deformation in Channel Flow
+- Alessandro **Testa** (2020, July)
+*[Active turbulence control through wall deformation in channel flow](https://hdl.handle.net/10589/164354)*
 
-- Francesca Mangani (luglio 2020)
+- Francesca Mangani (2020, July)
 Effetto della temperatura nella fluidodinamica nasale
 
 - Umberto Tanzini (giugno 2020)
 Fluidodinamica computazionale e deviazione del setto nasale: risultati preliminari di un approccio moderno alla progettazione dell'intervento chirurgico di settoplastica
 Laurea in Medicina e Chirurgia, Università Vita-Salute San Raffaele (co-relatore) 
 
-- Matteo Zangrandi (giugno 2020)
-Aerodynamics over complex terrains and its effects on wind farm power production: an LES study
-In collaborazione con S.Leonardi, Un.Texas Dallas 
+- Matteo **Zangrandi** (2020, June)
+*[Aerodynamics over complex terrains and its effects on wind farm power production: an LES study](https://hdl.handle.net/10589/154258)*
 
-- Maria Debora Mauriello (giugno 2020)
-Inner-outer scale interactions in turbulent Couette flow 
+- Maria Debora **Mauriello** (2020, June)
+*[Inner-outer scale interactions in turbulent Couette flow](https://hdl.handle.net/10589/154347)*
 
-- Andrea Andreolli (aprile 2020)
-Global energy budgets in turbulent plane Couette and Poiseuille flows
-In collaborazione con D.Gatti, Karlsruhe Institute of Technology 
+- Andrea **Andreolli** (2020, April)
+*[Global energy budgets in turbulent plane Couette and Poiseuille flows](https://hdl.handle.net/10589/153027)*
 
-- Francesca Fugaro  (aprile 2020)
+- Francesca Fugaro  (aprile 2020, April)
 Project Lung: Design of an experimental tool that simulates human breathing for scientific research within the OpenNOSE project
 Laurea in Design & Engineering (co-relatore) 
 
-- Marco Lugaresi (aprile 2020)
-Simulazione numerica diretta della fluidodinamica nasale:
-aspetti di efficienza computazionale
+- Marco **Lugaresi** (2020, April)
+*[Simulazione numerica diretta della fluidodinamica nasale: aspetti di efficienza computazionale](https://hdl.handle.net/10589/153042)*
 
-- Gabriele Dini Ciacci (aprile 2020)
-Comparing different anatomies in nasal fluid dynamics
+- Gabriele **Dini Ciacci** (2020, April)
+*[Comparing different anatomies in nasal fluid dynamics](https://hdl.handle.net/10589/153047)*
 
-- Alessandro Borroni (aprile 2020)
-Shear sheltering e riduzione di attrito in flussi turbolenti di parete
+- Alessandro **Borroni** (2020, April)
+*[Shear sheltering e riduzione di attrito in flussi turbolenti di parete](https://hdl.handle.net/10589/153050)*
 
-- Francesco Parisi (dicembre 2019) 
-Ottimizzazione tramite CFD di una vettura di Formula E 
+- Francesco **Parisi** (2019, December) 
+*[Ottimizzazione tramite CFD di una vettura di Formula E](https://hdl.handle.net/10589/152359)*
 
-- Mirco Meazzo (ottobre 2019)
-Scaling Performance of a DNS solver written in CPL
+- Mirco **Meazzo** (2019, October)
+*[Scaling Performance of a DNS solver written in CPL](https://hdl.handle.net/10589/149489)*
 
-- Marco Villani (luglio 2019)
-Second-order structure function tensor budgets
-for channels at different values of Reynolds number
-In collaborazione con D.Gatti, Karlsruhe Institute of Technology 
+- Marco **Villani** (2019, July)
+*[Second-order structure function tensor budgets for channels at different values of Reynolds number](https://hdl.handle.net/10589/148407)*
 
-- Mattia Ciarlatani (luglio 2019)
-Ottimizzazione di forma adjoint-based per flussi turbolenti
+- Mattia **Ciarlatani** (2019, July)
+*[Ottimizzazione di forma adjoint-based per flussi turbolenti](https://hdl.handle.net/10589/148399)*
 
-- Gregorio Frassoldati (aprile 2019)
-Performance Study of an Immersed Boundary DNS Code
-applied to the Flow around a Confined Circular cylinder
+- Gregorio **Frassoldati** (2019, April)
+*[Performance Study of an Immersed Boundary DNS Code applied to the Flow around a Confined Circular cylinder](https://hdl.handle.net/10589/146773)*
 
-- Emanuele Gallorini (aprile 2019)
-Coherent structures in wall turbulence with drag reduction
-In collaborazione con D.Gatti, Karlsruhe Institute of Technology 
+- Emanuele **Gallorini** (2019, April)
+*[Coherent structures in wall turbulence with drag reduction](https://hdl.handle.net/10589/146809)*
 
-- Francesco Secchi (aprile 2019)
-Immersed boundary simulation of turbulent flow through a peristaltic actuator 
+- Francesco **Secchi** (2019, April)
+*[Immersed boundary simulation of turbulent flow through a peristaltic actuator](https://hdl.handle.net/10589/146760)*
 
-- Daniele Massaro (aprile 2019)
-Stability characteristics of wall-bounded flow with spanwise forcing 
+- Daniele **Massaro** (2019, April)
+*[Stability characteristics of wall-bounded flow with spanwise forcing](https://hdl.handle.net/10589/146808)*
 
-- Gianluca Romani (aprile 2019)
-Machine Learning techniques 
-for evaluating nasal airflow:
-preliminary results 
+- Gianluca **Romani** (2019, April)
+*[Machine Learning techniques for evaluating nasal airflow: preliminary results](https://hdl.handle.net/10589/146733)*
 
-- Luca Butera (aprile 2019)
-Nasal pathology assessment through
-Supervised Learning on Computational
+- Luca Butera (aprile 2019, April)
+Nasal pathology assessment through Supervised Learning on Computational
 Fluid Dynamics data: a preliminary study
-Laurea in Computer Science and Engineering (co-relatore) 
+Master in Computer Science and Engineering
 
-- Luca Boscagli (aprile 2018)
-Effect of the forcing term in the direct 
-numerical simulation of turbulent channel flow
+- Luca **Boscagli** (2018, April)
+*[Effect of the forcing term in the direct numerical simulation of turbulent channel flow](https://hdl.handle.net/10589/139453)*
 
-- Alessandro Chiarini	(aprile 2018)
-Production, transport and dissipation of turbulent stresses in channels 
-In collaborazione con D.Gatti, Karlsruhe Institute of Technology 
+- Alessandro **Chiarini** (2018, April)
+*[Production, transport and dissipation of turbulent stresses in channels](https://hdl.handle.net/10589/139450)*
 
-- Luca Guastoni (aprile 2018)
-Direct Numerical Simulation of turbulent channel flow on Intel Xeon PHI (KNL) architecture 
+- Luca **Guastoni** (2018, April)
+*[Direct Numerical Simulation of turbulent channel flow on Intel Xeon PHI (KNL) architecture](https://hdl.handle.net/10589/141085)* 
 
-- Giorgio Vicenzotti (aprile 2018)
-Influenza della temperatura nelle vie aeree superiori
-In collaborazione con U.Tomsk 
+- Giorgio **Vicenzotti** (2018, April)
+*[Influenza della temperatura nelle vie aeree superiori](https://hdl.handle.net/10589/139457)*
 
-- Roberto Mosca (dicembre 2017)
-Adjoint-Based Optimization of a Micro T-mixer 
+- Roberto **Mosca** (2017, December)
+*[Adjoint-Based Optimization of a Micro T-mixer](https://hdl.handle.net/10589/137345)*
 
+- Matteo **Pesarin** (2017, December)
+*[Shape Optimization: Generalized Boundary Conditions for Adjoint Navier-Stokes Equations](https://hdl.handle.net/10589/137198)*
+Master degree in Mathematical Engineering
 
-- Matteo Pesarin (dicembre 2017)
-Shape Optimization: Generalized Boundary Conditions 
-for Adjoint Navier-Stokes Equations
-Tesi di LM in Mathematical Engineering
+- Giuseppe **Sorgiovanni** (2017, October)
+*[A robust open-source adjoint optimization method for external aerodynamics]( https://hdl.handle.net/10589/136709)*
 
-- Giuseppe Sorgiovanni (ottobre 2017)
-A robust open-source adjoint optimization method for external aerodynamics 
+- Andrea **Schillaci** (2017, October)
+*[Modellazione e ottimizzazione del flusso nelle cavita' nasali](https://hdl.handle.net/10589/136747)*
 
-- Andrea Schillaci (ottobre 2017)
-Modellazione e ottimizzazione del flusso nelle cavita' nasali
+- Savino **Martino** (2017, July)
+*[Modelling of blood flow in a stenotic vessel](https://hdl.handle.net/10589/135242)*
 
-- Savino Martino (luglio 2017)
-Modelling of blood flow in a stenotic vessel 
+- Michele **Pinelli** (2017, July)
+*[DNS of a turbulent channel flow over a rough wall](https://hdl.handle.net/10589/135235)*
 
-- Michele Pinelli (luglio 2017)
-DNS of a turbulent channel flow over a rough wall.
-In collaborazione con University of California at Irvine 
+- Celeste M. **Monti** (2017, April)
+*[Metodo dei contorni immersi per la simulazione numerica diretta di correnti turbolente su pareti non piane](https://hdl.handle.net/10589/134501)*
 
-- Celeste M. Monti (aprile 2017)
-Metodo dei contorni immersi per la simulazione numerica diretta
-di correnti turbolente su pareti non piane.
+- Alberto **Remigi** (2017, April)
+*[Generalized Kolmogorov equation for turbulent wall flows with drag reduction](https://hdl.handle.net/10589/134044)*
 
-- Alberto Remigi (aprile 2017)
-Generalized Kolmogorov equation for turbulent wall flows with drag reduction.
-In collaborazione con D.Gatti, Karlsruhe Institute of Technology 
+- Lorenzo **Sufra'** (2017, April)
+*[Studio comparativo di modelli di turbolenza LES all'interno di una cavità nasale](https://hdl.handle.net/10589/134059)*
 
-- Lorenzo Sufra' (aprile 2017)
-Studio comparativo di modelli di turbolenza LES all'interno di una cavità nasale.
+- Alvaro **Gomez Cortes** (2017, April)
+*[Grid Convergence Study of a Lattice-Boltzmann CFD Code using a Realistic Generic Car Model](https://hdl.handle.net/10589/134040)*
 
-- Alvaro Gomez Cortes (aprile 2017)
-Grid Convergence Study of a Lattice-Boltzmann CFD Code using a Realistic Generic Car Model.
-In collaboration with Exa Corp.
+- Daniel **Mutlyashki** (2016, December)
+*[Novel methodologies of CFD in the automotive industry using a Lattice Boltzmann code](https://hdl.handle.net/10589/128361)*
 
-- Daniel Mutlyashki (dicembre 2016)
-Novel methodologies of CFD in the automotive industry using a Lattice Boltzmann code
-In collaborazione con EXA e ISAE -- Poitiers
+- Carlo **Suardi** (2016, July)
+*[Puff statistics in a drag-reduced turbulent pipe flow](https://hdl.handle.net/10589/123876)*
 
-- Carlo Suardi (luglio 2016)
-Puff statistics in a drag-reduced turbulent pipe flow.
+- Lucia **Mascotelli** (2016, July)
+*[Direct Numerical Simulations of a turbulent pipe flow at high Reynolds numbers](https://hdl.handle.net/10589/123696]*
 
-- Lucia Mascotelli (luglio 2016)
-Direct Numerical Simulations of a turbulent pipe flow at high Reynolds numbers.
+- Leonardo **Palma** (2016, April)
+*[Ottimizzazione in correnti turbolente con il metodo delle equazioni aggiunte: sviluppo di una metodologia su piattaforma HPC]( https://hdl.handle.net/10589/118229)*
 
-- Leonardo Palma (aprile 2016)
-Ottimizzazione in correnti turbolente con il metodo delle equazioni aggiunte:
-sviluppo di una metodologia su piattaforma HPC.
+- Jacopo **Banchetti** (2016, April)	
+*[Skin-friction turbulent drag reduction: a Lagrangian perspective](https://hdl.handle.net/10589/118277)*
 
-- Jacopo Banchetti (aprile 2016)	
-Skin-friction turbulent drag reduction: a Lagrangian perspective.
+- Mattia **Murari** (2015, December)
+*[Ottimizzazione vincolata adjoint-based: sviluppo di una metodologia open source su piattaforma HPC](https://hdl.handle.net/10589/117048)*
 
-- Mattia Murari (dicembre 2015)
-Ottimizzazione vincolata adjoint-based: sviluppo di una metodologia open source su piattaforma HPC
-
-- Daniele Menni (dicembre 2015)
-A GPU accelerated solver for DNS of homogeneous isotropic turbulence
+- Daniele **Menni** (2015, December)
+*[A GPU accelerated solver for DNS of homogeneous isotropic turbulence](https://hdl.handle.net/10589/116918)*
 
 - Joseph Diano	(luglio 2015)
 Studio sperimentale di onde peristaltiche per la riduzione dell'attrito turbolento
 
-- Luca Grizzetti (luglio 2015)
-Rilievo sperimentale del campo di velocita' 
-intorno a corpi tozzi con inserti in materiale poroso
+- Luca **Grizzetti** (luglio 2015)
+*[Rilievo sperimentale del campo di velocita' intorno a corpi tozzi con inserti in materiale poroso](https://hdl.handle.net/10589/108972)*
 
-- Giacomo Lamberti e Francesco Manara (aprile 2015)
-Simulazioni RANS e LES della fluidodinamica delle cavita' nasali
+- Giacomo **Lamberti**, Francesco **Manara** (2015, April)
+*[Simulazioni RANS e LES della fluidodinamica delle cavita' nasali](https://hdl.handle.net/10589/107862)*
 
 - Alessandro **Monti** (2015, April)
 *[Skin-friction drag reduction in a turbulent channel flow via pulsating forcing](https://hdl.handle.net/10589/107853)*
