@@ -331,7 +331,7 @@ A.Cimarelli, B.Frohnapfel, Y.Hasegawa, E.De Angelis & M.Quadrio
 
 - A perturbative model for predicting the high-Reynolds-number behaviour of the streamwise travelling waves technique in turbulent drag reduction  
 M.Belan & M.Quadrio  
-*[ZAMM](10.1002/zamm.201200153)* **93** n.12, pp.944--962, 2013  
+*[ZAMM](https://doi.org/10.1002/zamm.201200153)* **93** n.12, pp.944--962, 2013  
 [ArXiv:physics.flu-dyn/1301.5180](https://doi.org/10.48550/arXiv.1301.5180)
 
 - Turbulent channel flow simulations in convecting reference frames  
@@ -356,10 +356,9 @@ B.Frohnapfel, Y.Hasegawa & M.Quadrio
 
 # 2011
 
-\item \html{[} M.Quadrio, 2011.
-Drag reduction in boundary layers by in-plane wall motion.
-\html{]}
-Philosophical Transactions of the Royal Society A, {\bf 369}, 1428--1442, 2011.
+Drag reduction in boundary layers by in-plane wall motion  
+M.Quadrio  
+*[Philosophical Transactions of the Royal Society A](https://doi.org/10.1098/rsta.2010.0366)* **369** 1428--1442, 2011
 
 - Linear feedback control of transient energy growth and control performance limitations in subcritical plane Poiseuille flow  
 F.Martinelli, M.Quadrio, J.McKernan & J.F.Whidborne  
