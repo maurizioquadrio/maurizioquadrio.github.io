@@ -94,9 +94,9 @@ G.Foggi Rota, A.Monti, M.E.Rosti & M.Quadrio
 
 # 2022
 
-Coherent near-wall structures and drag reduction by spanwise forcing  
+- Coherent near-wall structures and drag reduction by spanwise forcing  
 E.Gallorini, M.Quadrio & D.Gatti  
-*[Physical Review Fluids]()* **7** 114602, pp.1--19, 2022   
+*[Physical Review Fluids](https://doi.org/10.1103/PhysRevFluids.7.114602)* **7** 114602, pp.1--19, 2022   
 [Arxiv:physics.flu-dyn/2208.09955](https://doi.org/10.48550/arXiv.2208.09955)
 
 - An almost subharmonic instability in the flow past rectangular cylinders  
@@ -108,29 +108,27 @@ A.Chiarini, D.Gatti, A.Cimarelli & M.Quadrio
 *[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2022.599)* **946** A35, pp.1--35, 2022  
 [Arxiv:physics.flu-dyn/2207.05799](https://doi.org/10.48550/arXiv.2207.05799)
 
-Dimples for skin-friction drag reduction: status and perspectives  
+- Dimples for skin-friction drag reduction: status and perspectives  
 F.Gattere, A.Chiarini & M.Quadrio  
-*[Fluids]()* **7** n.7, 240 Special Issue on *Drag Reduction in Turbulent Flows*  
+*[Fluids](https://doi.org/10.3390/fluids7070240)* **7** n.7, 240 Special Issue on *Drag Reduction in Turbulent Flows*  
 [Arxiv:physics.flu-dyn/2207.04446](https://doi.org/10.48550/arXiv.2207.04446)
 
 Wall Turbulence and Turbulent Drag Reduction
 P.Luchini & M.Quadrio, 2022
 In: Rega, G. (eds) 50+ Years of AIMETA. Springer, Cham. https://doi.org/10.1007/978-3-030-94195-6_22
 
-Drag Reduction by Riblets on a Commercial UAV
+- Drag Reduction by Riblets on a Commercial UAV
 L.Cacciatori, C.Brignoli, B.Mele, F.Gattere, C.M.Monti & M.Quadrio
-*[Applied Science, Energy Science and Technology]()* **12** n.10, Special Issue on *Flow Control, Active and Passive Applications*, 2022
+*[Applied Science, Energy Science and Technology](https://doi.org/10.3390/app12105070)* **12** n.10, Special Issue on *Flow Control, Active and Passive Applications*, 2022
 
 - Drag reduction on a transonic airfoil  
 M.Quadrio, A.Chiarini, J.Banchetti, D.Gatti, A.Memmolo & S.Pirozzoli  
 *[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2022.369)* **942** R2, 2022  
 [Arxiv:physics.flu-dyn/2204.12172](https://doi.org/10.48550/arXiv.2204.12172)
 
-A. Schillaci & M. Quadrio, 2022.
-\htmladdnormallink{
-Importance of the numerical schemes in the CFD of the human nose}
-{../../papers/2022-JBiomech.pdf}
-{\em J. Biomechanics}, {\bf 138}, 111100, pp.1--9, 2022. 
+- Importance of the numerical schemes in the CFD of the human nose  
+A.Schillaci & M.Quadrio  
+*[Journal of Biomechanics](https://doi.org/10.1016/j.jbiomech.2022.111100)* **138** 111100, pp.1--9, 2022
 
 - A new scaling for the flow instability past symmetric bluff bodies  
 A.Chiarini, M.Quadrio & F.Auteri  
@@ -140,12 +138,14 @@ A.Chiarini, M.Quadrio & F.Auteri
 A.Chiarini, M.Quadrio & F.Auteri, 2022  
 *[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2021.1027)* **933** A44 pp.1--25, 2022
 
-The importance of corner sharpness in the BARC test case: A numerical study  
+- The importance of corner sharpness in the BARC test case: A numerical study  
 A.Chiarini & M.Quadrio  
-*[Wind and Structures, an International Journal]()* **3** n.1, pp.43--58 , 2022
+*[Wind and Structures, an International Journal](https://doi.org/10.12989/was.2022.34.1.043)* **34** n.1, pp.43--58 , 2022
 [Arxiv:physics.flu-dyn/2109.03522](https://doi.org/10.48550/arXiv.2109.03522)
 
 --------------
+
+# 2021
 
 - Ascending-descending and direct-inverse cascades of Reynolds stresses in turbulent Couette flow  
 A.Chiarini, M.Mauriello, D.Gatti & M.Quadrio  
@@ -161,32 +161,32 @@ A.Andreolli, M.Quadrio & D.Gatti
 *[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2021.598)* **924** A25 pp.1--20, 2021  
 [Arxiv:physics.flu-dyn/2106.14495]
 
-X.Q.Cheng, Z.X.Qiao, X.Zhang, M.Quadrio & Y.Zhou, 2021.
-\htmladdnormallink{Skin-friction reduction using periodic blowing through streamwise slits}
-{../../papers/2021-JFMa.pdf}
-{\em Journal of Fluid Mechanics}, {\bf 920}, A50 pp.1--33, 2021. 
+- Skin-friction reduction using periodic blowing through streamwise slits  
+X.Q.Cheng, Z.X.Qiao, X.Zhang, M.Quadrio & Y.Zhou  
+*[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2021.4390)* **920** A50 pp.1--33, 2021
 
-The turbulent flow over the BARC rectangular cylinder: a DNS study
-A.Chiarini & M.Quadrio
-*[Flow Turbulence and Combustion]()* **107** pp.875--899, 2021. 
+- The turbulent flow over the BARC rectangular cylinder: a DNS study  
+A.Chiarini & M.Quadrio  
+*[Flow Turbulence and Combustion](https://doi.org/10.1007/s10494-021-00254-1)* **107** pp.875--899, 2021  
 [Arxiv:physics.flu-dyn/2105.00910](https://doi.org/10.48550/arXiv.2105.00910)
 
+- Through The Back Door: Expiratory Accumulation of SARS-Cov-2 in the Olfactory Mucosa as Mechanism for CNS Penetration  
 C.Pipolo, A.M.Bulfamante, A.Schillaci, J.Banchetti, L.Castellani, A.M.Saibene, 
-G.Felisati & M.Quadrio, 2021.
-\htmladdnormallink{Through The Back Door: Expiratory Accumulation of SARS-Cov-2 in the Olfactory Mucosa as Mechanism for CNS Penetration}
-{../../papers/2021-MedSci.pdf}
-{\em International Journal of Medical Sciences}, {\bf 18}, pp.2102--2018, 2021. 
-\htmladdnormallink{MedRxiv {\tt doi:10.1101/2020.12.09.20242396}}{../../papers/2021-medrxiv.pdf}
+G.Felisati & M.Quadrio  
+*[International Journal of Medical Sciences](doi:10.7150/ijms.56324)* **18** pp.2102--2018, 2021   
+[MedRxiv:20201209](doi:10.1101/2020.12.09.20242396}
 
-A.Chiarini, M.Quadrio & F.Auteri, 2021.
-A direction-splitting Navier--Stokes solver on co-located grids}
-{../../papers/2021-JCP.pdf}
-{\em Journal of Computational Physics}, {\bf 429}, 110023, pp.1--20, 2021.
+- A direction-splitting Navier--Stokes solver on co-located grids  
+A.Chiarini, M.Quadrio & F.Auteri  
+*[Journal of Computational Physics](https://doi.org/10.1016/j.jcp.2020.110023)* **429** 110023, pp.1--20, 2021
 
-A.Chiarini & M.Quadrio, 2021.
-\htmladdnormallink{The light/dark cycle of microalgae in a thin-layer photobioreactor}
-{../../papers/2021-JAP.pdf}
-{\em Journal of Applied Phycology}, {\bf 33}, pp.183--195, 2021.
+The light/dark cycle of microalgae in a thin-layer photobioreactor  
+A.Chiarini & M.Quadrio  
+*[Journal of Applied Phycology](https://doi.org/10.1007/s10811-020-02310-1)* **33** pp.183--195, 2021
+
+-------
+
+# 2020
 
 - Structure function tensor equations in inhomogeneous turbulence  
 D.Gatti, A.Chiarini, A.Cimarelli & M.Quadrio  
@@ -209,16 +209,20 @@ On the turbulence modeling of blood flow in a stenotic vessel}
 
 ----------
 
+# 2019
+
 - D. Gatti, A. Remigi, A. Chiarini, A. Cimarelli & M. Quadrio  
 An efficient numerical method for the Generalized Kolmogorov Equation  
 *[Journal of Turbulence](https://doi.org/10.1080/14685248.2019.1664746)* **20** n.8, pp.457--480, 2019  
 [ArXiv:physics.flu-dyn/1910.06409](https://doi.org/10.48550/arXiv.1910.06409)
 
-E.Buijs, V.Covello, C.Pipolo, A.Saibene, G.Felisati & M.Quadrio, 2019. 
-\htmladdnormallink{Thermal water delivery in the nose: an assessment of droplet deposition through computational fluid dynamics}
+E.Buijs, V.Covello, C.Pipolo, A.Saibene, G.Felisati & M.Quadrio, 2019
+Thermal water delivery in the nose: an assessment of droplet deposition through computational fluid dynamics}
 {\em Acta Othorinolaringologica Italica}, Epub 2019 Jan 31. https://doi.org/10.14639/0392-100X-225 pp.1--8, 2019.
 
 -----------
+
+# 2018
 
 - Global energy fluxes in fully-developed turbulent channels with flow control
 D.Gatti, A. Cimarelli, Y. Hasegawa, B. Frohnapfel & M.Quadrio
