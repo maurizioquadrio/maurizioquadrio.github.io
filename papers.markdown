@@ -4,6 +4,8 @@ title: Papers
 permalink: /papers/
 ---
 
+<!---
+
 %Margheritti, Schillaci, Pipolo, Quadrio, Boracchi
 %Data Augmentation Based on Computational Geometry for Neural Network Training in Medical Flow Field Classification
 
@@ -16,6 +18,8 @@ permalink: /papers/
 % On the comparison between topological and surface sensitivities for bio-fluid dynamics application
 
 %Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose" has just been submitted to "Applied Mathematical Modelling" (PENNISI)
+
+-->
 
 - D.Gatti, M.Quadrio, A.Chiarini, F.Gattere & S.Pirozzoli, 2024  
 Turbulent skin-friction drag reduction via spanwise forcing at high Reynolds number  
