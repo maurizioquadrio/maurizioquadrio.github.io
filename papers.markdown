@@ -9,10 +9,6 @@ permalink: /papers/
 %Margheritti, Schillaci, Pipolo, Quadrio, Boracchi
 %Data Augmentation Based on Computational Geometry for Neural Network Training in Medical Flow Field Classification
 
-% Asbtract a congresso
-% U.Tanzini, M.Macellari, A.Schillaci, M.Quadrio, M.Trimarchi
-% Nasal septal deviation and computational fluid dynamics: a modern approach to the surgical planning of septoplasty
-
 % Inhalation Magazine 1 and 2
 
 % On the comparison between topological and surface sensitivities for bio-fluid dynamics application
@@ -28,7 +24,7 @@ Submitted to *J. Fluid Mechanics*, 2024
 
 - An adjoint-based approach for the surgical correction of nasal septal deviations  
 M.Macellari, A. Schillaci, U. Tanzini, M. Trimarchi & M. Quadrio  
-*Computers in Biology and Medicine* **176** 108566, pp.1--11, 2024  
+[*Computers in Biology and Medicine*](https://doi.org/10.1016/j.compbiomed.2024.108566) **176** 108566, pp.1--11, 2024]  
 [Arxiv:2405.07959](https://doi.org/10.48550/arXiv.2405.07959)
 
 - Tomo-PIV in a Patient-Specific Model of Human Nasal Cavities: A Methodological Approach  
@@ -41,20 +37,15 @@ E.Gallorini & M.Quadrio
 [Arxiv:2401.11722](https://doi.org/10.48550/arXiv.2401.11722)
 
 - Comparing flow-based and anatomy-based features in the data-driven study of nasal pathologies  
-A.Schillaci, K.Hasegawa, C.Pipolo, G.Boracchi and M.Quadrio
-[*Flow* **4** E5, pp.1--16, 2024](https://doi.org/10.1017/flo.2024.3)
+A.Schillaci, K.Hasegawa, C.Pipolo, G.Boracchi and M.Quadrio  
+[*Flow* **4** E5, pp.1--16, 2024](https://doi.org/10.1017/flo.2024.3)  
 [Arxiv:2312.09929](https://doi.org/10.48550/arXiv.2312.11202)  
 
-\item \html{[}
-F.Gattere, M.Zanolini, D.Gatti, M.Bernardini & M.Quadrio, 2024.
-\htmladdnormallink{Turbulent drag reduction with streamwise travelling waves in the compressible regime}
-{../../papers/2024-JFMb.pdf}
-\html{]} 
-{\em Journal of Fluid Mechanics}, {\bf 987}, A30, pp.1--26, 2024. 
-\htmladdnormallink{Arxiv {\tt physics.flu-dyn/2312.09929v1}}
-{../../papers/2024-JFMb-arxiv.pdf}
+- Turbulent drag reduction with streamwise travelling waves in the compressible regime  
+F.Gattere, M.Zanolini, D.Gatti, M.Bernardini & M.Quadrio  
+[*J. Fluid Mechanics* **987** A30, pp.1--26, 2024]()   
+[Arxiv:2312.09929v1]()
 
-\item \html{[}
 E.Segalerba, G. Dini Ciacci, M.Quadrio & J.O.Pralits, 2023.
 \htmladdnormallink{On the comparison between pre- and post-surgery nasal anatomies via computational fluid dynamics}
 {../../papers/2023-BMMB.pdf}
@@ -65,7 +56,6 @@ E.Segalerba, G. Dini Ciacci, M.Quadrio & J.O.Pralits, 2023.
 \htmladdnormallink{BioRrxiv {\tt https://doi.org/10.1101/2023.08.21.554118}}
 {../../papers/2023-BMMB-bioarxiv.pdf}
 
-\item \html{[}
 D.Massaro, F.Martinelli, P.J.Schmid & M.Quadrio, 2023.
 \htmladdnormallink{Linear stability of Poiseuille flow over a steady spanwise Stokes layer}
 {../../papers/2023-PRF.pdf}
@@ -83,9 +73,6 @@ D.Selvatici, M.Quadrio & A.Chiarini, 2023.
 \htmladdnormallink{Arxiv {\tt physics.flu-dyn/2308.09039}}
 {../../papers/2023-JFMc-arxiv.pdf}
 
-%--------(80)
-
-\item \html{[}
 G.Foggi Rota, A.Monti, M.E.Rosti & M.Quadrio, 2023.
 \htmladdnormallink{On-off pumping for drag reduction in a turbulent channel flow}
 {../../papers/2023-JFMb.pdf}
