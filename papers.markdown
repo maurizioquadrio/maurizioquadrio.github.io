@@ -147,6 +147,8 @@ A.Chiarini & M.Quadrio
 *[Wind and Structures, an International Journal]()* **3** n.1, pp.43--58 , 2022
 [Arxiv:physics.flu-dyn/2109.03522](https://doi.org/10.48550/arXiv.2109.03522)
 
+--------------
+
 - Ascending-descending and direct-inverse cascades of Reynolds stresses in turbulent Couette flow  
 A.Chiarini, M.Mauriello, D.Gatti & M.Quadrio  
 *[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2021.886)* **930** A9, pp.1--22, 2021  
@@ -165,25 +167,17 @@ A.Andreolli, M.Quadrio & D.Gatti
 *[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2021.598)* **924** A25 pp.1--20, 2021  
 [Arxiv:physics.flu-dyn/2106.14495]
 
-\item \html{[}
 X.Q.Cheng, Z.X.Qiao, X.Zhang, M.Quadrio & Y.Zhou, 2021.
 \htmladdnormallink{Skin-friction reduction using periodic blowing through streamwise slits}
 {../../papers/2021-JFMa.pdf}
 \html{]} 
 {\em Journal of Fluid Mechanics}, {\bf 920}, A50 pp.1--33, 2021. 
 
-\item \html{[} 
-A.Chiarini & M.Quadrio, 2021.
-\htmladdnormallink{
-The turbulent flow over the BARC rectangular cylinder: a DNS study}
-{../../papers/2021-FTaC.pdf}
-\html{]}
-{\em Flow Turbulence and Combustion}, {\bf 107}, pp.875--899, 2021. 0.1007/s10494-021-00254-1
-\htmladdnormallink{Arxiv {\tt physics.flu-dyn/2105.00910v1}}{../../papers/2021-FTaC-arxiv.pdf}
+The turbulent flow over the BARC rectangular cylinder: a DNS study
+A.Chiarini & M.Quadrio
+*[Flow Turbulence and Combustion]()* **107** pp.875--899, 2021. 
+[Arxiv:physics.flu-dyn/2105.00910](https://doi.org/10.48550/arXiv.2105.00910)
 
-%--------(60)
-
-\item \html{[} 
 C.Pipolo, A.M.Bulfamante, A.Schillaci, J.Banchetti, L.Castellani, A.M.Saibene, 
 G.Felisati & M.Quadrio, 2021.
 \htmladdnormallink{Through The Back Door: Expiratory Accumulation of SARS-Cov-2 in the Olfactory Mucosa as Mechanism for CNS Penetration}
@@ -207,21 +201,15 @@ A.Chiarini & M.Quadrio, 2021.
 \html{]}
 {\em Journal of Applied Phycology}, {\bf 33}, pp.183--195, 2021.
 
-\item \html{[} 
-D.Gatti, A.Chiarini, A.Cimarelli & M.Quadrio, 2020.
-\htmladdnormallink{Structure function tensor equations in inhomogeneous turbulence}
-{../../papers/2020-JFMb.pdf}
-\html{]} 
-{\em Journal of Fluid Mechanics}, {\bf 898}, A5, pp.1--33, 2020.
-\htmladdnormallink{ArXiv {\tt physics.flu-dyn/2005.07438v1}}{../../papers/2020-JFMb-arxiv.pdf}
+- Structure function tensor equations in inhomogeneous turbulence  
+D.Gatti, A.Chiarini, A.Cimarelli & M.Quadrio  
+*[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2020.399)* **898** A5, pp.1--33, 2020  
+[ArXiv:physics.flu-dyn/2005.07438](https://doi.org/10.48550/arXiv.2005.07438)
 
-\item 
-\html{[} J.Banchetti, P.Luchini & M.Quadrio, 2020.
-\htmladdnormallink{Turbulent drag reduction over curved walls}
-{../../papers/2020-JFM.pdf}
- \html{]}
-{\em Journal of Fluid Mechanics}, {\bf 896}, A10 pp.1--23, 2020. 
-\htmladdnormallink{ArXiv {\tt physics.flu-dyn/2004.12086v1}}{../../papers/2020-JFM-arxiv.pdf}
+- Turbulent drag reduction over curved walls  
+J.Banchetti, P.Luchini & M.Quadrio  
+*[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2020.338) **896** A10, pp.1--23, 2020   
+[ArXiv:physics.flu-dyn/2004.12086}(https://doi.org/10.48550/arXiv.2004.12086)
 
 \html{[} A.Saibene, G.Felisati, C.Pipolo, A.Bulfamante, M.Quadrio & V.Covello, 2020.
 \htmladdnormallink{
@@ -239,30 +227,23 @@ On the turbulence modeling of blood flow in a stenotic vessel}
 \html{]} 
 {\em J. Biomechanical Eng.}, {\bf 142} n.1, 001009-11, 2020.
 
-\item \html{[} 
-D. Gatti, A. Remigi, A. Chiarini, A. Cimarelli & M. Quadrio, 2019.
-\htmladdnormallink{
-An efficient numerical method for the Generalized Kolmogorov Equation}
-{../../papers/2019-JoT.pdf}
-\html{]} 
-{\em J. of Turbulence}, {\bf 20} n.8, pp.457--480, 2019.
-ArXiv {\tt physics.flu-dyn/1910.06409v1}
+----------
 
-\item \html{[} 
+- D. Gatti, A. Remigi, A. Chiarini, A. Cimarelli & M. Quadrio  
+An efficient numerical method for the Generalized Kolmogorov Equation  
+*[Journal of Turbulence](https://doi.org/10.1080/14685248.2019.1664746)* **20** n.8, pp.457--480, 2019  
+[ArXiv:physics.flu-dyn/1910.06409](https://doi.org/10.48550/arXiv.1910.06409)
+
 E.Buijs, V.Covello, C.Pipolo, A.Saibene, G.Felisati & M.Quadrio, 2019. 
 \htmladdnormallink{Thermal water delivery in the nose: an assessment of droplet deposition through computational fluid dynamics}
-{../../papers/2019-AOI.pdf}
-\html{]} 
 {\em Acta Othorinolaringologica Italica}, Epub 2019 Jan 31. https://doi.org/10.14639/0392-100X-225 pp.1--8, 2019.
 
-\item \html{[} D.Gatti, A. Cimarelli, Y. Hasegawa, B. Frohnapfel & M.Quadrio, 2018.
-\htmladdnormallink{Global energy fluxes in fully-developed turbulent channels with flow control}
-{../../papers/2018-JFM.pdf}
-\html{]} 
-{\em J. Fluid Mech.} , {\bf 857}, pp.345--373, 2018.
-ArXiv {\tt physics.flu-dyn/1809.00730v1}
+-----------
 
-%--------(50)
+- Global energy fluxes in fully-developed turbulent channels with flow control
+D.Gatti, A. Cimarelli, Y. Hasegawa, B. Frohnapfel & M.Quadrio
+*[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2018.749)* **857** pp.345--373, 2018
+[ArXiv:physics.flu-dyn/1809.00730](https://doi.org/10.48550/arXiv.1809.00730)
 
 \item \html{[} V.Covello, C.Pipolo, A.Saibene, G.Felisati & M.Quadrio, 2018. 
 \htmladdnormallink{Numerical simulation of thermal water delivery in the human nasal cavity}
@@ -300,12 +281,10 @@ ArXiv {\tt physics.flu-dyn/1809.00730v1}
 \html{]} 
 {\em Medical Engineering & Physics}, {\bf 47}, pp.38--46, 2017. MOX report 54/2016
 
-\item \html{[} D.Gatti & M.Quadrio, 2016.
-\htmladdnormallink{Reynolds-number dependence of skin-friction drag reduction induced by spanwise forcing}
-{../../papers/2016-JFM.pdf}
-\html{]} 
-{\em J. Fluid Mech.} , {\bf 802}, pp.553--582, 2016.
-ArXiv {\tt physics.flu-dyn/1512.08118v2}
+- Reynolds-number dependence of skin-friction drag reduction induced by spanwise forcing  
+D.Gatti & M.Quadrio
+*[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2016.485)* **802** pp.553--582, 2016  
+[ArXiv:physics.flu-dyn/1512.08118](https://doi.org/10.48550/arXiv.1512.08118)
 
 \item \html{[} L.Palma, R.Pieri, R.Ponzini & M.Quadrio, 2016.
 \htmladdnormallink{Ottimizzazione di forma e codici CFD RANS: una strategia adjoint-based per applicazioni automobilistiche}
@@ -313,12 +292,10 @@ ArXiv {\tt physics.flu-dyn/1512.08118v2}
 \html{]}
 {\em Analisi e Calcolo} {\bf 74}, ISSN 1228-3874, May-June, 2016
 
-\item \html{[} M.Quadrio, B.Frohnapfel & Y.Hasegawa, 2016.
-\htmladdnormallink{Does the choice of the forcing term affect flow statistics in DNS of turbulent channel flow?}
-{../../papers/2015-EJMB.pdf}
-\html{]} 
-{\em European Journal of Mechanics B / Fluids}, {\bf 55}, pp.286--293, 2016. http://dx.doi.org/10.1016/j.euromechflu.2015
-ArXiv {\tt physics.flu-dyn/1509.04877}
+- M.Quadrio, B.Frohnapfel & Y.Hasegawa  
+Does the choice of the forcing term affect flow statistics in DNS of turbulent channel flow?  
+*[European Journal of Mechanics B / Fluids](https://doi.org/10.1016/j.euromechflu.2015.09.005)* **55** pp.286--293, 2016  
+[ArXiv:physics.flu-dyn/1509.04877](https://doi.org/10.48550/arXiv.1509.04877)
 
 \item \html{[} M.Quadrio, C.Pipolo, S.Corti, F.Messina, C.Pesci, A.M.Saibene, S.Zampini, G.Felisati, 2016.
 \htmladdnormallink{Effects of CT resolution and radiodensity threshold on the CFD evaluation of nasal airflow.}
@@ -326,20 +303,15 @@ ArXiv {\tt physics.flu-dyn/1509.04877}
 \html{]} 
 {\em Medical and Biological Eng. and Computing}, {\bf 54}, pp.411--419, 2016.
 
-%--------(40)
+- Direct numerical simulation of turbulent channel flow over porous walls  
+M.E.Rosti, L.Cortelezzi & M.Quadrio  
+*[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2015.566)* **784** pp.396--442, 2015  
+[ArXiv:physics.flu-dyn/1410.7235](https://doi.org/10.48550/arXiv.1410.7235)
 
-\item \html{[} M.Rosti, L.Cortelezzi & M.Quadrio, 2015.
-\htmladdnormallink{Direct numerical simulation of turbulent channel flow over porous walls}
-{../../papers/2015-JFMb.pdf}
-\html{]} 
-{\em J. Fluid Mech.} , {\bf 784}, pp.396--442, 2015.
-ArXiv {\tt physics.flu-dyn/1410.7235}
-
-\item \html{[} M.Zhang, F.Martinelli, J.Wu, P.Schmid & M.Quadrio, 2015.
-\htmladdnormallink{Modal and nonmodal stability analysis of electrohydrodynamic flow with and without cross-flow.}
-{../../papers/2015-JFM.pdf}
-\html{]} {\em J. Fluid Mech.} , {\bf 770}, pp.319--349, 2015.
-ArXiv {\tt physics.flu-dyn/1504.00561}
+- Modal and nonmodal stability analysis of electrohydrodynamic flow with and without cross-flow  
+M.Zhang, F.Martinelli, J.Wu, P.Schmid & M.Quadrio  
+*[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2015.134)* **770** pp.319--349, 2015  
+[ArXiv:physics.flu-dyn/1504.00561](https://doi.org/10.48550/arXiv.1504.00561)
 
 \item \html{[} E.Borlandelli, D.Scarselli, A.Nespoli, D.Rigamonti, P.Bettini, M.Morandini, E. Villa, G. Sala, & M. Quadrio, 2015.
 \htmladdnormallink{Design and experimental characterization of a NiTi-based, high-frequency, centripetal peristaltic actuator}
@@ -351,11 +323,10 @@ ArXiv {\tt physics.flu-dyn/1504.00561}
 {../../papers/2014-seisan.pdf}
 \html{]} {\em Seisankenkyu}, {\bf 66}, No.1, pp.39--42, 2014.
 
-\item \html{[} Y.Hasegawa, M.Quadrio & B.Frohnapfel, 2014.
-\htmladdnormallink{Numerical simulation of turbulent duct flows with constant power input.}
-{../../papers/2014-JFM.pdf}
-\html{]} {\em J. Fluid Mech.} , {\bf 750}, pp.191--209, 2014.
-ArXiv {\tt physics.flu-dyn/1212.6052}
+- Numerical simulation of turbulent duct flows with constant power input  
+Y.Hasegawa, M.Quadrio & B.Frohnapfel  
+*[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2014.269)*  **750** pp.191--209, 2014  
+[ArXiv:physics.flu-dyn/1212.6052](https://doi.org/10.48550/arXiv.1405.1750)
 
 \item \html{[}  M.Quadrio, C.Pipolo, S.Corti, R.Lenzi,
 F.Messina, C.Pesci & G.Felisati, 2014. 
@@ -364,27 +335,20 @@ F.Messina, C.Pesci & G.Felisati, 2014.
 \html{]} 
 {\em European Archives of Oto-Rhino-Laryngology and Head & Neck}, DOI 10.1007/s00405-013-2742-3, September 2014, {\bf 271}, n.9, pp 2349-2354 
 
-\item \html{[} D.Gatti & M.Quadrio, 2013.
-\htmladdnormallink{Performance losses of drag-reducing spanwise forcing 
-at moderate values of the Reynolds number.}
-{../../papers/2013-pof2.pdf}
-\html{]}
-{\em Phys. Fluids}, {\bf 25}, 125109/17, 2013.
-ArXiv {\tt physics.flu-dyn/1212.6052}
+Performance losses of drag-reducing spanwise forcing at moderate values of the Reynolds number  
+D.Gatti & M.Quadrio  
+*[Physics of Fluids]()* **25** 125109/17, 2013  
+[ArXiv:physics.flu-dyn/1212.6052](https://doi.org/10.48550/arXiv.1212.6052)
 
-\item \html{[} A.Cimarelli, B.Frohnapfel, Y.Hasegawa, E.De Angelis & M.Quadrio, 2013.
-\htmladdnormallink{Prediction of turbulence control for arbitrary periodic spanwise wall movement.}
-{../../papers/2013-pof.pdf}
-\html{]}
-{\em Phys. Fluids}, {\bf 25}, 075102/11, 2013.
-ArXiv {\tt physics.flu-dyn/1306.4541}
+Prediction of turbulence control for arbitrary periodic spanwise wall movement  
+A.Cimarelli, B.Frohnapfel, Y.Hasegawa, E.De Angelis & M.Quadrio  
+*[Physics of Fluids]()* **25** 075102/11, 2013  
+[ArXiv:physics.flu-dyn/1306.4541](https://doi.org/10.48550/arXiv.1306.4541)
 
-\item \html{[} M.Belan & M.Quadrio, 2013.
-\htmladdnormallink{A perturbative model for predicting the high-Reynolds-number behaviour of the streamwise travelling waves technique in turbulent drag reduction.}
-{../../papers/2013-ZAMM-arxiv.pdf}
-\html{]}
-{\em ZAMM}, {\bf 93} N. 12, pp.944--962, 2013
-ArXiv {\tt physics.flu-dyn/1301.5180}
+A perturbative model for predicting the high-Reynolds-number behaviour of the streamwise travelling waves technique in turbulent drag reduction  
+M.Belan & M.Quadrio  
+*[ZAMM]()* **93** n.12, pp.944--962, 2013  
+[ArXiv:physics.flu-dyn/1301.5180](https://doi.org/10.48550/arXiv.1301.5180)
 
 \item \html{[} M.Bernardini, S.Pirozzoli, M.Quadrio & P.Orlandi, 2013.
 \htmladdnormallink{Turbulent channel flow simulations in convecting reference frames.}
@@ -392,101 +356,70 @@ ArXiv {\tt physics.flu-dyn/1301.5180}
 \html{]}
 {\em J. Comp. Phys.}, {\bf 232}, pp.1--6, 2013.
 
+- Changes in turbulent dissipation in a channel flow with oscillating walls  
+P.Ricco, C. Ottonelli, Y.Hasegawa & M.Quadrio
+*[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2012.97)* **700** pp.77--104, 2012  
+[ArXiv:physics.flu-dyn/1202.3534](https://doi.org/10.48550/arXiv.1202.3534)
 
-%----(30)
-\item \html{[} P.Ricco, C. Ottonelli, Y.Hasegawa & M.Quadrio, 2012.
-\htmladdnormallink{Changes in turbulent dissipation in a channel flow with oscillating walls.}
-{../../papers/2012-JFM.pdf}
-\html{]}
-{\em J. Fluid Mech.} , {\bf 700}, pp.77--104, 2012.
-ArXiv {\tt physics.flu-dyn/1202.3534}
-
-\item \html{[} B.Frohnapfel, Y.Hasegawa & M.Quadrio, 2012.
-\htmladdnormallink{Money versus time: evaluation of flow control in terms of energy consumption and convenience.}
-{../../papers/2012-JFMb.pdf}
-\html{]}
-{\em J. Fluid Mech.} , {\bf 700}, pp.406--418, 2012.
-ArXiv {\tt physics.flu-dyn/1202.6207}
+- Money versus time: evaluation of flow control in terms of energy consumption and convenience  
+B.Frohnapfel, Y.Hasegawa & M.Quadrio  
+*[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2012.139)* **700** pp.406--418, 2012  
+[ArXiv:physics.flu-dyn/1202.6207](https://doi.org/10.48550/arXiv.1202.6207)
 
 \item \html{[} M.Quadrio, 2011.
 Drag reduction in boundary layers by in-plane wall motion.
 \html{]}
 Philosophical Transactions of the Royal Society A, {\bf 369}, 1428--1442, 2011.
 
-\item \html{[} F. Martinelli, M.Quadrio, J. McKernan & J.F. Whidborne, 2011.
-\htmladdnormallink{Linear feedback control of transient energy growth and control performance limitations in subcritical plane Poiseuille flow.}
-{../../papers/2011-PoF.pdf}
-\html{]}
-{\em Phys. Fluids} {\bf 23}, 014103/9, 2011.
-ArXiv {\tt physics.flu-dyn/1101.2629}
+- Linear feedback control of transient energy growth and control performance limitations in subcritical plane Poiseuille flow  
+F.Martinelli, M.Quadrio, J.McKernan & J.F.Whidborne  
+*[Physics of Fluids](https://doi.org/10.1063/1.3540672)* **23** 014103/9, 2011  
+[ArXiv:physics.flu-dyn/1101.2629](https://doi.org/10.48550/arXiv.1101.2629)
 
-\item \html{[} M.Quadrio & P.Ricco, 2011.
-\htmladdnormallink{The laminar generalized Stokes layer and turbulent drag reduction.}
-{../../papers/2011-JFM.pdf}
-\html{]}
-{\em J. Fluid Mech.} {\bf 667}, pp.135--157, 2011.
-ArXiv {\tt physics.flu-dyn/1008.3981}
+- The laminar generalized Stokes layer and turbulent drag reduction  
+M.Quadrio & P.Ricco  
+*[Journal of Fluid Mechanics](https://doi.org/10.1017/S0022112010004398)* **667** pp.135--157, 2011  
+[ArXiv:physics.flu-dyn/1008.3981](https://doi.org/10.48550/arXiv.1008.3981)
 
-\item \html{[} M.Carini & M.Quadrio, 2010.
-\htmladdnormallink{The DNS-based measurement of the mean impulse response of homogeneous isotropic turbulence.} 
-{../../papers/2010-PRE.pdf}
-\html{]}
-{\em Phys. Rev. E} {\bf 82}, 066301-10, 2010.
-ArXiv {\tt physics.flu-dyn/1011.2534}
+- The DNS-based measurement of the mean impulse response of homogeneous isotropic turbulence  
+M.Carini & M.Quadrio  
+*[Physical Review E](https://doi.org/10.1103/PhysRevE.82.066301)* **82** 066301-10, 2010  
+[ArXiv:physics.flu-dyn/1011.2534](https://doi.org/10.48550/arXiv.1011.2534)
 
-\item \html{[} L. Galantucci, C.F. Barenghi, M. Sciacca, M. Quadrio & P. Luchini, 2010. 
-\htmladdnormallink{Turbulent superfluid profiles in a counterflow channel.}
-{../../papers/2010-JLTP-arxiv.pdf}
-\html{]} 
-{\em J. Low Temp. Phys.}
-ArXiv {\tt physics.flu-dyn/1006.3183}
+- Turbulent superfluid profiles in a counterflow channel  
+L.Galantucci, C.F.Barenghi, M.Sciacca, M.Quadrio & P.Luchini  
+*[Journal of Low Temperature Physics](https://doi.org/10.1007/s10909-010-0266-4)* **162** pp.354–360, 2011  
+[ArXiv;physics.flu-dyn/1006.3183](https://doi.org/10.48550/arXiv.1006.3183)
 
-\item \html{[} F. Auteri, A. Baron, M. Belan, G. Campanardi & M. Quadrio, 2010. 
-\htmladdnormallink{Experimental assessment of turbulent drag reduction by traveling waves in a turbulent pipe flow.}
-{../../papers/2010-PoF.pdf}
-\html{]} 
-{\em Phys. Fluids} {\bf 22}, 115103/14, 2010. 
-ArXiv {\tt physics.flu-dyn/1008.2584}
+- Experimental assessment of turbulent drag reduction by traveling waves in a turbulent pipe flow  
+F.Auteri, A.Baron, M.Belan, G.Campanardi & M.Quadrio  
+*[Physics of Fluids](https://doi.org/10.1063/1.3491203)* **22** 115103/14, 2010   
+[ArXiv:physics.flu-dyn/1008.2584](https://doi.org/10.48550/arXiv.1008.2584)
 
-\item \html{[}
-L. Galantucci & M.Quadrio, 2010.
-\htmladdnormallink{Very fine structures of scalar mixing in wall-bounded turbulence.}
-{../../papers/2010-IJHFF.pdf}
-\html{]}
-{\em Int. J. Heat Fluid Flow} {\bf 31}, pp.499--506, 2010.
-ArXiv {\tt physics.flu-dyn/1005.3775}
+Very fine structures of scalar mixing in wall-bounded turbulence  
+L. Galantucci & M.Quadrio  
+*[Int. J. Heat Fluid Flow]()* **31** pp.499--506, 2010  
+[ArXiv;physics.flu-dyn/1005.3775](https://doi.org/10.48550/arXiv.1005.3775)
 
-\item \html{[} C.Viotti, M.Quadrio & P.Luchini, 2009
-\htmladdnormallink{Streamwise oscillations of spanwise velocity at the wall of a channel for drag reduction.}
-{../../papers/2009-PoF.pdf}
-\html{]}
-{\em Phys. Fluids} {\bf 21}, 115109/9, 2009. 
-ArXiv {\tt physics.flu-dyn/0911.0114}
+- Streamwise oscillations of spanwise velocity at the wall of a channel for drag reduction  
+C.Viotti, M.Quadrio & P.Luchini  
+*[Physics of Fluids](https://doi.org/10.1063/1.3266945)* **21** 115109/9, 2009  
+[ArXiv:physics.flu-dyn/0911.0114](https://doi.org/10.48550/arXiv.0911.0114)
 
-%------(20)
-\item \html{[}
-M.Quadrio, P.Ricco & C.Viotti, 2009.
-\htmladdnormallink{Streamwise-traveling waves of spanwise wall velocity in a turbulent channel flow.}
-{../../papers/2009-JFM.pdf}
-\html{]}
-{\em J. Fluid Mech.} {\bf 627}, pp.161--178, 2009.
-ArXiv {\tt physics.flu-dyn/0901.1026}
+- M.Quadrio, P.Ricco & C.Viotti  
+Streamwise-traveling waves of spanwise wall velocity in a turbulent channel flow  
+*[Journal of Fluid Mechanics](https://doi.org/10.1017/S0022112009006077)* **627** pp.161--178, 2009  
+[ArXiv:physics.flu-dyn/0901.1026](https://doi.org/10.48550/arXiv.0901.1026)
 
-\item \html{[}
-P.Ricco & M.Quadrio, 2008.
-\htmladdnormallink{Wall-oscillation conditions for drag reduction in turbulent channel flow.}
-{../../papers/2008-IJHFF-arxiv.pdf}
-\html{]}
-{\em Int. J. Heat Fluid Flow} {\bf 29}, pp.601--612.
-ArXiv {\tt physics.flu-dyn/0802.0114}
+Wall-oscillation conditions for drag reduction in turbulent channel flow
+P.Ricco & M.Quadrio
+*[International Journal of Heat and Fluid Flow]()* **29** pp.601--612, 2008
+[ArXiv:physics.flu-dyn/0802.0114](https://doi.org/10.48550/arXiv.0802.0114)
 
-\item \html{[}
-D. Pirr\`o & M.Quadrio, 2008.
-\htmladdnormallink{Direct numerical simulation of turbulent Taylor--Couette flow.}
-{../../papers/2007-EJMBF-arxiv.pdf}
-\html{]}
-{\em European Journal of Mechanics B / Fluids} {\bf 27}, pp.552--566.
-ArXiv {\tt physics.flu-dyn/0711.1429}
+- Direct numerical simulation of turbulent Taylor--Couette flow  
+D.Pirr\`o & M.Quadrio  
+*[European Journal of Mechanics B / Fluids](https://doi.org/10.1016/j.euromechflu.2007.10.005)* **27** pp.552--566, 2008  
+[ArXiv:physics.flu-dyn/0711.1429](https://doi.org/10.48550/arXiv.0711.1429)
 
 \item \html{[}M.Quadrio, J.M.Floryan & P.Luchini, 2007.
 \htmladdnormallink{Effects of streamwise-periodic wall transpiration on turbulent
@@ -495,19 +428,16 @@ friction drag.}
 \html{]}
 {\em J. Fluid Mech.} {\bf 576}, pp.425--444, 2007.
 
-\item \html{[} P.Luchini, M.Quadrio & S.Zuccher, 2006. 
-\htmladdnormallink{The phase-locked mean impulse response of a turbulent channel flow.}
-{../../papers/2006-pof.pdf}
-\html{]}
-{\em Physics of Fluids}, {\bf 18}, 121702/4, 2006. ArXiv {\tt physics/0611195}
+- The phase-locked mean impulse response of a turbulent channel flow  
+P.Luchini, M.Quadrio & S.Zuccher  
+*[Physics of Fluids](https://doi.org/10.1063/1.2409729)* **18** 121702/4, 2006  
+[ArXiv:physics/0611195](https://doi.org/10.48550/arXiv.physics/0611195)
 
-\item \html{[} P.Luchini & M.Quadrio, 2006.
-\htmladdnormallink{A low-cost parallel implementation of direct numerical simulation of
-wall turbulence.}
-{../../papers/2005-JCP-arXiv.pdf} 
-\html{]} 
-{\em Journal of Computational Physics}, {\bf 211} n.2, pp.551--571. 
-ArXiv {\tt physics/0506155}
+- A low-cost parallel implementation of direct numerical simulation of
+wall turbulence  
+P.Luchini & M.Quadrio  
+*[Journal of Computational Physics]()* **211** n.2, pp.551--571, 2006   
+[ArXiv:physics/0506155](https://doi.org/10.48550/arXiv.physics/0506155)
 
 \item \html{[}M.Quadrio, J.M. Floryan & P.Luchini, 2005. 
 \htmladdnormallink{Modification of Turbulent Flow using Distributed Suction.}{../../papers/2005-CASJ.pdf} 
