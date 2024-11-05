@@ -20,12 +20,12 @@ permalink: /papers/
 - Turbulent skin-friction drag reduction via spanwise forcing at high Reynolds number  
 D.Gatti, M.Quadrio, A.Chiarini, F.Gattere & S.Pirozzoli  
 Submitted to *J. Fluid Mechanics*, 2024  
-[Arxiv:2409.07230](https://doi.org/10.48550/arXiv.2409.07230)
+[Arxiv:physics.flu-dyn/2409.07230](https://doi.org/10.48550/arXiv.2409.07230)
 
 - An adjoint-based approach for the surgical correction of nasal septal deviations  
 M.Macellari, A.Schillaci, U.Tanzini, M.Trimarchi & M.Quadrio  
 *[Computers in Biology and Medicine]*(https://doi.org/10.1016/j.compbiomed.2024.108566) **176** 108566, pp.1--11, 2024  
-[Arxiv:2405.07959](https://doi.org/10.48550/arXiv.2405.07959)
+[Arxiv:physics.flu-dyn/2405.07959](https://doi.org/10.48550/arXiv.2405.07959)
 
 - Tomo-PIV in a patient-specific model of human nasal cavities: a methodological approach  
 S.M.Tauwald, F.Erzinger, M.Quadrio, M.Rütten, C.Stemmer & L.Krenkel  
@@ -34,27 +34,25 @@ S.M.Tauwald, F.Erzinger, M.Quadrio, M.Rütten, C.Stemmer & L.Krenkel
 - Spatial discretization effects in spanwise forcing for turbulent drag reduction  
 E.Gallorini & M.Quadrio  
 [*J. Fluid Mechanics*](https://doi.org/10.1017/jfm.2024.107) **982** A11, pp.1--25, 2024  
-[Arxiv:2401.11722](https://doi.org/10.48550/arXiv.2401.11722)
+[Arxiv:physics.flu-dyn/2401.11722](https://doi.org/10.48550/arXiv.2401.11722)
 
 - Comparing flow-based and anatomy-based features in the data-driven study of nasal pathologies  
 A.Schillaci, K.Hasegawa, C.Pipolo, G.Boracchi & M.Quadrio  
 *[Flow](https://doi.org/10.1017/flo.2024.3)* **4** E5, pp.1--16, 2024  
-[Arxiv:2312.09929](https://doi.org/10.48550/arXiv.2312.11202)  
+[Arxiv:physics.flu-dyn/2312.09929](https://doi.org/10.48550/arXiv.2312.11202)  
 
 - Turbulent drag reduction with streamwise travelling waves in the compressible regime  
 F.Gattere, M.Zanolini, D.Gatti, M.Bernardini & M.Quadrio  
 *[J. Fluid Mechanics](https://doi.org/10.1017/jfm.2024.408)* **987** A30, pp.1--26, 2024   
-[Arxiv:2312.09929](https://doi.org/10.48550/arXiv.2312.09929)
+[Arxiv:physics.flu-dyn/2312.09929](https://doi.org/10.48550/arXiv.2312.09929)
 
-E.Segalerba, G. Dini Ciacci, M.Quadrio & J.O.Pralits, 2023.
-\htmladdnormallink{On the comparison between pre- and post-surgery nasal anatomies via computational fluid dynamics}
-{../../papers/2023-BMMB.pdf}
-\html{]} 
-{\em Biomechanics and Modelling in Mechanobiology} {\bf 23}, pp.305--314
-\htmladdnormallink{Arxiv {\tt physics.flu-dyn/2308.10701}}
-{../../papers/2023-BMMB-arxiv.pdf} and 
-\htmladdnormallink{BioRrxiv {\tt https://doi.org/10.1101/2023.08.21.554118}}
-{../../papers/2023-BMMB-bioarxiv.pdf}
+----------------
+
+- On the comparison between pre- and post-surgery nasal anatomies via computational fluid dynamics  
+E.Segalerba, G. Dini Ciacci, M.Quadrio & J.O.Pralits  
+*[Biomechanics and Modelling in Mechanobiology]()* **23** pp.305--314, 2023  
+[Arxiv:physics.flu-dyn/2308.10701]()  
+[BioRrxiv}(https://doi.org/10.1101/2023.08.21.554118)
 
 D.Massaro, F.Martinelli, P.J.Schmid & M.Quadrio, 2023.
 \htmladdnormallink{Linear stability of Poiseuille flow over a steady spanwise Stokes layer}
