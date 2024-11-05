@@ -484,7 +484,7 @@ M.Quadrio & P.Luchini
 
 - Numerical simulation of turbulent flow in a pipe oscillating around its axis  
 M.Quadrio & S.Sibilla  
-*{Journal of Fluid Mechanics](https://doi.org/10.1017/S0022112000001889)* **424** pp.217--241, 2000
+*[Journal of Fluid Mechanics](https://doi.org/10.1017/S0022112000001889)* **424** pp.217--241, 2000
 
 ---
 
@@ -520,7 +520,7 @@ A.Baron & M.Quadrio
 
 - Direct numerical simulation of turbulent flows under the Narrow Channel assumption
 A.Baron & M.Quadrio
-*L'Aerotecnica Missili e Spazio]* **73** n.1, pp. 3--13, 1994
+*L'Aerotecnica Missili e Spazio* **73** n.1, pp. 3--13, 1994
 
 ---
 
@@ -530,7 +530,7 @@ A.Baron & M.Quadrio
 A.Baron, M.Quadrio & L.Vigevano  
 *[The International Journal of Heat and Fluid Flow](https://doi.org/10.1016/0142-727X(93)90005-8)* **14** n.4, pp. 324--332, 1993
 
-Some preliminary results on the influence of riblets on the structure of the turbulent boundary layer  
+- Some preliminary results on the influence of riblets on the structure of the turbulent boundary layer  
 A.Baron & M.Quadrio  
 *[The International Journal of Heat and Fluid Flow](https://doi.org/10.1016/0142-727X(93)90052-O)* **14** n.3, pp.223--230, 1993
 
