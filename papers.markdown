@@ -51,17 +51,19 @@ F.Gattere, M.Zanolini, D.Gatti, M.Bernardini & M.Quadrio
 *[J. Fluid Mechanics](https://doi.org/10.1017/jfm.2024.408)* **987** A30, pp.1--26, 2024   
 [Arxiv:physics.flu-dyn/2312.09929](https://doi.org/10.48550/arXiv.2312.09929)
 
-----------------
-
-On the comparison between pre- and post-surgery nasal anatomies via computational fluid dynamics  
+- On the comparison between pre- and post-surgery nasal anatomies via computational fluid dynamics  
 E.Segalerba, G. Dini Ciacci, M.Quadrio & J.O.Pralits  
-*[Biomechanics and Modelling in Mechanobiology]()* **23** pp.305--314, 2023  
+*[Biomechanics and Modelling in Mechanobiology](https://doi.org/10.1007/s10237-023-01776-5)* **23** pp.305--314, 2024  
 [Arxiv:physics.flu-dyn/2308.10701](https://doi.org/10.48550/arXiv.2308.10701)  
 [BioRxiv:20230822](https://doi.org/10.1101/2023.08.21.554118)
 
-Linear stability of Poiseuille flow over a steady spanwise Stokes layer  
+----------------
+
+# 2023
+
+- Linear stability of Poiseuille flow over a steady spanwise Stokes layer  
 D.Massaro, F.Martinelli, P.J.Schmid & M.Quadrio  
-*[Physics Review Fluids]()* **8** 103920, pp.1--23, 2023  
+*[Physics Review Fluids](https://doi.org/10.1103/PhysRevFluids.8.103902)* **8** 103920, pp.1--23, 2023  
 [Arxiv:physics.flu-dyn/2308.11525](https://doi.org/10.48550/arXiv.2308.11525)
 
 - Curvature effects on the structure of near-wall turbulence  
@@ -79,9 +81,9 @@ F.Gattere, A.Chiarini, E.Gallorini & M.Quadrio
 *[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2023.150)* **960** A7, pp.1--42, 2023   
 [Arxiv:physics.flu-dyn/2302.09305](https://doi.org/10.48550/arXiv.2302.09305)
 
-Optimization of patient positioning for improved healing after corneal transplantation  
+- Optimization of patient positioning for improved healing after corneal transplantation  
 V.Garcia Bennett, M.Alberti, M.Quadrio & J.O.Pralits  
-*[J. Biomechanics]()* **150** 111510, pp.1--9, 2023
+*[J. Biomechanics](https://doi.org/10.1016/j.jbiomech.2023.111510)* **150** 111510, pp.1--9, 2023
 
 - Saving Energy in Turbulent Flows with Unsteady Pumping  
 G.Foggi Rota, A.Monti, M.E.Rosti & M.Quadrio  
@@ -89,6 +91,8 @@ G.Foggi Rota, A.Monti, M.E.Rosti & M.Quadrio
 [Arxiv:physics.flu-dyn/2212.08874](https://doi.org/10.48550/arXiv.2212.08874)
 
 ---------
+
+# 2022
 
 Coherent near-wall structures and drag reduction by spanwise forcing  
 E.Gallorini, M.Quadrio & D.Gatti  
