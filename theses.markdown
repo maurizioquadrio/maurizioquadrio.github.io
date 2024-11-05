@@ -16,769 +16,532 @@ permalink: /theses/
 *[Direct Numerical Simulation of Riblets Drag Reduction: Accounting for the Corner Singularity in Arbitrary Geometries](https://hdl.handle.net/10589/222675)*
 In collaborazione con D.Gatti, KIT
 
-<P><B>Simone Gallo</B> (July 2024)
-Statistical analysis of Rayleigh--Benard convection <BR>
-<A HREF="gallo/gallo.html">On the existence of large structures in Rayleigh–Bénard convection</A>
+- Simone Gallo (July 2024)
+Statistical analysis of Rayleigh--Benard convection 
+On the existence of large structures in Rayleigh–Bénard convection
 In collaborazione con D.Angeli, Un. Modena e Reggio Emilia
-</P>
 
-<P><B>Andrea Cavallari</B> (aprile 2024)
-<A HREF="cavallari/cavallari.html">The turbulent wake after a bluff
-body: a phase-aware analysis</A>
-<span class=cpl></span>
-</P>
+- Andrea Cavallari (aprile 2024)
+The turbulent wake after a bluff
+body: a phase-aware analysis
 
-<P><B>Niccolò Berizzi</B> (aprile 2024)
-<A HREF="berizzi/berizzi.html">Turbulent Drag Reduction on a Transonic Airfoil with a Shock wave: Direct Numerical Simulation and Aeroacoustic Analysis</A>
+- Niccolò Berizzi (aprile 2024)
+Turbulent Drag Reduction on a Transonic Airfoil with a Shock wave: Direct Numerical Simulation and Aeroacoustic Analysis
 In collaborazione con D.Gatti, KIT
-</P>
 
-<P><B>Marco Galli</B> (aprile 2024)
-<A HREF="galli2/galli2.html">Spanwise forcing for turbulent heat
-transfer enhancement</A>
-<span class=cpl></span>
-</P>
+- Marco Galli (aprile 2024)
+Spanwise forcing for turbulent heat transfer enhancement
 
-<P><B>Marildo Kola</B> (aprile 2024)
-<A HREF="kola/kola.html">Particle-laden turbulent wavy channel flow</A>
+- Marildo Kola (aprile 2024)
+Particle-laden turbulent wavy channel flow
 In collaborazione con M.Rosti e A.Chiarini OIST
-</P>
 
-<P><B>Riccardo Bertoncello</B> (aprile 2024)
-<A HREF="bertoncello/bertoncello.html">Space-scale analysis of turbulent canopy flows</A>
+- Riccardo Bertoncello (aprile 2024)
+Space-scale analysis of turbulent canopy flows
 In collaborazione con M.Rosti e A.Chiarini OIST
-</P>
 
-<P><B>Maria Vittoria Pennisi</B> (aprile 2024)
-<A HREF="pennisi/pennisi.html">Analytical modelling of Conjugate
-Heat Transfer for the nasal flow</A>
+- Maria Vittoria Pennisi (aprile 2024)
+Analytical modelling of Conjugate
+Heat Transfer for the nasal flow
 In collaborazione con J.Pralits, U.Genova
-</P>
 
-<P><B>Riccardo Consonni</B> (aprile 2024)
-Data assimilation using PINN <BR>
-<A HREF="consonni/consonni.html">Adjoint-based data assimilation of a compressible starting jet</A>
+- Riccardo Consonni (aprile 2024)
+Data assimilation using PINN 
+Adjoint-based data assimilation of a compressible starting jet
 In collaborazione con J.Sesterhenn, U.Bayreuth
-</P>
 
-<P> <B> Nil Couto Ovejero </B> (aprile 2024)
-<A HREF="couto/couto.html">Streamwise traveling waves of wall
-deformation for turbulent drag reduction</A>
-<span class=cpl></span> 
-</P>
+- Nil Couto Ovejero  (aprile 2024)
+Streamwise traveling waves of wall
+deformation for turbulent drag reduction
 
-<P><B>Berkay Ukoz</B>  (dicembre 2023)
-<A HREF="ukoz/ukoz.html">Understanding the mismatch between clinical and
-numerical measurements of nasal resistance</A>
-</P>
+- Berkay Ukoz  (dicembre 2023)
+Understanding the mismatch between clinical and
+numerical measurements of nasal resistance
 
-<!-- 140 -->
+- Aditya Raman (dicembre 2023)
+DNS of a Turbulent Channel Flow with Partial Slip
 
-<P><B>Aditya Raman</B> (dicembre 2023)
-<A HREF="raman/raman.html"> DNS of a Turbulent Channel Flow with Partial Slip</A>
-<span class=cpl></span>
-</P>
-
-<P> <B>Ludovico Petrucci</B> (dicembre 2023)
-<A HREF="petrucci/petrucci.html">Application of Machine Learning techniques for flowfield features reconstruction</A>
+- Ludovico Petrucci (dicembre 2023)
+Application of Machine Learning techniques for flowfield features reconstruction
 In collaboration with con Aston Martin 
-</P>
 
-<P><B>Riccardo Armellini</B> (ottobre 2023)
-<A HREF="armellini/armellini.html">A patient-specific CFD study of expiration for normal and pathological nasal anatomies</A>
-</P>
+- Riccardo Armellini (ottobre 2023)
+A patient-specific CFD study of expiration for normal and pathological nasal anatomies
 
-<P><B>Julien Cerutti </B> (ottobre 2023)
-<A HREF="cerutti/cerutti.html">DNS investigation of turbulent flow over a circular recess</A>
-<span class=cpl></span>
-</P>
+- Julien Cerutti  (ottobre 2023)
+DNS investigation of turbulent flow over a circular recess
 
-<P><B>Lorenzo Pierpaoli</B> (luglio 2023)
-<A HREF="pierpaoli/pierpaoli.html">
-Critical assessment of RANS turbulence models in predicting the turbulent flow past a rectangular cylinder</A>
-</P>
+- Lorenzo Pierpaoli (luglio 2023)
+Critical assessment of RANS turbulence models in predicting the turbulent flow past a rectangular cylinder
 
-<P><B>Andrea Conforti</B> (maggio 2023)
-<A HREF="conforti/conforti.html">
-Understanding friction drag reduction via synthetic forcing</A>
-<span class=cpl></span></P>
+- Andrea Conforti (maggio 2023)
+Understanding friction drag reduction via synthetic forcing
 
-<P><B>Stefano Cipelli</B> (maggio 2023)
-<A HREF="cipelli/cipelli.html">
-Efficient Direct Numerical Simulations of Straight and Sinusoidal Riblets in Turbulent Channel Flows</A>
-<span class=cpl></span></P>
+- Stefano Cipelli (maggio 2023)
+Efficient Direct Numerical Simulations of Straight and Sinusoidal Riblets in Turbulent Channel Flows
 
-<P><B>Marco Castelletti</B> (maggio 2023)
-<A HREF="castelletti/castelletti.html">
-A machine-learning based zonal approach for turbulence modeling</A>
-</P>
+- Marco Castelletti (maggio 2023)
+A machine-learning based zonal approach for turbulence modeling
 
-<P><B>Guido Tesa</B> (maggio 2023)
-<A HREF="tesa/tesa.html">
-Rinomanometria: uno studio teorico-sperimentale</A>
-</P>
+- Guido Tesa (maggio 2023)
+Rinomanometria: uno studio teorico-sperimentale
 
-<P><B>Riccardo Margheritti</B> (ottobre 2022)
-<A HREF="margheritti/margheritti.html">
+- Riccardo Margheritti (ottobre 2022)
 A Computational Geometry approach for Machine Learning based
-diagnosis of nasal breathing difficulties aided by CFD </A>
-</P>
+diagnosis of nasal breathing difficulties aided by CFD 
 
-<!-- 130 -->
-
-<P> <B>Pietro Cassottana</B> (ottobre 2022)
-<A HREF="cassottana/cassottana.html">A Lagrangian method for coherent structures identification based on the finite-time Lyapunov exponent </A><BR>
+- Pietro Cassottana (ottobre 2022)
+A Lagrangian method for coherent structures identification based on the finite-time Lyapunov exponent 
 in collaborazione con M.Carnevale, U.Bath 
-</P>
 
-<P> <B>Umberto Zucchelli</B> (luglio 2022)
-<A HREF="zucchelli/zucchelli.html">
+
+- Umberto Zucchelli (luglio 2022)
 Assessment and validation of an in-house finite-volume compressible
-CFD solver for Large Eddy Simulation</A><BR>
+CFD solver for Large Eddy Simulation
 In collaborazione con M.Carnevale, Univ. Bath
-</P>
 
-<P><B>Marcello Macellari</B> (aprile 2022)
-<A HREF="macellari/macellari.html">
-Fluid dynamics optimization for the surgical treatment of septal deviations</A><BR>
+- Marcello Macellari (aprile 2022)
+Fluid dynamics optimization for the surgical treatment of septal deviations
 In collaborazione con M.Trimarchi, Università Vita-Salute San Raffaele 
-</P>
 
-<P><B>Giulio Foggi Rota</B> (aprile 2022)
-<A HREF="foggirota/foggirota.html">
-On-off pumping for drag reduction in a turbulent channel flow</A><BR>
-in collaborazione con M.Rosti, Okinawa Institute Science and Technology <span class=cpl></span></P>
+- Giulio Foggi Rota (aprile 2022)
+On-off pumping for drag reduction in a turbulent channel flow
+in collaborazione con M.Rosti, Okinawa Institute Science and Technology
 
-<P><B>Giorgio M. Cavallazzi </B> (aprile 2022)
-<A HREF="cavallazzi/cavallazzi.html">
-A DNS code to evaluate drag reduction with sinusoidal riblets</A>
-<span class=cpl></span><BR>
-In collaborazione con D.Gatti, KIT </P>
+- Giorgio M. Cavallazzi  (aprile 2022)
+A DNS code to evaluate drag reduction with sinusoidal riblets
+In collaborazione con D.Gatti, KIT 
 
-<P><B>Carlo Brignoli e Lorenzo Cacciatori</B> (aprile 2022)
-<A HREF="brignolicacciatori/brignolicacciatori.html">
- Drag reduction by riblets on a commercial UAV </A><BR>
-In collaborazione con C.M.Monti, SkyEye Systems </P>
+- Carlo Brignoli e Lorenzo Cacciatori (aprile 2022)
+Drag reduction by riblets on a commercial UAV 
+In collaborazione con C.M.Monti, SkyEye Systems 
 
-<P> <B>Davide Selvatici</B> (dicembre 2021)
-<A HREF="selvatici/selvatici.html">
-Structural effects of curvature on near-wall turbulence </A> 
-<span class=cpl></span></P>
+- Davide Selvatici (dicembre 2021)
+Structural effects of curvature on near-wall turbulence
 
-<P> <B>Lorenzo Vecchietti</B> (dicembre 2021)
-<A HREF="vecchietti/vecchietti.html">
- A Direct Numerical Simulation code for the flow in the human nose </A>
-<span class=cpl></span></P>
+- Lorenzo Vecchietti (dicembre 2021)
+A Direct Numerical Simulation code for the flow in the human nose 
 
-<P> <B>Amedeo Marzini</B> (ottobre 2021)
-<A HREF="marzini/marzini.html">
-Linear stability analysis of the flow past two staggered square cylinders </A>
-</P>
+- Amedeo Marzini (ottobre 2021)
+Linear stability analysis of the flow past two staggered square cylinders 
 
-<!-- 120 -->
+- Matteo Paolo Silvani (ottobre 2021)
+Dimples as a drag reduction technique: a preliminary DNS approach
 
-<P> <B>Matteo Paolo Silvani</B> (ottobre 2021)
-<A HREF="silvani/silvani.html">
-Dimples as a drag reduction technique: a preliminary DNS approach</A>
-<span class=cpl></span></P>
+- Giacomo Nosotti (luglio 2021)
+Verifica sperimentale di un rinomanometro a quattro fasi
 
-<P> <B>Giacomo Nosotti</B> (luglio 2021)
-<A HREF="nosotti/nosotti.html">
-Verifica sperimentale di un rinomanometro a quattro fasi</A></P>
+- Marco Negri (luglio 2021)
+Wall turbulence: an exploratory approach to analyse roughness
 
-<P> <B>Marco Negri</B> (luglio 2021)
-<A HREF="negri/negri.html">
-Wall turbulence: an exploratory approach to analyse roughness</A></P>
+- Marco Leali (luglio 2021)
+The influcence of endplate geometry and tip structure on wheel wake aerodynamics
 
-<P> <B>Marco Leali</B> (luglio 2021)
-<A HREF="leali/leali.html">
-The influcence of endplate geometry and tip structure on wheel wake aerodynamics</A></P>
+- Kazuto Hasegawa (luglio 2021)
+Prediction of pathologies of human nose by machine learning with flow physics
 
-<P> <B>Kazuto Hasegawa</B> (luglio 2021)
-<A HREF="hasegawa/hasegawa.html">
-Prediction of pathologies of human nose by machine learning with flow physics</A></P>
+- Jimmy Vianello (giugno 2021)
+Development of a multi-GPU Navier-Stokes solver 
 
-<P> <B>Jimmy Vianello</B> (giugno 2021)
-<A HREF="vianello/vianello.html">
-Development of a multi-GPU Navier-Stokes solver</A> </P>
+- Alessio Malli  (aprile 2021)
+DNS study of turbulent drag reduction via DBD plasma actuators
 
-<P> <B>Alessio Malli</B>  (aprile 2021)
-<A HREF="malli/malli.html">
-DNS study of turbulent drag reduction via DBD plasma actuators</A>
-<span class=cpl></span></P>
+- Federica Gattere  (aprile 2021)
+Turbulent skin-friction drag reduction described with AGKE and triple decomposition
 
-<P> <B>Federica Gattere</B>  (aprile 2021)
-<A HREF="gattere/gattere.html">
-Turbulent skin-friction drag reduction described with AGKE and triple decomposition</A>
-<span class=cpl></span></P>
+- Andrea Rossi  (aprile 2021)
+Analytical correction of corner singularity for the turbulent flow over riblets
+In collaborazione con D.Gatti, Karlsruhe Institute of Technology 
 
-<P> <B>Andrea Rossi</B>  (aprile 2021)
-<A HREF="rossi/rossi.html">
-Analytical correction of corner singularity for the turbulent flow over riblets</A>
-<span class=cpl></span><BR>
-In collaborazione con D.Gatti, Karlsruhe Institute of Technology </P>
+- Massimo Zanolini  (aprile 2021)
+Turbulent drag reduction using spanwise forcing in compressible regime
+In collaborazione con D.Gatti, Karlsruhe Institute of Technology 
 
-<P> <B>Massimo Zanolini</B>  (aprile 2021)
-<A HREF="zanolini/zanolini.html">
-Turbulent drag reduction using spanwise forcing in compressible regime</A><BR>
-In collaborazione con D.Gatti, Karlsruhe Institute of Technology </P>
+- Jacopo Casella  (aprile 2021)
+Machine-learning based classification of geometrically defective airfoils
 
-<!-- 110 -->
+- Francesco Romano' (dicembre 2020)
+Ottimizzazione fluidodinamica per la chirurgia del setto nasale 
 
-<P> <B>Jacopo Casella</B>  (aprile 2021)
-<A HREF="casella/casella.html">
-Machine-learning based classification of geometrically defective airfoils</A></P>
+- Victor Garcia (luglio 2020)
+A Numerical CFD Study to Support Clinical Tests of Graft-Gas Coverage after DMEK Eye Surgery
+In collaborazione con J.Pralits, Univ. di Genova
 
-<P> <B>Francesco Romano'</B> (dicembre 2020)
-<A HREF="romano/romano.html">
-Ottimizzazione fluidodinamica per la chirurgia del setto nasale
-</A> </P>
+- Andrea Spini (luglio 2020)
+A neural-network approach for predicting the aerodynamic performance of airfoils
+in collaborazione con M.Rutten, DLR Goettingen 
 
-<P> <B>Victor Garcia</B> (luglio 2020)
-<A HREF="garciabennett/garciabennett.html">	
-A Numerical CFD Study to Support Clinical Tests of Graft-Gas Coverage after DMEK Eye Surgery </A> <BR>
-in collaborazione con J.Pralits, Univ. di Genova
-</P>
-
-<P> <B>Andrea Spini</B> (luglio 2020)
-<A HREF="spini/spini.html">	
-A neural-network approach for predicting the aerodynamic performance of airfoils </A> <BR>
-in collaborazione con M.Rutten, DLR Goettingen </P>
-
-<P> <B>Alessandro Testa</B>  (luglio 2020)
+ Alessandro Testa  (luglio 2020)
 <A HREF="testa/testa.html">	
-Active Turbulence Control Through Wall Deformation in Channel Flow</A>
-<span class=cpl></span></P>
+Active Turbulence Control Through Wall Deformation in Channel Flow
+<span class=cpl></span>
 
-<P> <B>Francesca Mangani</B> (luglio 2020)
-<A HREF="mangani/mangani.html">	
-Effetto della temperatura nella fluidodinamica nasale </A> </P>
+- Francesca Mangani (luglio 2020)
+Effetto della temperatura nella fluidodinamica nasale
 
-<P> <B>Umberto Tanzini</B> (giugno 2020)
-<A HREF="tanzini/tanzini.html">
-Fluidodinamica computazionale e deviazione del setto nasale: risultati preliminari di un approccio moderno alla progettazione dell'intervento chirurgico di settoplastica </A> <BR>
-Laurea in Medicina e Chirurgia, Università Vita-Salute San Raffaele (co-relatore) </P>
+- Umberto Tanzini (giugno 2020)
+Fluidodinamica computazionale e deviazione del setto nasale: risultati preliminari di un approccio moderno alla progettazione dell'intervento chirurgico di settoplastica
+Laurea in Medicina e Chirurgia, Università Vita-Salute San Raffaele (co-relatore) 
 
-<P> <B>Matteo Zangrandi</B> (giugno 2020)
-<A HREF="zangrandi/zangrandi.html">	
-Aerodynamics over complex terrains and its effects on wind farm power production: an LES study </A> <BR>
-in collaborazione con S.Leonardi, Un.Texas Dallas </P>
+- Matteo Zangrandi (giugno 2020)
+Aerodynamics over complex terrains and its effects on wind farm power production: an LES study
+In collaborazione con S.Leonardi, Un.Texas Dallas 
 
-<P> <B>Maria Debora Mauriello</B> (giugno 2020)
-<A HREF="mauriello/mauriello.html">	
-Inner-outer scale interactions in turbulent Couette flow </A>
-<span class=cpl></span></P>
+- Maria Debora Mauriello (giugno 2020)
+Inner-outer scale interactions in turbulent Couette flow 
 
-<P> <B>Andrea Andreolli</B> (aprile 2020)
-<A HREF="andreolli/andreolli.html">	
-Global energy budgets in turbulent plane Couette and Poiseuille flows </A> 
-<span class=cpl></span><BR>
-In collaborazione con D.Gatti, Karlsruhe Institute of Technology </P>
+- Andrea Andreolli (aprile 2020)
+Global energy budgets in turbulent plane Couette and Poiseuille flows  
+In collaborazione con D.Gatti, Karlsruhe Institute of Technology 
 
-<!-- 100 -->
+- Francesca Fugaro  (aprile 2020)
+Project Lung: Design of an experimental tool that simulates human breathing for scientific research within the OpenNOSE project
+Laurea in Design & Engineering (co-relatore) 
 
-<P> <B> Francesca Fugaro </B> (aprile 2020)
-<A HREF="fugaro/fugaro.html">	
-Project Lung: Design of an experimental tool that simulates human breathing for scientific research within the OpenNOSE project </A> <BR>
-Laurea in Design & Engineering (co-relatore) </P>
-
-<P> <B>Marco Lugaresi</B> (aprile 2020)
-<A HREF="lugaresi/lugaresi.html">	
+- Marco Lugaresi (aprile 2020)
 Simulazione numerica diretta della fluidodinamica nasale:
-aspetti di efficienza computazionale  </A> </P>
+aspetti di efficienza computazionale
 
-<P> <B>Gabriele Dini Ciacci</B> (aprile 2020)
-<A HREF="diniciacci/diniciacci.html">	
-Comparing different anatomies in nasal fluid dynamics </A> </P>
+- Gabriele Dini Ciacci (aprile 2020)
+Comparing different anatomies in nasal fluid dynamics
 
-<P> <B>Alessandro Borroni</B> (aprile 2020)
-<A HREF="borroni/borroni.html">	
-Shear sheltering e riduzione di attrito in flussi turbolenti di parete </A> 
-<span class=cpl></span></P>
+- Alessandro Borroni (aprile 2020)
+Shear sheltering e riduzione di attrito in flussi turbolenti di parete
 
-<P> <B>Francesco Parisi</B> (dicembre 2019) 
-<A HREF="parisi/parisi.html">	
-Ottimizzazione tramite CFD di una vettura di Formula E</A> </P>
+- Francesco Parisi (dicembre 2019) 
+Ottimizzazione tramite CFD di una vettura di Formula E 
 
-<P> <B>Mirco Meazzo</B> (ottobre 2019)
-<A HREF="meazzo/meazzo.html">
-Scaling Performance of a DNS solver written in CPL </A> 
-<span class=cpl></span></P>
+- Mirco Meazzo (ottobre 2019)
+Scaling Performance of a DNS solver written in CPL
 
-<P> <B>Marco Villani</B> (luglio 2019)
-<A HREF="villani/villani.html">
+- Marco Villani (luglio 2019)
 Second-order structure function tensor budgets
-for channels at different values of Reynolds number </A> 
-<span class=cpl></span><BR>
-In collaborazione con D.Gatti, Karlsruhe Institute of Technology </P>
+for channels at different values of Reynolds number
+In collaborazione con D.Gatti, Karlsruhe Institute of Technology 
 
-<P> <B>Mattia Ciarlatani</B> (luglio 2019)
-<A HREF="ciarlatani/ciarlatani.html">	
-Ottimizzazione di forma adjoint-based per flussi turbolenti </A> </P>
+- Mattia Ciarlatani (luglio 2019)
+Ottimizzazione di forma adjoint-based per flussi turbolenti
 
-<P> <B>Gregorio Frassoldati</B> (aprile 2019)
-<A HREF="frassoldati/frassoldati.html">	
+- Gregorio Frassoldati (aprile 2019)
 Performance Study of an Immersed Boundary DNS Code
-applied to the Flow around a Confined Circular cylinder </A> 
-<span class=cpl></span></P>
+applied to the Flow around a Confined Circular cylinder
 
-<P> <B>Emanuele Gallorini</B> (aprile 2019)
-<A HREF="gallorini/gallorini.html">	
-Coherent structures in wall turbulence with drag reduction </A> 
-<span class=cpl></span><BR>
-In collaborazione con D.Gatti, Karlsruhe Institute of Technology </P>
-			
-<!-- 90 -->
+- Emanuele Gallorini (aprile 2019)
+Coherent structures in wall turbulence with drag reduction
+In collaborazione con D.Gatti, Karlsruhe Institute of Technology 
 
-<P> <B>Francesco Secchi</B> (aprile 2019)
-<A HREF="secchi/secchi.html">	
-Immersed boundary simulation of turbulent flow through a peristaltic actuator</A> 
-<span class=cpl></span></P>
+- Francesco Secchi (aprile 2019)
+Immersed boundary simulation of turbulent flow through a peristaltic actuator 
 
-<P> <B>Daniele Massaro</B> (aprile 2019)
-<A HREF="massaro/massaro.html">
-Stability characteristics of wall-bounded flow with spanwise forcing</A> 
-<span class=cpl></span></P>
+- Daniele Massaro (aprile 2019)
+Stability characteristics of wall-bounded flow with spanwise forcing 
 
-<P> <B>Gianluca Romani</B> (aprile 2019)
-<A HREF="romani/romani.html">	
+- Gianluca Romani (aprile 2019)
 Machine Learning techniques 
 for evaluating nasal airflow:
-preliminary results</A> </P>
+preliminary results 
 
-<P> <B>Luca Butera</B> (aprile 2019)
+- Luca Butera (aprile 2019)
 Nasal pathology assessment through
 Supervised Learning on Computational
-Fluid Dynamics data: a preliminary study<BR>
-Laurea in Computer Science and Engineering (co-relatore) </P>
+Fluid Dynamics data: a preliminary study
+Laurea in Computer Science and Engineering (co-relatore) 
 
-<P> <B>Luca Boscagli</B> (aprile 2018)
-<A HREF="boscagli/boscagli.html">	
+- Luca Boscagli (aprile 2018)
 Effect of the forcing term in the direct 
-numerical simulation of turbulent channel flow</A>
-<span class=cpl></span></P>
+numerical simulation of turbulent channel flow
 
-<P> <B>Alessandro Chiarini</B>	(aprile 2018)
-<A HREF="chiarini/chiarini.html">	
-Production, transport and dissipation 
-of turbulent stresses in channels </A>
-<span class=cpl></span><BR>
-In collaborazione con D.Gatti, Karlsruhe Institute of Technology </P>
+- Alessandro Chiarini	(aprile 2018)
+Production, transport and dissipation of turbulent stresses in channels 
+In collaborazione con D.Gatti, Karlsruhe Institute of Technology 
 
-<P> <B>Luca Guastoni</B> (aprile 2018)
-<A HREF="guastoni/guastoni.html">	
-Direct Numerical Simulation of turbulent channel flow
-on Intel Xeon PHI (KNL) architecture </A>
-<span class=cpl></span></P>
+- Luca Guastoni (aprile 2018)
+Direct Numerical Simulation of turbulent channel flow on Intel Xeon PHI (KNL) architecture 
 
-<P> <B>Giorgio Vicenzotti</B> (aprile 2018)
-<A HREF="vicenzotti/vicenzotti.html">	
-Influenza della temperatura nelle vie aeree superiori</A><BR>
-In collaborazione con U.Tomsk </P>
+- Giorgio Vicenzotti (aprile 2018)
+Influenza della temperatura nelle vie aeree superiori
+In collaborazione con U.Tomsk 
 
-<P> <B>Roberto Mosca</B> (dicembre2017)
-<A HREF="mosca/mosca.html">			
-Adjoint-Based Optimization of a Micro T-mixer </A>
-</P>
+- Roberto Mosca (dicembre 2017)
+Adjoint-Based Optimization of a Micro T-mixer 
 
-<P> <B>Matteo Pesarin</B> (dicembre 2017)
-<A HREF="pesarin/pesarin.html">			
+
+- Matteo Pesarin (dicembre 2017)
 Shape Optimization: Generalized Boundary Conditions 
-for Adjoint Navier-Stokes Equations </A> <BR>
+for Adjoint Navier-Stokes Equations
 Tesi di LM in Mathematical Engineering
-</P>
 
-<!-- 80 -->
+- Giuseppe Sorgiovanni (ottobre 2017)
+A robust open-source adjoint optimization method for external aerodynamics 
 
-<P> <B>Giuseppe Sorgiovanni</B> (ottobre 2017)
-<A HREF="sorgiovanni/sorgiovanni.html">
-A robust open-source adjoint optimization method for external aerodynamics </A></P>
+- Andrea Schillaci (ottobre 2017)
+Modellazione e ottimizzazione del flusso nelle cavita' nasali
 
-<P> <B>Andrea Schillaci</B> (ottobre 2017)
-<A HREF="schillaci/schillaci.html">
-Modellazione e ottimizzazione del flusso nelle cavita' nasali</A></P>
+- Savino Martino (luglio 2017)
+Modelling of blood flow in a stenotic vessel 
 
-<P> <B>Savino Martino</B> (luglio 2017)
-<A HREF="martino/martino.html">
-Modelling of blood flow in a stenotic vessel </A></P>
+- Michele Pinelli (luglio 2017)
+DNS of a turbulent channel flow over a rough wall.
+In collaborazione con University of California at Irvine 
 
-<P> <B> Michele Pinelli</B> (luglio 2017)
-<A HREF="pinelli/pinelli.html">
-DNS of a turbulent channel flow over a rough wall.</A><BR>
-In collaborazione con University of California at Irvine </P>
-
-<P> <B>Celeste M. Monti</B> (aprile 2017)
-<A HREF="monticeleste/monticeleste.html">
+- Celeste M. Monti (aprile 2017)
 Metodo dei contorni immersi per la simulazione numerica diretta
-di correnti turbolente su pareti non piane.</A>
-<span class=cpl></span></P>
+di correnti turbolente su pareti non piane.
+<span class=cpl></span>
 
-<P> <B>Alberto Remigi</B> (aprile 2017)
-<A HREF="remigi/remigi.html">
-Generalized Kolmogorov equation for turbulent wall flows with drag reduction.</A>
-<span class=cpl></span><BR>
-In collaborazione con D.Gatti, Karlsruhe Institute of Technology </P>
+- Alberto Remigi (aprile 2017)
+Generalized Kolmogorov equation for turbulent wall flows with drag reduction.
+In collaborazione con D.Gatti, Karlsruhe Institute of Technology 
 
-<P> <B>Lorenzo Sufra'</B> (aprile 2017)
-<A HREF="sufra/sufra.html">
-Studio comparativo di modelli di turbolenza LES all'interno di una cavità nasale.</A></P>
+- Lorenzo Sufra' (aprile 2017)
+Studio comparativo di modelli di turbolenza LES all'interno di una cavità nasale.
 
-<P> <B>Alvaro Gomez Cortes</B> (aprile 2017)
-<A HREF="gomez/gomez.html">
-Grid Convergence Study of a Lattice-Boltzmann CFD Code using a Realistic Generic Car Model.</A><BR>
-In collaboration with Exa Corp.</P>
+- Alvaro Gomez Cortes (aprile 2017)
+Grid Convergence Study of a Lattice-Boltzmann CFD Code using a Realistic Generic Car Model.
+In collaboration with Exa Corp.
 
-<P> <B>Daniel Mutlyashki</B> (dicembre 2016)
-Novel methodologies of CFD in the automotive industry using a Lattice Boltzmann code<BR>
-In collaborazione con EXA e ISAE -- Poitiers</P>
+- Daniel Mutlyashki (dicembre 2016)
+Novel methodologies of CFD in the automotive industry using a Lattice Boltzmann code
+In collaborazione con EXA e ISAE -- Poitiers
 
-<P> <B>Carlo Suardi</B> (luglio 2016)
-<A HREF="suardi/suardi.html">
-Puff statistics in a drag-reduced turbulent pipe flow.</A>
-<span class=cpl></span></P>
+- Carlo Suardi (luglio 2016)
+Puff statistics in a drag-reduced turbulent pipe flow.
 
-<!-- 70 -->
+- Lucia Mascotelli (luglio 2016)
+Direct Numerical Simulations of a turbulent pipe flow at high Reynolds numbers.
 
-<P> <B>Lucia Mascotelli</B> (luglio 2016)
-<A HREF="mascotelli/mascotelli.html">
-Direct Numerical Simulations of a turbulent pipe flow at high Reynolds numbers.</A>
-<span class=cpl></span></P>
-
-<P> <B>Leonardo Palma</B> (aprile 2016)
-<A HREF="palma/palma.html">
+- Leonardo Palma (aprile 2016)
 Ottimizzazione in correnti turbolente con il metodo delle equazioni aggiunte:
-sviluppo di una metodologia su piattaforma HPC.</A></P>
+sviluppo di una metodologia su piattaforma HPC.
 
-<P> <B>Jacopo Banchetti</B> (aprile 2016)	
-<A HREF="banchetti/banchetti.html">
-Skin-friction turbulent drag reduction: a Lagrangian perspective.</A>
-<span class=cpl></span></P>
+- Jacopo Banchetti (aprile 2016)	
+Skin-friction turbulent drag reduction: a Lagrangian perspective.
 
-<P> <B>Mattia Murari</B> (dicembre 2015)
-<A HREF="murari/murari.html">
-Ottimizzazione vincolata adjoint-based: sviluppo di una metodologia open source su piattaforma HPC</A></P>
+- Mattia Murari (dicembre 2015)
+Ottimizzazione vincolata adjoint-based: sviluppo di una metodologia open source su piattaforma HPC
 
-<P> <B>Daniele Menni</B> (dicembre 2015)			
-<A HREF="menni/menni.html">
-A GPU accelerated solver for DNS of homogeneous isotropic turbulence</A></P>
+- Daniele Menni (dicembre 2015)
+A GPU accelerated solver for DNS of homogeneous isotropic turbulence
 
-<P> <B>Joseph Diano</B>	(luglio 2015)
-<A HREF="diano/diano.html">
-Studio sperimentale di onde peristaltiche per la riduzione dell'attrito turbolento</A></P>
+- Joseph Diano	(luglio 2015)
+Studio sperimentale di onde peristaltiche per la riduzione dell'attrito turbolento
 
-<P><B>Luca Grizzetti</B> (luglio 2015)
-<A HREF="grizzetti/grizzetti.html">
+- Luca Grizzetti (luglio 2015)
 Rilievo sperimentale del campo di velocita' 
-intorno a corpi tozzi con inserti in materiale poroso</A></P>
+intorno a corpi tozzi con inserti in materiale poroso
 
-<P> <B>Giacomo Lamberti e Francesco Manara</B> (aprile 2015)
-<A HREF="lambertimanara/lambertimanara.html">
-Simulazioni RANS e LES della fluidodinamica delle cavita' nasali</A></P>
+- Giacomo Lamberti e Francesco Manara (aprile 2015)
+Simulazioni RANS e LES della fluidodinamica delle cavita' nasali
 
-<P> <B>Alessandro Monti</B> (aprile 2015)
-<A HREF="monti/monti.html">			
-Skin-friction drag reduction in a turbulent channel flow via pulsating forcing</A>
-<span class=cpl></span></P>
+- Alessandro Monti (aprile 2015)
+Skin-friction drag reduction in a turbulent channel flow via pulsating forcing
 
-<P> <B>Eleonora Biondi</B> (ottobre 2014)
-<A HREF="biondi/biondi.html">
-Simulazione LES del flusso nelle cavita' nasali.</A></P>
+- Eleonora Biondi (ottobre 2014)
+Simulazione LES del flusso nelle cavita' nasali.
 
-<!-- 60 -->
+- Damiano Molinari (ottobre 2014)
+Miglioramento di un modello di turbolenza nel codice di calcolo OpenFOAM
+In collaborazione con Fondmetal Technologies
 
-<P><B>Damiano Molinari</B> (ottobre 2014)
-<A HREF="molinari/molinari.html">
-Miglioramento di un modello di turbolenza nel codice di calcolo OpenFOAM</A><BR>
-In collaborazione con Fondmetal Technologies</P>
-
-<P> <B>Matteo Binda</B>	(luglio 2014)
-<A HREF="binda/binda.html">
+- Matteo Binda	(luglio 2014)
 Simulazione fluidodinamica del processo di sovrariscaldamento 
-di un motore al mozzo per bicicletta elettrica.</A></P>
+di un motore al mozzo per bicicletta elettrica.
 
-<P> <B>Antonio Plebani</B> (luglio 2014)
-<A HREF="plebani/plebani.html">
-Simulazione numerica del flusso in microcanali.</A></P>
+- Antonio Plebani (luglio 2014)
+Simulazione numerica del flusso in microcanali.
 
-<P><B>Enrico Calore</B>	(luglio 2014)
-<A HREF="calore/calore.html">
-Traccianti lagrangiani in flussi turbolenti di parete.</A>
-<span class=cpl></span></P>
+- Enrico Calore	(luglio 2014)
+Traccianti lagrangiani in flussi turbolenti di parete.
 
-<P><B>Matteo Marchi</B> (luglio 2014)
-Viscous fingering in a Hele-Shaw cell.</P>
+- Matteo Marchi (luglio 2014)
+Viscous fingering in a Hele-Shaw cell.
 
-<P><B>Ilaria De Dominicis</B> (luglio 2014)
-<A HREF="dedominicis/dedominicis.html">
-Modelling aspects of wall flows with turbulent drag reduction.</A></P>
+- Ilaria De Dominicis (luglio 2014)
+Modelling aspects of wall flows with turbulent drag reduction.
 
-<P> <B>Andrea Codrignani</B> (aprile 2014)
-<A HREF="codrignani/codrignani.html">
-Impulse Response in a Turbulent Channel Flow. </A>
-<span class=cpl></span></P>
+- Andrea Codrignani (aprile 2014)
+Impulse Response in a Turbulent Channel Flow. 
 
-<P> <B>Filippo Salmoiraghi</B> (aprile 2014)
-<A HREF="salmoiraghi/salmoiraghi.html">
+- Filippo Salmoiraghi (aprile 2014)
 Reduced-order models for potential flows
 past parametrized NACA airfoils based on an
-isogeometric boundary element method.</A> <BR>
-In collaborazione con SISSA -- Trieste</P>
+isogeometric boundary element method. 
+In collaborazione con SISSA -- Trieste
 
-<P><B>Luca Cirrottola</B> (aprile 2014)
-<A HREF="cirrottola/cirrottola.html">
-Optimal feedback control of plane channel flow over porous walls.</A> </P>
+- Luca Cirrottola (aprile 2014)
+Optimal feedback control of plane channel flow over porous walls. 
 
-<P><B>Luca Marchesani</B> (aprile 2014)
-<A HREF="marchesani/marchesani.html">
-Turbulent drag reduction via oblique travelling waves.</A>
-<span class=cpl></span><BR>
-In collaborazione con Un. Warwick (UK)</P>
+- Luca Marchesani (aprile 2014)
+Turbulent drag reduction via oblique travelling waves.
+In collaborazione con Un. Warwick (UK)
 
-<!-- 50 -->
+- Claudio Alati (aprile 2014)
+Ottimizzazione di un dispositivo per la respirazione assistita tramite CFD.
+In collaborazione con Breathe Technologies Inc.
 
-<P><B>Claudio Alati</B> (aprile 2014)
-<A HREF="alati/alati.html">
-Ottimizzazione di un dispositivo per la respirazione assistita tramite CFD.</A><BR>
-In collaborazione con Breathe Technologies Inc.</P>
+- Selene Piantanida (dicembre 2013)
+System Identification for the Sound Field of a Subsonic Jet
+In collaborazione con Un. Poitiers (F)
 
-<P><B>Selene Piantanida</B> (dicembre 2013)
-<A HREF="piantanida/piantanida.html">
-System Identification for the Sound Field of a Subsonic Jet</A><BR>
-In collaborazione con Un. Poitiers (F)</P>
-
-<P><B>Davide Arnone</B> (dicembre 2013)
-<A HREF="arnone/arnone.html">
+- Davide Arnone (dicembre 2013)
 Misure di mescolamento turbolento per la qualifica
-di un innovativo mixer a risparmio energetico.</A><BR>
-In collaborazione con Un. Brescia</P>
+di un innovativo mixer a risparmio energetico.
+In collaborazione con Un. Brescia
 
-<P><B>Roberto Pieri</B> (luglio 2013)<BR>
-<A HREF="pieri/pieri.html">
+- Roberto Pieri (luglio 2013)
 Stanford University Unstructured: un software innovativo per la simulazione
-e l’ottimizzazione geometrica.</A><BR>
-In collaborazione con Scuderia Toro Rosso</P>
+e l’ottimizzazione geometrica.
+In collaborazione con Scuderia Toro Rosso
 			
-<P><B>Domenico Sgro'</B> (luglio 2013)<BR> 
-<A HREF="sgro/sgro.html">
+- Domenico Sgro' (luglio 2013) 
 Miscelamento in microcanali: miglioramento dell'efficienza 
-con il metodo delle equazioni aggiunte.</A></P>
+con il metodo delle equazioni aggiunte.
 
-<P><B>Michele Galli</B>	(luglio 2013)<BR>
-<A HREF="galli/galli.html">
-Studio DNS della riduzione di attrito turbolento mediante forzamento virtuale.</A>
-<span class=cpl></span>	</P>
+- Michele Galli	(luglio 2013)
+Studio DNS della riduzione di attrito turbolento mediante forzamento virtuale.
 
-<P><B>Francesco Gilardoni</B> (luglio 2013)<BR>
-<A HREF="gilardoni/gilardoni.html">
-Sviluppo di un efficiente solutore Chebyshev-tau per la DNS di flussi turbolenti di parete.</A>
-<span class=cpl></span></P>
+- Francesco Gilardoni (luglio 2013)
+Sviluppo di un efficiente solutore Chebyshev-tau per la DNS di flussi turbolenti di parete.
 
-<P><B>Chiara Pesci</B> (luglio 2013)<BR>
-<A HREF="pesci/pesci.html">
-OpenNOSE: an open-source procedure for the simulation of nasal aerodynamics.</A></P>
+- Chiara Pesci (luglio 2013)
+OpenNOSE: an open-source procedure for the simulation of nasal aerodynamics.
 
-<P><B>Alice Marocco</B>	(aprile 2013)<BR>
-<A HREF="marocco/marocco.html">
+- Alice Marocco	(aprile 2013)
 Caratterizzazione aerodinamica di un velivolo addestratore 
-in vista di un’applicazione di controllo attivo.</A><BR>
-In collaborazione con Alenia Aermacchi </P>
+in vista di un’applicazione di controllo attivo.
+In collaborazione con Alenia Aermacchi 
 
-<P><B>Simone Battaini</B> (aprile 2013)<BR>
-<A HREF="battaini/battaini.html">	
+- Simone Battaini (aprile 2013)
 Sensitività aerodinamica nelle autovetture da competizione: 
-uno studio basato su codice open-source e operatore aggiunto.</A><BR>
-In collaborazione con Scuderia Toro Rosso</P>
+uno studio basato su codice open-source e operatore aggiunto.
+In collaborazione con Scuderia Toro Rosso
 
-<!-- 40 -->
+- Marco Edoardo Rosti (aprile 2013)
+Direct numerical simulation of turbulent channel flow over porous walls.
 
-<P><B>Marco Edoardo Rosti</B> (aprile 2013)<BR>
-<A HREF="rosti/rosti.html">
-Direct numerical simulation of turbulent channel flow over porous walls.</A>
-<span class=cpl></span></P> 
+- Davide Scarselli (aprile 2013)
+Non-modal stability of laminar channel flow over porous walls.
 
-<P><B>Davide Scarselli</B> (aprile 2013)<BR>
-<A HREF="scarselli/scarselli.html">
-Non-modal stability of laminar channel flow over porous walls.</A></P>
-
-<P><B>Martina Biggi</B> (aprile 2013)<BR>
-<A HREF="biggi/biggi.html">
+- Martina Biggi (aprile 2013)
 Riduzione di resistenza in flussi turbolenti di parete:
-confronto tra esperimenti e simulazione numerica diretta.</A>
-<span class=cpl></span>	</P>
+confronto tra esperimenti e simulazione numerica diretta.
 
-<P><B>Mattia Lui</B> (aprile 2013)<BR>
-<A HREF="lui/lui.html">
-Stenosi carotidea in geometrie patient-specific: potenzialità di modelli RANS transizionali.</A></P>
+- Mattia Lui (aprile 2013)
+Stenosi carotidea in geometrie patient-specific: potenzialità di modelli RANS transizionali.
 
-<P><B>Marco Angiolini</B> (aprile 2013)<BR>
-<A HREF="angiolini/angiolini.html">
-Funzioni di parete adattive per il modello di turbolenza k − ω.</A><BR>
-In collaborazione con Fondmetal Technologies</P>
+- Marco Angiolini (aprile 2013)
+Funzioni di parete adattive per il modello di turbolenza k − ω.
+In collaborazione con Fondmetal Technologies
 
-<P><B>Francesco Gritta</B> (dicembre 2012)<BR>
-<A HREF="gritta/gritta.html">
+- Francesco Gritta (dicembre 2012)
 Sperimentazione e Applicazione di codici di aerodinamica numerica (Open Source) 
-a casi di sviluppo aerodinamico per autovetture di Formula Uno</A><BR>
-In collaborazione con Toro Rosso</P>
+a casi di sviluppo aerodinamico per autovetture di Formula Uno
+In collaborazione con Scuderia Toro Rosso
 
-<P><B>Daniele Cappelli</B> (dicembre 2012)<BR>
-Direct Numerical Simulation of Separated Boundary Layers<BR>
-In collaborazione con NASA Ames - Moffett Field </P>
+- Daniele Cappelli (dicembre 2012)
+Direct Numerical Simulation of Separated Boundary Layers
+In collaborazione con NASA Ames - Moffett Field 
 
-<P><B>Enrico Sumatra</B> (luglio 2012)<BR>
-<A HREF="sumatra/sumatra.html">
-Fenomeni fluidodinamici in geometrie stenotiche: stabilita' non-modale e perturbazioni ottime</A> </P> 
-<! Premio di studio "M.O.V.M. Ten. Pil. Giannino Ancillotto", I edizione (2012) per tesi di laurea in discipline aeronautiche ed aeromediche !>
+- Enrico Sumatra (luglio 2012)
+Fenomeni fluidodinamici in geometrie stenotiche: stabilita' non-modale e perturbazioni ottime  
 
-<P><B>Daniele Di Pasquale</B> (luglio 2012)<BR>
-La fluidodinamica come nuovo strumento di analisi del flusso nasale:
-risultati preliminari<BR>
-Laurea in Medicina e Chirurgia - UniMI (co-relatore) </P>
+- Daniele Di Pasquale (luglio 2012)
+La fluidodinamica come nuovo strumento di analisi del flusso nasale: risultati preliminari
+Laurea in Medicina e Chirurgia - UniMI (co-relatore) 
 
-<P><B>Lorenzo Rossini</B> (luglio 2012)<BR>
-<A HREF="rossini/rossini/rossini.html">	
-The effect of taper in an idealized aortic geometry</A><BR>
-Politecnico di Torino - ASP (co-relatore)</P>
+- Lorenzo Rossini (luglio 2012)
+The effect of taper in an idealized aortic geometry
+Politecnico di Torino - ASP (co-relatore)
 
-<!-- 30 -->
-<P><B>Marco Nicotra</B> (aprile 2012)<BR>
-<A HREF="nicotra/nicotra/nicotra.html">
-Radial fingering in a Hele-Shaw cell</A><BR>
-In collaborazione con Ecole Polytechnique (F)</P>
+- Marco Nicotra (aprile 2012)
+Radial fingering in a Hele-Shaw cell
+In collaborazione con Ecole Polytechnique (F)
 
-<P><B>Carlo Sovardi</B> (aprile 2012)<BR>
-<A HREF="sovardi/sovardi.html">
-Linear stability of plane Poiseuille flow over a steady Stokes layer</A>
-<span class=cpl></span>	</P>
-<! Premio PoMilia !>
+- Carlo Sovardi (aprile 2012)
+Linear stability of plane Poiseuille flow over a steady Stokes layer
 
-<P><B>Marcello Vitali</B> (aprile 2012)<BR>
-<A HREF="vitali/vitali/vitali.html">
-Un attuatore al plasma per applicazioni aeronautiche</A> </P> 
-<! Premio XXX !>
+- Marcello Vitali (aprile 2012)
+Un attuatore al plasma per applicazioni aeronautiche  
 
-<P><B>Niccolo' Fabbiane</B> (dicembre 2011)<BR>
-<A HREF="fabbiane/fabbiane/fabbiane.html">
-An innovative DNS code for high-Re turbulent pipe flow</A>
-<span class=cpl></span>	</P>
+- Niccolo' Fabbiane (dicembre 2011)
+An innovative DNS code for high-Re turbulent pipe flow
 
-<P><B>Davide Gatti</B>	(dicembre 2011)<BR>
-<A HREF="gatti/gatti/gatti.html">
-Turbulent drag reduction at moderate Reynolds numbers via spanwise velocity waves</A>
-<span class=cpl></span></P>
+- Davide Gatti	(dicembre 2011)
+Turbulent drag reduction at moderate Reynolds numbers via spanwise velocity waves
 
-<P><B>Francesco Pasqua</B> (dicembre 2011)<BR>
-<A HREF="pasqua/pasqua/pasqua.html">
-Analisi sperimentale preliminare di un dispositivo innovativo per il mixing turbolento</A> </P>
+- Francesco Pasqua (dicembre 2011)
+Analisi sperimentale preliminare di un dispositivo innovativo per il mixing turbolento 
 
-<P><B>Stefano Corti</B> (luglio 2011)<BR>
-<A HREF="corti/corti/corti.html">
-Studio numerico della fluidodinamica all'interno della cavità nasale </A><BR> 
-In collaborazione con Polo Ospedaliero s.Paolo -- Milano </P>
+- Stefano Corti (luglio 2011)
+Studio numerico della fluidodinamica all'interno della cavità nasale  
+In collaborazione con Polo Ospedaliero s.Paolo -- Milano 
 
-<P><B>Gabriele Pozzi</B> (luglio 2011)<BR>
-<A HREF="pozzi/pozzi/pozzi.html">
-Studio numerico di configurazioni asimmetriche di spinnaker</A><BR>
-In collaborazione con Un.Udine </P>
+- Gabriele Pozzi (luglio 2011)
+Studio numerico di configurazioni asimmetriche di spinnaker
+In collaborazione con Un.Udine 
 
-<P><B>Alberto Lunghi</B> (luglio 2011)<BR>
-<A HREF="lunghi/lunghi/lunghi.html">
-Tecniche di High-Throughput Computing per la simulazione fluidodinamica </A>
-<span class=cpl></span>	</P>
+- Alberto Lunghi (luglio 2011)
+Tecniche di High-Throughput Computing per la simulazione fluidodinamica 
 
-<P><B>Simone Benelli</B> (marzo 2011)<BR>
-<A HREF="benelli/benelli/benelli.html">
-Simulazioni fluidodinamiche in geometrie di interesse automobilistico</A></P>
+- Simone Benelli (marzo 2011)
+Simulazioni fluidodinamiche in geometrie di interesse automobilistico
 
-<!-- 20 -->
+- Emanuele Bezzecchi (dicembre 2010)
+Stabilità non-modale di flussi EHD con cross-flow 
+In collaborazione con Ecole Polytechnique (F) 
 
-<P><B>Emanuele Bezzecchi</B> (dicembre 2010)<BR>
-<A HREF="bezzecchi/bezzecchi/bezzecchi.html">
-Stabilità non-modale di flussi EHD con cross-flow</A> <BR>
-In collaborazione con Ecole Polytechnique (F) </P>
+- Daniele Cavaglieri  (ottobre 2010)
+Optimal feedback control of turbulent channel flow through wall-based sensors and actuators 
 
-<P><B>Daniele Cavaglieri</B>  (ottobre 2010)<BR>
-<A HREF="cavaglieri/cavaglieri/cavaglieri.html">
-Optimal feedback control of turbulent channel flow through wall-based sensors and actuators</A> 
-<span class=cpl></span>	</P>
+- Andrea Bertolucci (ottobre 2010)
+Studio sperimentale di onde viaggianti in flussi turbolenti di parete 
 
-<P><B>Andrea Bertolucci</B> (ottobre 2010)<BR>
-Studio sperimentale di onde viaggianti in flussi turbolenti di parete </P>
+- Marcello Pelis e Michele Rampanelli (luglio 2010)
+Risposta impulsiva in un flusso turbolento 
 
-<P><B>Marcello Pelis e Michele Rampanelli</B> (luglio 2010)<BR>
-<A HREF="pelisrampanelli/pelisrampanelli/pelisrampanelli.html">
-Risposta impulsiva in un flusso turbolento</A> 
-<span class=cpl></span>	</P>
+- Claudio Ottonelli (luglio 2010)
+Energy and enstrophy balances for wall-bounded turbulent flows with drag reduction 
+In collaborazione con King's College, London 
 
-<P><B>Claudio Ottonelli</B> (luglio 2010)<BR>
-<A HREF="ottonelli/ottonelli/ottonelli.html">
-Energy and enstrophy balances for wall-bounded turbulent flows with drag reduction </A>
-<span class=cpl></span>	<BR>
-In collaborazione con King's College, London </P>
-
-<P><B>Marco Carini</B> (luglio 2009)<BR>
+- Marco Carini (luglio 2009)
 Risposta impulsiva di un flusso turbolento omogeneo e isotropo 
-<span class=cpl></span>	</P>
 
-<P><B>Fabrizio Andrigo </B> (febbraio 2008)<BR>
+- Fabrizio Andrigo  (febbraio 2008)
 Flussi turbolenti in condotti anulari con pareti rotanti 
-<span class=cpl></span>	</P>
 
-<P><B>Davide Cerizza</B> (luglio 2007)<BR>
-<A HREF="cerizza/cerizza/cerizza.html">
-Electroconvection in 3 dimensions: a numerical study</A> 
-<span class=cpl></span>	</P>
+- Davide Cerizza (luglio 2007)
+Electroconvection in 3 dimensions: a numerical study 
 
-<P><B>Luca Galantucci</B> (febbraio 2007)<BR>
-<A HREF="galantucci/galantucci/galantucci.html">
-Scalare passivo in flussi turbolenti di parete</A>
-<span class=cpl></span>	<BR>
-Laurea in Fisica UniMI - corelatore </P>
+- Luca Galantucci (febbraio 2007)
+Scalare passivo in flussi turbolenti di parete
+Laurea in Fisica UniMI
 
-<P><B>Claudio Viotti</B> (ottobre 2006)<BR>
+- Claudio Viotti (ottobre 2006)
 Ciclo di co-supporto nella turbolenza di parete
-<span class=cpl></span>	</P>
 
-<!-- 10 -->
+- Jean-Francois Bertolino (aprile2006)
+Modelli di propagazione del fuoco per gli incendi di bosco in 3d e tempo reale
 
-<P><B>Jean-Francois Bertolino</B> (aprile2006)<BR>
-<A HREF="bertolino/bertolino/bertolino.html">
-Modelli di propagazione del fuoco per gli incendi di bosco in 3d e temporeale</A></P>
+- Giovanni Longari (dicembre 2005)
+Algoritmi paralleli per la DNS di turbolenza di parete
 
-<P><B>Giovanni Longari</B> (dicembre 2005)<BR>
-<A HREF="longari/longari/longari.html">
-Algoritmi paralleli per la DNS di turbolenza di parete</A>
-<span class=cpl></span>	</P>
+- Barbara Ammattatelli (ottobre 2005)
+Riduzione di attrito turbolento con soffiaggio trasversale
 
-<P><B>Barbara Ammattatelli</B> (ottobre 2005)<BR>
-<A HREF="ammattatelli/ammattatelli/ammattatelli.html">
-Riduzione di attrito turbolento con soffiaggio trasversale</A>
-<span class=cpl></span>	</P>
+- Sara Ceccon (ottobre 2005)
+Interazione fra campo fluidodinamico e campo elettrico
 
-<P><B>Sara Ceccon </B> (ottobre 2005)<BR>
-<A HREF="ceccon/ceccon/ceccon.html">
-Interazione fra campo fluidodinamico e campo elettrico </A>
-<span class=cpl></span>	</P>
+- Stefano Bisson (aprile 2004)
+Risposta lineare del flusso turbolento in un canale
 
-<P><B>Stefano Bisson</B> (aprile 2004)<BR>
-<A HREF="bisson/bisson/bisson.html">
-Risposta lineare del flusso turbolento in un canale</A>
-<span class=cpl></span>	</P> 
+- Stefano Giussani (giugno 2003)
+Correlazioni spazio-temporali nella turbolenza di parete
 
-<P><B>Stefano Giussani</B> (giugno 2003)<BR>
-<A HREF="giussani/giussani/giussani.html">
-Correlazioni spazio-temporali nella turbolenza di parete</A> 
-<span class=cpl></span>	</P>
-
-<P><B>Piergiorgio Ferro</B>(dicembre 2002)<BR>
-<A HREF="ferro/ferro/ferro.html">
-Errori di discretizzazione temporale nella simulazione numerica diretta
-di correnti turbolente.</A> 
-<span class=cpl></span>	</P>
+- Piergiorgio Ferro (dicembre 2002)
+Errori di discretizzazione temporale nella simulazione numerica diretta di correnti turbolente
 
 - Fabio Brenna (febbraio 2002)
-<A HREF="brenna/brenna/brenna.html">
-Studio numerico degli effetti della curvatura trasversale sulla turbolenza di parete.</A> 
+Studio numerico degli effetti della curvatura trasversale sulla turbolenza di parete.
 
 - Davide Pirrò
 Simulazione numerica delle alterazioni indotte in un flusso turbolento da getti alla parete.
@@ -787,7 +550,7 @@ Simulazione numerica delle alterazioni indotte in un flusso turbolento da getti 
 Simulazione numerica del flusso turbolento in un canale a sezione anulare. 
 
 
-# Bacthelor theses
+# Batchelor theses
 
 - Michele Marogna (luglio 2010)
 Studio fluidodinamico di un motore a due tempi
