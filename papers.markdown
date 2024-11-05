@@ -37,19 +37,13 @@ S.M.Tauwald, F.Erzinger, M.Quadrio, M.Rütten, C.Stemmer & L.Krenkel
 
 - Spatial discretization effects in spanwise forcing for turbulent drag reduction  
 E.Gallorini & M.Quadrio  
-[*J. Fluid Mechanics* **982** A11, pp.1--25, 2024.](https://doi.org/10.1017/jfm.2024.107)  
-[Arxiv:2401.11722v1](https://doi.org/10.48550/arXiv.2401.11722)
+[*J. Fluid Mechanics* **982** A11, pp.1--25, 2024](https://doi.org/10.1017/jfm.2024.107)  
+[Arxiv:2401.11722](https://doi.org/10.48550/arXiv.2401.11722)
 
-
-\item \html{[}
-A.Schillaci, K.Hasegawa, C.Pipolo, G.Boracchi and M.Quadrio, 2024.
-\htmladdnormallink{
-Comparing flow-based and anatomy-based features in the data-driven study of nasal pathologies}
-{../../papers/2024-FLOW.pdf}
-\html{]} 
-{\em Flow}, {\bf 4}, E5, pp.1--16, 2024.
-\htmladdnormallink{Arxiv {\tt physics.flu-dyn/2312.09929v1}}
-{../../papers/2024-FLOW-arxiv.pdf}
+- Comparing flow-based and anatomy-based features in the data-driven study of nasal pathologies  
+A.Schillaci, K.Hasegawa, C.Pipolo, G.Boracchi and M.Quadrio
+[*Flow* **4** E5, pp.1--16, 2024](https://doi.org/10.1017/flo.2024.3)
+[Arxiv:2312.09929](https://doi.org/10.48550/arXiv.2312.11202)  
 
 \item \html{[}
 F.Gattere, M.Zanolini, D.Gatti, M.Bernardini & M.Quadrio, 2024.

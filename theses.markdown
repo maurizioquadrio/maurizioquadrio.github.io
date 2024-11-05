@@ -509,7 +509,7 @@ Simulazione numerica delle alterazioni indotte in un flusso turbolento da getti 
 Simulazione numerica del flusso turbolento in un canale a sezione anulare. 
 
 
-# Batchelor
+# Bachelor
 
 - Michele Marogna (luglio 2010)
 Studio fluidodinamico di un motore a due tempi
