@@ -22,7 +22,7 @@ permalink: /conferences/
 **E.Gallorini** & M.Quadrio  
 1st European Fluid Dynamics Conference, Sept 16--20 2024, Aachen (DE)
 
-- The state of turbulence in a pipe flow with drag reduction
+- The state of turbulence in a pipe flow with drag reduction  
 **E.Gallorini**, D.Massaro, P.Schlatter & M.Quadrio  
 European Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
 
@@ -63,10 +63,10 @@ ICTAM2024, 26-30 August 2024, Daegu (Korea)
 *Invited plenary talk*, IX ECCOMAS Congress, Jun 3-7 2024, Lisbon (P)
 
 - Simulation and analysis of the unsteady flow within nasal airways  
-**M.Ruetten**, L.Krenkel & M.Quadrio
+**M.Ruetten**, L.Krenkel & M.Quadrio  
 IX ECCOMAS Congress, Jun 3-7 2024, Lisbon (P)
 
-- On the turbulent flow around rectangular cylinders: Effect of the aspect ration
+- On the turbulent flow around rectangular cylinders: Effect of the aspect ratio  
 **J.Garicano-Mena**, A.Chiarini & M.Quadrio  
 IX ECCOMAS Congress, Jun 3-7 2024, Lisbon (P)
 

@@ -6,14 +6,29 @@ permalink: /papers/
 
 <!---
 
-Margheritti, Schillaci, Pipolo, Quadrio, Boracchi
+1) Margheritti, Schillaci, Pipolo, Quadrio, Boracchi
 Data Augmentation Based on Computational Geometry for Neural Network Training in Medical Flow Field Classification
+NCA
 
-Inhalation Magazine 1 and 2
+2-3) Inhalation Magazine 1 and 2
 
-On the comparison between topological and surface sensitivities for bio-fluid dynamics application
+4) On the comparison between topological and surface sensitivities for bio-fluid dynamics applications
+AIMETA
 
-Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose" has just been submitted to "Applied Mathematical Modelling" (PENNISI)
+5) Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose" has just been submitted to "Applied Mathematical Modelling" (PENNISI)
+
+6) Near-field aeroacoustic effects of spanwise forcing on a transonic wing: a DNS study
+Niccolò Berizzi, Davide Gatti, Giulio Soldati, Sergio Pirozzoli and Maurizio Quadrio
+Applied Science
+
+7) Understanding the mismatch between in-vivo and in-silico rhinomanometry
+Marco Atzori1, Gabriele Dini Ciacci and Maurizio Quadrio
+IJCARS
+
+8) The aerodynamic performance of a transonic airfoil with spanwise forcing
+Niccolò Berizzi, Davide Gatti, Giulio Soldati, Sergio Pirozzoli and Maurizio
+Quadrio
+J. Fluid Mechanics
 
 -->
 
