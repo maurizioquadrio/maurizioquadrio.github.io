@@ -55,10 +55,10 @@ GPU programming on hybrid computing architectures
 - Lucrezia **Vigo** (2024, December)
 Algal accretion model
 
-- Kia **Abdollahi Makouei** (2024, July)
+- Kia **Abdollahi Makouei** (2024, July)  
 *[Interaction of large and small scales in turbulent Couette flow](https://hdl.handle.net/10589/223546)*
 
-- Angelo Raimondo **Favero** (2024, July)
+- Angelo Raimondo **Favero** (2024, July)  
 *[A reduced model for the flow in the human nose](https://hdl.handle.net/10589/223634)*
 
 - Simone **Gallo** (2024, July)
@@ -465,8 +465,8 @@ Politecnico di Torino - ASP (co-relatore)
 - Andrea Bertolucci (2010, October)
 Studio sperimentale di onde viaggianti in flussi turbolenti di parete 
 
-- Daniele Cavaglieri  (2010, October)
-Optimal feedback control of turbulent channel flow through wall-based sensors and actuators 
+- Daniele **Cavaglieri**  (2010, October)
+*[Optimal feedback control of turbulent channel flow through wall-based sensors and actuators](https://hdl.handle.net/10589/4841)*
 
 - Claudio **Ottonelli** (2010, July)
 *[Energy and enstrophy balances for wall-bounded turbulent flows with drag reduction](https://hdl.handle.net/10589/2513)*
