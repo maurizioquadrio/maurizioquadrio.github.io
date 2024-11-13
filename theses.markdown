@@ -421,7 +421,7 @@ e l’ottimizzazione geometrica](https://hdl.handle.net/10589/81422)*
 *[Fenomeni fluidodinamici in geometrie stenotiche: stabilita' non-modale e perturbazioni ottime](https://hdl.handle.net/10589/57063)*
 
 - Daniele **Di Pasquale** (2012, July)  
-[La fluidodinamica come nuovo strumento di analisi del flusso nasale: risultati preliminari]  
+*La fluidodinamica come nuovo strumento di analisi del flusso nasale: risultati preliminari*  
 Laurea in Medicina e Chirurgia - Universita' degli Studi di Milano 
 
 - Lorenzo **Rossini** (2012, July)  
@@ -475,63 +475,63 @@ LM in Mechanical Engineering
 *[Risposta impulsiva in un flusso turbolento](https://hdl.handle.net/10589/2562)*
 
 - Marco Carini (luglio 2009)  
-Risposta impulsiva di un flusso turbolento omogeneo e isotropo 
+*Risposta impulsiva di un flusso turbolento omogeneo e isotropo*
 
 - Fabrizio Andrigo  (febbraio 2008)  
-Flussi turbolenti in condotti anulari con pareti rotanti 
+*Flussi turbolenti in condotti anulari con pareti rotanti*
 
 - Davide Cerizza (luglio 2007)  
-Electroconvection in 3 dimensions: a numerical study 
+*Electroconvection in 3 dimensions: a numerical study*
 
 - Luca Galantucci (febbraio 2007)  
-Scalare passivo in flussi turbolenti di parete  
+*Scalare passivo in flussi turbolenti di parete*  
 LM in Fisica, Universita' degli Studi di Milano
 
 - Claudio Viotti (2006, October)  
-Ciclo di co-supporto nella turbolenza di parete
+*Ciclo di co-supporto nella turbolenza di parete*
 
 - Jean-Francois Bertolino (2006, April)  
-Modelli di propagazione del fuoco per gli incendi di bosco in 3d e tempo reale
+*Modelli di propagazione del fuoco per gli incendi di bosco in 3d e tempo reale*
 
 - Giovanni Longari (2005, December)  
-Algoritmi paralleli per la DNS di turbolenza di parete
+*Algoritmi paralleli per la DNS di turbolenza di parete*
 
 - Barbara Ammattatelli (2005, October)  
-Riduzione di attrito turbolento con soffiaggio trasversale
+*Riduzione di attrito turbolento con soffiaggio trasversale*
 
 - Sara Ceccon (2005, October)  
-Interazione fra campo fluidodinamico e campo elettrico
+*Interazione fra campo fluidodinamico e campo elettrico*
 
 - Stefano Bisson (2004, April)  
-Risposta lineare del flusso turbolento in un canale
+*Risposta lineare del flusso turbolento in un canale*
 
 - Stefano Giussani (2003, June)  
-Correlazioni spazio-temporali nella turbolenza di parete
+*Correlazioni spazio-temporali nella turbolenza di parete*
 
 - Piergiorgio Ferro (2002, December)  
-Errori di discretizzazione temporale nella simulazione numerica diretta di correnti turbolente
+*Errori di discretizzazione temporale nella simulazione numerica diretta di correnti turbolente*
 
 - Fabio Brenna (2002, February)  
-Studio numerico degli effetti della curvatura trasversale sulla turbolenza di parete.
+*Studio numerico degli effetti della curvatura trasversale sulla turbolenza di parete*
 
 - Davide Pirrò  
-Simulazione numerica delle alterazioni indotte in un flusso turbolento da getti alla parete.
+*Simulazione numerica delle alterazioni indotte in un flusso turbolento da getti alla parete*
 
 - Patrick Morandi  
-Simulazione numerica del flusso turbolento in un canale a sezione anulare. 
+*Simulazione numerica del flusso turbolento in un canale a sezione anulare*
 
 
 # Bachelor
 
 - Michele Marogna (2010, July)  
-Studio fluidodinamico di un motore a due tempi
+*Studio fluidodinamico di un motore a due tempi*
 
 - Giorgio Porcelli (2010, February)  
-Dinamica di vortici puntiformi e trasporto di particelle passive in flussi bidimensionali
+*Dinamica di vortici puntiformi e trasporto di particelle passive in flussi bidimensionali*
 
 - Ignazio Sciacca (2009, September)
-Ottimizzazione e modellazione del vento ionico  
+*Ottimizzazione e modellazione del vento ionico*  
 Laurea in Ingegneria Fisica
 
 - Davide Comolli (2006, September)  
-Studio fluidodinamico di pale per gruppo di bassa pressione per turbine a vapore 
+*Studio fluidodinamico di pale per gruppo di bassa pressione per turbine a vapore*
