@@ -184,7 +184,7 @@ Verifica sperimentale di un rinomanometro a quattro fasi
 - Massimo **Zanolini**  (2021, April)  
 *[Turbulent drag reduction using spanwise forcing in compressible regime](https://hdl.handle.net/10589/173844)*
 
-- Francesco Romano' (2020, December)  
+- Francesco **Romano'** (2020, December)  
 Ottimizzazione fluidodinamica per la chirurgia del setto nasale 
 
 - Victor **Garcia Bennet** (2020, July)  
@@ -205,7 +205,7 @@ Ottimizzazione fluidodinamica per la chirurgia del setto nasale
 - Matteo **Zangrandi** (2020, June)  
 *[Aerodynamics over complex terrains and its effects on wind farm power production: an LES study](https://hdl.handle.net/10589/154258)*
 
-- Umberto Tanzini (2020, June)  
+- Umberto **Tanzini** (2020, June)  
 Fluidodinamica computazionale e deviazione del setto nasale: risultati preliminari di un approccio moderno alla progettazione dell'intervento chirurgico di settoplastica  
 Laurea in Medicina e Chirurgia, Università Vita-Salute San Raffaele
 
@@ -219,7 +219,7 @@ Laurea in Medicina e Chirurgia, Università Vita-Salute San Raffaele
 *[Comparing different anatomies in nasal fluid dynamics](https://hdl.handle.net/10589/153047)*
 
 - Francesca Fugaro  (2020, April)  
-Project Lung: Design of an experimental tool that simulates human breathing for scientific research within the OpenNOSE project  
+*[Project Lung: Design of an experimental tool that simulates human breathing for scientific research within the OpenNOSE project](https://hdl.handle.net/10589/153040)*  
 LM in Design & Engineering
 
 - Marco **Lugaresi** (2020, April)  
@@ -237,9 +237,8 @@ LM in Design & Engineering
 - Marco **Villani** (2019, July)  
 *[Second-order structure function tensor budgets for channels at different values of Reynolds number](https://hdl.handle.net/10589/148407)*
 
-- Luca Butera (aprile 2019, April)  
-Nasal pathology assessment through Supervised Learning on Computational
-Fluid Dynamics data: a preliminary study  
+- Luca **Butera** (aprile 2019, April)  
+*[Nasal pathology assessment through Supervised Learning on Computational Fluid Dynamics data: a preliminary study](https://hdl.handle.net/10589/147414)*  
 LM in Computer Science and Engineering
 
 - Gregorio **Frassoldati** (2019, April)  
@@ -304,7 +303,7 @@ LM in Mathematical Engineering
 *[Novel methodologies of CFD in the automotive industry using a Lattice Boltzmann code](https://hdl.handle.net/10589/128361)*
 
 - Lucia **Mascotelli** (2016, July)  
-*[Direct Numerical Simulations of a turbulent pipe flow at high Reynolds numbers](https://hdl.handle.net/10589/123696]*
+*[Direct Numerical Simulations of a turbulent pipe flow at high Reynolds numbers](https://hdl.handle.net/10589/123696)*
 
 - Carlo **Suardi** (2016, July)  
 *[Puff statistics in a drag-reduced turbulent pipe flow](https://hdl.handle.net/10589/123876)*
@@ -321,7 +320,7 @@ LM in Mathematical Engineering
 - Mattia **Murari** (2015, December)  
 *[Ottimizzazione vincolata adjoint-based: sviluppo di una metodologia open source su piattaforma HPC](https://hdl.handle.net/10589/117048)*
 
-- Joseph Diano (2015, July)  
+- Joseph **Diano** (2015, July)  
 Studio sperimentale di onde peristaltiche per la riduzione dell'attrito turbolento
 
 - Luca **Grizzetti** (2015, July)  
@@ -421,11 +420,11 @@ e l’ottimizzazione geometrica](https://hdl.handle.net/10589/81422)*
 - Enrico **Sumatra** (2012, July)  
 *[Fenomeni fluidodinamici in geometrie stenotiche: stabilita' non-modale e perturbazioni ottime](https://hdl.handle.net/10589/57063)*
 
-- Daniele Di Pasquale (2012, July)  
-La fluidodinamica come nuovo strumento di analisi del flusso nasale: risultati preliminari  
+- Daniele **Di Pasquale** (2012, July)  
+[La fluidodinamica come nuovo strumento di analisi del flusso nasale: risultati preliminari]  
 Laurea in Medicina e Chirurgia - Universita' degli Studi di Milano 
 
-- Lorenzo Rossini (2012, July)  
+- Lorenzo **Rossini** (2012, July)  
 The effect of taper in an idealized aortic geometry  
 Politecnico di Torino - Alta Scuola Politecnica
 
@@ -462,12 +461,12 @@ Politecnico di Torino - Alta Scuola Politecnica
 - Emanuele **Bezzecchi** (2010, December)  
 *[Non modal linear stability analysis of an EHD channel flow](https://hdl.handle.net/10589/13141)*
 
-- Andrea Bertolucci (2010, October)  
+- Andrea **Bertolucci** (2010, October)  
 Studio sperimentale di onde viaggianti in flussi turbolenti di parete 
 
 - Daniele **Cavaglieri**  (2010, October)  
 *[Optimal feedback control of turbulent channel flow through wall-based sensors and actuators](https://hdl.handle.net/10589/4841)*  
-LM in mechanical Engineering
+LM in Mechanical Engineering
 
 - Claudio **Ottonelli** (2010, July)  
 *[Energy and enstrophy balances for wall-bounded turbulent flows with drag reduction](https://hdl.handle.net/10589/2513)*
