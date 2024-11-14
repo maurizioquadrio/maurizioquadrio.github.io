@@ -10,6 +10,9 @@ Omer Altay: naso?
 Zainab M.O.A.: flow control?
 un tesista per Markus
 
+WHC
+un naso FM
+un naso AAR
 
 -->
 
@@ -41,13 +44,13 @@ Turbulence in solids
 # Master 
 
 - Francesco **Esposito** (2024, December)  
-Adding LES infrastructure to an IBM DNS code
+DNS and LES with the immersed-boundary technique
 
 - Fabiana **Ghilardi** (2024, December)  
 Drag reduction in transitional pipe flows
 
 - Lorenzo **Pionetti** (2024, December)  
-Drag reduction via tensegrity fabrics
+Turbulent Skin-Friction Drag Reduction by Tensegrity Fabric
 
 - Andrea **Portioli** (2024, December)  
 GPU programming on hybrid computing architectures 
