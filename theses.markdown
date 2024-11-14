@@ -73,8 +73,8 @@ An algal accretion model
 - Niccolò **Berizzi** (2024, April)  
 *[Turbulent Drag Reduction on a Transonic Airfoil with a Shock wave: Direct Numerical Simulation and Aeroacoustic Analysis](https://hdl.handle.net/10589/218679)*
 
-- Riccardo Bertoncello (2024, April)  
-Space-scale analysis of turbulent canopy flows
+- Riccardo **Bertoncello** (2024, April)  
+*Space-scale analysis of turbulent canopy flows*
 
 - Andrea **Cavallari** (2024, April)  
 *[The turbulent wake after a bluff body: a phase-aware analysis](https://hdl.handle.net/10589/218186)*
@@ -209,7 +209,7 @@ Ottimizzazione fluidodinamica per la chirurgia del setto nasale
 *[Aerodynamics over complex terrains and its effects on wind farm power production: an LES study](https://hdl.handle.net/10589/154258)*
 
 - Umberto **Tanzini** (2020, June)  
-Fluidodinamica computazionale e deviazione del setto nasale: risultati preliminari di un approccio moderno alla progettazione dell'intervento chirurgico di settoplastica  
+*Fluidodinamica computazionale e deviazione del setto nasale: risultati preliminari di un approccio moderno alla progettazione dell'intervento chirurgico di settoplastica*  
 Laurea in Medicina e Chirurgia, Università Vita-Salute San Raffaele
 
 - Andrea **Andreolli** (2020, April)  
@@ -324,7 +324,7 @@ LM in Mathematical Engineering
 *[Ottimizzazione vincolata adjoint-based: sviluppo di una metodologia open source su piattaforma HPC](https://hdl.handle.net/10589/117048)*
 
 - Joseph **Diano** (2015, July)  
-Studio sperimentale di onde peristaltiche per la riduzione dell'attrito turbolento
+*Studio sperimentale di onde peristaltiche per la riduzione dell'attrito turbolento*
 
 - Luca **Grizzetti** (2015, July)  
 *[Rilievo sperimentale del campo di velocita' intorno a corpi tozzi con inserti in materiale poroso](https://hdl.handle.net/10589/108972)*
@@ -428,7 +428,7 @@ e l’ottimizzazione geometrica](https://hdl.handle.net/10589/81422)*
 Laurea in Medicina e Chirurgia - Universita' degli Studi di Milano 
 
 - Lorenzo **Rossini** (2012, July)  
-The effect of taper in an idealized aortic geometry  
+*The effect of taper in an idealized aortic geometry*  
 Politecnico di Torino - Alta Scuola Politecnica
 
 - Marco **Nicotra** (2012, April)  
@@ -465,7 +465,7 @@ Politecnico di Torino - Alta Scuola Politecnica
 *[Non modal linear stability analysis of an EHD channel flow](https://hdl.handle.net/10589/13141)*
 
 - Andrea **Bertolucci** (2010, October)  
-Studio sperimentale di onde viaggianti in flussi turbolenti di parete 
+*Studio sperimentale di onde viaggianti in flussi turbolenti di parete*
 
 - Daniele **Cavaglieri**  (2010, October)  
 *[Optimal feedback control of turbulent channel flow through wall-based sensors and actuators](https://hdl.handle.net/10589/4841)*  
@@ -477,64 +477,64 @@ LM in Mechanical Engineering
 - Marcello **Pelis**, Michele **Rampanelli** (2010, July)  
 *[Risposta impulsiva in un flusso turbolento](https://hdl.handle.net/10589/2562)*
 
-- Marco Carini (luglio 2009)  
+- Marco **Carini** (2009, July)  
 *Risposta impulsiva di un flusso turbolento omogeneo e isotropo*
 
-- Fabrizio Andrigo  (febbraio 2008)  
+- Fabrizio **Andrigo** (2008, February)  
 *Flussi turbolenti in condotti anulari con pareti rotanti*
 
-- Davide Cerizza (luglio 2007)  
+- Davide **Cerizza** (2007, July)  
 *Electroconvection in 3 dimensions: a numerical study*
 
-- Luca Galantucci (febbraio 2007)  
+- Luca **Galantucci** (2007, February)  
 *Scalare passivo in flussi turbolenti di parete*  
 LM in Fisica, Universita' degli Studi di Milano
 
-- Claudio Viotti (2006, October)  
+- Claudio **Viotti** (2006, October)  
 *Ciclo di co-supporto nella turbolenza di parete*
 
-- Jean-Francois Bertolino (2006, April)  
+- Jean-Francois **Bertolino** (2006, April)  
 *Modelli di propagazione del fuoco per gli incendi di bosco in 3d e tempo reale*
 
-- Giovanni Longari (2005, December)  
+- Giovanni **Longari** (2005, December)  
 *Algoritmi paralleli per la DNS di turbolenza di parete*
 
-- Barbara Ammattatelli (2005, October)  
+- Barbara **Ammattatelli** (2005, October)  
 *Riduzione di attrito turbolento con soffiaggio trasversale*
 
-- Sara Ceccon (2005, October)  
+- Sara **Ceccon** (2005, October)  
 *Interazione fra campo fluidodinamico e campo elettrico*
 
-- Stefano Bisson (2004, April)  
+- Stefano **Bisson** (2004, April)  
 *Risposta lineare del flusso turbolento in un canale*
 
-- Stefano Giussani (2003, June)  
+- Stefano **Giussani** (2003, June)  
 *Correlazioni spazio-temporali nella turbolenza di parete*
 
-- Piergiorgio Ferro (2002, December)  
+- Piergiorgio **Ferro** (2002, December)  
 *Errori di discretizzazione temporale nella simulazione numerica diretta di correnti turbolente*
 
-- Fabio Brenna (2002, February)  
+- Fabio **Brenna** (2002, February)  
 *Studio numerico degli effetti della curvatura trasversale sulla turbolenza di parete*
 
-- Davide Pirrò  
+- Davide **Pirrò**  
 *Simulazione numerica delle alterazioni indotte in un flusso turbolento da getti alla parete*
 
-- Patrick Morandi  
+- Patrick **Morandi**  
 *Simulazione numerica del flusso turbolento in un canale a sezione anulare*
 
 
 # Bachelor
 
-- Michele Marogna (2010, July)  
+- Michele **Marogna** (2010, July)  
 *Studio fluidodinamico di un motore a due tempi*
 
-- Giorgio Porcelli (2010, February)  
+- Giorgio **Porcelli** (2010, February)  
 *Dinamica di vortici puntiformi e trasporto di particelle passive in flussi bidimensionali*
 
-- Ignazio Sciacca (2009, September)
+- Ignazio **Sciacca** (2009, September)
 *Ottimizzazione e modellazione del vento ionico*  
 Laurea in Ingegneria Fisica
 
-- Davide Comolli (2006, September)  
+- Davide **Comolli** (2006, September)  
 *Studio fluidodinamico di pale per gruppo di bassa pressione per turbine a vapore*
