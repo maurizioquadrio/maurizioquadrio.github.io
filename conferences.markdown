@@ -74,58 +74,29 @@ IX ECCOMAS Congress, Jun 3-7 2024, Lisbon (P)
 
 # 2023
 
-\item \html{[} 
-M.Quadrio, 2023. The OpenNOSE project: of interest for the lung modelling community
-\html{]} 
-\htmladdnormallink{Presentation}{../../papers/2023-chiesi-presentation.pdf}
-Invited plenary presentation, Lung Modelling Congress, Parma (I), Nov 22–23, 2023
+- The OpenNOSE project: of interest for the lung modelling community  
+**M.Quadrio**  
+*Invited plenary talk*, Lung Modelling Congress, Nov 22–23 2023, Parma (I)
 
-\item \html{[} 
-E.Segalerba, M.Quadrio & J.Pralits, 2023.
-How should nasal anatomies be compared before and after surgery? A CFD study.
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2023-emi-abstract.pdf}
-EMI 2023 International Conference
-Palermo (I) August 27 - 30, 2023
+- How should nasal anatomies be compared before and after surgery? A CFD study  
+**E.Segalerba**, M.Quadrio & J.Pralits  
+EMI 2023 International Conference, Aug. 27-30 2023, Palermo (I) 
 
-\item \html{[} 
-L.Xi, M.Quadrio & Y.Zhou, 2023.
-Direct numerical simulation of skin-friction reduction using steady and periodic blowing through streamwise slits
-\html{]} 
-The 6th Symposium on Fluid-Structure-Sound Interactions and Control
-FSSIC 2023
-Aug. 27-31, Busan, South Korea
+- Direct numerical simulation of skin-friction reduction using steady and periodic blowing through streamwise slits  
+L.Xi, M.Quadrio & **Y.Zhou**  
+The 6th Symposium on Fluid-Structure-Sound Interactions and Control FSSIC, Aug. 27-31 2023, Busan (S.Korea)
 
-%---(130)
+- Spanwise forcing for drag reduction: recent progresses at PoliMi, applications and understanding  
+**M.Quadrio**  
+*Invited talk*, Center for Turbulence Control, Harbin Institute of Technology, Oct. 9 2023, Shenzhen (PRC)
 
-\item \html{[} 
-S.M. Tauwald, M.Quadrio, M.Rütten, C.Stemmer & L.Krenkel, 2023.
-High Spatial Resolution Tomo-PIV of the Trachea Focussing on the Physiological Breathing Cycle
-\html{]} 
-\htmladdnormallink{Paper}{../../papers/2023-DGLR.pdf}
-TAB/DGLR Symposium 2022
-New Results in Numerical and Experimental Fluid Mechanics XIV, pp 569–578
+- Fluid dynamics of the human nose: Where flow control meets surgery  
+**M.Quadrio**  
+*Invited seminar*, Universidad Politecnica de Madrid, Sept. 8 2023, Madrid (E)
 
-\item \html{[} 
-M.Quadrio, 2023.
-Spanwise forcing for drag reduction: recent progresses at PoliMi, applications and understanding
-\html{]} 
-\htmladdnormallink{Presentation}{../../papers/2023-hitsz-presentation.pdf}
-Invited seminar, Center for Turbulence Control, Harbin Institute of Technology at Shenzhen (PRC), Oct. 9 2023 
-
-\item \html{[} 
-M.Quadrio, 2023. Fluid dynamics of the human nose: Where flow control meets surgery
-\html{]} 
-\htmladdnormallink{Presentation}{../../papers/2023-upm-presentation.pdf}
-Invited seminar, Universidad Politecnica de Madrid (E), Sept. 8 2023 
-
-\item \html{[} 
-D.Gatti, S.Cipelli, F.Gattere, A.Chiarini, P.Luchini & M.Quadrio, 2023.
-Accurate and efficient direct numerical simulation of turbulent drag reduction by riblets
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2023-etc-gatti-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2023-etc-gatti-presentation.pdf}
-XVIII Euromech Turbulence Conference 2023, Valencia (E), Sept. 4-6 2023 
+- Accurate and efficient direct numerical simulation of turbulent drag reduction by riblets
+**D.Gatti**, S.Cipelli, F.Gattere, A.Chiarini, P.Luchini & M.Quadrio
+XVIII Euromech Turbulence Conference, Sept. 4-6 2023, Valencia (E)
 
 \item \html{[} 
 E.Gallorini & M.Quadrio, 2023.
@@ -190,6 +161,12 @@ Improved healing after corneal transplantation by optimization of patient positi
 \html{]}
 \htmladdnormallink{Abstract}{../../papers/2023-ofw-pralits-abstract.pdf}  
 OpenFOAM Workshop 2023, Genoa (I), July 11-16 2023.
+
+- High Spatial Resolution Tomo-PIV of the Trachea Focussing on the Physiological Breathing Cycle  
+**S.M.Tauwald**, M.Quadrio, M.Rütten, C.Stemmer & L.Krenkel  
+23rd TAB/DGLR Symposium , Nov. 9-10 2022, Berlin (D)  
+New Results in Numerical and Experimental Fluid Mechanics XIV **154** pp 569–578
+
 
 \item \html{[}
 F.Gattere, A.Chiarini, E.Gallorini & M.Quadrio, 2022.

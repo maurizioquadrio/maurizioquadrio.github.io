@@ -13,6 +13,7 @@ un tesista per Markus
 WHC
 un naso FM
 un naso AAR
+naso: effetto di interpolazione DICOM su Slicer
 
 -->
 
@@ -56,7 +57,7 @@ Turbulent Skin-Friction Drag Reduction by Tensegrity Fabric
 GPU programming on hybrid computing architectures 
 
 - Lucrezia **Vigo** (2024, December)  
-An algal accretion model
+Numerical prediction of light-driven algal growth in a photobioreactor
 
 - Kia **Abdollahi Makouei** (2024, July)  
 *[Interaction of large and small scales in turbulent Couette flow](https://hdl.handle.net/10589/223546)*
