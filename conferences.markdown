@@ -94,271 +94,160 @@ The 6th Symposium on Fluid-Structure-Sound Interactions and Control FSSIC, Aug. 
 **M.Quadrio**  
 *Invited seminar*, Universidad Politecnica de Madrid, Sept. 8 2023, Madrid (E)
 
-- Accurate and efficient direct numerical simulation of turbulent drag reduction by riblets
-**D.Gatti**, S.Cipelli, F.Gattere, A.Chiarini, P.Luchini & M.Quadrio
+- Accurate and efficient direct numerical simulation of turbulent drag reduction by riblets  
+**D.Gatti**, S.Cipelli, F.Gattere, A.Chiarini, P.Luchini & M.Quadrio  
 XVIII Euromech Turbulence Conference, Sept. 4-6 2023, Valencia (E)
 
-\item \html{[} 
-E.Gallorini & M.Quadrio, 2023.
-Effect of control dicretization on streamwise travelling waves of spanwise wall velocity
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2023-etc-gallorini-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2023-etc-gallorini-presentation.pdf}
-XVIII Euromech Turbulence Conference 2023, Valencia (E), Sept. 4-6 2023 
+- Effect of control dicretization on streamwise travelling waves of spanwise wall velocity  
+**E.Gallorini** & M.Quadrio  
+XVIII Euromech Turbulence Conference, Sept. 4-6 2023, Valencia (E)
 
-\item \html{[} 
-M.Quadrio, A.Chiarini, A.Conforti & F.Gattere, 2023.
-Spanwise forcing for turbulent drag reduction: the optimal oscillation period
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2023-etc-quadrio-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2023-etc-quadrio-presentation.pdf}
-XVIII Euromech Turbulence Conference 2023, Valencia (E), Sept. 4-6 2023 
+- Spanwise forcing for turbulent drag reduction: the optimal oscillation period  
+**M.Quadrio**, A.Chiarini, A.Conforti & F.Gattere  
+XVIII Euromech Turbulence Conference, Sept. 4-6 2023, Valencia (E)
 
-\item \html{[} 
-F.Gattere, A.Chiarini, M.Zanolini, D.Gatti, M.Bernardini & M.Quadrio, 2023.
-Turbulent drag reduction with streamwise travelling waves in the compressible regime
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2023-etc-gattere-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2023-etc-gattere-presentation.pdf}
-XVIII Euromech Turbulence Conference 2023, Valencia (E), Sept. 4-6 2023 
+- Turbulent drag reduction with streamwise travelling waves in the compressible regime  
+**F.Gattere**, A.Chiarini, M.Zanolini, D.Gatti, M.Bernardini & M.Quadrio  
+XVIII Euromech Turbulence Conference, Sept. 4-6 2023, Valencia (E)
 
-\item \html{[}
-M.Quadrio, 2023
-Fluid dynamics of the human nose: modeling and clinical perspectives
-\html{]}
-\htmladdnormallink{Presentation}{../../papers/2023-gssi-presentation.pdf}  
-Keynote lecture, CFDparschool, L'Aquila (I), 16-21 July 2023.
+- Fluid dynamics of the human nose: modeling and clinical perspectives  
+**M.Quadrio**  
+*Keynote lecture*, CFDparschool, July 16-21 2023, L'Aquila (I)
 
-\item \html{[}
-S.M.Tauwald, F.Erzinger, M.Quadrio, M.Rütten, C.Stemmer & L.Krenkel, 2023
-Improvement of Tomo-PIV Analyses in the Nasal Cavities
-\html{]}
-\htmladdnormallink{Abstract}{../../papers/2023-isfv-abstract.pdf},   
-\htmladdnormallink{Presentation}{../../papers/2023-isfv-presentation.pdf}, and
-\htmladdnormallink{Paper}{../../papers/2023-isfv-paper.pdf}  
-20th International Symposium on Flow Visualization, Delft (NL), July 2023.
+**S.M.Tauwald**, F.Erzinger, M.Quadrio, M.Rütten, C.Stemmer & L.Krenkel  
+Improvement of Tomo-PIV Analyses in the Nasal Cavities  
+20th International Symposium on Flow Visualization, July 2023, Delft (NL)
 
-\item \html{[}
-E.Segalerba, E.Gallorini, M.Quadrio & J.Pralits, 2023.
-On the comparison between topological and surface sensitivities for bio-fluid dynamics applications
-\html{]}
-%\htmladdnormallink{Abstract}{../../papers/2023-ofw-segalerba-abstract.pdf}  
-OpenFOAM Workshop 2023, Genoa (I), July 11-16 2023.
+- On the comparison between topological and surface sensitivities for bio-fluid dynamics applications  
+**E.Segalerba**, E.Gallorini, M.Quadrio & J.Pralits  
+OpenFOAM Workshop 2023, July 11-16 2023, Genova (I)
 
-%---(120)
+Classification of nasal pathologies: Enhancing Machine Learning with Computational Fluid Dynamics  
+**M.Quadrio**, A.Schillaci & G.Boracchi  
+OpenFOAM Workshop 2023, July 11-16 2023, Genova (I)
 
-\item \html{[}
-M.Quadrio, A.Schillaci & G.Boracchi, 2023.
-Classification of nasal pathologis: Enhancing Machine Learning with Computational Fluid Dynamics
-\html{]}
-\htmladdnormallink{Abstract}{../../papers/2023-ofw-quadrio-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2023-ofw-quadrio-presentation.pdf}
-OpenFOAM Workshop 2023, Genoa (I), July 11-16 2023.
+Improved healing after corneal transplantation by optimization of patient positioning  
+**J.Pralits**, V.Garcia Bennett, M.Quadrio & M.Alberti  
+OpenFOAM Workshop 2023, July 11-16 2023, Genova (I)
 
-\item \html{[}
-J.Pralits, V.Garcia Bennett, M.Quadrio & M.Alberti, 2023.
-Improved healing after corneal transplantation by optimization of patient positioning
-\html{]}
-\htmladdnormallink{Abstract}{../../papers/2023-ofw-pralits-abstract.pdf}  
-OpenFOAM Workshop 2023, Genoa (I), July 11-16 2023.
+-------
+
+# 2022
 
 - High Spatial Resolution Tomo-PIV of the Trachea Focussing on the Physiological Breathing Cycle  
 **S.M.Tauwald**, M.Quadrio, M.Rütten, C.Stemmer & L.Krenkel  
 23rd TAB/DGLR Symposium , Nov. 9-10 2022, Berlin (D)  
 New Results in Numerical and Experimental Fluid Mechanics XIV **154** pp 569–578
 
-
-\item \html{[}
-F.Gattere, A.Chiarini, E.Gallorini & M.Quadrio, 2022.
-Scale-space budget equations for inhomogeneous (quasi-)periodic turbulent flows
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2022-efmc-gattere-abstract.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2022-efmc-gattere-presentation.pdf}
+- Scale-space budget equations for inhomogeneous (quasi-)periodic turbulent flows  
+**F.Gattere**, A.Chiarini, E.Gallorini & M.Quadrio  
 European Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
 
-\item \html{[}
-A.Chiarini, M.Quadrio & F.Auteri, 2022.
-An almost subharmonic instability in the flow past rectangular cylinders
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2022-efmc-chiarini-abstract.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2022-efmc-chiarini-presentation.pdf}
+- An almost subharmonic instability in the flow past rectangular cylinders  
+**A.Chiarini**, M.Quadrio & F.Auteri  
 European Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
 
-\item \html{[}
-G.Foggi Rota, A.Monti, M.E. Rosti & M.Quadrio, 2022.
-On-off pumping for drag reduction in a turbulent channel ﬂow
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2022-efcm-foggirota-abstract.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2022-efcmdrfcm-foggirota-presentation.pdf}
+- On-off pumping for drag reduction in a turbulent channel ﬂow  
+**G.Foggi Rota**, A.Monti, M.E. Rosti & M.Quadrio  
 European Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
 
-\item \html{[}
-A.Schillaci, G.Boracchi, C.Pipolo & M.Quadrio, 2022.
-A CFD-augmented machine-learning approach for the classification of nasal pathologies
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2022-efmc-schillaci-abstract.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2022-efmc-schillaci-presentation.pdf}
+- A CFD-augmented machine-learning approach for the classification of nasal pathologies  
+**A.Schillaci**, G.Boracchi, C.Pipolo & M.Quadrio  
 European Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
 
-\item \html{[}
-M.Quadrio, 2022.
-Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2022-efmc-quadrio-abstract.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2022-efmc-quadrio-presentation.pdf}
-European Fluid Mechanics Conference, Invited Plenary Talk, Sept 13--16 2022, Athens (GR)
+- Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD
+**M.Quadrio**  
+*Invited Plenary Talk*, European Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
 
-\item \html{[}
-F.Gattere, A.Charini, G.M.Cavallazzi, A.Rossi, D.Gatti, P.Luchini & M.Quadrio, 2022.
-Towards reliable and cost-effective DNS over riblets 
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2022-edrfcm-gattere-abstract.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2022-edrfcm-gattere-presentation.pdf}
+- Towards reliable and cost-effective DNS over riblets  
+**F.Gattere**, A.Charini, G.M.Cavallazzi, A.Rossi, D.Gatti, P.Luchini & M.Quadrio  
 European Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
 
-\item \html{[}
-E.Gallorini, M.Quadrio & D.Gatti, 2022.
-Coherent near-wall structures and drag reduction by spanwise forcing, 2022.
-\html{]}
-\htmladdnormallink{Abstract}{../../papers/2022-edrfcm-gallorini-abstract.pdf} and 
-\htmladdnormallink{Presentation}{../../papers/2022-edrfcm-gallorini-presentation.pdf}
+- Coherent near-wall structures and drag reduction by spanwise forcing  
+E.Gallorini, M.Quadrio & D.Gatti  
 European Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
 
-\item \html{[}
-M.Quadrio, A.Chiarini, D.Gatti, J.Banchetti, A.Memmolo & S.Pirozzoli, 2022.
-Drag reduction on a transonic airfoil
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2022-edrfcm-quadrio-abstract.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2022-edrfcm-quadrio-presentation.pdf}
+Drag reduction on a transonic airfoil  
+**M.Quadrio**, A.Chiarini, D.Gatti, J.Banchetti, A.Memmolo & S.Pirozzoli  
 European Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
 
-%---(110)
-
-\item \html{[}
-G.Foggi Rota, A.Monti, M.E. Rosti & M.Quadrio, 2022.
-On-off pumping for drag reduction in a turbulent channel ﬂow
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2022-edrfcm-foggirota-abstract.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2022-edrfcm-foggirota-presentation.pdf}
+- On-off pumping for drag reduction in a turbulent channel ﬂow  
+**G.Foggi Rota**, A.Monti, M.E. Rosti & M.Quadrio  
 European Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
 
-\item \html{[}
-F.Gattere, A.Chiarini, M.Zanolini, D.Gatti, M.Bernardini & M.Quadrio, 2022.
-Turbulent drag reduction using spanwise forcing in compressible regime
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2022-edrfcm-chiarini-abstract.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2022-edrfcm-chiarini-presentation.pdf}
+Turbulent drag reduction using spanwise forcing in compressible regime  
+F.Gattere, **A.Chiarini**, M.Zanolini, D.Gatti, M.Bernardini & M.Quadrio  
 European Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
 
-\item \html{[}
-E.Segalerba, J.Pralits, M.Quadrio & J.Guerrero, 2022.
-Comparison of nasal anatomies using computational fluid dynamics
-\html{]} 
-\htmladdnormallink{Presentation}{../../papers/2022-Cambridge-presentation.pdf}
+Comparison of nasal anatomies using computational fluid dynamics  
+**E.Segalerba**, J.Pralits, M.Quadrio & J.Guerrero  
 17th OpenFOAM Workshop, July 11-14 2022, Cambridge (UK)
 
-\item \html{[}
-M.Quadrio, A.Chiarini, J.Banchetti, D.Gatti, A.Memmolo & S.Pirozzoli, 2022.
-Drag reduction on a transonic airfoil
-\html{]} 
-\htmladdnormallink{Paper}{../../papers/2022-TSFP-paper.pdf} and
-\htmladdnormallink{presentation}{../../papers/2022-TSFP-presentation.pdf}
+- Drag reduction on a transonic airfoil  
+M.Quadrio, **A.Chiarini**, J.Banchetti, D.Gatti, A.Memmolo & S.Pirozzoli  
 12th International Symposium on Turbulence and Shear Flow Phenomena (TSFP12)
 July 19-22 2022, Osaka (J)
 
-\item \html{[}
-A.Schillaci, L.Butera, G.Romani, C.Pipolo, G.Felisati, M.Restelli, G.Boracchi & M.Quadrio, 2021.
-The human nasal cavity: towards the optimal surgery with CFD and Machine Learning
-\html{]} 
-\htmladdnormallink{Paper}{../../papers/2021-ictam-abstract-nose.pdf} and
-\htmladdnormallink{video presentation}{../../papers/2021-ictam-presentation-longnose.m4v}
-XXV ICTAM, 23-28 August 2021, Milano (I)
+-------
 
-\item \html{[}
-A.Chiarini, M.Quadrio & F.Auteri, 2021.
-On the instability of the flow around rectangular cylinders
-\html{]} 
-\htmladdnormallink{Paper}{../../papers/2021-ictam-abstract-instability.pdf}
-XXV ICTAM, 23-28 August 2021, Milano (I)
+# 2021
 
-\item \html{[}
-F.Auteri, A.Chiarini and M.Quadrio, 2021.
-An optimal, fast, parallel solver for the incompressible Navier–Stokes equations on colocated grids
-\html{]} 
-\htmladdnormallink{Paper}{../../papers/2021-ictam-abstract-DNSsolver.pdf} and
-\htmladdnormallink{video presentation}{../../papers-2021-ictam-presentation-DNSsolver.m4v}
-XXV ICTAM, 23-28 August 2021, Milano (I)
+- The human nasal cavity: towards the optimal surgery with CFD and Machine Learning  
+**A.Schillaci**, L.Butera, G.Romani, C.Pipolo, G.Felisati, M.Restelli, G.Boracchi & M.Quadrio  
+XXV ICTAM, Aug. 23-28 2021, Milano (I)
 
-\item \html{[}
-A.Andreolli, M.Quadrio, B.Frohnapfel & D.Gatti,  2021
-Global power budgets in turbulent Couette and Poiseuille flows
-\html{]} 
-\htmladdnormallink{Presentation}{../../papers/2021-gamm-presentation.pdf},
-GAMM Meeting 2020-2021, March 15--19, Kassel (D)
+- On the instability of the flow around rectangular cylinders  
+**A.Chiarini**, M.Quadrio & F.Auteri  
+XXV ICTAM, Aug. 23-28 2021, Milano (I)
 
-\item \html{[}
-A.Andreolli, M.Quadrio & D.Gatti, 2021
-Global turbulent efficiency in plane Couette and Poiseuille flows
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2021-iTi-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2021-iTi-presentation.pdf},
-Oral presentation, iTi, Feb. 25-26 2021, Bertinoro (I)
+- An optimal, fast, parallel solver for the incompressible Navier–Stokes equations on colocated grids  
+**F.Auteri**, A.Chiarini and M.Quadrio  
+XXV ICTAM, Aug. 23-28 2021, Milano (I)
 
-\item \html{[}
-A.Schillaci, M.Quadrio, C.Pipolo, M.Restelli, G.Boracchi, 2021.
-Inferring Functional Properties from Fluid Dynamics Features
-\html{]} 
-\htmladdnormallink{Poster}{../../papers/2021-ICPR-poster.pdf} and
-\htmladdnormallink{paper}{../../papers/2021-ICPR-paper.pdf},
-25th International Conference on Pattern Recognition (ICPR). Milano (I) Jan 10-15, 2021
+- Global power budgets in turbulent Couette and Poiseuille flows  
+**A.Andreolli**, M.Quadrio, B.Frohnapfel & D.Gatti  
+GAMM Meeting 2020-2021, Mar. 15--19 2021, Kassel (D)
 
-%---(100)
+- Global turbulent efficiency in plane Couette and Poiseuille flows  
+**A.Andreolli**, M.Quadrio & D.Gatti  
+iTi, Feb. 25-26 2021, Bertinoro (I)
 
-\item \html{[}
-M.Zangrandi, F.Bernardoni, U.Ciri, M.Quadrio & S.Leonardi, 2020.
-Dependence of wind farm performances on the terrain topography
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2020-APS-abstract.pdf},
-73rd Annual Meeting of the APS Division of Fluid Dynamics, Chicago (US), Nov. 22--24, 2020
+- Inferring Functional Properties from Fluid Dynamics Features  
+**A.Schillaci**, M.Quadrio, C.Pipolo, M.Restelli, G.Boracchi  
+25th International Conference on Pattern Recognition (ICPR), Jan 10-15, 2021, Milano (I)
 
-\item \html{[} 
-J.Banchetti & M.Quadrio, 2019.
-Turbulent drag reduction for a wall with a bump. 
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2019-etc-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2019-etc-presentation.pdf}
-XVII Euromech Turbulence Conference 2019, Turin (I), Sept. 3-6 2019 
+-------
 
-\item \html{[} 
-M.Quadrio, 2019.
-Machine learning and fluid mechanics in biological applications.
-\html{]} 
-Invited plenary \htmladdnormallink{presentation}{../../papers/2019-DDMOFM-presentation.pdf}
-International Workshop on Data-driven Modeling and Optimization in Fluid Mechanics, Sept. 16-17 2019 
+# 2020
 
-\item \html{[} 
+- Dependence of wind farm performances on the terrain topography  
+**M.Zangrandi**, F.Bernardoni, U.Ciri, M.Quadrio & S.Leonardi  
+73rd Annual Meeting of the APS Division of Fluid Dynamics, , Nov. 22--24, 2020, Chicago (US)
+
+-------
+
+# 2019
+
+- Turbulent drag reduction for a wall with a bump  
+**J.Banchetti** & M.Quadrio  
+XVII Euromech Turbulence Conference 2019, , Sept. 3-6 2019, Turin (I)
+
+- Machine learning and fluid mechanics in biological applications.
+**M.Quadrio**
+*Invited talk*, International Workshop on Data-driven Modeling and Optimization in Fluid Mechanics, Sept. 16-17 2019, Karlsruhe (D)
+
 P.Luchini & M.Quadrio, 2019.
 A model for fluctuations of the spatial mean in a turbulent channel flow
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2019-edrfcm-luchini-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2019-edrfcm-luchini-presentation.pdf}
 European Drag Reduction and Flow Control Meeting, 
 Bad Herrenalb (D), Mar. 26--29 2019
 
-\item \html{[} J.Banchetti & M.Quadrio, 2019.
 Turbulent drag reduction for a wall with a bump
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2019-edrfcm-banchetti-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2019-edrfcm-banchetti-presentation.pdf}
-European Drag Reduction and Flow Control Meeting, 
+European Drag Reduction and Flow 
+Control Meeting, 
 Bad Herrenalb (D), Mar. 26--29 2019
 
-\item \html{[} A.Chiarini, M.Quadrio & D.Gatti, 2019.
-Skin-friction drag reduction described via the
-Anisotropic Generalised Kolmogorov Equations
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2019-edrfcm-chiarini-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2019-edrfcm-chiarini-presentation.pdf}
+A.Chiarini, M.Quadrio & D.Gatti, 2019.
+Skin-friction drag reduction described via the Anisotropic Generalised Kolmogorov Equations
 European Drag Reduction and Flow Control Meeting, 
 Bad Herrenalb (D), Mar. 26--29 2019
 

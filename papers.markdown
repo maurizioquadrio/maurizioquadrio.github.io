@@ -12,9 +12,6 @@ NCA
 
 2-3) Inhalation Magazine 1 and 2
 
-4) On the comparison between topological and surface sensitivities for bio-fluid dynamics applications
-AIMETA
-
 5) Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose" has just been submitted to "Applied Mathematical Modelling" (PENNISI)
 
 6) Near-field aeroacoustic effects of spanwise forcing on a transonic wing: a DNS study
@@ -36,6 +33,10 @@ J. Fluid Mechanics
 ------
 
 # 2024
+
+- Comparison between topological and surface sensitivities for bio-fluid dynamics applications  
+E.Segalerba1, E.Gallorini, M.Quadrio & J.O.Pralits  
+Accepted for publication, *Meccanica*
 
 - Turbulent skin-friction drag reduction via spanwise forcing at high Reynolds number  
 D.Gatti, M.Quadrio, A.Chiarini, F.Gattere & S.Pirozzoli  
