@@ -20,7 +20,15 @@ ARGOMENTI
 - naso: fluidodinamica (della maschera) della rimanometria: questa direi che e’ la piu’ ovvia, nel senso che c’e’ una relativamente ben definita domanda a cui serve rispondere e tutti gli strumenti pronti (sia codice, sia generazione delle geometrie).
 - naso: gole idealizzate e turbolenza alla prima (o seconda) generazione dei polmoni: questa non e’ detto che vogliamo gia’ mollarla ad un tesista, ma secondo me potrebbe anche starci. Come nel caso prima, c’e’ una buona domanda (anche se forse da puntualizzare un attimo), c’e’ l’interesse e ci sono gli strumenti.
 - naso: la simulazione dell’inalatore (bisogna pensarci per definirla bene, ma il caso esiste, ed e’ rilevante). Tra le mie, questa e’ quella che meglio si presta a riprendere il lavoro sull’implementazione delle LES perche’ e’ un caso chiaramente turbulento in cui una ragionevole riduzione della risoluzione dovrebbe significativamente aumentare la porzione di inalazione che puo’ essere descritta.
+- naso: ciclo respiratorio completo
+- naso, ARF: ripetere AS con tp3d
 
+
+- Niccolo': ala transonica a M ridotto per togliere urto
+- MarcoC: dissimilar control con scalare passivo, DRL
+- Ema: continuare sui puffs (ridurre Re gradualmente con onda attiva; studio sistematico di effetto dominio, CFR/CPG, studio tipo puff a seconda della discretizzazione)
+- Ema: stabilita' con onde su altri flussi linearmente stabili (tipo Couette)
+- StTW su flussi non-Poiseuille (p.e. Couette, onde nelle due direzioni)
 - articolo Jesus
 - Markus Ruetten
 

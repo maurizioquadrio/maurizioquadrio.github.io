@@ -232,30 +232,36 @@ iTi, Feb. 25-26 2021, Bertinoro (I)
 **J.Banchetti** & M.Quadrio  
 XVII Euromech Turbulence Conference 2019, , Sept. 3-6 2019, Turin (I)
 
-- Machine learning and fluid mechanics in biological applications.
-**M.Quadrio**
+- Machine learning and fluid mechanics in biological applications  
+**M.Quadrio**  
 *Invited talk*, International Workshop on Data-driven Modeling and Optimization in Fluid Mechanics, Sept. 16-17 2019, Karlsruhe (D)
 
-P.Luchini & M.Quadrio, 2019.
-A model for fluctuations of the spatial mean in a turbulent channel flow
-European Drag Reduction and Flow Control Meeting, 
-Bad Herrenalb (D), Mar. 26--29 2019
+- A model for fluctuations of the spatial mean in a turbulent channel flow  
+**P.Luchini** & M.Quadrio  
+European Drag Reduction and Flow Control Meeting, Mar. 26--29 2019, Bad Herrenalb (D)
 
-Turbulent drag reduction for a wall with a bump
-European Drag Reduction and Flow 
-Control Meeting, 
-Bad Herrenalb (D), Mar. 26--29 2019
+- Turbulent drag reduction for a wall with a bump  
+**M.Quadrio**, J.Banchetti & P.Luchini  
+European Drag Reduction and Flow Control Meeting, Mar. 26--29 2019, Bad Herrenalb (D)
 
-A.Chiarini, M.Quadrio & D.Gatti, 2019.
-Skin-friction drag reduction described via the Anisotropic Generalised Kolmogorov Equations
-European Drag Reduction and Flow Control Meeting, 
-Bad Herrenalb (D), Mar. 26--29 2019
+- Skin-friction drag reduction described via the Anisotropic Generalised Kolmogorov Equations  
+**A.Chiarini**, M.Quadrio & D.Gatti  
+European Drag Reduction and Flow Control Meeting, Mar. 26--29 2019, Bad Herrenalb (D)
 
-\item \html{[} B.Frohnapfel, A.Cimarelli, Y.Hasegawa, M.Quadrio & D.Gatti, 2019.
-Turbulent Dissipation in Drag Reduced Flows
-\html{]}
-\htmladdnormallink{Presentation}{../../papers/2019-gamm.pdf}
+- Turbulent Dissipation in Drag Reduced Flows  
+**B.Frohnapfel**, A.Cimarelli, Y.Hasegawa, M.Quadrio & D.Gatti  
 GAMM Meeting 2019, February 18--22, Wien (A)
+
+-------
+
+# 2018
+
+
+
+
+
+
+
 
 \item \html{[} D.Gatti, A.Chiarini, A.Cimarelli & M.Quadrio, 2018.
 Production, transport and dissipation of turbulent stresses across scales and space
@@ -274,8 +280,6 @@ Integral energy budgets in turbulent channels with and without drag reduction
 \html{]}
 \htmladdnormallink{Presentation}{../../papers/2018-gamm-b.pdf}
 GAMM Meeting 2018, March 19--23, Munich (D)
-
-%---(90)
 
 \item \html{[} Chiarini, A., B.Frohnapfel, M. Quadrio, A.Cimarelli, Y.Hasegawa, & D.Gatti, 2018.
 Space and scale fluxes of Reynolds shear stresses in turblent channel flows
