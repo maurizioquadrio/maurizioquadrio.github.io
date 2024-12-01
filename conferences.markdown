@@ -320,12 +320,9 @@ European Drag Reduction and Flow Control Meeting, Apr 3-6 2017, Monte Porzio Cat
 
 # 2016
 
-\item \html{[} L.Palma, R.Pieri, R.Ponzini & M.Quadrio, 2016.
-Shape Optimization and CFD RANS Codes: an Adjoint-based Strategy for
-Drag Reduction in Automotive Applications
-\html{]} 
-\htmladdnormallink{Poster}{../../papers/2016-CAE-poster.pdf}
-International CAE Conference, Parma, Oct 17-18 2016.
+- Shape Optimization and CFD RANS Codes: an Adjoint-based Strategy for Drag Reduction in Automotive Applications  
+**L.Palma**, R.Pieri, R.Ponzini & M.Quadrio  
+International CAE Conference, Oct 17-18 2016, Parma (I)
 
 - Direct numerical simulation and theory of a wall-bounded flow with zero skin friction  
 **G.Coleman**, S.Pirozzoli, M.Quadrio & P.Spalart  
@@ -341,18 +338,14 @@ Sept. 21--23 2016, Palermo (I)
 **D.Gatti**, B.Frohapfel, A.Cimarelli, M.Quadrio & Y.Hasegawa  
 iTi Conference on Turbulence, Sept. 7-9 2016, Bertinoro (I)
 
-\item \html{[} M.Zhang, F.Martinelli, J.Wu, P.J.Schmid & M.Quadrio, 2016.
-Stability of subcritical electrohydrodynamics in dielectric fluids
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2016-IWEHD-abstract.pdf} 
+- Stability of subcritical electrohydrodynamics in dielectric fluids  
+**M.Zhang**, F.Martinelli, J.Wu, P.J.Schmid & M.Quadrio  
 First International Workshop on Electro-Hydro-Dynamics and Tribo-Electrostatics,
-Poitiers (F), 1-2 Sept. 2016
+1-2 Sept. 2016, Poitiers (F)
 
-\item \html{[} E.Borlandelli, D.Scarselli, P.Bettini, G.Sala, M.Quadrio, A.Nespoli, D.Rigamonti, E.Villa, 2016
-\html{]} 
-Design and Experimental Testing of a NiTi-based, High Frequency, Centripetal Multiple Actuator
-\htmladdnormallink{Poster}{../../papers/2016-CIMTEC-poster.pdf}
-Poster presentation, 7th Forum on New Materials (CIMTEC 2016), Perugia, 5-9 June, 2016
+- Design and Experimental Testing of a NiTi-based, High Frequency, Centripetal Multiple Actuator  
+**E.Borlandelli**, D.Scarselli, P.Bettini, G.Sala, M.Quadrio, A.Nespoli, D.Rigamonti, E.Villa  
+7th Forum on New Materials (CIMTEC 2016), Jun 5-9 2016, Perugia (I)
 
 \item \html{[} D.Gatti, B.Frohnapfel, A.Cimarelli, M.Quadrio, Y.Hasegawa, 2016.
 Turbulent skin-friction drag reduction in the Constant Power Input framework
