@@ -256,109 +256,69 @@ GAMM Meeting 2019, February 18--22, Wien (A)
 
 # 2018
 
+- Production, transport and dissipation of turbulent stresses across scales and space  
+**D.Gatti**, A.Chiarini, A.Cimarelli & M.Quadrio  
+International Turbulence Initiative, Sept. 5-7 2018, Bertinoro (I)
 
+- Computational Fluid Dynamics Simulation of nasal airflow with LES (Large Eddy Simulation) model  
+**L.Castellani**, V.Covello, C.Pipolo, A.M.Saibene, G.Felisati & M.Quadrio  
+19th Congress of the European Rhinological Society, April 22-26 2018, London (UK)
 
+- Integral energy budgets in turbulent channels with and without drag reduction  
+**D.Gatti**, Y.Hasegawa, M.Quadrio, B.Frohnapfel & A.Cimarelli  
+GAMM Meeting 2018, March 19--23 2018, Munich (D)
 
+- Space and scale fluxes of Reynolds shear stresses in turbulent channel flows  
+**A.Chiarini**, B.Frohnapfel, M.Quadrio, A.Cimarelli, Y.Hasegawa, & D.Gatti  
+GAMM Meeting 2018, March 19--23 2018, Munich (D)
 
+-------
 
+# 2017
 
+- Impact of Drag Reduction Control on Energy Box of a Fully Developed Turbulent Channel Flow  
+**Y.Hasegawa**, D.Gatti, A.Cimarelli, B.Frohnapfel & M.Quadrio  
+DFD17 Meeting of The American Physical Society, Nov 19--21, 2017, Denver (Tx, USA)
 
-\item \html{[} D.Gatti, A.Chiarini, A.Cimarelli & M.Quadrio, 2018.
-Production, transport and dissipation of turbulent stresses across scales and space
-\html{]}
-\htmladdnormallink{Presentation }{../../papers/2018-iTi.pdf}
-International Turbulence Initiative, Bertinoro (I), Sept. 5-7 2018
+- Skin-friction drag reduction, and how to assess it  
+**M.Quadrio**  
+*Invited plenary talk* at the China-EU Aviation technology Cooperation Workshop, Nov 6--10, 2017, Wuzhen (PRC)
 
-\item \html{[} L.Castellani, V.Covello, C.Pipolo, A.M.Saibene, G.Felisati & M.Quadrio, 2018.
-Computational Fluid Dynamics Simulation of nasal airflow with LES (Large Eddy Simulation) model.
-\html{]}
-\htmladdnormallink{Poster }{../../papers/2018-ers.pdf}
-19th Congress of the European Rhinological Society, London (UK), April 22-26 2018
+- Scale energy fluxes in turbulent channels with drag reduction at constant power input  
+**D.Gatti**, A.Remigi, A.Cimarelli, Y.Hasegawa, B.Frohnapfel & M.Quadrio  
+XVI Euromech Turbulence Conference, Aug. 21-24 2017, Stockholm (S), 
 
-\item \html{[} D.Gatti, Y.Hasegawa, M.Quadrio, B.Frohnapfel & A.Cimarelli, 2018.
-Integral energy budgets in turbulent channels with and without drag reduction
-\html{]}
-\htmladdnormallink{Presentation}{../../papers/2018-gamm-b.pdf}
-GAMM Meeting 2018, March 19--23, Munich (D)
+**C.Pipolo**, M.Quadrio, A.M.Saibene, C.Rosso, L.Castellani & G.Felisati  
+Simulation of the nasal airflow with Computational Fluiddynamics in Nasal Breathing Difficulties: the LES approach  
+Poster, 21St IFOS World Congress, Jun 24-28 2017, Paris (F)
 
-\item \html{[} Chiarini, A., B.Frohnapfel, M. Quadrio, A.Cimarelli, Y.Hasegawa, & D.Gatti, 2018.
-Space and scale fluxes of Reynolds shear stresses in turblent channel flows
-\html{]}
-\htmladdnormallink{Presentation}{../../papers/2018-gamm-a.pdf}
-GAMM Meeting 2018, March 19--23, Munich (D)
+- Numerical simulation of human nasal cavity flow with particles  
+**V.Covello**, C.Pipolo, G.Felisati & M.Quadrio  
+PATC Workshop, HPC Methods for Engineering Applications, Jun 19-21 June 2017, Milan (I)
 
-\item \html{[}  Y.Hasegawa, D.Gatti, A.Cimarelli, B.Frohnapfel & M.Quadrio, 2017.
-Impact of Drag Reduction Control on Energy Box of a Fully Developed Turbulent Channel Flow
-\html{]}
-\htmladdnormallink{Abstract}{../../papers/2017-aps.pdf} and 
-\htmladdnormallink{Presentation}{../../papers/2017-aps-presentation.pdf}
-DFD17 Meeting of The American Physical Society, Denver (Tx, USA) Nov 19--21, 2017.
+- Direct numerical simulation of drag reduction with uniform blowing over a two-dimensional roughness  
+**E.Mori**, M.Quadrio & K.Fukagata  
+European Drag Reduction and Flow Control Meeting, Apr 3-6 2017, Monte Porzio Catone (I)
 
-\item \html{[} M.Quadrio, 2017.
-Skin-friction drag reduction, and how to assess it.
-\html{]}
-\htmladdnormallink{Presentation}{../../papers/2017-china-eu.pdf}
-Invited presentation at the China-EU Aviation technology Cooperation Workshop, Wuzhen (CH), Nov 6--10, 2017.
+- Mean impulse response in a turbulent channel flow  
+**A.Codrignani**, D.Gatti & M.Quadrio  \html{]} 
+European Drag Reduction and Flow Control Meeting, Apr 3-6 2017, Monte Porzio Catone (I)
 
-\item \html{[} D.Gatti, A.Remigi, A.Cimarelli, Y.Hasegawa, B.Frohnapfel & M.Quadrio, 2017.
-Scale energy fluxes in turbulent channels with drag reduction at constant power input
-\html{]}
-\htmladdnormallink{Abstract}{../../papers/2017-etc-abstract.pdf} and
-\htmladdnormallink{Presentation}{../../papers/2017-etc-presentation.pdf}
-XVI Euromech Turbulence Conference, Stockholm (S), 21-24 August 2017.
+- Drag reduction of a whole-aircraft configuration via spanwise forcing  
+A.Gadda, **J.Banchetti**, G.Romanelli & M.Quadrio  
+European Drag Reduction and Flow Control Meeting, Apr 3-6 2017, Monte Porzio Catone (I)
 
-\item \html{[} C.Pipolo, M.Quadrio, A.M.Saibene, C.Rosso, L.Castellani & G.Felisati, 2017.
-Simulation of the nasal airflow with Computational Fluiddynamics in Nasal Breathing Difficulties: the LES approach. 
-\html{]}
-Poster, 21St IFOS World Congress, Paris, 24-28 June 2017.
+- Energy transfer rates in turbulent channels with drag reduction at constant power input  
+**D.Gatti**, M.Quadrio, Y.Hasegawa, B.Frohnapfel & A.Cimarelli  
+European Drag Reduction and Flow Control Meeting, Apr 3-6 2017, Monte Porzio Catone (I)
 
-\item \html{[}  V.Covello, C.Pipolo, G.Felisati & M.Quadrio, 2017.
-Numerical simulation of human nasal cavity flow with particles
-\html{]}
-\htmladdnormallink{Presentation}{../../papers/2017-hpc-presentation.pdf}
-PATC Workshop, HPC Methods for Engineering Applications, 19-21 June 2017 Milan, Italy
+- DNS of turbulent channel flow with different types of spanwise forcing  
+**S.Pirozzoli**, M.Bernardini, M.Quadrio & P.Ricco  
+European Drag Reduction and Flow Control Meeting, Apr 3-6 2017, Monte Porzio Catone (I)
 
-\item \html{[} E.Mori, M.Quadrio & K.Fukagata, 2017.
-Direct numerical simulation of drag reduction with uniform blowing over a two-dimensional roughness
-\html{]	} 
-\htmladdnormallink{Abstract}{../../papers/2017-edrfcm-mori.pdf} and
-\htmladdnormallink{presentation}{../../papers/2017-edrfcm-mori-presentation.pdf}
-European Drag Reduction and Flow Control Meeting, 
-Monte Porzio Catone (I), Apr. 3--6 2017
+-------
 
-\item \html{[} A.Codrignani, D.Gatti & M.Quadrio, 2017.
-Mean impulse response in a turbulent channel flow
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2017-edrfcm-codrignani-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2017-edrfcm-codrignani-presentation.pdf}
-European Drag Reduction and Flow Control Meeting, 
-Monte Porzio Catone (I), Apr. 3--6 2017
-
-\item \html{[} A.Gadda, J.Banchetti, G.Romanelli & M.Quadrio, 2017.
-Drag reduction of a whole-aircraft configuration via spanwise forcing
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2017-edrfcm-banchetti-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2017-edrfcm-banchetti-presentation.pdf}
-European Drag Reduction and Flow Control Meeting, 
-Monte Porzio Catone (I), Apr. 3--6 2017
-
-\item \html{[} D.Gatti, M.Quadrio, Y.Hasegawa, B.Frohnapfel & A.Cimarelli, 2017.
-Energy transfer rates in turbulent channels with drag reduction at constant power input
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2017-edrfcm-gatti-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2017-edrfcm-gatti-presentation.pdf}
-European Drag Reduction and Flow Control Meeting, 
-Monte Porzio Catone (I), Apr. 3--6 2017
-
-%---(80)
-
-\item \html{[} S.Pirozzoli, M.Bernardini, M.Quadrio & P.Ricco, 2017.
-DNS of turbulent channel flow with different types of spanwise forcing
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2017-edrfcm-pirozzoli-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2017-edrfcm-pirozzoli-presentation.pdf}
-European Drag Reduction and Flow Control Meeting, 
-Monte Porzio Catone (I), Apr. 3--6 2017
+# 2016
 
 \item \html{[} L.Palma, R.Pieri, R.Ponzini & M.Quadrio, 2016.
 Shape Optimization and CFD RANS Codes: an Adjoint-based Strategy for
