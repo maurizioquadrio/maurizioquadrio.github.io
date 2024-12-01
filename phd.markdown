@@ -5,16 +5,14 @@ permalink: /phd/
 ---
 
 <!---
-Portioli
+Portioli (Chiesi), Berizzi (AFOSR)
 -->
 
 # Ongoing
 
 - Marco **Castelletti**  
-Titolo
 
-- Federica **Gattere**  
-
+- Federica **Gattere**   
 
 # PhD theses 
 
@@ -22,15 +20,18 @@ Titolo
 *[Analysis of complex systems with CFD and Machine Learning](Files/schillaci.pdf)*  
 [Presentation](Files/schillaci-presentation.pdf)
 
-- Alessandro **Chiarini** (2022)  
-
+- Alessandro **Chiarini** (2021)  
+*[On separating and reattaching flows](Files/chiarini.pdf)*
 
 - Jacopo **Banchetti** (2020)  
 *[Drag Reduction Systems towards aeronautical applications](Files/banchetti.pdf)*  
 [Presentation](Files/banchetti-presentation.pdf)
 
-- Wenxuan **Xie**  
+- Wenxuan **Xie** (2014)  
 *[Turbulence skin-friction reduction by traveling waves: a DNS study](Files/xie.pdf)*
+
+- Luca **Galantucci** (2011)  
+*[Superfluids and turbulence](Files/galantucci.pdf)*
 
 - Fulvio **Martinelli** (2009)  
 *[Feedback Control of Turbulent Wall Flows](Files/martinelli.pdf)*  

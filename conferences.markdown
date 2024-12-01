@@ -114,19 +114,19 @@ XVIII Euromech Turbulence Conference, Sept. 4-6 2023, Valencia (E)
 **M.Quadrio**  
 *Keynote lecture*, CFDparschool, July 16-21 2023, L'Aquila (I)
 
+- Improvement of Tomo-PIV Analyses in the Nasal Cavities  
 **S.M.Tauwald**, F.Erzinger, M.Quadrio, M.Rütten, C.Stemmer & L.Krenkel  
-Improvement of Tomo-PIV Analyses in the Nasal Cavities  
 20th International Symposium on Flow Visualization, July 2023, Delft (NL)
 
 - On the comparison between topological and surface sensitivities for bio-fluid dynamics applications  
 **E.Segalerba**, E.Gallorini, M.Quadrio & J.Pralits  
 OpenFOAM Workshop 2023, July 11-16 2023, Genova (I)
 
-Classification of nasal pathologies: Enhancing Machine Learning with Computational Fluid Dynamics  
+- Classification of nasal pathologies: Enhancing Machine Learning with Computational Fluid Dynamics  
 **M.Quadrio**, A.Schillaci & G.Boracchi  
 OpenFOAM Workshop 2023, July 11-16 2023, Genova (I)
 
-Improved healing after corneal transplantation by optimization of patient positioning  
+- Improved healing after corneal transplantation by optimization of patient positioning  
 **J.Pralits**, V.Garcia Bennett, M.Quadrio & M.Alberti  
 OpenFOAM Workshop 2023, July 11-16 2023, Genova (I)
 
@@ -167,7 +167,7 @@ European Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
 E.Gallorini, M.Quadrio & D.Gatti  
 European Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
 
-Drag reduction on a transonic airfoil  
+- Drag reduction on a transonic airfoil  
 **M.Quadrio**, A.Chiarini, D.Gatti, J.Banchetti, A.Memmolo & S.Pirozzoli  
 European Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
 
@@ -175,11 +175,11 @@ European Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
 **G.Foggi Rota**, A.Monti, M.E. Rosti & M.Quadrio  
 European Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
 
-Turbulent drag reduction using spanwise forcing in compressible regime  
+- Turbulent drag reduction using spanwise forcing in compressible regime  
 F.Gattere, **A.Chiarini**, M.Zanolini, D.Gatti, M.Bernardini & M.Quadrio  
 European Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
 
-Comparison of nasal anatomies using computational fluid dynamics  
+- Comparison of nasal anatomies using computational fluid dynamics  
 **E.Segalerba**, J.Pralits, M.Quadrio & J.Guerrero  
 17th OpenFOAM Workshop, July 11-14 2022, Cambridge (UK)
 
@@ -288,8 +288,8 @@ DFD17 Meeting of The American Physical Society, Nov 19--21, 2017, Denver (Tx, US
 **D.Gatti**, A.Remigi, A.Cimarelli, Y.Hasegawa, B.Frohnapfel & M.Quadrio  
 XVI Euromech Turbulence Conference, Aug. 21-24 2017, Stockholm (S), 
 
+- Simulation of the nasal airflow with Computational Fluiddynamics in Nasal Breathing Difficulties: the LES approach  
 **C.Pipolo**, M.Quadrio, A.M.Saibene, C.Rosso, L.Castellani & G.Felisati  
-Simulation of the nasal airflow with Computational Fluiddynamics in Nasal Breathing Difficulties: the LES approach  
 Poster, 21St IFOS World Congress, Jun 24-28 2017, Paris (F)
 
 - Numerical simulation of human nasal cavity flow with particles  
@@ -327,28 +327,19 @@ Drag Reduction in Automotive Applications
 \htmladdnormallink{Poster}{../../papers/2016-CAE-poster.pdf}
 International CAE Conference, Parma, Oct 17-18 2016.
 
-\item \html{[} G.Coleman, S.Pirozzoli, M.Quadrio & P.Spalart, 2016.
-Direct numerical simulation and theory of a wall-bounded flow with zero skin friction
-\html{]} 
-\htmladdnormallink{Paper}{../../papers/2016-ETMMa-paper.pdf}
+- Direct numerical simulation and theory of a wall-bounded flow with zero skin friction  
+**G.Coleman**, S.Pirozzoli, M.Quadrio & P.Spalart  
 11th ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements,
-Palermo (I), Sept. 21--23 2016
+Sept. 21--23 2016, Palermo (I)
  
-\item \html{[} E.Mori, M.Quadrio & K.Fukagata, 2016.
-Direct Numerical simulation of drag reduction with uniform blowing over a rough wall
-\html{]} 
-\htmladdnormallink{Paper}{../../papers/2016-ETMMb-paper.pdf} and
-\htmladdnormallink{presentation}{../../papers/2016-ETMMb-presentation.pdf}
+- Direct Numerical simulation of drag reduction with uniform blowing over a rough wall  
+**E.Mori**, M.Quadrio & K.Fukagata  
 11th ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements,
-Palermo (I), Sept. 21--23 2016
+Sept. 21--23 2016, Palermo (I)
 
-\item \html{[} D.Gatti, B.Frohapfel, A.Cimarelli, M.Quadrio & Y.Hasegawa, 2016.
-Study of energetics in drag-reduced turbulent channels
-\html{]} 
-\htmladdnormallink{Abstract}{../../papers/2016-iTi-abstract.pdf},
-\htmladdnormallink{presentation}{../../papers/2016-iTi-presentation.pdf} and
-\htmladdnormallink{paper}{../../papers/2016-iTi-paper.pdf} and
-iTi Conference on Turbulence, Bertinoro (I), Sept. 7-9, 2016.
+- Study of energetics in drag-reduced turbulent channels  
+**D.Gatti**, B.Frohapfel, A.Cimarelli, M.Quadrio & Y.Hasegawa  
+iTi Conference on Turbulence, Sept. 7-9 2016, Bertinoro (I)
 
 \item \html{[} M.Zhang, F.Martinelli, J.Wu, P.J.Schmid & M.Quadrio, 2016.
 Stability of subcritical electrohydrodynamics in dielectric fluids
