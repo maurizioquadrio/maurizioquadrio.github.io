@@ -34,8 +34,13 @@ J. Fluid Mechanics
 
 # 2024
 
+- Modeling and simulation of the human respiratory system; Part 1: Computational fluid
+dynamics simulations and whole lung models  
+G.H.Spasov, J.P.Jamieson, A.P.McKiernan, M.J.Grill, K.W.Mueller, K.Burrowes, M.Quadrio, E.Estes, L.Cacopardo, A.J.Banko, Ma.Reddemann, F.F.Stellari, C.Cottini & A.Benassi  
+*[Inhalation](https://www.inhalationmag.com/article/modeling-and-simulation-of-the-human-respiratory-system-part-1-computational-fluid-dynamics-simulations-and-whole-lung-models/)*, pp.1--12, Dec. 1, 2024 
+
 - Comparison between topological and surface sensitivities for bio-fluid dynamics applications  
-E.Segalerba1, E.Gallorini, M.Quadrio & J.O.Pralits  
+E.Segalerba, E.Gallorini, M.Quadrio & J.O.Pralits  
 Accepted for publication, *Meccanica*
 
 - Turbulent skin-friction drag reduction via spanwise forcing at high Reynolds number  
