@@ -10,19 +10,19 @@ permalink: /papers/
 Data Augmentation Based on Computational Geometry for Neural Network Training in Medical Flow Field Classification
 NCA
 
-2-3) Inhalation Magazine 1 and 2
+2) Inhalation Magazine Part 2
 
-5) Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose" has just been submitted to "Applied Mathematical Modelling" (PENNISI)
+3) Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose" has just been submitted to "Applied Mathematical Modelling" (PENNISI)
 
-6) Near-field aeroacoustic effects of spanwise forcing on a transonic wing: a DNS study
+4) Near-field aeroacoustic effects of spanwise forcing on a transonic wing: a DNS study
 Niccolò Berizzi, Davide Gatti, Giulio Soldati, Sergio Pirozzoli and Maurizio Quadrio
 Applied Science
 
-7) Understanding the mismatch between in-vivo and in-silico rhinomanometry
+5) Understanding the mismatch between in-vivo and in-silico rhinomanometry
 Marco Atzori1, Gabriele Dini Ciacci and Maurizio Quadrio
 IJCARS
 
-8) The aerodynamic performance of a transonic airfoil with spanwise forcing
+6) The aerodynamic performance of a transonic airfoil with spanwise forcing
 Niccolò Berizzi, Davide Gatti, Giulio Soldati, Sergio Pirozzoli and Maurizio
 Quadrio
 J. Fluid Mechanics
@@ -41,7 +41,7 @@ G.H.Spasov, J.P.Jamieson, A.P.McKiernan, M.J.Grill, K.W.Mueller, K.Burrowes, M.Q
 
 - Comparison between topological and surface sensitivities for bio-fluid dynamics applications  
 E.Segalerba, E.Gallorini, M.Quadrio & J.O.Pralits  
-Accepted for publication, *Meccanica*
+*[Meccanica](https://doi.org/10.1007/s11012-024-01920-0)* in press
 
 - Turbulent skin-friction drag reduction via spanwise forcing at high Reynolds number  
 D.Gatti, M.Quadrio, A.Chiarini, F.Gattere & S.Pirozzoli  
