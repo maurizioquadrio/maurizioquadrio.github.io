@@ -28,6 +28,7 @@ ARGOMENTI
 - MarcoC: dissimilar control con scalare passivo, DRL
 - Ema: continuare sui puffs (ridurre Re gradualmente con onda attiva; studio sistematico di effetto dominio, CFR/CPG, studio tipo puff a seconda della discretizzazione)
 - Ema: stabilita' con onde su altri flussi linearmente stabili (tipo Couette)
+- Ema: GKE in coord.cilindriche in pipe flow
 - StTW su flussi non-Poiseuille (p.e. Couette, onde nelle due direzioni)
 - articolo Jesus
 - Markus Ruetten

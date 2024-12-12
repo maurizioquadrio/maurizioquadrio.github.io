@@ -160,7 +160,7 @@ European Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
 *Invited Plenary Talk*, European Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
 
 - Towards reliable and cost-effective DNS over riblets  
-**F.Gattere**, A.Charini, G.M.Cavallazzi, A.Rossi, D.Gatti, P.Luchini & M.Quadrio  
+**F.Gattere**, A.Chiarini, G.M.Cavallazzi, A.Rossi, D.Gatti, P.Luchini & M.Quadrio  
 European Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
 
 - Coherent near-wall structures and drag reduction by spanwise forcing  

@@ -10,23 +10,24 @@ permalink: /papers/
 Data Augmentation Based on Computational Geometry for Neural Network Training in Medical Flow Field Classification
 NCA
 
-2) Inhalation Magazine Part 2
+2) Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose" has just been submitted to "Applied Mathematical Modelling" (PENNISI)
 
-3) Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose" has just been submitted to "Applied Mathematical Modelling" (PENNISI)
-
-4) Near-field aeroacoustic effects of spanwise forcing on a transonic wing: a DNS study
+3) Near-field aeroacoustic effects of spanwise forcing on a transonic wing: a DNS study
 Niccolò Berizzi, Davide Gatti, Giulio Soldati, Sergio Pirozzoli and Maurizio Quadrio
 Applied Science
 
-5) Understanding the mismatch between in-vivo and in-silico rhinomanometry
-Marco Atzori1, Gabriele Dini Ciacci and Maurizio Quadrio
-IJCARS
+4) Understanding the mismatch between in-vivo and in-silico rhinomanometry
+Marco Atzori, Gabriele Dini Ciacci and Maurizio Quadrio
+IJCARS -> MBEC?
 
-6) The aerodynamic performance of a transonic airfoil with spanwise forcing
+5) The aerodynamic performance of a transonic airfoil with spanwise forcing
 Niccolò Berizzi, Davide Gatti, Giulio Soldati, Sergio Pirozzoli and Maurizio
 Quadrio
 J. Fluid Mechanics
 
+6) Modeling and simulation of the human respiratory system; Part 2
+G.H.Spasov, J.P.Jamieson, A.P.McKiernan, M.J.Grill, K.W.Mueller, K.Burrowes, M.Quadrio, E.Estes, L.Cacopardo, A.J.Banko, Ma.Reddemann, F.F.Stellari, C.Cottini & A.Benassi  
+*[Inhalation](https://www.inhalationmag.com/article/modeling-and-simulation-of-the-human-respiratory-system-part-1-computational-fluid-dynamics-simulations-and-whole-lung-models/)*
 -->
 
 
