@@ -136,13 +136,13 @@ Turbulence in solids
 DNS and LES with the immersed-boundary technique
 
 - Fabiana **Ghilardi** (2024, December)  
-Drag reduction in transitional pipe flows
+Transition to turbulence in drag-reduced pipe flows
 
 - Lorenzo **Pionetti** (2024, December)  
-Turbulent Skin-Friction Drag Reduction by Tensegrity Fabric
+Turbulent skin-friction drag reduction by tensegrity fabric
 
 - Andrea **Portioli** (2024, December)  
-GPU programming on hybrid computing architectures 
+Porting a DNS solver to a multi-GPU architecture
 
 - Lucrezia **Vigo** (2024, December)  
 Numerical prediction of light-driven algal growth in a photobioreactor
