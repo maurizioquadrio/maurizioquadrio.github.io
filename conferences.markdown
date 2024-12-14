@@ -327,78 +327,65 @@ International CAE Conference, Oct 17-18 2016, Parma (I)
 - Direct numerical simulation and theory of a wall-bounded flow with zero skin friction  
 **G.Coleman**, S.Pirozzoli, M.Quadrio & P.Spalart  
 11th ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements,
-Sept. 21--23 2016, Palermo (I)
+Sept 21--23 2016, Palermo (I)
  
 - Direct Numerical simulation of drag reduction with uniform blowing over a rough wall  
 **E.Mori**, M.Quadrio & K.Fukagata  
 11th ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements,
-Sept. 21--23 2016, Palermo (I)
+Sept 21--23 2016, Palermo (I)
 
 - Study of energetics in drag-reduced turbulent channels  
 **D.Gatti**, B.Frohapfel, A.Cimarelli, M.Quadrio & Y.Hasegawa  
-iTi Conference on Turbulence, Sept. 7-9 2016, Bertinoro (I)
+iTi Conference on Turbulence, Sept 7-9 2016, Bertinoro (I)
 
 - Stability of subcritical electrohydrodynamics in dielectric fluids  
 **M.Zhang**, F.Martinelli, J.Wu, P.J.Schmid & M.Quadrio  
 First International Workshop on Electro-Hydro-Dynamics and Tribo-Electrostatics,
-1-2 Sept. 2016, Poitiers (F)
+1-2 Sept 2016, Poitiers (F)
 
 - Design and Experimental Testing of a NiTi-based, High Frequency, Centripetal Multiple Actuator  
 **E.Borlandelli**, D.Scarselli, P.Bettini, G.Sala, M.Quadrio, A.Nespoli, D.Rigamonti, E.Villa  
 7th Forum on New Materials (CIMTEC 2016), Jun 5-9 2016, Perugia (I)
 
-\item \html{[} D.Gatti, B.Frohnapfel, A.Cimarelli, M.Quadrio, Y.Hasegawa, 2016.
-Turbulent skin-friction drag reduction in the Constant Power Input framework
-\html{]}
-\htmladdnormallink{Abstract}{../../papers/2016-gamm-abstract.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2016-gamm-presentation.pdf}
-Oral presentation, GAMM, Braunschweig (D), March 9, 2016
+- Turbulent skin-friction drag reduction in the Constant Power Input framework  
+**D.Gatti**, B.Frohnapfel, A.Cimarelli, M.Quadrio, Y.Hasegawa  
+Oral presentation, GAMM, Mar 9, 2016, Braunschweig (D)
 
-\item \html{[} G.Lamberti, F.Manara & M.Quadrio, 2015.
-RANS/LES/DNS simulations of the airflow in nasal cavities
-\html{]}
-\htmladdnormallink{Poster}{../../papers/2015-APS-poster.pdf}
-American Physical Society, November 22-24, Boston MA (USA), 2015
+-------
 
-\item \html{[} M.Quadrio, 2015.
-Turbulent drag reduction by spanwise forcing
-\html{]}
-\htmladdnormallink{Presentation}{../../papers/2015-aachen-presentation.pdf}
-Invited presentation to the FOR 1779 Symposium on Active Drag Reduction, Aachen (D), November 9-10 2015.
+# 2015
 
-%---(70)
+- RANS/LES/DNS simulations of the airflow in nasal cavities  
+**G.Lamberti**, F.Manara & M.Quadrio  
+Annual meeting of the *American Physical Society*, Nov 22-24, 2015, Boston MA (USA)
 
-\item \html{[} M.Murari, L.Palma, R.Pieri, R.Ponzini, F.Pasqua & M.Quadrio, 2015.
-Development of a Flexible Constrained Optimization Workflow for a Novel Adjoint CFD Solver
-\html{]}
-\htmladdnormallink{Poster}{../../papers/2015-CAE-poster.pdf}
-International CAE Conference, Pacengo sul Garda, 19-20 ottobre 2015.
+- Turbulent drag reduction by spanwise forcing  
+**M.Quadrio**  
+*Invited presentation*, FOR 1779 Symposium on Active Drag Reduction, Nov 9-10 2015, Aachen (D)
 
-\item \html{[} D.Gatti, M.Quadrio & B.Frohnapfel, 2015.
-Reynolds number effect on turbulent drag reduction
-\html{]}
-\htmladdnormallink{Presentation}{../../papers/2015-etc-Reeffect-presentation.pdf}
-XV Euromech Turbulence Conference, Delft (NL), 25-28 August 2015.
+- Development of a Flexible Constrained Optimization Workflow for a Novel Adjoint CFD Solver  
+**M.Murari**, L.Palma, R.Pieri, R.Ponzini, F.Pasqua & M.Quadrio  
+International CAE Conference, Oct 19-20 2015, Pacengo sul Garda (I)
 
-\item \html{[} M.Quadrio & W.Xie, 2015.
-Turbulent drag reduction by travelling waves of spanwise forcing
-\html{]}
-\htmladdnormallink{Paper}{../../papers/2015-etc-spanwise-paper.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2015-etc-spanwise-presentation.pdf}
-XV Euromech Turbulence Conference, Delft (NL), 25-28 August 2015.
+- Reynolds number effect on turbulent drag reduction  
+**D.Gatti**, M.Quadrio & B.Frohnapfel  
+XV Euromech Turbulence Conference, Aug 25-28 2015, Delft (NL)
 
-\item \html{[} C.Pipolo, L.Castellani, M.Quadrio, S.Raina, A.M.Saibene, F.Messina, G.Felisati, 2015.
-Simulation of the nasal airflow with Computational Fluid Dynamics in Nasal Breathing Difficulties: definition of parameters.
-\html{]}
-\htmladdnormallink{presentation}{../../papers/2015-orl-roma.pdf}
-102.o Congresso Nazionale della Societ\`a Italiana di Otorinolaringologia, Roma (I), May 27-30, 2015.
+- Turbulent drag reduction by travelling waves of spanwise forcing  
+M.Quadrio & **W.Xie**  
+XV Euromech Turbulence Conference, Aug 25-28 2015, Delft (NL)
 
-\item \html{[} D. Gatti & M. Quadrio, 2015.
-Skin-friction drag reduction by spanwise forcing: the Reynolds-number effect
-\html{]}
-\htmladdnormallink{Abstract}{../../papers/2015-edrfc-abstract.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2015-edrfc-presentation.pdf}
-ERCOFTAC Drag reduction and flow control workshop, Cambridge (UK), March 22-26, 2015
+- Simulation of the nasal airflow with Computational Fluid Dynamics in Nasal Breathing Difficulties: definition of parameters  
+**C.Pipolo**, L.Castellani, M.Quadrio, S.Raina, A.M.Saibene, F.Messina, G.Felisati  
+102.o Congresso Nazionale della Societa' Italiana di Otorinolaringologia, May 27-30, 2015, Roma (I)
+
+- Skin-friction drag reduction by spanwise forcing: the Reynolds-number effect  
+D.Gatti & **M.Quadrio**  
+ERCOFTAC Drag reduction and flow control meeting, Mar 22-26, 2015, Cambridge (UK)
+
+-------
+
+# 2014
 
 \item \html{[} M. Quadrio, B. Frohnapfel & Y. Hasegawa, 2014.
 On the forcing term in the DNS of a turbulent channel flow 
