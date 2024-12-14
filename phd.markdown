@@ -5,10 +5,12 @@ permalink: /phd/
 ---
 
 <!---
-Portioli (Chiesi), Berizzi (AFOSR)
+Berizzi (AFOSR)
 -->
 
 # Ongoing
+
+- Andrea **Portioli**
 
 - Marco **Castelletti**  
 
