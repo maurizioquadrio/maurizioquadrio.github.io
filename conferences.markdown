@@ -155,7 +155,7 @@ European Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
 **A.Schillaci**, G.Boracchi, C.Pipolo & M.Quadrio  
 European Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
 
-- Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD
+- Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD  
 **M.Quadrio**  
 *Invited Plenary Talk*, European Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
 
@@ -164,7 +164,7 @@ European Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
 European Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
 
 - Coherent near-wall structures and drag reduction by spanwise forcing  
-E.Gallorini, M.Quadrio & D.Gatti  
+**E.Gallorini**, M.Quadrio & D.Gatti  
 European Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
 
 - Drag reduction on a transonic airfoil  
@@ -290,7 +290,7 @@ XVI Euromech Turbulence Conference, Aug. 21-24 2017, Stockholm (S),
 
 - Simulation of the nasal airflow with Computational Fluiddynamics in Nasal Breathing Difficulties: the LES approach  
 **C.Pipolo**, M.Quadrio, A.M.Saibene, C.Rosso, L.Castellani & G.Felisati  
-Poster, 21St IFOS World Congress, Jun 24-28 2017, Paris (F)
+21st IFOS World Congress, Jun 24-28 2017, Paris (F)
 
 - Numerical simulation of human nasal cavity flow with particles  
 **V.Covello**, C.Pipolo, G.Felisati & M.Quadrio  
@@ -383,24 +383,25 @@ XV Euromech Turbulence Conference, Aug 25-28 2015, Delft (NL)
 D.Gatti & **M.Quadrio**  
 ERCOFTAC Drag reduction and flow control meeting, Mar 22-26, 2015, Cambridge (UK)
 
+
 -------
 
 # 2014
 
-\item \html{[} M. Quadrio, B. Frohnapfel & Y. Hasegawa, 2014.
-On the forcing term in the DNS of a turbulent channel flow 
-\html{]}
-\htmladdnormallink{Presentation}{../../papers/2014-orlandi-presentation.pdf}
+- On the forcing term in the DNS of a turbulent channel flow  
+**M. Quadrio**, B. Frohnapfel & Y. Hasegawa  
 Conference on Vortical Structures and Wall Turbulence, for the 70th of Paolo Orlandi, 
-Rome (I), 19-20 September 2014.
+Rome (I), Sept 19-20 2014, Rome (I)
 
-\item \html{[} D. Gatti, A. Güttler, M. Quadrio, H. F. Schlaak, C. Tropea and B. Frohnapfel, 2014.
-Dielectric Electroactive Polymers for drag-reducing wall oscillations
-in low-Reynolds turbulent channel flows.
-\html{]}
-\htmladdnormallink{Abstract}{../../papers/2014-efmc-abstract.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2014-efmc-presentation.pdf}
-Euromech Fluid Mechanics Conference X, Copenhagen (DEN), 14-18 Sept. 2014 
+- Dielectric Electroactive Polymers for drag-reducing wall oscillations in low-Reynolds turbulent channel flows
+**D.Gatti**, A.Güttler, M.Quadrio, H.F.Schlaak, C.Tropea and B.Frohnapfel  
+Euromech Fluid Mechanics Conference X, Sep 14-18 2014, Copenhagen (DK)
+
+
+-------
+
+# 2013
+
 
 \item \html{[} M.Quadrio, M.Rosti, D.Scarselli & L.Cortelezzi, 2013.
 On the effects of porous wall on transitional and turbulent channel flows
