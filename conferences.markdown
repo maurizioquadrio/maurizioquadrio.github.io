@@ -402,172 +402,117 @@ Euromech Fluid Mechanics Conference X, Sep 14-18 2014, Copenhagen (DK)
 
 # 2013
 
+- On the effects of porous wall on transitional and turbulent channel flows  
+**M.Quadrio**, M.Rosti, D.Scarselli & L.Cortelezzi  
+XIV Euromech Turbulence Conference, Sept. 1-4 2013, Lyon (F)
 
-\item \html{[} M.Quadrio, M.Rosti, D.Scarselli & L.Cortelezzi, 2013.
-On the effects of porous wall on transitional and turbulent channel flows
-\html{]}
-\htmladdnormallink{Paper}{../../papers/2013-etc-porosity-paper.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2013-etc-porosity-presentation.pdf}
-XIV Euromech Turbulence Conference, Lyon (F), 1-4 September 2013.
+- Wall turbulence control by spanwise traveling waves  
+**W.Xie** & M.Quadrio  
+XIV Euromech Turbulence Conference, Sept. 1-4 2013, Lyon (F)
 
-\item \html{[} W.Xie & M.Quadrio, 2013.
-Wall turbulence control by spanwise traveling waves.
-\html{]}
-\htmladdnormallink{Paper}{../../papers/2013-etc-spwaves-paper.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2013-etc-spwaves-presentation.pdf}
-XIV Euromech Turbulence Conference, Lyon (F), 1-4 September 2013.
+- Effectiveness of spanwise forcing for turbulent drag reduction at higher *Re*  
+**D.Gatti**, M.Quadrio, C.Tropea & B. Frohnapfel  
+XIV Euromech Turbulence Conference, Sept. 1-4 2013, Lyon (F)
 
-\item \html{[} D.Gatti, M.Quadrio, C.Tropea & B. Frohnapfel, 2013.
-Effectiveness of spanwise forcing for turbulent drag reduction at higher $Re$
-\html{]}
-\htmladdnormallink{Paper}{../../papers/2013-etc-Reeffect-paper.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2013-etc-Reeffect-presentation.pdf}
-XIV Euromech Turbulence Conference, Lyon (F), 1-4 September 2013.
+- Direct Numerical Simulation of Turbulent Wall Flows at Constant Power Input  
+**Y.Hasegawa**,  B.Frohnapfel & M.Quadrio  
+XIV Euromech Turbulence Conference, Sept. 1-4 2013, Lyon (F)
 
+- Turbulent skin-friction drag reduction by spanwise wall oscillation with generic temporal waveform  
+**A.Cimarelli**, E.De Angelis, B.Frohnapfel, Y.Hasegawa & M.Quadrio  
+Turbulent Shear Flow Phenomena 8, Aug. 28-30 2013, Poitiers (F)
 
-%---(60)
-\item \html{[} Y. Hasegawa,  B. Frohnapfel & M. Quadrio, 2013.
-Direct Numerical Simulation of Turbulent Wall Flows at Constant Power Input
-\html{]}
-\htmladdnormallink{Paper}{../../papers/2013-etc-CPI-paper.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2013-etc-CPI-presentation.pdf}
-XIV Euromech Turbulence Conference, Lyon (F), 1-4 September 2013.
+- Modern View(s) of Wall Turbulence: What changed in the last 50 years  
+**M. Quadrio**  
+*Invited keynote lecture*, 31st UIT Heat Transfer Conference, Jun 25-27 2013, Moltrasio (I)
 
-\item \html{[} A. Cimarelli, E. De Angelis, B. Frohnapfel, Y. Hasegawa & M. Quadrio, 2013.
-Turbulent skin-friction drag reduction by spanwise wall oscillation with generic temporal waveform
-\html{]}
-\htmladdnormallink{Paper}{../../papers/2013-tsfp-paper.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2013-tsfp-presentation.pdf}
-Oral presentation. Turbulent Shear Flow Phenomena 8, Poitiers (F), 28-30 August, 2013.
+- Fluidodinamica nasale: risultati preliminari  
+**F.Messina**, C.Pipolo, R.Lenzi, A.Maccari, M.Quadrio & G.Felisati  
+100.o Congresso Nazionale della Societ\`a Italiana di Otorinolaringologia e Chirurgia Cervico-Facciale, May 28-31 2013, Roma (I)
 
-\item \html{[} M. Quadrio, 2013.
-Modern View(s) of Wall Turbulence: What changed in the last 50 years.
-\html{]}
-\htmladdnormallink{Abstract }{../../papers/2013-uit.pdf} 
-Invited keynote lecture, 31st UIT Heat Transfer Conference, Moltrasio (I), June 25-27, 2013.
+-------
 
-\item \html{[} F.Messina, C.Pipolo, R.Lenzi, A.Maccari, M.Quadrio & G.Felisati, 2013.
-Fluidodinamica nasale: risultati preliminari. 
-\html{]}
-\htmladdnormallink{Abstract }{../../papers/2013-sio-abstract.png} 
-100.o Congresso Nazionale della Societ\`a Italiana di Otorinolaringologia e Chirurgia Cervico-Facciale, Roma (I), May 28-31, 2013.
+# 2012
 
-\item \html{[} M. Quadrio, B. Frohnapfel & Y. Hasegawa, 2012.
-Comparing drag reduction techniques in the "Money-vs-Time" framework.
-\html{]}
-\htmladdnormallink{Abstract }{../../papers/2012-ercoftac-moneytime-abstract.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2012-ercoftac-moneytime-presentation.pdf}
-ERCOFTAC Drag reduction and flow control workshop, Toulouse (F), December 10--12, 2012.
+- Comparing drag reduction techniques in the "Money-vs-Time" framework  
+**M.Quadrio**, B.Frohnapfel & Y.Hasegawa  
+ERCOFTAC Drag reduction and flow control workshop,  Dec 10-12 2012, Toulouse (F)
 
-\item \html{[} P. Ricco, C. Ottonelli, Y. Hasegawa & M. Quadrio, 2012.
-Near-wall enstrophy generation in a drag-reduced turbulent channel flow with spanwise wall oscillations
-\html{]}
-\htmladdnormallink{Abstract }{../../papers/2012-ercoftac-enstrophy-abstract.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2012-ercoftac-enstrophy-presentation.pdf}
-ERCOFTAC Drag reduction and flow control workshop, Toulouse (F), December 10--12, 2012.
+- Near-wall enstrophy generation in a drag-reduced turbulent channel flow with spanwise wall oscillations  
+**P. Ricco**, C. Ottonelli, Y. Hasegawa & M. Quadrio  
+ERCOFTAC Drag reduction and flow control workshop, Dec 10-12 2012, Toulouse (F)
 
-\item \html{[} M. Quadrio, 2012.
-Fluid dynamics of the nasal cavity: how to, what for.
-\html{]}
-\htmladdnormallink{Presentation}{../../papers/2012-cineca-presentation.pdf}
-HPC enabling of OpenFOAM for industrial applications, CINECA, Casalecchio di Reno (I), November 26-28, 2012.
+- Fluid dynamics of the nasal cavity: how to, what for  
+**M.Quadrio**  
+HPC enabling of OpenFOAM for industrial applications, Nov 26-28 2012, CINECA Casalecchio di Reno (I),
 
-\item \html{[} W.Xie & M. Quadrio, 2012.
-Turbulent drag reduction by spanwise-traveling waves of spanwise wall velocity.
-\html{]}
-\htmladdnormallink{Presentation}{../../papers/2012-efmc-a-presentation.pdf}
-Euromech Fluid Mechanics Conference 9, Roma (I), September 9--13, 2012.
+- Turbulent drag reduction by spanwise-traveling waves of spanwise wall velocity  
+**W.Xie** & M.Quadrio  
+Euromech Fluid Mechanics Conference 9,Sep 9-13, 2012, Roma (I)
 
-\item \html{[} D.Gatti & M. Quadrio, 2012.
-What happens to turbulent drag reduction at higher $Re$?
-\html{]}
-\htmladdnormallink{Presentation}{../../papers/2012-efmc-b-presentation.pdf}
-Euromech Fluid Mechanics Conference 9, Roma (I), September 9--13, 2012.
+- What happens to turbulent drag reduction at higher *Re*?  
+D.Gatti & **M.Quadrio**  
+Euromech Fluid Mechanics Conference 9,Sep 9-13, 2012, Roma (I)
 
-\item \html{[} P.Ricco, C. Ottonelli, Y.Hasegawa & M.Quadrio, 2012.
-The drag-reduction oscillating-wall problem: new insight after 20 years.
-\html{]}
-\htmladdnormallink{Presentation}{../../papers/2012-efmc-c-presentation.pdf}
-Euromech Fluid Mechanics Conference 9, Roma (I), September 9--13, 2012.
+- The drag-reduction oscillating-wall problem: new insight after 20 years  
+**P.Ricco**, C.Ottonelli, Y.Hasegawa & M.Quadrio  
+Euromech Fluid Mechanics Conference 9,Sep 9-13, 2012, Roma (I)
 
+- Turbulence Drag Reduction by In-Plane Wall Motion  
+**W.Xie** & M.Quadrio  
+European Postgraduate Fluid Dynamics Conference, Jul 10-12 2012, London (UK)
 
-%---(50)
-\item \html{[} W.Xie & M.Quadrio, 2012.
-Turbulence Drag Reduction by In-Plane Wall Motion
-\html{]}
-\htmladdnormallink{Presentation}{../../papers/2012-epfdc-presentation.pdf}
-European Postgraduate Fluid Dynamics Conference, London (UK), July 10--12, 2012
+- Linear stability of a plane Poiseuille flow over a Generalized Stokes Layer  
+**M.Quadrio**  
+HPC-Europa2 TAM, Jun 25-26 2012, Amsterdam (NL)
 
-\item \html{[} M.Quadrio, 2012.
-Linear stability of a plane Poiseuille flow over a Generalized Stokes Layer
-\html{]}
-Oral presentation, HPC-Europa2 TAM, Amsterdam (NL), June 25--26, 2012
+- Reevaluation of control performance for turbulent skin-friction drag reduction in terms of energy saving and convenience  
+**Y.Hasegawa**, B.Frohnapfel & M.Quadrio  
+ETMM9, Jun 6-8 2012, Thessaloniki (GR)
 
-\item \html{[} Y.Hasegawa, B.Frohnapfel & M.Quadrio, 2012
-Reevaluation of control performance for turbulent skin-friction drag reduction in terms of energy saving and convenience
-\html{]}
-\htmladdnormallink{Paper }{../../papers/2012-etmm-paper.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2012-etmm-presentation.pdf}
-ETMM9, Thessaloniki (GR), June 6--8, 2012
+- Assessment of Flow Control Techniques in Terms of Time and Energy Savings  
+**B.Frohnapfel**, Y.Hasegawa, & M.Quadrio  
+GAMM, Mar 26-30 2012, Darmstadt (D)
 
-\item \html{[} B. Frohnapfel, Y. Hasegawa, & M. Quadrio, 2012
-Assessment of Flow Control Techniques in Terms of Time and Energy Savings
-\html{]}
-Oral presentation, GAMM, Darmstadt (D), March 26--30, 2012
+- Turbulent drag reduction at moderate Reynolds numbers via spanwise velocity waves
+**D.Gatti** & M.Quadrio  
+In Proc. Appl. Math. Mech. **12** n.1, pp. 563-564.
+GAMM, Mar 26-30 2012, Darmstadt (D)
 
-\item \html{[} D.Gatti & M.Quadrio, 2012.
-Turbulent drag reduction at moderate Reynolds numbers via spanwise velocity waves
-\html{]}
-\htmladdnormallink{Abstract }{../../papers/2012-pamm-davide.pdf} and
-\htmladdnormallink{presentation}{../../papers/2012-gamm-davide-presentation.pdf}
-Proc. Appl. Math. Mech. {\bf 12}, n.1, pp. 563--564.
-Oral presentation, GAMM, Darmstadt (D), March 26--30, 2012
+- Non-sinusoidal wall oscillation for drag reduction
+**A.Cimarelli**, B.Frohnapfel Y.Hasegawa, E. De Angelis, & M.Quadrio
+In Proc. Appl. Math. Mech. **12** n.1, pp. 565-566.
+GAMM, Mar 26-30 2012, Darmstadt (D)
 
-\item \html{[} A.Cimarelli, B.Frohnapfel Y.Hasegawa, E. De Angelis, & M.Quadrio, 2012.
-Non-sinusoidal wall oscillation for drag reduction
-\html{]}
-\htmladdnormallink{Abstract }{../../papers/2012-pamm-andrea.pdf} and
-\htmladdnormallink{Presentation}{../../papers/2012-gamm-andrea-presentation.pdf}
-Proc. Appl. Math. Mech. {\bf 12}, n.1, pp. 565--566.
-Oral presentation, GAMM, Darmstadt (D), March 26--30, 2012
+-------
 
-\item \html{[} Y.Hasegawa, B.Frohnapfel & M.Quadrio, 2011.
-On the Evaluation of Control Performance in Drag Reducing Flows
-\htmladdnormallink{Presentation}{../../papers/2011-aps-presentation.pdf}
-\html{]}
-Oral presentation, 64th Annual Meeting of the APS Division of Fluid Dynamics,
-Baltimore (USA), Nov. 20-22, 2011
+# 2011
 
-\item \html{[} M.Quadrio, F.Martinelli & P.J.Schmid, 2011.
-Linear stability of Poiseuille flow over a generalized Stokes layer
-\htmladdnormallink{Paper }{../../papers/2011-etc-paper.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2011-etc-presentation.pdf}
-\htmladdnormallink{Journal of Physics: Conference Series. {\bf 318} }
-{http://dx.doi.org/10.1088/1742-6596/318/2/022033}
-\html{]}
-Oral presentation, Euromech Turbulence Conference XIII, Warsaw (PL), Sept. 12-15, 2011 
+- On the Evaluation of Control Performance in Drag Reducing Flows  
+**Y.Hasegawa**, B.Frohnapfel & M.Quadrio  
+64th Annual Meeting of the APS Division of Fluid Dynamics, Nov 20-22 2011, Baltimore (USA)
 
-\item \html{[} F.Martinelli, M.Quadrio & P.J.Schmid, 2011.
-Stability of planar shear flow in presence of electroconvection
-\htmladdnormallink{Paper }{../../papers/2011-tsfp-paper.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2011-tsfp-presentation.pdf}
-\html{]}
-Oral presentation, Turbulent Shear Flow Phenomena 7, Ottawa (CAN), July 28-31, 2011 
+- Linear stability of Poiseuille flow over a generalized Stokes layer  
+**M.Quadrio**, F.Martinelli & P.J.Schmid  
+*Journal of Physics: Conference Series* **318**  
+Euromech Turbulence Conference XIII, Sep 12-15 2011, Warsaw (PL)
 
-\item \html{[} M.Quadrio & P.Ricco, 2010.
-Spanwise generalized Stokes layer and turbulent drag reduction.
-\htmladdnormallink{Abstract }{../../papers/2010-efmc-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2010-efmc-presentation.pdf} 
-\html{]}
-Euromech Fluid Mechanics Conference - 8, Bad Reichenhall (D), September 13--16, 2010.
+- Stability of planar shear flow in presence of electroconvection 
+F.Martinelli, **M.Quadrio** & P.J.Schmid  
+Turbulent Shear Flow Phenomena 7, Jul 28-31 2011, Ottawa (CAN) 
 
 
-%---(40)
-\item \html{[} L. Galantucci, C.F. Barenghi, M. Sciacca, M. Quadrio & P. Luchini, 2010. 
-Turbulent superfluid profiles in a counterflow channel.
-%\htmladdnormallink{Presentation}{../../papers/2010-grenoble-presentation.pdf}
-\html{]} 
-Satellite Workshop on {\em Quantum Turbulence} of the International Symposium on {\em Quantum Fluids and Solids 2010}, Grenoble, August 7, 2010. 
+-------
+
+# 2010
+
+- Spanwise generalized Stokes layer and turbulent drag reduction.
+**M.Quadrio** & P.Ricco
+Euromech Fluid Mechanics Conference - 8,  Sep 13-16 2010, Bad Reichenhall (D)
+
+- Turbulent superfluid profiles in a counterflow channel  
+**L.Galantucci**, C.F.Barenghi, M.Sciacca, M.Quadrio & P.Luchini   
+Satellite Workshop on *Quantum Turbulence* of the International Symposium on *Quantum Fluids and Solids 2010*, Aug 7 2010, Grenoble (F)
 
 \item \html{[} L. Galantucci, C.F. Barenghi, M. Sciacca, M. Quadrio & P. Luchini, 2010. 
 Turbulent superfluid profiles in a counterflow channel. 

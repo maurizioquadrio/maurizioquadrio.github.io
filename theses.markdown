@@ -7,105 +7,28 @@ permalink: /theses/
 <!---
 IN AVVIO
 
-Omer Altay: rinomanometria con mascherina
-Zainab M.O.A.: StTW in Couette
+QUATTRO DELLA CLASSE DI ALE:
 
-
-ARGOMENTI
-
-1) NASO/POLMONI
-
-- FM
-- effetto interpolazione DICOM su Slicer etc
-- fluidodinamica (della maschera) della rimanometria
-- gole idealizzate (MarcoA)
-- simulazione dell’inalatore, con LES (MarcoA) 
-- ciclo respiratorio completo
-- ripetere AS con tp3d (ARF)
-
-
-2) TURBOLENZA
-
-- Studio della TNTI, entrainment (engulfment e nibbling) in una scia. Si può iniziare usando il db di Jesus. Da controllare se la risoluzione della scia è sufficiente. Altrimenti, si puo prendere semplicemente un cilindro circolare e rifare una simulazioni raffinando la scia. Non dovrebbe costare molto. Guarda Chen & Buxton (JFM, 2024). Se usiamo il db di Jesus, si potrebbe vedere effetto dell'AR sulla TNTI. Altrimenti potremmo fare 2 o 3 Re per vedere effetto del Re, credo che ci sia pochi studi del genere per scie che evolvono
-
-- Estensione/verifica di K41 e KO62 al centro di canale, Couette, Taylor Couette e canale con forza centrifuga. Con le dovute correzioni valgono ancora? Se no, perchè? Guardare De Angelis, Casciola, Benzi, Piva (JFM, 2005)
-
-- Studio del BARC in fase. Come cambiano i risultati a secondo di come definisco la fase? Studio della dinamica della bolla e delle fluttuazioni alle diverse fasi. Eventualmente AGKE. Il databse è pronto, cosi come una analisi preliminare. Guardare Portela, Papadakis \& Vassilicos (JFM 2020)
-
-- Studio dell'equazione a due punti per l'enstrofia e l'elicità in un canale. Eventualmente aggiungre DR. Guardare Baj, Portela \& Carter (JFM, 2022) e Chiarini, Singh \& Rosti (Draft)
-
-- Proseguire/Finalizzare il lavoro di confronto LES, RANS, DNS aggiungendo oltre al BARC anche un profilo alare, per avere separazione imposta dalla geometria e/o imposta dal gradiente di pressine avverso.
-
-- Tripla decomposizione in termini di campo medio, componente anisotropa e componente isotropa (Idea di uno studente)
-
-- Andare avanti con il lavoro di Marildo sulle particelle. Effetto delle particelle su un canale ondulato. Fisica e cambiamento del drag
-
-- DNS di una lastra piana + rugosità che mima il ghiaccio (Parlare con Tommaso Bellosta per la geometria)
-
-- AGKE in coordinate cilindriche. Applicazione su Taylor Couette per investigare interazione tra i TV (quandro presenti e la turbolenza di background, oltre che quella vicino a parete). Database è gia presente. Codice gia scritto per rr=0. Equazioni già derivate. In collaborazione con Emanuele
-
-- Implementazione di modelli RANS su FreeFem? Partendo dal semplice SA per poi andare avanti.
-
-- BARC 3D
-
-- Riprendiamo l'idea dell'esperimento di Uberoi? Potrebbe essere interessante guardare in termini di flussi di energia cosa succede. Soprattutto in termini di E12 (e quindi di dudv). Questo apre anche l'idea di usare una sorta di GKE con la separazione temporale. Se è vero che le stats della turbolenza qui dipendono dall'integrale della storia e non dallo stato locale, potrebbe essere interessante
-
-- Iniziare a lavorare su bolle in turbolenza. Non ho una domanda chiara adesso, ma possiamo iniziare implementando p.e. vof. Ho un codice DNS triperiodico, non ancora pulito che potremmo usare. Però serivirebbe qualcuno che inizia più in la.
-
-- Scalare passivo in turbolenza. Aspetti frattali dell'interfaccia al variare dei parametri. E' stato ampiamente guardato, ma c'è qualcosa che manca? Iniziare a costruire gli strumenti per entrambi gli aspetti potrebbe essere utile.
-
-- Urban Canopies. DNS.
-
-- GKE in coord.cilindriche in pipe flow (Ema)
-
-- continuare articolo Jesus
-
-
-
-3) FLOW CONTROL
-
-- WHC dopo Andreozzi
-
-- Dissimilar control con scalare passivo attraverso DRL (MarcoC)
-
-- ala transonica a M ridotto per togliere urto (Niccolo')
-
-- continuare sui puffs: ridurre Re gradualmente con onda attiva; studio sistematico di effetto dominio, CFR/CPG, studio tipo puff a seconda della discretizzazione (Ema)
-
-- AGKE in fase (spaziale) per studiare come le riblets modificano la corrente (Fede)
-
-- Studio sistematico del tensore gradiente di velocità in un canale con Drag reduction al variare di y^*. Come cambia lo stato di sforzo? Come cambiano le cose in termini di intermittenza? Esiste una corrente di DR generale? Guardare Warwaruk \& Gahemi (JFM, 2024) per un flusso con i polimeri.
-
-- Controllo sui corpi tozzi. Esempio Riblets: possiamo prendere la correzione dello spigolo di luchini e applicarlo per bene su un corpo tozzo. Possiamo farlo prima sul BARC e poi invece su un corpo con LE ellittico che non ha separazione. Come cambiano le prestazioni?
-
-
-4) STABILITA
-
-- stabilita' con onde su altri flussi linearmente stabili, tipo Couette (Ema)
-
-- Stabilità secondaria per flussi intorno a rettangoli al variare di AR. Studio preliminare già fatto. Ci sono molte biforcazioni, diverse. Bisogna capire la fisica. Guardare Jallas, Marquet, Fabre (2017) e Chiarini, Quadrio, Auteri (JFM, 2020)
-
-- Studiare effetto dell'allungamento sul flusso intorno a prismi 3D. Per corpi 2D si ha un lock-in con vortex shedding dal LE e dal TE che si legano. Per corpi 3D si ha uno shedding di vortici a forcina dal LE, come si lega questo al TE? Si possono fare DNS e provare Stabilità lineare se serve. Guardare Chiarini, Quadrio, Auteri (JFM, 2022) e Chiarini \& Boujo (arXiv, 2024)
-
-- Studio della Stabilità primaria e secondaria del flusso intorno a corpi tozzi in configurazione staggered. Ci dovrebbero essere dei punti di codimensione 2 che possiamo studiare con stabilità debolmente non lineare
-
-- Interazione fluido struttura tipo Navrose \& Mittal (JFM 2016), usando la formulazione (tipo ALE) di Magnaudet & Mougin (JCP 2007). La formulazione di Magnaudet \& Mougin la ho gia implementata, quindi manca mettere una molla per iniziare. Potrebbe essere gia interessante vedere stabiltà secondaria di un rettangolare che oscilla.
-
-- Interazone fluido-struttura di un'ala di libellula. Paralre con Simone Cruciani e Franco
-
-- Stabilità di flussi non Newtoniani. Possiamo iniziare modificando i programmi della stabilità lineare (primaria e secondaria) per corpi tozzi inserendo modelli semplici di flussi non Newtoniani. Guardare per esempio Lashgari, Pralits, Giannetti, Brandt (JFM, 2012)
-
-
-5) ESTERO
-
-- Markus, DLR Gottingen (velocity gradient tensor)
-- Davide, KIT (TBD)
-- Simone, OIST (particelle)
-- GDC, Semmel (alghe)
+Marco Zappoli 
+Raffaele Mancuso raffaele1.mancuso
+Giorgia Pallara
+Davide Alloggio
 
 -->
 
 # Ongoing
+
+- Martina **Buffoli**  
+Fluidodinamica nasale (TBD)
+
+- Jacopo **Alberti**  
+Fluidodinamica nasale (TBD)
+
+- Ömer **Altay**  
+Rhinomanometry and facial masks
+
+- Zainab **Mohamed Osman Ali**  
+Streamwise/spanwise forcing in turbulent Couette flow
 
 - Simone **Lomolino**  
 Tracers in a turbulent channel flow
@@ -127,7 +50,6 @@ Spanwise forcing without walls
 
 - Francesca **Cerbone**  
 Turbulence in solids
-
 
 
 # Master 
