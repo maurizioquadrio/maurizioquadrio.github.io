@@ -28,6 +28,12 @@ J. Fluid Mechanics
 6) Modeling and simulation of the human respiratory system; Part 2
 G.H.Spasov, J.P.Jamieson, A.P.McKiernan, M.J.Grill, K.W.Mueller, K.Burrowes, M.Quadrio, E.Estes, L.Cacopardo, A.J.Banko, Ma.Reddemann, F.F.Stellari, C.Cottini & A.Benassi  
 *[Inhalation](https://www.inhalationmag.com/article/modeling-and-simulation-of-the-human-respiratory-system-part-1-computational-fluid-dynamics-simulations-and-whole-lung-models/)*
+
+7) A simple and efficient immersed-boundary method for the incompressible Navier–Stokes
+equations 
+P.Luchini, D.Gatti, A.Chiarini, F.Gattere, M.Atzori & M.Quadrio
+JCP, submitted
+
 -->
 
 

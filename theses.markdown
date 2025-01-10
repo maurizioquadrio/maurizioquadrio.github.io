@@ -7,12 +7,13 @@ permalink: /theses/
 <!---
 IN AVVIO
 
-QUATTRO DELLA CLASSE DI ALE:
+CINQUE DELLA CLASSE DI ALE:
 
-Marco Zappoli 
-Raffaele Mancuso raffaele1.mancuso
-Giorgia Pallara
-Davide Alloggio
+Marco Zappoli: estero, OIST con Simone. Restiamo in attesa
+Raffaele Mancuso raffaele1.mancuso Ciclo di parete. Dobbiamo fare proposta
+Giorgia Pallara Incerta: stabilita' o turbolenza di parete. Restiamo in attesa
+Davide Alloggio: incerto sul dottorato, vuole "applicazioni". Flow control. Dobbiamo fare proposta
+Marina Zenobi: da sentire
 
 -->
 
