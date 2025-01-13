@@ -6,36 +6,43 @@ permalink: /papers/
 
 <!---
 
-1) Margheritti, Schillaci, Pipolo, Quadrio, Boracchi
+Margheritti, Schillaci, Pipolo, Quadrio, Boracchi
 Data Augmentation Based on Computational Geometry for Neural Network Training in Medical Flow Field Classification
 NCA
 
-2) Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose" has just been submitted to "Applied Mathematical Modelling" (PENNISI)
+Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose" has just been submitted to "Applied Mathematical Modelling" (PENNISI)
 
-3) Near-field aeroacoustic effects of spanwise forcing on a transonic wing: a DNS study
-Niccolò Berizzi, Davide Gatti, Giulio Soldati, Sergio Pirozzoli and Maurizio Quadrio
-Applied Science
-
-4) Understanding the mismatch between in-vivo and in-silico rhinomanometry
+Understanding the mismatch between in-vivo and in-silico rhinomanometry
 Marco Atzori, Gabriele Dini Ciacci and Maurizio Quadrio
 IJCARS -> MBEC?
 
-5) The aerodynamic performance of a transonic airfoil with spanwise forcing
+The aerodynamic performance of a transonic airfoil with spanwise forcing
 Niccolò Berizzi, Davide Gatti, Giulio Soldati, Sergio Pirozzoli and Maurizio
 Quadrio
 J. Fluid Mechanics
 
-6) Modeling and simulation of the human respiratory system; Part 2
+Modeling and simulation of the human respiratory system; Part 2
 G.H.Spasov, J.P.Jamieson, A.P.McKiernan, M.J.Grill, K.W.Mueller, K.Burrowes, M.Quadrio, E.Estes, L.Cacopardo, A.J.Banko, Ma.Reddemann, F.F.Stellari, C.Cottini & A.Benassi  
 *[Inhalation](https://www.inhalationmag.com/article/modeling-and-simulation-of-the-human-respiratory-system-part-1-computational-fluid-dynamics-simulations-and-whole-lung-models/)*
 
-7) A simple and efficient immersed-boundary method for the incompressible Navier–Stokes
-equations 
+A simple and efficient immersed-boundary method for the incompressible Navier–Stokes equations 
 P.Luchini, D.Gatti, A.Chiarini, F.Gattere, M.Atzori & M.Quadrio
 JCP, submitted
 
 -->
 
+------
+
+# 2025
+
+- Near-field aeroacoustic effects of spanwise forcing on a transonic wing: a DNS study  
+N.Berizzi, D.Gatti, G.Soldati, S.Pirozzoli & M.Quadrio  
+Accepted for publication on *Applied Science*
+
+- Turbulent skin-friction drag reduction via spanwise forcing at high Reynolds number  
+D.Gatti, M.Quadrio, A.Chiarini, F.Gattere & S.Pirozzoli  
+Submitted to *J. Fluid Mechanics*, 2024  
+[Arxiv:physics.flu-dyn/2409.07230](https://doi.org/10.48550/arXiv.2409.07230)
 
 ------
 
@@ -49,11 +56,6 @@ G.H.Spasov, J.P.Jamieson, A.P.McKiernan, M.J.Grill, K.W.Mueller, K.Burrowes, M.Q
 - Comparison between topological and surface sensitivities for bio-fluid dynamics applications  
 E.Segalerba, E.Gallorini, M.Quadrio & J.O.Pralits  
 *[Meccanica](https://doi.org/10.1007/s11012-024-01920-0)* in press
-
-- Turbulent skin-friction drag reduction via spanwise forcing at high Reynolds number  
-D.Gatti, M.Quadrio, A.Chiarini, F.Gattere & S.Pirozzoli  
-Submitted to *J. Fluid Mechanics*, 2024  
-[Arxiv:physics.flu-dyn/2409.07230](https://doi.org/10.48550/arXiv.2409.07230)
 
 - An adjoint-based approach for the surgical correction of nasal septal deviations  
 M.Macellari, A.Schillaci, U.Tanzini, M.Trimarchi & M.Quadrio  
