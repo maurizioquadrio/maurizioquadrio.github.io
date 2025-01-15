@@ -37,7 +37,7 @@ JCP, submitted
 
 - Near-field aeroacoustic effects of spanwise forcing on a transonic wing: a DNS study  
 N.Berizzi, D.Gatti, G.Soldati, S.Pirozzoli & M.Quadrio  
-Accepted for publication on *Applied Science*
+*[Applied Science](https://doi.org/10.3390/app15020814)*, **15**(2), p.814, 2025
 
 - Turbulent skin-friction drag reduction via spanwise forcing at high Reynolds number  
 D.Gatti, M.Quadrio, A.Chiarini, F.Gattere & S.Pirozzoli  

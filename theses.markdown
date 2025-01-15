@@ -13,7 +13,7 @@ Marco Zappoli: estero, OIST con Simone. Restiamo in attesa
 Raffaele Mancuso raffaele1.mancuso Ciclo di parete. Dobbiamo fare proposta
 Giorgia Pallara Incerta: stabilita' o turbolenza di parete. Restiamo in attesa
 Davide Alloggio: incerto sul dottorato, vuole "applicazioni". Flow control. Dobbiamo fare proposta
-Marina Zenobi: da sentire
+Marina Zenobi: strutture coerenti, in attesa.
 
 -->
 
