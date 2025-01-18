@@ -10,7 +10,7 @@ Margheritti, Schillaci, Pipolo, Quadrio, Boracchi
 Data Augmentation Based on Computational Geometry for Neural Network Training in Medical Flow Field Classification
 NCA
 
-Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose" has just been submitted to "Applied Mathematical Modelling" (PENNISI)
+Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose" has just been submitted to "Applied Mathematical Modelling" (PENNISI, resubmitted somewhere?)
 
 Understanding the mismatch between in-vivo and in-silico rhinomanometry
 Marco Atzori, Gabriele Dini Ciacci and Maurizio Quadrio
@@ -23,7 +23,7 @@ J. Fluid Mechanics
 
 Modeling and simulation of the human respiratory system; Part 2
 G.H.Spasov, J.P.Jamieson, A.P.McKiernan, M.J.Grill, K.W.Mueller, K.Burrowes, M.Quadrio, E.Estes, L.Cacopardo, A.J.Banko, Ma.Reddemann, F.F.Stellari, C.Cottini & A.Benassi  
-*[Inhalation](https://www.inhalationmag.com/article/modeling-and-simulation-of-the-human-respiratory-system-part-1-computational-fluid-dynamics-simulations-and-whole-lung-models/)*
+*[Inhalation](https://www.inhalationmag.com/article/modeling-and-simulation-of-the-human-respiratory-system-part-21-xxxx)*
 
 A simple and efficient immersed-boundary method for the incompressible Navier–Stokes equations 
 P.Luchini, D.Gatti, A.Chiarini, F.Gattere, M.Atzori & M.Quadrio
@@ -520,7 +520,7 @@ M.Quadrio & S.Sibilla
 
 # 1999
 
-On the effectiveness and limitations of local criteria for the identification of a vortex  
+- On the effectiveness and limitations of local criteria for the identification of a vortex  
 R.Cucitore, M.Quadrio & A.Baron  
 *[European Journal of Mechanics B / Fluids](https://doi.org/10.1016/S0997-7546(99)80026-0)* **18** n.2, pp. 261--282, 1999
 
@@ -528,11 +528,11 @@ R.Cucitore, M.Quadrio & A.Baron
 
 # 1997
 
-Turbulent boundary layer over riblets: conditional analysis of ejection-like events  
+- Turbulent boundary layer over riblets: conditional analysis of ejection-like events  
 A.Baron & M.Quadrio  
 *[The International Journal of Heat and Fluid Flow](https://doi.org/10.1016/S0142-727X(96)00087-2)* **18** n.2, pp. 188--196, 1997
 
-On the accuracy of wall-similarity methods in determining friction velocity over smooth and ribletted surfaces  
+- On the accuracy of wall-similarity methods in determining friction velocity over smooth and ribletted surfaces  
 A.Baron & M.Quadrio  
 *[Transaction of the ASME Journal of Fluids Engineering](https://doi.org/10.1115/1.2819489)* **119** pp.1009--1011, 1997
 
@@ -568,6 +568,6 @@ A.Baron & M.Quadrio
 
 # 1989
 
-Riduzione della resistenza di attrito in correnti turbolente e altezza di protrusione di pareti scanalate  
+- Riduzione della resistenza di attrito in correnti turbolente e altezza di protrusione di pareti scanalate  
 A.Baron, M.Quadrio & L.Vigevano  
 *L'Aerotecnica Missili e Spazio* **68** n.3--4, pp. 129--136, 1989
