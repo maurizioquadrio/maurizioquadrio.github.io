@@ -7,17 +7,21 @@ permalink: /theses/
 <!---
 IN AVVIO
 
-CINQUE DELLA CLASSE DI ALE:
-
-Marco Zappoli: estero, OIST con Simone. Restiamo in attesa
 Raffaele Mancuso raffaele1.mancuso Ciclo di parete. Dobbiamo fare proposta
 Giorgia Pallara Incerta: stabilita' o turbolenza di parete. Restiamo in attesa
 Davide Alloggio: incerto sul dottorato, vuole "applicazioni". Flow control. Dobbiamo fare proposta
 Marina Zenobi: strutture coerenti, in attesa.
 
+AGKE x fluidi non newtoniani; cont. tesi Marildo; jet entrainment (con o senza particelle); estensione bump Mollicone con particelle; 
+- particelle bidisperse in HIT
+- variare l'invariante di E(k) in HIT
+
 -->
 
 # Ongoing
+
+- Marco **Zappoli**  
+HST con point particles
 
 - Martina **Buffoli**  
 Fluidodinamica nasale (TBD)
