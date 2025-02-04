@@ -6,6 +6,7 @@ permalink: /phd/
 
 <!---
 Berizzi (AFOSR)
+
 -->
 
 # Ongoing
@@ -14,9 +15,10 @@ Berizzi (AFOSR)
 
 - Marco **Castelletti**  
 
-- Federica **Gattere**   
-
 # PhD theses 
+
+- Federica **Gattere**   
+*[Skin-friction drag reduction in turbulent flows: physical understanding and practical applications](Files/gattere.pdf)*
 
 - Andrea **Schillaci** (2023)  
 *[Analysis of complex systems with CFD and Machine Learning](Files/schillaci.pdf)*  
