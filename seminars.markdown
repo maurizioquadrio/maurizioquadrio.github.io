@@ -116,7 +116,7 @@ permalink: /seminars/
 **M. Quadrio**  
 *Invited seminar*, Institute for Science and Technology - Austria, Wien (A), Oct 29 2014 
 
-- Fluid dynamics of the nasal cavity: how to, what for
+- Fluid dynamics of the nasal cavity: how to, what for  
 **M. Quadrio**  
 *Invited seminar*, Università di Genova (I), Feb 21 2014
 
@@ -124,15 +124,15 @@ permalink: /seminars/
 **M. Quadrio**  
 *Invited keynote lecture*, 31st UIT Heat Transfer Conference, Jun 25-27 2013, Moltrasio (I)
 
-- Fluid dynamics of the nasal cavity: How to, what for
+- Fluid dynamics of the nasal cavity: How to, what for  
 **M. Quadrio**  
 *Invited seminar*, University College Dublin (IRL), Jan 30 2013
 
-- Comparing drag reduction techniques in the "Money vs Time" framework
+- Comparing drag reduction techniques in the "Money vs Time" framework  
 **M. Quadrio**  
 *Invited seminar*, Warwick University (UK), Jan 16 2013 
 
-- Turbulent wall flow control
+- Turbulent wall flow control  
 **M. Quadrio**  
 *Invited lecture*, ERCOFTAC Flow Control Course, Cranfield (UK), Dec 9-10 2013
 
@@ -152,7 +152,7 @@ permalink: /seminars/
 **M.Quadrio**  
 *Invited seminar*, Technische Universitaet Darmstadt (D), Jun 15 2010
 
-Experimental measurement of turbulent drag reduction by streamwise-traveling waves
+- Experimental measurement of turbulent drag reduction by streamwise-traveling waves  
 **M.Quadrio**  
 *Invited seminar*, King's College London (UK), Nov 25 2009
 
@@ -176,11 +176,10 @@ Experimental measurement of turbulent drag reduction by streamwise-traveling wav
 **M.Quadrio**  
 *Invited lecture*, Università di Napoli Federico II (I), Sep 30 2006
 
-- Control of Turbulent Wall Flows: A survey of strategies explored at Politecnico di Milano
-**M.Quadrio**
+- Control of Turbulent Wall Flows: A survey of strategies explored at Politecnico di Milano  
+**M.Quadrio**  
 *Invited seminar*, Imperial College, Sep 30 2004, London (UK)
 
 - Direct numerical simulation of active control of turbulence  
 **M.Quadrio**  
-*Invited lecture*, EUROMECH Colloquium 332 on *Drag Reduction*, IX European Drag Reduction Working Meeting, Apr 19-21 1995, Ravello (I) 
-  Meeting, Ravello (I), April 19-21, 1995.
+*Invited lecture*, EUROMECH Colloquium 332 on *Drag Reduction*, IX European Drag Reduction Working Meeting, Ravello (I), Apr 19-21 1995
