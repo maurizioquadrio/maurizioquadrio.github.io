@@ -301,7 +301,7 @@ PATC Workshop, HPC Methods for Engineering Applications, Jun 19-21 June 2017, Mi
 European Drag Reduction and Flow Control Meeting, Apr 3-6 2017, Monte Porzio Catone (I)
 
 - Mean impulse response in a turbulent channel flow  
-**A.Codrignani**, D.Gatti & M.Quadrio  \html{]} 
+**A.Codrignani**, D.Gatti & M.Quadrio  
 European Drag Reduction and Flow Control Meeting, Apr 3-6 2017, Monte Porzio Catone (I)
 
 - Drag reduction of a whole-aircraft configuration via spanwise forcing  
@@ -393,7 +393,7 @@ ERCOFTAC Drag reduction and flow control meeting, Mar 22-26, 2015, Cambridge (UK
 Conference on Vortical Structures and Wall Turbulence, for the 70th of Paolo Orlandi, 
 Rome (I), Sept 19-20 2014, Rome (I)
 
-- Dielectric Electroactive Polymers for drag-reducing wall oscillations in low-Reynolds turbulent channel flows
+- Dielectric Electroactive Polymers for drag-reducing wall oscillations in low-Reynolds turbulent channel flows  
 **D.Gatti**, A.Güttler, M.Quadrio, H.F.Schlaak, C.Tropea and B.Frohnapfel  
 Euromech Fluid Mechanics Conference X, Sep 14-18 2014, Copenhagen (DK)
 
@@ -474,13 +474,13 @@ ETMM9, Jun 6-8 2012, Thessaloniki (GR)
 **B.Frohnapfel**, Y.Hasegawa, & M.Quadrio  
 GAMM, Mar 26-30 2012, Darmstadt (D)
 
-- Turbulent drag reduction at moderate Reynolds numbers via spanwise velocity waves
+- Turbulent drag reduction at moderate Reynolds numbers via spanwise velocity waves  
 **D.Gatti** & M.Quadrio  
 In Proc. Appl. Math. Mech. **12** n.1, pp. 563-564.
 GAMM, Mar 26-30 2012, Darmstadt (D)
 
-- Non-sinusoidal wall oscillation for drag reduction
-**A.Cimarelli**, B.Frohnapfel Y.Hasegawa, E. De Angelis, & M.Quadrio
+- Non-sinusoidal wall oscillation for drag reduction  
+**A.Cimarelli**, B.Frohnapfel Y.Hasegawa, E. De Angelis & M.Quadrio  
 In Proc. Appl. Math. Mech. **12** n.1, pp. 565-566.
 GAMM, Mar 26-30 2012, Darmstadt (D)
 
@@ -497,7 +497,7 @@ GAMM, Mar 26-30 2012, Darmstadt (D)
 *Journal of Physics: Conference Series* **318**  
 Euromech Turbulence Conference XIII, Sep 12-15 2011, Warsaw (PL)
 
-- Stability of planar shear flow in presence of electroconvection 
+- Stability of planar shear flow in presence of electroconvection  
 F.Martinelli, **M.Quadrio** & P.J.Schmid  
 Turbulent Shear Flow Phenomena 7, Jul 28-31 2011, Ottawa (CAN) 
 
