@@ -622,89 +622,55 @@ I International Workshop on CICLoPE, Sep 29-30, 2005, Bertinoro (I)
 
 # 2003
 
+- Reduction of turbulent friction by  spanwise wall oscillations  
+**P.Ricco** & M.Quadrio  
+XVII AIDAA Meeting, Sep 15-19 2003, pp. 1179--1186, Roma (I)
 
-\item \html{[}P. Ricco & M. Quadrio, 2003. 
-\htmladdnormallink{
-Reduction of turbulent friction by  spanwise wall oscillations.}
-{../../papers/2003-aidaa2.pdf}
-\html{]}
-Proc. XVII AIDAA Meeting, Roma (I), September 15-19, 2003, pp. 1179--1186.
+- Four-dimensional space-time correlations in wall turbulence  
+**M.Quadrio** & S.Giussani  
+XVII AIDAA Meeting, Sep 15-19 2003, pp. 1179--1186, Roma (I)
 
-\item \html{[}M. Quadrio & S. Giussani, 2003. 
-\htmladdnormallink{
-Four-dimensional space-time correlations in wall turbulence.}
-{../../papers/2003-aidaa1.pdf}
-\html{]}
-Proc. XVII AIDAA Meeting, Roma (I), September 15-19, 2003, pp.1187--1194.
+- Control of Turbulent Channel Flow using Distributed Suction  
+**M.Quadrio**, J.M.Floryan & P.Luchini  
+5th Euromech Fluid Mechanics Conference, Aug 24-28 2003, Toulouse (FR)
 
-\item \html{[}M. Quadrio, J.M.Floryan & P.Luchini, 2003.
-\htmladdnormallink{ 
-Control of Turbulent Channel Flow using Distributed Suction.}
-{../../papers/2003-efmc1-slides.pdf}
-\html{]} 
-5th Euromech Fluid Mechanics Conference, 
-Toulouse (FR), August 24-28, 2003.
+- Turbulent Drag Reduction over an Oscillating Wall  
+**P.Ricco** & M.Quadrio  
+5th Euromech Fluid Mechanics Conference, Aug 24-28 2003, Toulouse (FR)
 
-\item \html{[}P. Ricco & M. Quadrio, 2003. 
-\htmladdnormallink{
- Turbulent Drag Reduction over an Oscillating Wall.}
- {../../papers/2003-efmc2-slides.pdf}
- \html{]} 5th Euromech
- Fluid Mechanics Conference, Toulouse (FR), August 24-28, 2003.
+- A Parallel Algorithm for the Direct Numerical Simulation of Turbulent Channel Flow  
+**M.Quadrio**, P.Luchini & J.M.Floryan  
+XI Annual Conference of the CFD Society of Canada, May 28-30 2003, Vancouver, B.C. (CAN)
 
-\item \html{[}M.Quadrio, P.Luchini & J.M.Floryan, 2003. 
-\htmladdnormallink{
-A Parallel Algorithm for the Direct Numerical Simulation of Turbulent
-Channel Flow.}
-{../../papers/2003-cfdsc.pdf}
-\html{]} XI Annual Conference of the CFD Society of Canada,
-Vancouver, B.C. (CAN){\em}, May 28-30, 2003.
-
-\item \html{[}M.Quadrio, J.M. Floryan & P.Luchini, 2003. 
-\htmladdnormallink{Modification of Turbulent Flow 
-                   using Distributed Suction.}
-{../../papers/2003-casi.pdf}
-\html{]}
-50th Annual Meeting of the {\em Canadian Aeronautics and Space
-Institute}, Montr\'eal, Qu\'ebec, (CAN), April 28-30, 2003.
+- Modification of Turbulent Flow using Distributed Suction  
+**M.Quadrio**, J.M. Floryan & P.Luchini  
+50th Annual Meeting of the *Canadian Aeronautics and Space Institute*,  Apr 28-30 2003, Montr\'eal, Qu\'ebec, (CAN)
 
 
 -------
 
 # 2002
 
-\item \html{[}P.Luchini & M.Quadrio, 2002.
-\htmladdnormallink{Adjoint DNS of turbulent 
-  channel flow.}
-  {../../papers/2002-asme.pdf}\html{]} Proc. ASME
-  Fluids Engineering Division Forum on {\em Flow Control}, Montr\'eal,
-  Qu\'eb\'ec (CAN), July 14-18, 2002.
+- Adjoint DNS of turbulent channel flow  
+**P.Luchini** & M.Quadrio  
+ASME Fluids Engineering Division Forum on {\em Flow Control}, Jul 14-18 2002, Montr\'eal, Qu\'eb\'ec (CAN)
 
-\item \html{[}M.Quadrio & P.Luchini, 2002. 
-\htmladdnormallink{The linear 
-  response of a turbulent channel flow.}
-  {../../papers/2002-etc.pdf}\html{]} Proc. IX
-  EUROMECH European Turbulence Conference, Southampton (UK), July 2-5,
-  2002, pp. 715--718
+- The linear response of a turbulent channel flow  
+**M.Quadrio** & P.Luchini  
+IX EUROMECH European Turbulence Conference, July 2-5 2002,  Southampton (UK)
 
 
 -------
 
 # 2001
 
-%-----(10)
-\item\html{[}M.Quadrio & P.Luchini, 2001. 
-\htmladdnormallink{A 4th-order-accurate, parallel
-  numerical method for the direct simulation of turbulence in
-  rectangular and cylindrical geometries.}
-  {../../papers/2001-aimeta.pdf}\html{]} Proc. XV
-  Congresso Nazionale AIMETA, Catania (I), September 26-29, 2001 (CD).
+- A 4th-order-accurate, parallel numerical method for the direct simulation of turbulence in rectangular and cylindrical geometries  
+**M.Quadrio** & P.Luchini  
+Congresso Nazionale AIMETA, Sep 26-29 2001, Catania (I)
 
-\item\html{[}M.Quadrio & P.Luchini, 2001. 
-\htmladdnormallink{Convection velocity in
-  turbulent flows.}
-  {../../papers/2001-aidaa.pdf}\html{]} Proc. XVI
-  Congresso Nazionale AIDAA, Palermo (I), September 24-28, 2001 (CD).
+Convection velocity in turbulent flows  
+**M.Quadrio** & P.Luchini  
+XVI Congresso Nazionale AIDAA, Sep 24-28 2001, Palermo (I)
 
 
 -------
