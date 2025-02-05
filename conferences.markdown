@@ -501,7 +501,6 @@ Euromech Turbulence Conference XIII, Sep 12-15 2011, Warsaw (PL)
 F.Martinelli, **M.Quadrio** & P.J.Schmid  
 Turbulent Shear Flow Phenomena 7, Jul 28-31 2011, Ottawa (CAN) 
 
-
 -------
 
 # 2010
@@ -514,146 +513,115 @@ Euromech Fluid Mechanics Conference - 8,  Sep 13-16 2010, Bad Reichenhall (D)
 **L.Galantucci**, C.F.Barenghi, M.Sciacca, M.Quadrio & P.Luchini   
 Satellite Workshop on *Quantum Turbulence* of the International Symposium on *Quantum Fluids and Solids 2010*, Aug 7 2010, Grenoble (F)
 
-\item \html{[} L. Galantucci, C.F. Barenghi, M. Sciacca, M. Quadrio & P. Luchini, 2010. 
-Turbulent superfluid profiles in a counterflow channel. 
-\htmladdnormallink{Poster}{../../papers/2010-grenoble-poster.pdf}
-\html{]} 
-International Symposium on {\em Quantum Fluids and Solids 2010}, Grenoble, August 3, 2010. 
+- Turbulent superfluid profiles in a counterflow channel  
+**L.Galantucci**, C.F.Barenghi, M.Sciacca, M.Quadrio & P.Luchini  
+International Symposium on *Quantum Fluids and Solids 2010*, Aug 3 2010, Grenoble (F)
 
-\item \html{[} M.Quadrio, 2010.
-Drag-reducing characteristics of the generalized spanwise Stokes Layer: experiments and numerical simulations.
-\htmladdnormallink{Abstract }{../../papers/2010-tokyo-abstract.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2010-tokyo-presentation.pdf}
-\html{]}
-{\bf Invited} presentation at the International Specialist Workshop on Open-Loop versus Closed-Loop Control of Wall Turbulence, Tokyo (JP), March 17-19, 2010.
+- Drag-reducing characteristics of the generalized spanwise Stokes Layer: experiments and numerical simulations  
+**M.Quadrio**  
+*Invited presentation*, International Specialist Workshop on Open-Loop versus Closed-Loop Control of Wall Turbulence, Mar 17-19 2010, Tokyo (JP)
 
-\item \html{[} L. Galantucci, M.Quadrio & P. Luchini, 2009.
-Superfluid vortices in a wall-bounded flow.
-\htmladdnormallink{Paper }{../../papers/2009-aimeta-paper.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2009-aimeta-presentation.pdf}
-\html{]}
-Oral presentation at the XIX AIMETA Conference, Ancona (I), September 14--17, 2009.
+-------
 
-\item \html{[} M.Quadrio, F.Auteri, A.Baron, M.Belan, A.Bertolucci, 2009.
-Experimental assessment of turbulent drag reduction by wall traveling waves.
-\htmladdnormallink{Paper }{../../papers/2009-etc-pipe-paper.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2009-etc-pipe-presentation.pdf}
-\html{]}
-Oral presentation at XII EUROMECH Turbulence Conference, Marburg (D), September 7-10, 2009.
+# 2009
 
-\item \html{[} F.Martinelli, M.Quadrio, P.Luchini, 2009.
-Turbulent drag reduction by feedback: a Wiener-filtering approach
-\htmladdnormallink{Paper }{../../papers/2009-etc-wiener-paper.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2009-etc-wiener-presentation.pdf}
-\html{]}
-Oral presentation at XII EUROMECH Turbulence Conference, Marburg (D), September 7-10, 2009.
+- Superfluid vortices in a wall-bounded flow  
+**L.Galantucci**, M.Quadrio & P.Luchini  
+XIX AIMETA Conference, Sep 14-17 2009, Ancona (I)
 
-\item \html{[} F. Martinelli, M.Quadrio & P.Luchini, 2009.
-Wiener-Hopf design of feedback compensators for drag reduction in turbulent channels.
-\htmladdnormallink{Paper }{../../papers/2009-aidaa-control-paper.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2009-aidaa-control-presentation.pdf}
-\html{]}
-Oral presentation at the AIDAA Conference, Milano (I), June 29--July 2, 2009.
+- Experimental assessment of turbulent drag reduction by wall traveling waves  
+**M.Quadrio**, F.Auteri, A.Baron, M.Belan, A.Bertolucci  
+XII EUROMECH Turbulence Conference,  Sep 7-10 2009, Marburg (D)
 
-\item \html{[} M. Carini & M.Quadrio, 2009.
-The mean impulse response of homogeneous isotropic turbulence: the first (DNS-based) measurement.
-\htmladdnormallink{Paper }{../../papers/2009-aidaa-H_iso-paper.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2009-aidaa-H_iso-presentation.pdf}
-\html{]}
-Oral presentation at the AIDAA Conference, Milano (I), June 29--July 2, 2009.
+- Turbulent drag reduction by feedback: a Wiener-filtering approach  
+**F.Martinelli**, M.Quadrio, P.Luchini  
+XII EUROMECH Turbulence Conference,  Sep 7-10 2009, Marburg (D)
 
-\item \html{[} F. Auteri, A. Baron, M. Belan, A. Bertolucci, G. Gibertini & M.Quadrio, 2009.
-Streamwise-traveling waves of spanwise wall velocity in a pipe flow: experimental measure of turbulent drag reduction.
-\htmladdnormallink{Paper }{../../papers/2009-aidaa-pipe-paper.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2009-aidaa-pipe-presentation.pdf}
-\html{]}
-Oral presentation at the AIDAA Conference, Milano (I), June 29--July 2, 2009.
+- Wiener-Hopf design of feedback compensators for drag reduction in turbulent channels  
+F.Martinelli, M.Quadrio & P.Luchini  
+AIDAA Conference, Jun 29 - Jul 2 2009, Milano (I)
 
-\item \html{[} F.Martinelli, M.Quadrio, J.McKernan, J.Whidborne, 2009.
-Feedback control of transient energy growth in subcritical plane Poiseuille flow.
-\htmladdnormallink{Paper }{../../papers/2009-iutam-paper.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2009-iutam-presentation.pdf}
-\html{]}
-IUTAM Symposium on laminar-turbulent transition, Stockholm (S), June 23-26, 2009.
+- The mean impulse response of homogeneous isotropic turbulence: the first (DNS-based) measurement
+**M.Carini** & M.Quadrio
+AIDAA Conference, Jun 29 - Jul 2 2009, Milano (I)
 
+- Streamwise-traveling waves of spanwise wall velocity in a pipe flow: experimental measure of turbulent drag reduction  
+F.Auteri, A.Baron, M.Belan, A.Bertolucci, G.Gibertini & **M.Quadrio**  
+AIDAA Conference, Jun 29 - Jul 2 2009, Milano (I)
 
-%---(30)
-\item \html{[} M.Quadrio, 2008.
-The response of wall turbulence to streamwise-traveling waves of spanwise wall velocity.
-\htmladdnormallink{Paper }{../../papers/2008-iTi-paper.pdf} and
-\htmladdnormallink{presentation}{../../papers/2008-iTi-presentation.pdf}
-\html{]}
-ITI Conference on Turbulence III, Bertinoro (I), October 12--15, 2008.
+- Feedback control of transient energy growth in subcritical plane Poiseuille flow  
+**F.Martinelli**, M.Quadrio, J.McKernan, J.Whidborne  
+IUTAM Symposium on laminar-turbulent transition, Jun 23-26 2009, Stockholm (S)
 
-\item \html{[} P.Ricco & M.Quadrio, 2008.
-Drag reduction effects in a turbulent channel flow induced by spanwise wall oscillations.
-\htmladdnormallink{Abstract }{../../papers/2008-efmc-abstract.pdf} and
-\htmladdnormallink{presentation}{../../papers/2008-efmc-presentation.pdf} 
-\html{]}
-Euromech Fluid Mechanics Conference - 7, Manchester (UK), September 14--18, 2008.
+-------
 
-\item \html{[} P.Ricco, M.Quadrio & C. Viotti, 2008.
-Modification of turbulent friction drag by streamwise-traveling waves of spanwise velocity.
-\htmladdnormallink{Paper }{../../papers/2008-edrfcm.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2008-edrfcm-presentation.pdf}
-\html{]}
-European Drag Reduction and Flow Control Meeting -- EDRFCM 2008, 
-Ostritz - St. Marienthal, (D), September 8--11, 2008.
+# 2008
 
-\item \html{[} F. Martinelli, M.Quadrio & P.Luchini, 2007.
-Active control and drag reduction of turbulent wall flows.
-\htmladdnormallink{Paper }{../../papers/2007-capi.pdf} and
-\htmladdnormallink{presentation}{../../papers/2007-capi-presentation.pdf}
-\html{]}
-Oral presentation at the CAPI Conference, Milano (I), October 15-16, 2007.
+- The response of wall turbulence to streamwise-traveling waves of spanwise wall velocity  
+**M.Quadrio**  
+ITI Conference on Turbulence III, Oct 12-15 2008, Bertinoro (I)
 
-\item \html{[}M. Quadrio & P.Luchini, 2007. DNS of turbulent pipe flow: how far can we reach today?
-\htmladdnormallink{Presentation}{../../papers/2007-bertinoro-presentation.pdf}
-\html{]}
-II International Workshop on CICLoPE, Bertinoro (I), October 13-15, 2007.
+Drag reduction effects in a turbulent channel flow induced by spanwise wall oscillations  
+**P.Ricco** & M.Quadrio  
+Euromech Fluid Mechanics Conference - 7, Sep 14-18 2008, Manchester (UK)
 
-\item \html{[} F. Martinelli, M.Quadrio & P.Luchini, 2007.
-Reynolds-number dependence of the feedback control of turbulent channel flow.
-\htmladdnormallink{Paper }{../../papers/2007-aidaa.pdf} and 
-\htmladdnormallink{presentation}{../../papers/2007-aidaa-presentation.pdf}
-\html{]}
-Oral presentation at the AIDAA Conference, Forl\`\i\ (I), September 17-21, 2007. Awarded as {\em Best Paper} for the Fluid Dynamics Sessions.
+- Modification of turbulent friction drag by streamwise-traveling waves of spanwise velocity  
+P.Ricco, M.Quadrio & C. Viotti  
+European Drag Reduction and Flow Control Meeting -- EDRFCM 2008, Sep 8-11 2008, Ostritz - St. Marienthal (D)
 
-\item \html{[} M.Quadrio, C.Viotti & P.Luchini, 2007.
-Skin-friction drag reduction via steady streamwise oscillations of spanwise velocity.
-\htmladdnormallink{Paper }{../../papers/2007-etc-paper.pdf} and
-\htmladdnormallink{presentation}{../../papers/2007-etc-presentation.pdf}
-\html{]}
-XI EUROMECH European Turbulence Conference, Porto (P), June 25-28, 2007.
+-------
+
+# 2007
+
+- Active control and drag reduction of turbulent wall flows
+**F.Martinelli**, M.Quadrio & P.Luchini  
+CAPI Conference, Oct 15-16 2007, Milano (I)
+
+- DNS of turbulent pipe flow: how far can we reach today?  
+**M.Quadrio** & P.Luchini  
+II International Workshop on CICLoPE, Oct 13-15 2007, Bertinoro (I)
+
+- Reynolds-number dependence of the feedback control of turbulent channel flow  
+**F.Martinelli**, M.Quadrio & P.Luchini  
+AIDAA Conference, Sep 17-21 2007, Forli' (I)   
+*Best Paper Award* for the Fluid Dynamics Sessions.
+
+- Skin-friction drag reduction via steady streamwise oscillations of spanwise velocity
+M.Quadrio, C.Viotti & P.Luchini
+XI EUROMECH European Turbulence Conference, Jun 25-28 2007, Porto (P)  
 Advances in Turbulence XI, J.M.L.M. Palma and A. Silva Lopez, Springer, 2007. ISBN 9783540726036, 2007, p. 659-661
+-------
 
-\item \html{[} F.Auteri, M.Belan, S.Ceccon, G.Gibertini & M.Quadrio, 2006.
-\htmladdnormallink{Endoscopic PIV in a helical pipe coil.}
-{../../papers/2006-aivela.pdf}
-\html{]} XIV AIVELA Conference, Rome (I), September 6-7, 2006.
+# 2006
 
-\item \html{[}P.Luchini, T.Bewley & M.Quadrio, 2006.
-\htmladdnormallink{Wiener filters in active-feedback drag reduction of turbulent channel flow.}
-{../../papers/2006-efmc.pdf}
-\html{]} Euromech Fluid Mechanics Conference - 6, Stockholm (S), June 26--30, 2006.
+- Endoscopic PIV in a helical pipe coil  
+F.Auteri, M.Belan, S.Ceccon, G.Gibertini & M.Quadrio  
+XIV AIVELA Conference, Sep 6-7 2006, Rome (I)
 
-\item \html{[}P.Luchini, M.Quadrio & S.Zuccher, 2006.
-\htmladdnormallink{Phase-locked linear response of a turbulent channel flow.}
-{../../papers/2006-edrm.pdf}
-\html{]} ERCOFTAC European Drag Reduction and Flow Control Meeting, Ischia (I), April 10-13, 2006.
+- Wiener filters in active-feedback drag reduction of turbulent channel flow  
+**P.Luchini**, T.Bewley & M.Quadrio  
+Euromech Fluid Mechanics Conference - 6, Jun 26-30 2006, Stockholm (S)
 
+- Phase-locked linear response of a turbulent channel flow  
+P.Luchini, **M.Quadrio** & S.Zuccher  
+ERCOFTAC European Drag Reduction and Flow Control Meeting, Apr 10-13 2006, Ischia (I)
 
-%---(20)
-\item \html{[}P.Luchini, T.Bewley & M.Quadrio, 2005.
-An optimal feedback controller for the reduction of turbulent energy in 3D plane-duct flow.
-\htmladdnormallink{Presentation. }{../../papers/2005-aps.pdf}
-\html{]} APS Meeting, Chicago, IL (US), November 20-22, 2005.
+-------
 
-\item \html{[}M. Quadrio, 2005. 
-\htmladdnormallink{Wall turbulence and roughness.}
-{../../papers/2005-forli.pdf}
-\html{]}
-I International Workshop on CICLoPE, Bertinoro (I), September 29-30, 2005.
+# 2005
+
+- An optimal feedback controller for the reduction of turbulent energy in 3D plane-duct flow  
+**P.Luchini**, T.Bewley & M.Quadrio  
+APS Meeting, Nov 20-22 2005, Chicago, IL (US)
+
+- Wall turbulence and roughness  
+**M.Quadrio**  
+I International Workshop on CICLoPE, Sep 29-30, 2005, Bertinoro (I)
+
+-------
+
+# 2003
+
 
 \item \html{[}P. Ricco & M. Quadrio, 2003. 
 \htmladdnormallink{
@@ -700,6 +668,11 @@ Vancouver, B.C. (CAN){\em}, May 28-30, 2003.
 50th Annual Meeting of the {\em Canadian Aeronautics and Space
 Institute}, Montr\'eal, Qu\'ebec, (CAN), April 28-30, 2003.
 
+
+-------
+
+# 2002
+
 \item \html{[}P.Luchini & M.Quadrio, 2002.
 \htmladdnormallink{Adjoint DNS of turbulent 
   channel flow.}
@@ -714,6 +687,11 @@ Institute}, Montr\'eal, Qu\'ebec, (CAN), April 28-30, 2003.
   EUROMECH European Turbulence Conference, Southampton (UK), July 2-5,
   2002, pp. 715--718
 
+
+-------
+
+# 2001
+
 %-----(10)
 \item\html{[}M.Quadrio & P.Luchini, 2001. 
 \htmladdnormallink{A 4th-order-accurate, parallel
@@ -727,44 +705,61 @@ Institute}, Montr\'eal, Qu\'ebec, (CAN), April 28-30, 2003.
   turbulent flows.}
   {../../papers/2001-aidaa.pdf}\html{]} Proc. XVI
   Congresso Nazionale AIDAA, Palermo (I), September 24-28, 2001 (CD).
-    
-\item\html{[}M.Quadrio & P.Luchini, 2000. 
-  \htmladdnormallink{Direct simulation of turbulent flow in a pipe
-  with annular cross-section.}
-  {../../papers/2000-efmc.pdf}\html{]} Proc. IV
-  EUROMECH Fluid Mechanics Conference, Eindhoven (NL), November 19-23,
-  2000, p. 33.
 
-\item \html{[}M.Quadrio & P.Luchini, 2000. 
-\htmladdnormallink{Direct numerical simulation
-  of turbulent flow in an annular pipe.}
-  {../../papers/2000-simai.pdf}\html{]}
-  Minisyimposium on {\em Transizione e turbolenza}, Proc. V Congresso
-  Nazionale SIMAI, Ischia Porto (I), June 2000, pp. 626--629.
 
-\item \html{[}M.Quadrio, 1997. Drag reduction in turbulent pipe flow
-  with alternate rotation around the axis.\html{]} III ERCOFTAC Workshop on
-  {\em Vortex Dynamics in Rotating Systems}, Aussois (F), January 1997
+-------
 
-\item \html{[}M.Quadrio, 1995. Direct numerical simulation of active 
-  control of turbulence.\html{]} {\em Invited talk} a EUROMECH Colloquium 332
-  su {\em Drag Reduction} e IX European Drag Reduction Working
-  Meeting, Ravello (I), April 19-21, 1995.
+# 2000
 
-\item \html{[}A.Baron & M.Quadrio, 1995. A numerical study of turbulent
-  drag reduction by spanwise wall oscillation.\html{]} Proc. XIII Congresso
-  Nazionale AIDAA, Roma (I), 1995, pp. 587--596.
+- Direct simulation of turbulent flow in a pipe with annular cross-section  
+**M.Quadrio** & P.Luchini  
+EUROMECH Fluid Mechanics Conference, Nov 19-23 2000,  Eindhoven (NL)
 
-\item \html{[}A.Baron & M.Quadrio, 1994.  A cheap DNS tool for turbulence
-  models testing.\html{]} LXXIV AGARD FDP Meeting and Symposium on {\em
-  Application of direct and Large Eddy Simulation to transition and
-  turbulence}, Chania, Crete (GR), May 1994. AGARD-CP-551, 1994.
-  
-\item \html{[}A.Baron & M.Quadrio, 1993.  Direct numerical simulation
-  of turbulent flows under the Narrow Channel assumption.\html{]} Proc. XII
-  Congresso AIDAA, Como (I), July 20-23, 1993, pp. 501--516.
+- Direct numerical simulation of turbulent flow in an annular pipe  
+**M.Quadrio** & P.Luchini  
+Minisyimposium on *Transizione e turbolenza*, Proc. V Congresso Nazionale SIMAI pp. 626-629, Jun 2000,  Ischia Porto (I)
 
-\item \html{[}A.Baron, M.Quadrio & L.Vigevano, 1989. Riduzione della
-  resistenza di attrito in correnti turbolente e altezza di
-  protrusione di correnti scanalate.\html{]} Proc. X Congresso AIDAA, Pisa (I),
-  October 16-20, 1989.
+-------
+
+# 1997
+
+**M.Quadrio**  
+- Drag reduction in turbulent pipe flow with alternate rotation around the axis  
+III ERCOFTAC Workshop on *Vortex Dynamics in Rotating Systems*, Jan 1997, Aussois (F)
+
+-------
+
+# 1995
+
+
+- Direct numerical simulation of active control of turbulence  
+**M.Quadrio**  
+*Invited talk* at the EUROMECH Colloquium 332 on *Drag Reduction* and IX European Drag Reduction Working Meeting, Apr 19-21 1995, Ravello (I)
+
+A numerical study of turbulent drag reduction by spanwise wall oscillation
+A.Baron & **M.Quadrio**  
+Proc. XIII Congresso Nazionale AIDAA, 1995, pp. 587-596 Roma (I)
+
+-------
+
+# 1994
+
+- A cheap DNS tool for turbulence models testing  
+**A.Baron** & M.Quadrio  
+LXXIV AGARD FDP Meeting and Symposium on *Application of direct and Large Eddy Simulation to transition and turbulence*, AGARD-CP-551, May 1994, Chania (GR)
+
+-------
+
+# 1993
+
+**A.Baron** & M.Quadrio  
+- Direct numerical simulation of turbulent flows under the Narrow Channel assumption  
+Proc. XII Congresso AIDAA,  Jul 20-23 1993, pp.501-516, Como (I)
+
+-------
+
+# 1989
+
+- Riduzione della resistenza di attrito in correnti turbolente e altezza di protrusione di correnti scanalate  
+**A.Baron**, M.Quadrio & L.Vigevano  
+Proc. X Congresso AIDAA, Oct 16-20 1989, Pisa (I)

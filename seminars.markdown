@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Seminars and invited presentations
+title: Invited
 permalink: /seminars/
 ---
 
