@@ -146,19 +146,19 @@ permalink: /seminars/
 
 - Drag-reducing characteristics of the generalized spanwise Stokes Layer: experiments and numerical simulations  
 **M.Quadrio**  
-*Invited lecture*, International Specialist Workshop on Open-Loop versus Closed-Loop Control of Wall Turbulence, Mar 17-19, 2010, Tokyo (JP)
+*Invited lecture*, International Specialist Workshop on Open-Loop versus Closed-Loop Control of Wall Turbulence, , Tokyo (JP), Mar 17-19 2010
 
 - Turbulent drag reduction by spanwise wall forcing  
 **M.Quadrio**  
 *Invited seminar*, Technische Universitaet Darmstadt (D), Jun 15 2010
 
-- Experimental measurement of turbulent drag reduction by streamwise-traveling waves  
-**M.Quadrio**  
-*Invited seminar*, King's College London (UK), Nov 25 2009
-
 - Spanwise forcing of wall flows for turbulent drag reduction
 **M.Quadrio**  
 *Invited seminar*, Università di Bologna a Forlì (I), Dec 1 2009
+
+- Experimental measurement of turbulent drag reduction by streamwise-traveling waves  
+**M.Quadrio**  
+*Invited seminar*, King's College London (UK), Nov 25 2009
 
 - Phase-locked linear response of a turbulent channel flow  
 **M.Quadrio**  
