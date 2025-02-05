@@ -16,7 +16,7 @@ permalink: /seminars/
 **M.Quadrio**  
 *Invited plenary lecture*, IX ECCOMAS Congress, Lisbon (P), Jun 3-7 2024
 
-- The OpenNOSE project: of interest for the lung modelling community  
+- The OpenNOSE project: reasons of interest for the lung modelling community  
 **M.Quadrio**  
 *Invited lecture*, Lung Modelling Congress, Parma (I), Nov 22–23 2023
 
