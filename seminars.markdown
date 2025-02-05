@@ -14,7 +14,7 @@ permalink: /seminars/
 
 - Fluid mechanics of the human nose: where surgery meets flow control  
 **M.Quadrio**  
-*Invited plenary lecture*, IX ECCOMAS Congress, Jun 3-7 2024, Lisbon (P)
+*Invited plenary lecture*, IX ECCOMAS Congress, Lisbon (P), Jun 3-7 2024
 
 - The OpenNOSE project: of interest for the lung modelling community  
 **M.Quadrio**  
@@ -26,11 +26,11 @@ permalink: /seminars/
 
 - Spanwise forcing for drag reduction: recent progresses at PoliMi, applications and understanding  
 **M.Quadrio**  
-*Invited seminar*, Center for Turbulence Control, Harbin Institute of Technology, Oct 9 2023, Shenzhen (PRC)
+*Invited seminar*, Center for Turbulence Control, Harbin Institute of Technology, Shenzhen (PRC), Oct 9 2023
 
 - Fluid dynamics of the human nose: Where flow control meets surgery  
 **M.Quadrio**  
-*Invited seminar*, Universidad Politecnica de Madrid, Sept. 8 2023, Madrid (E)
+*Invited seminar*, Universidad Politecnica de Madrid (E), Sep 8 2023
 
 - Fluid Dynamics of the Human Nose: where surgery meets flow control  
 **M.Quadrio**  
@@ -42,7 +42,7 @@ permalink: /seminars/
 
 - Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD  
 **M.Quadrio**  
-*Invited seminar*, University of Bath (UK) Feb 14 2023
+*Invited seminar*, University of Bath (UK), Feb 14 2023
 
 - Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD  
 **M.Quadrio**  
@@ -54,11 +54,11 @@ permalink: /seminars/
 
 - Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD  
 **M.Quadrio**  
-*Invited seminar*, Technische Universitaet Wien (A) May 4 2022
+*Invited seminar*, Technische Universitaet Wien (A), May 4 2022
  
 - Anisotropic Generalized Kolmogorov Equations (AGKE): A novel tool to describe complex flows  
 **M.Quadrio**  
-*Invited seminar*, Okinawa Institute of Science and Technology (J) Dec 1, 2020
+*Invited seminar*, Okinawa Institute of Science and Technology (J), Dec 1 2020
 
 - Skin-friction drag reduction in turbulent flows: how to set up the flow control problem  
 **M.Quadrio**  
@@ -66,7 +66,7 @@ permalink: /seminars/
 
 - Machine learning and fluid mechanics in biological applications  
 **M.Quadrio**  
-*Invited lecture*, International Workshop on Data-driven Modeling and Optimization in Fluid Mechanics, Sept. 16-17 2019, Karlsruhe (D)
+*Invited lecture*, International Workshop on Data-driven Modeling and Optimization in Fluid Mechanics, Karlsruhe (D),  Sep 16-17 2019
 
 - How skin-friction drag reduction affects airplane drag  
 **M.Quadrio**  
@@ -98,7 +98,7 @@ permalink: /seminars/
 
 - Turbulent drag reduction by spanwise forcing  
 **M.Quadrio**  
-*Invited lecture*, FOR 1779 Symposium on Active Drag Reduction, Nov 9-10 2015, Aachen (D)
+*Invited lecture*, FOR 1779 Symposium on Active Drag Reduction, Aachen (D), Nov 9-10 2015
 
 - Fluid dynamics of the nasal cavity: how to, what for  
 **M.Quadrio**  
