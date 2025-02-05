@@ -38,7 +38,7 @@ permalink: /seminars/
 
 - Fluid dynamics of the human nose: modeling and clinical perspectives  
 **M.Quadrio**  
-*Keynote lecture*, CFDparschool L'Aquila (I), Jul 16-21 2023
+*Invited Keynote lecture*, CFDparschool L'Aquila (I), Jul 16-21 2023
 
 - Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD  
 **M.Quadrio**  
@@ -46,7 +46,7 @@ permalink: /seminars/
 
 - Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD  
 **M.Quadrio**  
-*Invited Plenary Lecture*, European Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
+*Invited Plenary Lecture*, European Fluid Mechanics Conference, Athens (GR), Sep 13-16 2022
 
 - Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD  
 **M.Quadrio**  
@@ -152,7 +152,7 @@ permalink: /seminars/
 **M.Quadrio**  
 *Invited seminar*, Technische Universitaet Darmstadt (D), Jun 15 2010
 
-- Spanwise forcing of wall flows for turbulent drag reduction
+- Spanwise forcing of wall flows for turbulent drag reduction  
 **M.Quadrio**  
 *Invited seminar*, Università di Bologna a Forlì (I), Dec 1 2009
 
@@ -174,7 +174,7 @@ permalink: /seminars/
 
 - Flussi turbolenti su pareti curve: studio numerco e sperimentale  
 **M.Quadrio**  
-*Invited lecture*, Università di Napoli Federico II (I), Sep 30 2006
+*Invited seminar*, Università di Napoli Federico II (I), Sep 30 2006
 
 - Control of Turbulent Wall Flows: A survey of strategies explored at Politecnico di Milano  
 **M.Quadrio**  
