@@ -8,48 +8,45 @@ permalink: /seminars/
 **M.Quadrio**  
 *Invited seminar*, Delft University of Technology (NL), Jan 17 2025
 
-- Spanwise forcing for drag reduction. Recent progresses at PoliMI: applications and understanding
+- Spanwise forcing for drag reduction. Recent progresses at PoliMI: applications and understanding  
 **M.Quadrio**  
 *Invited seminar*, Delft University of Technology (NL), Jan 17 2025
 
 - Fluid mechanics of the human nose: where surgery meets flow control  
+**M.Quadrio**  
 *Invited plenary lecture*, IX ECCOMAS Congress, Jun 3-7 2024, Lisbon (P)
 
 - The OpenNOSE project: of interest for the lung modelling community  
 **M.Quadrio**  
-*Invited lecture*, Lung Modelling Congress, Nov 22–23 2023, Parma (I)
+*Invited lecture*, Lung Modelling Congress, Parma (I), Nov 22–23 2023
+
+- Fluid Dynamics of the Human Nose: where flow control meets surgery  
+**M.Quadrio**  
+*Invited seminar*, Grenoble (F), Nov 2 2023
 
 - Spanwise forcing for drag reduction: recent progresses at PoliMi, applications and understanding  
 **M.Quadrio**  
-*Invited talk*, Center for Turbulence Control, Harbin Institute of Technology, Oct. 9 2023, Shenzhen (PRC)
-
-- Fluid Dynamics of the Human Nose: where flow control meets surgery
-**M.Quadrio**  
-*Invited seminar*, Universidad Politecnica Madrid (E), Sep 8 2023
-
-- Fluid Dynamics of the Human Nose: where flow control meets surgery
-**M.Quadrio**  
-*Invited seminar*, Grenoble (F), Nov 2 2023
+*Invited seminar*, Center for Turbulence Control, Harbin Institute of Technology, Oct 9 2023, Shenzhen (PRC)
 
 - Fluid dynamics of the human nose: Where flow control meets surgery  
 **M.Quadrio**  
 *Invited seminar*, Universidad Politecnica de Madrid, Sept. 8 2023, Madrid (E)
 
-- Fluid Dynamics of the Human Nose: where surgery meets flow control
+- Fluid Dynamics of the Human Nose: where surgery meets flow control  
 **M.Quadrio**  
-*Invited seminar*, Royal Technical University Stockholm (S), jun 1 2023
+*Invited seminar*, Royal Technical University Stockholm (S), Jun 1 2023
 
 - Fluid dynamics of the human nose: modeling and clinical perspectives  
 **M.Quadrio**  
 *Keynote lecture*, CFDparschool L'Aquila (I), Jul 16-21 2023
 
-- Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD 
+- Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD  
 **M.Quadrio**  
 *Invited seminar*, University of Bath (UK) Feb 14 2023
 
 - Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD  
 **M.Quadrio**  
-*Invited Plenary Talk*, European Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
+*Invited Plenary Lecture*, European Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
 
 - Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD  
 **M.Quadrio**  
@@ -95,7 +92,7 @@ permalink: /seminars/
 **M.Quadrio**  
 *Invited seminar*, University Poitiers (F), Jun 8 2016
 
-- Turbulent drag reduction by spanwise wall forcing
+- Turbulent drag reduction by spanwise wall forcing  
 **M.Quadrio**  
 *Invited seminar*, Imperial College, London (UK), Oct 21 2016
 
