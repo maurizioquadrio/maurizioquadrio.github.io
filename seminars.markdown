@@ -100,13 +100,15 @@ permalink: /seminars/
 **M.Quadrio**  
 *Invited lecture*, FOR 1779 Symposium on Active Drag Reduction, Nov 9-10 2015, Aachen (D)
 
-- Fluid dynamics of the nasal cavity: how to, what for.
+- Fluid dynamics of the nasal cavity: how to, what for  
 **M.Quadrio**  
 *Invited seminar*, Università di Roma Tor Vergata (I), Jan 20 2015
 
-NTU Singapore (Singapore, 2015)
+- Turbulent drag reduction by spanwise wall forcing  
+**M. Quadrio**  
+*Invited seminar*, NTU Singapore, Jul 15 2015
 
-- Turbulent skin-friction drag reduction by spanwise forcing (with some implications for the transition modelling community)
+- Turbulent skin-friction drag reduction by spanwise forcing (with some implications for the transition modelling community)  
 **M. Quadrio**  
 *Invited lecture*, 11th SIG33 ERCOFTAC Workshop, Jersey (UK), Apr 15 2015
 
