@@ -6,54 +6,76 @@ permalink: /seminars/
 
 - Fluid mechanics of the human nose: where surgery meets flow control  
 **M.Quadrio**  
-*Invited talk*, Delft University of Technology (NL), Jan 17 2025
+*Invited seminar*, Delft University of Technology (NL), Jan 17 2025
 
 - Spanwise forcing for drag reduction. Recent progresses at PoliMI: applications and understanding
 **M.Quadrio**  
-*Invited talk*, Delft University of Technology (NL), Jan 17 2025
+*Invited seminar*, Delft University of Technology (NL), Jan 17 2025
 
 - Fluid mechanics of the human nose: where surgery meets flow control  
-*Invited plenary talk*, IX ECCOMAS Congress, Jun 3-7 2024, Lisbon (P)
+*Invited plenary lecture*, IX ECCOMAS Congress, Jun 3-7 2024, Lisbon (P)
 
 - The OpenNOSE project: of interest for the lung modelling community  
 **M.Quadrio**  
-*Invited plenary talk*, Lung Modelling Congress, Nov 22–23 2023, Parma (I)
+*Invited lecture*, Lung Modelling Congress, Nov 22–23 2023, Parma (I)
 
 - Spanwise forcing for drag reduction: recent progresses at PoliMi, applications and understanding  
 **M.Quadrio**  
 *Invited talk*, Center for Turbulence Control, Harbin Institute of Technology, Oct. 9 2023, Shenzhen (PRC)
 
+- Fluid Dynamics of the Human Nose: where flow control meets surgery
+**M.Quadrio**  
+*Invited seminar*, Universidad Politecnica Madrid (E), Sep 8 2023
+
+- Fluid Dynamics of the Human Nose: where flow control meets surgery
+**M.Quadrio**  
+*Invited seminar*, Grenoble (F), Nov 2 2023
+
 - Fluid dynamics of the human nose: Where flow control meets surgery  
 **M.Quadrio**  
 *Invited seminar*, Universidad Politecnica de Madrid, Sept. 8 2023, Madrid (E)
 
-Royal Technical University Stockholm (Sweden, 2023)
+- Fluid Dynamics of the Human Nose: where surgery meets flow control
+**M.Quadrio**  
+*Invited seminar*, Royal Technical University Stockholm (S), jun 1 2023
 
 - Fluid dynamics of the human nose: modeling and clinical perspectives  
 **M.Quadrio**  
-*Keynote lecture*, CFDparschool, July 16-21 2023, L'Aquila (I)
+*Keynote lecture*, CFDparschool L'Aquila (I), Jul 16-21 2023
 
-University of Bath (UK, 2023), 
+- Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD 
+**M.Quadrio**  
+*Invited seminar*, University of Bath (UK) Feb 14 2023
 
 - Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD  
 **M.Quadrio**  
 *Invited Plenary Talk*, European Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
 
- City, University of London (UK, 2022), 
+- Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD  
+**M.Quadrio**  
+*Invited seminar*, City, University of London (UK), Jun 7 2022 
 
-Technische Universitaet Wien (A, 2022),
+- Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD  
+**M.Quadrio**  
+*Invited seminar*, Technische Universitaet Wien (A) May 4 2022
  
-Okinawa Institute of Science and Technology (J, 2021),
+- Anisotropic Generalized Kolmogorov Equations (AGKE): A novel tool to describe complex flows  
+**M.Quadrio**  
+*Invited seminar*, Okinawa Institute of Science and Technology (J) Dec 1, 2020
 
-University of Cambridge (UK, 2019), 
+- Skin-friction drag reduction in turbulent flows: how to set up the flow control problem  
+**M.Quadrio**  
+*Invited seminar*, University of Cambridge (UK), Oct 20 2019
 
 - Machine learning and fluid mechanics in biological applications  
 **M.Quadrio**  
-*Invited talk*, International Workshop on Data-driven Modeling and Optimization in Fluid Mechanics, Sept. 16-17 2019, Karlsruhe (D)
+*Invited lecture*, International Workshop on Data-driven Modeling and Optimization in Fluid Mechanics, Sept. 16-17 2019, Karlsruhe (D)
 
-Harbin Institute of Technology at Shenzen (PRC, 2018)
+- How skin-friction drag reduction affects airplane drag  
+**M.Quadrio**  
+*Invited seminar*, Harbin Institute of Technology at Shenzen (PRC), Oct 22 2018
 
-- Global energy fluxes in turbulent channels with flow control
+- Global energy fluxes in turbulent channels with flow control  
 **M.Quadrio**  
 *Invited seminar*, Delft University of Technology (NL), Dec 5 2018
 
