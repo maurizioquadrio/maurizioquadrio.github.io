@@ -46,7 +46,7 @@ permalink: /seminars/
 
 - Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD  
 **M.Quadrio**  
-*Invited Plenary Lecture*, European Fluid Mechanics Conference, Athens (GR), Sep 13-16 2022
+*Invited plenary lecture*, European Fluid Mechanics Conference, Athens (GR), Sep 13-16 2022
 
 - Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD  
 **M.Quadrio**  
@@ -122,7 +122,7 @@ permalink: /seminars/
 
 - Modern View(s) of Wall Turbulence: What changed in the last 50 years  
 **M. Quadrio**  
-*Invited keynote lecture*, 31st UIT Heat Transfer Conference, Jun 25-27 2013, Moltrasio (I)
+*Invited keynote lecture*, 31st UIT Heat Transfer Conference, Moltrasio (I), Jun 25-27 2013
 
 - Fluid dynamics of the nasal cavity: How to, what for  
 **M. Quadrio**  
