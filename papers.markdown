@@ -47,7 +47,7 @@ Submitted to *J. Fluid Mechanics*, 2024
 ------
 
 # 2024
-<! 90 !>
+<!--- 90 -->
 
 - Modeling and simulation of the human respiratory system; Part 1: Computational fluid
 dynamics simulations and whole lung models  
@@ -91,7 +91,7 @@ E.Segalerba, G. Dini Ciacci, M.Quadrio & J.O.Pralits
 ----------------
 
 # 2023
-<! 82 !>
+<!--- 82 -->
 
 - Linear stability of Poiseuille flow over a steady spanwise Stokes layer  
 D.Massaro, F.Martinelli, P.J.Schmid & M.Quadrio  
@@ -125,7 +125,7 @@ G.Foggi Rota, A.Monti, M.E.Rosti & M.Quadrio
 ---------
 
 # 2022
-<! 76 !>
+<!--- 76 -->
 
 - Coherent near-wall structures and drag reduction by spanwise forcing  
 E.Gallorini, M.Quadrio & D.Gatti  
@@ -179,7 +179,7 @@ A.Chiarini & M.Quadrio
 --------------
 
 # 2021
-<! 65 !>
+<!--- 65 -->
 
 - Ascending-descending and direct-inverse cascades of Reynolds stresses in turbulent Couette flow  
 A.Chiarini, M.Mauriello, D.Gatti & M.Quadrio  
@@ -222,7 +222,7 @@ A.Chiarini & M.Quadrio
 -------
 
 # 2020
-<! 57 !>
+<!--- 57 -->
 
 - Structure function tensor equations in inhomogeneous turbulence  
 D.Gatti, A.Chiarini, A.Cimarelli & M.Quadrio  
@@ -245,7 +245,7 @@ M.Lui, S.Martino, M.Salerno & M.Quadrio
 ----------
 
 # 2019
-<! 53 !>
+<!--- 53 -->
 
 - D. Gatti, A. Remigi, A. Chiarini, A. Cimarelli & M. Quadrio  
 An efficient numerical method for the Generalized Kolmogorov Equation  
@@ -260,7 +260,7 @@ E.Buijs, V.Covello, C.Pipolo, A.Saibene, G.Felisati & M.Quadrio
 -----------
 
 # 2018
-<! 51 !>
+<!--- 51 -->
 
 - Global energy fluxes in fully-developed turbulent channels with flow control  
 D.Gatti, A. Cimarelli, Y. Hasegawa, B. Frohnapfel & M.Quadrio  
@@ -279,7 +279,7 @@ M.Quadrio & K.-S. Choi
 --------
 
 # 2017
-<! 48 !>
+<!--- 48 -->
 
 - Turbulent Drag Reduction by Uniform Blowing Over a Two-dimensional Roughness  
 E.Mori, M.Quadrio & K.Fukagata  
@@ -301,7 +301,7 @@ C.Vergara, D.Le Van, M.Quadrio, L.Formaggia & M.Domanin
 ---------
 
 # 2016
-<! 44 !>
+<!--- 44 -->
 
 - Reynolds-number dependence of skin-friction drag reduction induced by spanwise forcing  
 D.Gatti & M.Quadrio  
@@ -321,10 +321,10 @@ Does the choice of the forcing term affect flow statistics in DNS of turbulent c
 M.Quadrio, C.Pipolo, S.Corti, F.Messina, C.Pesci, A.M.Saibene, S.Zampini, G.Felisati  
 *[Medical and Biological Eng. and Computing](https://doi.org/10.1007/s11517-015-1325-4)* **54** pp.411--419, 2016
 
----------
+-------
 
 # 2015
-<! 40 !>
+<!--- 40 -->
 
 - Direct numerical simulation of turbulent channel flow over porous walls  
 M.E.Rosti, L.Cortelezzi & M.Quadrio  
@@ -343,7 +343,7 @@ E.Borlandelli, D.Scarselli, A.Nespoli, D.Rigamonti, P.Bettini, M.Morandini, E. V
 --------
 
 # 2014
-<! 37 !>
+<!--- 37 -->
 
 - Money versus Time: Evaluation of Control Performance based on Convenience and Energy Consumption  
 Y.Hasegawa, B.Frohnapfel & M.Quadrio  
@@ -361,7 +361,7 @@ M.Quadrio, C.Pipolo, S.Corti, R.Lenzi, F.Messina, C.Pesci & G.Felisati
 ---------
 
 # 2013
-<! 34 !>
+<!-- 34 -->
 
 - Performance losses of drag-reducing spanwise forcing at moderate values of the Reynolds number  
 D.Gatti & M.Quadrio  
@@ -385,7 +385,7 @@ M.Bernardini, S.Pirozzoli, M.Quadrio & P.Orlandi
 -----------
 
 # 2012
-<! 30 !>
+<!-- 30 -->
 
 - Changes in turbulent dissipation in a channel flow with oscillating walls  
 P.Ricco, C. Ottonelli, Y.Hasegawa & M.Quadrio  
@@ -400,7 +400,7 @@ B.Frohnapfel, Y.Hasegawa & M.Quadrio
 ---------
 
 # 2011
-<! 28 !>
+<!-- 28 -->
 
 - Drag reduction in boundary layers by in-plane wall motion  
 M.Quadrio  
@@ -420,7 +420,7 @@ M.Quadrio & P.Ricco
 -------
 
 # 2010
-<! 25 !>
+<!--- 25 -->
 
 - The DNS-based measurement of the mean impulse response of homogeneous isotropic turbulence  
 M.Carini & M.Quadrio  
@@ -446,7 +446,7 @@ L. Galantucci & M.Quadrio
 --------
 
 # 2009
-<! 21 !>
+<!--- 21 -->
 
 - Streamwise oscillations of spanwise velocity at the wall of a channel for drag reduction  
 C.Viotti, M.Quadrio & P.Luchini  
@@ -461,7 +461,7 @@ Streamwise-traveling waves of spanwise wall velocity in a turbulent channel flow
 --------
 
 # 2008
-<! 19 !>
+<!--- 19 -->
 
 - Wall-oscillation conditions for drag reduction in turbulent channel flow  
 P.Ricco & M.Quadrio  
@@ -476,7 +476,7 @@ D.Pirro' & M.Quadrio
 --------
 
 # 2007
-<! 17 !>
+<!--- 17 -->
 
 - Effects of streamwise-periodic wall transpiration on turbulent friction drag  
 M.Quadrio, J.M.Floryan & P.Luchini  
@@ -485,7 +485,7 @@ M.Quadrio, J.M.Floryan & P.Luchini
 ------
 
 # 2006
-<! 16 !>
+<!--- 16 -->
 
 - The phase-locked mean impulse response of a turbulent channel flow  
 P.Luchini, M.Quadrio & S.Zuccher  
@@ -500,7 +500,7 @@ P.Luchini & M.Quadrio
 ---------
 
 # 2005
-<! 14 !>
+<!--- 14 -->
 
 - Modification of Turbulent Flow using Distributed Suction  
 M.Quadrio, J.M. Floryan & P.Luchini  
@@ -509,7 +509,7 @@ M.Quadrio, J.M. Floryan & P.Luchini
 ---
 
 # 2004
-<! 13 !>
+<!--- 13 -->
 
 - Critical assessment of turbulent drag reduction through spanwise wall oscillations  
 M.Quadrio & P.Ricco  
@@ -519,7 +519,7 @@ M.Quadrio & P.Ricco
 ---
 
 # 2003
-<! 12 !>
+<!--- 12 -->
 
 - Integral space-time scales in turbulent wall flows  
 M.Quadrio & P.Luchini  
@@ -532,7 +532,7 @@ M.Quadrio & P.Ricco
 ---
 
 # 2002
-<! 10 !>
+<!--- 10 -->
 
 - Direct numerical simulation of the turbulent flow in a pipe with annular cross-section  
 M.Quadrio & P.Luchini  
@@ -541,7 +541,7 @@ M.Quadrio & P.Luchini
 ---
 
 # 2000
-<! 9 !>
+<!--- 9 -->
 
 - Numerical simulation of turbulent flow in a pipe oscillating around its axis  
 M.Quadrio & S.Sibilla  
@@ -550,7 +550,7 @@ M.Quadrio & S.Sibilla
 ---
 
 # 1999
-<! 8 !>
+<!--- 8 -->
 
 - On the effectiveness and limitations of local criteria for the identification of a vortex  
 R.Cucitore, M.Quadrio & A.Baron  
@@ -559,7 +559,7 @@ R.Cucitore, M.Quadrio & A.Baron
 ---
 
 # 1997
-<! 7 !>
+<!--- 7 -->
 
 - Turbulent boundary layer over riblets: conditional analysis of ejection-like events  
 A.Baron & M.Quadrio  
@@ -572,7 +572,7 @@ A.Baron & M.Quadrio
 ---
 
 # 1996
-<! 5 !>
+<!-- 5 -->
 
 - Turbulent drag reduction by spanwise wall oscillation  
 A.Baron & M.Quadrio  
@@ -581,16 +581,16 @@ A.Baron & M.Quadrio
 ---
 
 # 1994
-<! 4 !>
+<!-- 4 -->
 
-- Direct numerical simulation of turbulent flows under the Narrow Channel assumption
-A.Baron & M.Quadrio
+- Direct numerical simulation of turbulent flows under the Narrow Channel assumption  
+A.Baron & M.Quadrio  
 *L'Aerotecnica Missili e Spazio* **73** n.1, pp. 3--13, 1994
 
 ---
 
 # 1993
-<! 3 !>
+<!-- 3 -->
 
 - On the boundary layer/riblets interaction mechanism and the prediction of the  turbulent drag reduction  
 A.Baron, M.Quadrio & L.Vigevano  
@@ -603,7 +603,7 @@ A.Baron & M.Quadrio
 ---
 
 # 1989
-<! 1 !>
+<!--- 1 -->
 - Riduzione della resistenza di attrito in correnti turbolente e altezza di protrusione di pareti scanalate  
 A.Baron, M.Quadrio & L.Vigevano  
 *L'Aerotecnica Missili e Spazio* **68** n.3--4, pp. 129--136, 1989
