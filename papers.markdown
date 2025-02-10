@@ -35,13 +35,18 @@ JCP, submitted
 
 # 2025
 
+- The aerodynamic performance of a transonic airfoil with spanwise forcing  
+N.Berizzi, D.Gatti, G.Soldati, S.Pirozzoli & M.Quadrio  
+Submitted to *J. Fluid Mechanics*, 2025  
+[Arxiv:physics.flu-dyn/2502.04516](https://doi.org/10.48550/arXiv.2502.04516)
+
 - Near-field aeroacoustic effects of spanwise forcing on a transonic wing: a DNS study  
 N.Berizzi, D.Gatti, G.Soldati, S.Pirozzoli & M.Quadrio  
 *[Applied Science](https://doi.org/10.3390/app15020814)*, **15**(2), p.814, 2025
 
 - Turbulent skin-friction drag reduction via spanwise forcing at high Reynolds number  
 D.Gatti, M.Quadrio, A.Chiarini, F.Gattere & S.Pirozzoli  
-Submitted to *J. Fluid Mechanics*, 2024  
+Submitted to *J. Fluid Mechanics*, 2025  
 [Arxiv:physics.flu-dyn/2409.07230](https://doi.org/10.48550/arXiv.2409.07230)
 
 ------
