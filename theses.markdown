@@ -7,15 +7,23 @@ permalink: /theses/
 <!---
 IN AVVIO
 
-Raffaele Mancuso raffaele1.mancuso Ciclo di parete. Dobbiamo fare proposta
-Giorgia Pallara Incerta: stabilita' o turbolenza di parete. Restiamo in attesa
-Davide Alloggio: incerto sul dottorato, vuole "applicazioni". Flow control. Dobbiamo fare proposta
+Raffaele Mancuso raffaele1.mancuso: phiAGKE con superficial pattern, oppure Zonta
+Giorgia Pallara: sceglie fra vortex breakdown, libellula, proseguire Gesu'
+Davide Alloggio: - optimal placement, controllo di corpo tozzo
 Marina Zenobi: strutture coerenti, in attesa.
 
-AGKE x fluidi non newtoniani; cont. tesi Marildo; jet entrainment (con o senza particelle); estensione bump Mollicone con particelle; 
+- AGKE x fluidi non newtoniani
+- cont. tesi Marildo
+- jet entrainment (con o senza particelle) 
+- estensione bump Mollicone con particelle 
 - particelle bidisperse in HIT
 - variare l'invariante di E(k) in HIT
-
+- phiAGKE con superficial pattern
+- phiAGKE per shedding (BARC in fase)
+- AGKE per scalare passivo (Zonta)
+- optimal placement
+- controllo di corpo tozzo (attivo? passivo? a quale scopo?)
+ 
 -->
 
 # Ongoing
