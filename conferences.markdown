@@ -4,6 +4,18 @@ title: Conferences
 permalink: /conferences/
 ---
 
+<!---
+
+- On the optimal parameters of spanwise forcing for turbulent drag reduction
+**F.Gattere**, A.Chiarini, M.Castelletti & M.Quadrio
+iTi
+
+2 x Chania, AIFluids
+
+N x EFDC2 Dublin
+
+-->
+
 # 2025
 
 # 2024
