@@ -18,6 +18,11 @@ N x EFDC2 Dublin
 
 # 2025
 
+- Can we move beyond Engineered CFD Features? Leveraging Machine Learning for CFD Flow Field Classiﬁcation  
+**R.Margheritti**, O.Semeraro, M.Quadrio & G.Boracchi  
+DTE & AICOMAS 2025 - 3rd IACM Digital Twins in Engineering Conference (DTE 2025) &
+1st ECCOMAS Artificial Intelligence and Computational Methods in Applied Science (AICOMAS 2025)
+
 # 2024
 
 - A machine-learning-based zonal approach for turbulence modeling  

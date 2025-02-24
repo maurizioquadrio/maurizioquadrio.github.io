@@ -7,8 +7,8 @@ permalink: /theses/
 <!---
 
 Raffaele Mancuso raffaele1.mancuso: phiAGKE con superficial pattern, oppure Zonta
-Giorgia Pallara: sceglie fra vortex breakdown, libellula, proseguire Gesu'
-Davide Alloggio: - optimal placement
+Giorgia Pallara: libellula
+Davide Alloggio: optimal placement
 Marina Zenobi: strutture coerenti, in attesa.
 
 - AGKE x fluidi non newtoniani

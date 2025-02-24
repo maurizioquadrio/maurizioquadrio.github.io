@@ -4,6 +4,10 @@ title: Invited
 permalink: /seminars/
 ---
 
+- Spanwise forcing for drag reduction, and how to understand it via phase-scale-space statistics  
+**M.Quadrio**  
+*Invited plenary lecture*, 2025 Lille Turbulence Programme, Lille (F), Jun 17-20 2025
+
 - Fluid mechanics of the human nose: where surgery meets flow control  
 **M.Quadrio**  
 *Invited seminar*, Delft University of Technology (NL), Jan 17 2025

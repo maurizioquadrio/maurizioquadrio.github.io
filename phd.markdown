@@ -19,6 +19,7 @@ Berizzi (AFOSR)
 
 - Federica **Gattere**   
 *[Skin-friction drag reduction in turbulent flows: physical understanding and practical applications](Files/gattere.pdf)*
+[Presentation](Files/gattere-presentation.pdf)
 
 - Andrea **Schillaci** (2023)  
 *[Analysis of complex systems with CFD and Machine Learning](Files/schillaci.pdf)*  
