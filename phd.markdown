@@ -17,7 +17,7 @@ Berizzi (AFOSR)
 
 # PhD theses 
 
-- Federica **Gattere**   
+- Federica **Gattere** (2024)  
 *[Skin-friction drag reduction in turbulent flows: physical understanding and practical applications](Files/gattere.pdf)*
 [Presentation](Files/gattere-presentation.pdf)
 

@@ -6,11 +6,6 @@ permalink: /theses/
 
 <!---
 
-Raffaele Mancuso raffaele1.mancuso: phiAGKE con superficial pattern, oppure Zonta
-Giorgia Pallara: libellula
-Davide Alloggio: optimal placement
-Marina Zenobi: strutture coerenti, in attesa.
-
 - AGKE x fluidi non newtoniani
 - cont. tesi Marildo
 - jet entrainment (con o senza particelle) 
@@ -20,21 +15,35 @@ Marina Zenobi: strutture coerenti, in attesa.
 - phiAGKE con superficial pattern
 - phiAGKE per shedding (BARC in fase)
 - AGKE per scalare passivo (Zonta)
-- optimal placement
 - controllo di corpo tozzo (attivo? passivo? a quale scopo?)
+
+- Michele **Andreozzi**  
+Wiener-Hopf control of turbulence
  
 -->
 
 # Ongoing
 
+- Raffaele **Mancuso**  
+phiAGKE in flussi turbolenti su superfici con pattern
+
+- Marina **Zenobi**  
+Vortex stretching in turbulence
+
+- Davide **Alloggio**  
+Flow control per corpi di geometria complessa: ottimizazione della posizione degli attuatori
+
+- Giorgia **Pallara**  
+Stabilita' del flusso 
+
 - Marco **Zappoli**  
 HST con point particles
 
 - Martina **Buffoli**  
-Fluidodinamica nasale (TBD)
+Fluidodinamica nasale 
 
 - Jacopo **Alberti**  
-Fluidodinamica nasale (TBD)
+Fluidodinamica nasale
 
 - Ömer **Altay**  
 Rhinomanometry and facial masks
@@ -51,14 +60,8 @@ GPU-based FFT on a spectral DNS code
 - Carlantonio **Di Venosa**  
 Functional mapping for the human nose
 
-- Michele **Andreozzi**  
-Wiener-Hopf control of turbulence
-
 - Luigi **Raggi**  
 Riblets with imperfect geometry
-
-- Karl **Vieths**  
-Spanwise forcing without walls
 
 - Francesca **Cerbone**  
 Turbulence in solids
@@ -66,17 +69,20 @@ Turbulence in solids
 
 # Master 
 
+- Karl **Vieths**(2025, April)   
+Spanwise forcing without walls
+
 - Francesco **Esposito** (2024, December)  
-DNS and LES with the immersed-boundary technique
+*[DNS and LES with the immersed-boundary technique](https://hdl.handle.net/10589/230298)*
 
 - Fabiana **Ghilardi** (2024, December)  
-Transition to turbulence in drag-reduced pipe flows
+*[Transition to turbulence in drag-reduced pipe flows](https://hdl.handle.net/10589/230863)*
 
 - Lorenzo **Pionetti** (2024, December)  
-Turbulent skin-friction drag reduction by tensegrity fabric
+*[Turbulent skin-friction drag reduction by tensegrity fabric](https://hdl.handle.net/10589/230488)*
 
 - Andrea **Portioli** (2024, December)  
-Porting a DNS solver to a multi-GPU architecture
+*[Porting a DNS solver to a multi-GPU architecture](https://hdl.handle.net/10589/231051)*
 
 - Lucrezia **Vigo** (2024, December)  
 Numerical prediction of light-driven algal growth in a photobioreactor

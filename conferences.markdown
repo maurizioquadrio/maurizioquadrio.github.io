@@ -14,6 +14,10 @@ iTi
 
 N x EFDC2 Dublin
 
+Leveraging Computational Geometry for Data Augmentation in Medical Flow Fields Classification
+26th Engineering Applications of Neural Networks / Engineering Applications and Advances of Artificial Intelligence
+Margheritti Schillaci Pipolo Quadrio Boracchi
+
 -->
 
 # 2025
@@ -24,6 +28,7 @@ DTE & AICOMAS 2025 - 3rd IACM Digital Twins in Engineering Conference (DTE 2025)
 1st ECCOMAS Artificial Intelligence and Computational Methods in Applied Science (AICOMAS 2025)
 
 # 2024
+<!--- 148 -->
 
 - A machine-learning-based zonal approach for turbulence modeling  
 **M.Castelletti** & M.Quadrio  
@@ -92,6 +97,7 @@ IX ECCOMAS Congress, Jun 3-7 2024, Lisbon (P)
 -------
 
 # 2023
+<!--- 132 -->
 
 - The OpenNOSE project: of interest for the lung modelling community  
 **M.Quadrio**  
@@ -152,6 +158,7 @@ OpenFOAM Workshop 2023, July 11-16 2023, Genova (I)
 -------
 
 # 2022
+<!--- 118 -->
 
 - High Spatial Resolution Tomo-PIV of the Trachea Focussing on the Physiological Breathing Cycle  
 **S.M.Tauwald**, M.Quadrio, M.Rütten, C.Stemmer & L.Krenkel  
@@ -210,6 +217,7 @@ July 19-22 2022, Osaka (J)
 -------
 
 # 2021
+<!--- 105 -->
 
 - The human nasal cavity: towards the optimal surgery with CFD and Machine Learning  
 **A.Schillaci**, L.Butera, G.Romani, C.Pipolo, G.Felisati, M.Restelli, G.Boracchi & M.Quadrio  
@@ -238,6 +246,7 @@ iTi, Feb. 25-26 2021, Bertinoro (I)
 -------
 
 # 2020
+<!--- 99 -->
 
 - Dependence of wind farm performances on the terrain topography  
 **M.Zangrandi**, F.Bernardoni, U.Ciri, M.Quadrio & S.Leonardi  
@@ -246,6 +255,7 @@ iTi, Feb. 25-26 2021, Bertinoro (I)
 -------
 
 # 2019
+<!--- 98 -->
 
 - Turbulent drag reduction for a wall with a bump  
 **J.Banchetti** & M.Quadrio  
@@ -274,6 +284,7 @@ GAMM Meeting 2019, February 18--22, Wien (A)
 -------
 
 # 2018
+<!--- 92 -->
 
 - Production, transport and dissipation of turbulent stresses across scales and space  
 **D.Gatti**, A.Chiarini, A.Cimarelli & M.Quadrio  
@@ -294,6 +305,7 @@ GAMM Meeting 2018, March 19--23 2018, Munich (D)
 -------
 
 # 2017
+<!--- 88 -->
 
 - Impact of Drag Reduction Control on Energy Box of a Fully Developed Turbulent Channel Flow  
 **Y.Hasegawa**, D.Gatti, A.Cimarelli, B.Frohnapfel & M.Quadrio  
@@ -338,6 +350,7 @@ European Drag Reduction and Flow Control Meeting, Apr 3-6 2017, Monte Porzio Cat
 -------
 
 # 2016
+<!--- 78 -->
 
 - Shape Optimization and CFD RANS Codes: an Adjoint-based Strategy for Drag Reduction in Automotive Applications  
 **L.Palma**, R.Pieri, R.Ponzini & M.Quadrio  
@@ -373,6 +386,7 @@ Oral presentation, GAMM, Mar 9, 2016, Braunschweig (D)
 -------
 
 # 2015
+<!--- 71 -->
 
 - RANS/LES/DNS simulations of the airflow in nasal cavities  
 **G.Lamberti**, F.Manara & M.Quadrio  
@@ -406,6 +420,7 @@ ERCOFTAC Drag reduction and flow control meeting, Mar 22-26, 2015, Cambridge (UK
 -------
 
 # 2014
+<!--- 64 -->
 
 - On the forcing term in the DNS of a turbulent channel flow  
 **M. Quadrio**, B. Frohnapfel & Y. Hasegawa  
@@ -420,6 +435,7 @@ Euromech Fluid Mechanics Conference X, Sep 14-18 2014, Copenhagen (DK)
 -------
 
 # 2013
+<!--- 62 -->
 
 - On the effects of porous wall on transitional and turbulent channel flows  
 **M.Quadrio**, M.Rosti, D.Scarselli & L.Cortelezzi  
@@ -452,6 +468,7 @@ Turbulent Shear Flow Phenomena 8, Aug. 28-30 2013, Poitiers (F)
 -------
 
 # 2012
+<!--- 55 -->
 
 - Comparing drag reduction techniques in the "Money-vs-Time" framework  
 **M.Quadrio**, B.Frohnapfel & Y.Hasegawa  
@@ -506,6 +523,7 @@ GAMM, Mar 26-30 2012, Darmstadt (D)
 -------
 
 # 2011
+<!--- 43 -->
 
 - On the Evaluation of Control Performance in Drag Reducing Flows  
 **Y.Hasegawa**, B.Frohnapfel & M.Quadrio  
@@ -523,6 +541,7 @@ Turbulent Shear Flow Phenomena 7, Jul 28-31 2011, Ottawa (CAN)
 -------
 
 # 2010
+<!--- 40 -->
 
 - Spanwise generalized Stokes layer and turbulent drag reduction  
 **M.Quadrio** & P.Ricco  
@@ -543,6 +562,7 @@ International Symposium on *Quantum Fluids and Solids 2010*, Aug 3 2010, Grenobl
 -------
 
 # 2009
+<!--- 36 -->
 
 - Superfluid vortices in a wall-bounded flow  
 **L.Galantucci**, M.Quadrio & P.Luchini  
@@ -575,6 +595,7 @@ IUTAM Symposium on laminar-turbulent transition, Jun 23-26 2009, Stockholm (S)
 -------
 
 # 2008
+<!--- 29 -->
 
 - The response of wall turbulence to streamwise-traveling waves of spanwise wall velocity  
 **M.Quadrio**  
@@ -591,6 +612,7 @@ European Drag Reduction and Flow Control Meeting -- EDRFCM 2008, Sep 8-11 2008, 
 -------
 
 # 2007
+<!--- 26 -->
 
 - Active control and drag reduction of turbulent wall flows  
 **F.Martinelli**, M.Quadrio & P.Luchini  
@@ -609,9 +631,11 @@ AIDAA Conference, Sep 17-21 2007, Forli' (I)
 **M.Quadrio**, C.Viotti & P.Luchini  
 XI EUROMECH European Turbulence Conference, Jun 25-28 2007, Porto (P)  
 Advances in Turbulence XI, J.M.L.M. Palma and A. Silva Lopez, Springer, 2007. ISBN 9783540726036, 2007, p. 659-661
+
 -------
 
 # 2006
+<!--- 22 -->
 
 - Endoscopic PIV in a helical pipe coil  
 F.Auteri, M.Belan, S.Ceccon, G.Gibertini & M.Quadrio  
@@ -628,6 +652,7 @@ ERCOFTAC European Drag Reduction and Flow Control Meeting, Apr 10-13 2006, Ischi
 -------
 
 # 2005
+<!--- 19 -->
 
 - An optimal feedback controller for the reduction of turbulent energy in 3D plane-duct flow  
 **P.Luchini**, T.Bewley & M.Quadrio  
@@ -640,6 +665,7 @@ I International Workshop on CICLoPE, Sep 29-30, 2005, Bertinoro (I)
 -------
 
 # 2003
+<!--- 17 -->
 
 - Reduction of turbulent friction by  spanwise wall oscillations  
 **P.Ricco** & M.Quadrio  
@@ -669,6 +695,7 @@ XI Annual Conference of the CFD Society of Canada, May 28-30 2003, Vancouver, B.
 -------
 
 # 2002
+<!--- 11 -->
 
 - Adjoint DNS of turbulent channel flow  
 **P.Luchini** & M.Quadrio  
@@ -682,6 +709,7 @@ IX EUROMECH European Turbulence Conference, July 2-5 2002,  Southampton (UK)
 -------
 
 # 2001
+<!--- 9 -->
 
 - A 4th-order-accurate, parallel numerical method for the direct simulation of turbulence in rectangular and cylindrical geometries  
 **M.Quadrio** & P.Luchini  
@@ -695,6 +723,7 @@ XVI Congresso Nazionale AIDAA, Sep 24-28 2001, Palermo (I)
 -------
 
 # 2000
+<!--- 7 -->
 
 - Direct simulation of turbulent flow in a pipe with annular cross-section  
 **M.Quadrio** & P.Luchini  
@@ -707,6 +736,7 @@ Minisyimposium on *Transizione e turbolenza*, Proc. V Congresso Nazionale SIMAI 
 -------
 
 # 1997
+<!--- 6 -->
 
 - Drag reduction in turbulent pipe flow with alternate rotation around the axis  
 **M.Quadrio**  
@@ -715,7 +745,7 @@ III ERCOFTAC Workshop on *Vortex Dynamics in Rotating Systems*, Jan 1997, Aussoi
 -------
 
 # 1995
-
+<!--- 5 -->
 
 - Direct numerical simulation of active control of turbulence  
 **M.Quadrio**  
@@ -728,6 +758,7 @@ Proc. XIII Congresso Nazionale AIDAA, 1995, pp. 587-596 Roma (I)
 -------
 
 # 1994
+<!--- 3 -->
 
 - A cheap DNS tool for turbulence models testing  
 **A.Baron** & M.Quadrio  
@@ -736,6 +767,7 @@ LXXIV AGARD FDP Meeting and Symposium on *Application of direct and Large Eddy S
 -------
 
 # 1993
+<!--- 2 -->
 
 - Direct numerical simulation of turbulent flows under the Narrow Channel assumption  
 **A.Baron** & M.Quadrio  
@@ -744,6 +776,7 @@ Proc. XII Congresso AIDAA,  Jul 20-23 1993, pp.501-516, Como (I)
 -------
 
 # 1989
+<!--- 1 -->
 
 - Riduzione della resistenza di attrito in correnti turbolente e altezza di protrusione di correnti scanalate  
 **A.Baron**, M.Quadrio & L.Vigevano  

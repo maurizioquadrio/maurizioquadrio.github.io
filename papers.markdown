@@ -8,9 +8,9 @@ permalink: /papers/
 
 - Data Augmentation Based on Computational Geometry for Neural Network Training in Medical Flow Field Classification
 Margheritti, Schillaci, Pipolo, Quadrio, Boracchi
-NCA
+NCA/rejected
 
-- Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose" has just been submitted to "Applied Mathematical Modelling" (PENNISI, resubmitted somewhere?)
+- Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose" has just been submitted to "Applied Mathematical Modelling" (PENNISI, rejected, resubmitted somewhere?)
 
 - Understanding the mismatch between in-vivo and in-silico rhinomanometry
 Marco Atzori, Gabriele Dini Ciacci and Maurizio Quadrio
