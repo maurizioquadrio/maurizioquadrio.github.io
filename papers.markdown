@@ -16,11 +16,6 @@ NCA/rejected
 Marco Atzori, Gabriele Dini Ciacci and Maurizio Quadrio
 IJCARS -> MBEC?
 
-- The aerodynamic performance of a transonic airfoil with spanwise forcing
-Niccolò Berizzi, Davide Gatti, Giulio Soldati, Sergio Pirozzoli and Maurizio
-Quadrio
-J. Fluid Mechanics
-
 - Modeling and simulation of the human respiratory system; Part 2
 G.H.Spasov, J.P.Jamieson, A.P.McKiernan, M.J.Grill, K.W.Mueller, K.Burrowes, M.Quadrio, E.Estes, L.Cacopardo, A.J.Banko, Ma.Reddemann, F.F.Stellari, C.Cottini & A.Benassi  
 *[Inhalation](https://www.inhalationmag.com/article/modeling-and-simulation-of-the-human-respiratory-system-part-21-xxxx)*
@@ -37,7 +32,7 @@ JCP, submitted
 
 - The aerodynamic performance of a transonic airfoil with spanwise forcing  
 N.Berizzi, D.Gatti, G.Soldati, S.Pirozzoli & M.Quadrio  
-Submitted to *J. Fluid Mechanics*, 2025  
+Accepted for publication, *J. Fluid Mechanics*, 2025  
 [Arxiv:physics.flu-dyn/2502.04516](https://doi.org/10.48550/arXiv.2502.04516)
 
 - Near-field aeroacoustic effects of spanwise forcing on a transonic wing: a DNS study  

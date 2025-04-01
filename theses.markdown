@@ -34,7 +34,7 @@ Vortex stretching in turbulence
 Flow control per corpi di geometria complessa: ottimizazione della posizione degli attuatori
 
 - Giorgia **Pallara**  
-Stabilita' del flusso 
+Stabilita' del flusso intorno a un'ala di libellula
 
 - Marco **Zappoli**  
 HST con point particles
@@ -195,7 +195,7 @@ Numerical prediction of light-driven algal growth in a photobioreactor
 - Marco **Negri** (2021, July)  
 *[Wall turbulence: an exploratory approach to analyse roughness](https://hdl.handle.net/10589/177501)*
 
-- Giacomo Nosotti (2021, July)  
+- Giacomo **Nosotti** (2021, July)  
 Verifica sperimentale di un rinomanometro a quattro fasi
 
 - Jimmy **Vianello** (2021, June)  
@@ -250,7 +250,7 @@ Laurea in Medicina e Chirurgia, Università Vita-Salute San Raffaele
 - Gabriele **Dini Ciacci** (2020, April)  
 *[Comparing different anatomies in nasal fluid dynamics](https://hdl.handle.net/10589/153047)*
 
-- Francesca Fugaro  (2020, April)  
+- Francesca **Fugaro**  (2020, April)  
 *[Project Lung: Design of an experimental tool that simulates human breathing for scientific research within the OpenNOSE project](https://hdl.handle.net/10589/153040)*  
 LM in Design & Engineering
 
