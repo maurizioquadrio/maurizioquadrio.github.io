@@ -22,10 +22,15 @@ Margheritti Schillaci Pipolo Quadrio Boracchi
 
 # 2025
 
+- Can we move beyond Engineered CFD Features? Combining Physics-Based clustering and DL to Identify Pathologies and Defects from CFD
+**R.Margheritti**, O.Semeraro, M.Quadrio & G.Boracchi  
+Euromech Colloquium 629, Data-driven Fluid Mechanics, Apr 2--4 2025, London (UK)
+
 - Can we move beyond Engineered CFD Features? Leveraging Machine Learning for CFD Flow Field Classiﬁcation  
 **R.Margheritti**, O.Semeraro, M.Quadrio & G.Boracchi  
 DTE & AICOMAS 2025 - 3rd IACM Digital Twins in Engineering Conference (DTE 2025) &
 1st ECCOMAS Artificial Intelligence and Computational Methods in Applied Science (AICOMAS 2025)
+
 
 # 2024
 <!--- 148 -->

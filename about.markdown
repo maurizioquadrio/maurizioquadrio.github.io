@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is highly work-in-progress material. The content is brought online gradually. Formatting and layout come later...
+This is highly work-in-progress material. The content is brought online gradually. Formatting and layout will come later...
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
