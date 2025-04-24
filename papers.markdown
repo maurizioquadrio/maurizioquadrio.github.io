@@ -9,26 +9,31 @@ permalink: /papers/
 - Data Augmentation Based on Computational Geometry for Neural Network Training in Medical Flow Field Classification
 Margheritti, Schillaci, Pipolo, Quadrio, Boracchi
 NCA/rejected
+EANN
+
+Leveraging comp.geometry ...
+Margheritti, Schillaci, Pipolo, Quadrio, Boracchi
+EANN
 
 - Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose" has just been submitted to "Applied Mathematical Modelling" (PENNISI, rejected, resubmitted somewhere?)
 
 - Understanding the mismatch between in-vivo and in-silico rhinomanometry
 Marco Atzori, Gabriele Dini Ciacci and Maurizio Quadrio
-IJCARS -> MBEC?
-
-- Modeling and simulation of the human respiratory system; Part 2
-G.H.Spasov, J.P.Jamieson, A.P.McKiernan, M.J.Grill, K.W.Mueller, K.Burrowes, M.Quadrio, E.Estes, L.Cacopardo, A.J.Banko, Ma.Reddemann, F.F.Stellari, C.Cottini & A.Benassi  
-*[Inhalation](https://www.inhalationmag.com/article/modeling-and-simulation-of-the-human-respiratory-system-part-21-xxxx)*
+MBEC
 
 - A simple and efficient immersed-boundary method for the incompressible Navier–Stokes equations 
 P.Luchini, D.Gatti, A.Chiarini, F.Gattere, M.Atzori & M.Quadrio
-JCP, submitted
+JCP
 
 -->
 
 ------
 
 # 2025
+
+- Modeling and simulation of the human respiratory system; Part 2: Inhaler design, *in vitro* experiments and imaging  
+G.H.Spasov, J.P.Jamieson, A.P.McKiernan, M.J.Grill, K.W.Mueller, K.Burrowes, M.Quadrio, E.Estes, L.Cacopardo, A.J.Banko, Ma.Reddemann, F.F.Stellari, C.Cottini & A.Benassi  
+*[Inhalation](https://www.inhalationmag.com/article/modeling-and-simulation-of-the-human-respiratory-system-part-1-computational-fluid-dynamics-simulations-and-whole-lung-models/)*, **19** n.2 pp.14--26, Apr. 14, 2025
 
 - The aerodynamic performance of a transonic airfoil with spanwise forcing  
 N.Berizzi, D.Gatti, G.Soldati, S.Pirozzoli & M.Quadrio  
