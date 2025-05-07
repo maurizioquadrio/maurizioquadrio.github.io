@@ -12,24 +12,29 @@ iTi
 
 2 x Chania, AIFluids
 
-N x EFDC2 Dublin
+Nmila x EFDC2 Dublin
 
 Leveraging Computational Geometry for Data Augmentation in Medical Flow Fields Classification
 26th Engineering Applications of Neural Networks / Engineering Applications and Advances of Artificial Intelligence
+EANN, Cipro (ha anche Special Issue)
 Margheritti Schillaci Pipolo Quadrio Boracchi
+
+Physics-based region clustering
+Margheritti
+ECML risposta 26/5, conf. 15-19 settembre a Porto
 
 -->
 
 # 2025
 
-- Can we move beyond Engineered CFD Features? Combining Physics-Based clustering and DL to Identify Pathologies and Defects from CFD
+- Can we move beyond Engineered CFD Features? Combining Physics-Based clustering and DL to Identify Pathologies and Defects from CFD  
 **R.Margheritti**, O.Semeraro, M.Quadrio & G.Boracchi  
 Euromech Colloquium 629, Data-driven Fluid Mechanics, Apr 2--4 2025, London (UK)
 
 - Can we move beyond Engineered CFD Features? Leveraging Machine Learning for CFD Flow Field Classiﬁcation  
 **R.Margheritti**, O.Semeraro, M.Quadrio & G.Boracchi  
 DTE & AICOMAS 2025 - 3rd IACM Digital Twins in Engineering Conference (DTE 2025) &
-1st ECCOMAS Artificial Intelligence and Computational Methods in Applied Science (AICOMAS 2025)
+1st ECCOMAS Artificial Intelligence and Computational Methods in Applied Science (AICOMAS 2025), Feb 17--21 2025, Paris (F)
 
 
 # 2024
