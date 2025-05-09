@@ -33,7 +33,7 @@ G.H.Spasov, J.P.Jamieson, A.P.McKiernan, M.J.Grill, K.W.Mueller, K.Burrowes, M.Q
 
 - The aerodynamic performance of a transonic airfoil with spanwise forcing  
 N.Berizzi, D.Gatti, G.Soldati, S.Pirozzoli & M.Quadrio  
-Accepted for publication, *J. Fluid Mechanics*, 2025  
+[*J. Fluid Mechanics*](https://doi.org/10.1017/jfm.2025.332) **1010** A18, pp.1--xx, 2025
 [Arxiv:physics.flu-dyn/2502.04516](https://doi.org/10.48550/arXiv.2502.04516)
 
 - Near-field aeroacoustic effects of spanwise forcing on a transonic wing: a DNS study  
