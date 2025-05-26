@@ -14,10 +14,9 @@ iTi
 
 Nmila x EFDC2 Dublin
 
-Leveraging Computational Geometry for Data Augmentation in Medical Flow Fields Classification
-26th Engineering Applications of Neural Networks / Engineering Applications and Advances of Artificial Intelligence
-EANN, Cipro (ha anche Special Issue)
-Margheritti Schillaci Pipolo Quadrio Boracchi
+- Leveraging Computational Geometry for Data Augmentation in Medical Flow Fields Classification  
+**R.Margheritti**, A.Schillaci, C.Pipolo, M.Quadrio & G.Boracchi  
+26th Engineering Applications of Neural Networks / Engineering Applications and Advances of Artificial Intelligence, Jun 26-29 2025, Cyprus (GR)
 
 Physics-based region clustering
 Margheritti

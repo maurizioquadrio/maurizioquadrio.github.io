@@ -6,10 +6,9 @@ permalink: /papers/
 
 <!---
 
-- Data Augmentation Based on Computational Geometry for Neural Network Training in Medical Flow Field Classification
+- Data Augmentation and Preparation for Training Machine Learning Models on Flow Fields
 Margheritti, Schillaci, Pipolo, Quadrio, Boracchi
-NCA/rejected
-EAAI, Eng App Artificial Intelligence
+NCA/rejected; poi EAAI, Eng App Artificial Intelligence
 
 - Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose" has just been submitted to "Applied Mathematical Modelling" (PENNISI, rejected, resubmitted somewhere?)
 
