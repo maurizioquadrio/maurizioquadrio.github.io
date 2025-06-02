@@ -188,7 +188,7 @@ permalink: /seminars/
 **M.Quadrio**  
 *Invited seminar*, King's College London (UK), 2006
 
-- Flussi turbolenti su pareti curve: studio numerco e sperimentale  
+- Flussi turbolenti su pareti curve: studio numerico e sperimentale  
 **M.Quadrio**  
 *Invited seminar*, Università di Napoli Federico II (I), Sep 30 2006
 
