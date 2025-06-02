@@ -6,7 +6,7 @@ permalink: /seminars/
 
 - Title: TBD  
 **M.Quadrio**  
-*Invited plenary lecture*, annual meeting of Finnish society of Oto, Rhino and Laryngology - Head& Neck Surgery, Tampere (FI), Oct 9-10 2025
+*Invited plenary lecture*, annual meeting of Finnish society of Oto, Rhino and Laryngology - Head & Neck Surgery, Tampere (FI), Oct 9-10 2025
 
 - Spanwise forcing for drag reduction, and how to understand it via phase-scale-space statistics  
 **M.Quadrio**  
@@ -16,7 +16,7 @@ permalink: /seminars/
 **M.Quadrio**  
 *Invited keynote talk*, AI and Fluid Mechanics, 1st International Symposium, Chania (GR), May 27-30, 2025
 
-- Spanwise forcing at PoliMI
+- Spanwise forcing at PoliMI  
 **M.Quadrio**  
 *Invited seminar*, Universita' di Modena e Reggio Emilia (I), May 8 2025
 
