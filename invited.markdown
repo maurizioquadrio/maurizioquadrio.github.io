@@ -4,7 +4,7 @@ title: Invited
 permalink: /seminars/
 ---
 
-- Title: TBD
+- Title: TBD  
 **M.Quadrio**  
 *Invited plenary lecture*, annual meeting of Finnish society of Oto, Rhino and Laryngology - Head& Neck Surgery, Tampere (FI), Oct 9-10 2025
 
