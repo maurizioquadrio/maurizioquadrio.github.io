@@ -26,6 +26,14 @@ ECML risposta 26/5, conf. 15-19 settembre a Porto
 
 # 2025
 
+- Enhancing artificial intelligence with fluid mechanics: an opportunity for biomedical applications  
+**M.Quadrio**  
+*Invited keynote talk*, AI and Fluid Mechanics, 1st International AIFLUIDs Symposium, Chania (GR), May 27-30, 2025
+
+- A proposal for automated turbulence modeling  
+**M.Castelletti** & M.Quadrio  
+AI and Fluid Mechanics, 1st International AIFLUIDs Symposium, Chania (GR), May 27-30, 2025
+
 - Can we move beyond Engineered CFD Features? Combining Physics-Based clustering and DL to Identify Pathologies and Defects from CFD  
 **R.Margheritti**, O.Semeraro, M.Quadrio & G.Boracchi  
 Euromech Colloquium 629, Data-driven Fluid Mechanics, Apr 2--4 2025, London (UK)
