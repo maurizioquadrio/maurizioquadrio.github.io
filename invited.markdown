@@ -12,13 +12,13 @@ permalink: /seminars/
 **M.Quadrio**  
 *Invited plenary lecture*, 2025 Lille Turbulence Programme, Lille (F), Jun 17-20 2025
 
-- Spanwise forcing at PoliMI
-**M.Quadrio**  
-*Invited seminar*, Universita' di Modena e Reggio Emilia (I), May 8 2025
-
 - Enhancing artificial intelligence with fluid mechanics: an opportunity for biomedical applications  
 **M.Quadrio**  
 *Invited keynote talk*, AI and Fluid Mechanics, 1st International Symposium, Chania (GR), May 27-30, 2025
+
+- Spanwise forcing at PoliMI
+**M.Quadrio**  
+*Invited seminar*, Universita' di Modena e Reggio Emilia (I), May 8 2025
 
 - Fluid mechanics of the human nose: where surgery meets flow control  
 **M.Quadrio**  

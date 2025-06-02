@@ -20,6 +20,9 @@ MBEC
 P.Luchini, D.Gatti, A.Chiarini, F.Gattere, M.Atzori & M.Quadrio
 JCP
 
+- Direct numerical simulations of inhalation in a 23-generation lung model
+Marco Atzori, Emanuele Gallorini, Ciro Cottini, Andrea Benassi, Maurizio Quadrio
+Computers in Biology and Medicine
 -->
 
 ------
@@ -41,7 +44,7 @@ N.Berizzi, D.Gatti, G.Soldati, S.Pirozzoli & M.Quadrio
 
 - Turbulent skin-friction drag reduction via spanwise forcing at high Reynolds number  
 D.Gatti, M.Quadrio, A.Chiarini, F.Gattere & S.Pirozzoli  
-Submitted to *J. Fluid Mechanics*, 2025  
+Accepted, *J. Fluid Mechanics*, 2025  
 [Arxiv:physics.flu-dyn/2409.07230](https://doi.org/10.48550/arXiv.2409.07230)
 
 ------
