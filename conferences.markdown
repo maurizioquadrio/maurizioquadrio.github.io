@@ -10,7 +10,6 @@ permalink: /conferences/
 **F.Gattere**, A.Chiarini, M.Castelletti & M.Quadrio
 iTi
 
-2 x Chania, AIFluids
 
 Nmila x EFDC2 Dublin
 
@@ -26,9 +25,13 @@ ECML risposta 26/5, conf. 15-19 settembre a Porto
 
 # 2025
 
+- Spanwise forcing for drag reduction and how to understand it (a little better) via phase-scale-space statistics
+**M.Quadrio**  
+Lille June 18 2025
+
 - Enhancing artificial intelligence with fluid mechanics: an opportunity for biomedical applications  
 **M.Quadrio**  
-*Invited keynote talk*, AI and Fluid Mechanics, 1st International AIFLUIDs Symposium, Chania (GR), May 27-30, 2025
+*Invited keynote lecture*, AI and Fluid Mechanics, 1st International AIFLUIDs Symposium, Chania (GR), May 27-30, 2025
 
 - A proposal for automated turbulence modeling  
 **M.Castelletti** & M.Quadrio  

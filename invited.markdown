@@ -14,7 +14,7 @@ permalink: /seminars/
 
 - Enhancing artificial intelligence with fluid mechanics: an opportunity for biomedical applications  
 **M.Quadrio**  
-*Invited keynote talk*, AI and Fluid Mechanics, 1st International Symposium, Chania (GR), May 27-30, 2025
+*Invited keynote lecture*, AI and Fluid Mechanics, 1st International Symposium, Chania (GR), May 27-30, 2025
 
 - Spanwise forcing at PoliMI  
 **M.Quadrio**  
@@ -162,7 +162,7 @@ permalink: /seminars/
 
 - Drag-reducing characteristics of the generalized spanwise Stokes Layer: experiments and numerical simulations  
 **M.Quadrio**  
-*Invited lecture*, International Specialist Workshop on Open-Loop versus Closed-Loop Control of Wall Turbulence, , Tokyo (JP), Mar 17-19 2010
+*Invited lecture*, International Specialist Workshop on Open-Loop versus Closed-Loop Control of Wall Turbulence, Tokyo (JP), Mar 17-19 2010
 
 - Turbulent drag reduction by spanwise wall forcing  
 **M.Quadrio**  

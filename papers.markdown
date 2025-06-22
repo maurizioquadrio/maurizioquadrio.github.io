@@ -12,22 +12,24 @@ NCA/rejected; poi EAAI, Eng App Artificial Intelligence
 
 - Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose" has just been submitted to "Applied Mathematical Modelling" (PENNISI, rejected, resubmitted somewhere?)
 
-- Understanding the mismatch between in-vivo and in-silico rhinomanometry
-Marco Atzori, Gabriele Dini Ciacci and Maurizio Quadrio
-MBEC
-
-- A simple and efficient immersed-boundary method for the incompressible Navier–Stokes equations 
-P.Luchini, D.Gatti, A.Chiarini, F.Gattere, M.Atzori & M.Quadrio
-JCP
-
-- Direct numerical simulations of inhalation in a 23-generation lung model
-Marco Atzori, Emanuele Gallorini, Ciro Cottini, Andrea Benassi, Maurizio Quadrio
-Computers in Biology and Medicine
 -->
 
 ------
 
 # 2025
+
+- A simple and efficient second-order immersed-boundary method for the incompressible Navier–Stokes equations  
+P.Luchini, D.Gatti, A.Chiarini, F.Gattere, M.Atzori & M.Quadrio  
+[Arxiv:physics.flu-dyn/2506.14328](http://arxiv.org/abs/2506.14328)
+
+- Direct numerical simulations of inhalation in a 23-generation lung model  
+M.Atzori, E.Gallorini, C.Cottini, A.Benassi & M.Quadrio  
+[Arxiv:physics.flu-dyn/2506.14729](http://arxiv.org/abs/2506.14729)
+
+- Understanding the mismatch between in-vivo and in-silico rhinomanometry  
+M.Atzori, G. Dini Ciacci & M.Quadrio  
+[Arxiv:physics.flu-dyn/2506.10865](https://doi.org/10.48550/arXiv.2506.10865)  
+[BIORXIV/2025/659340](https://www.biorxiv.org/cgi/content/short/2025.06.12.659340v1)
 
 - Modeling and simulation of the human respiratory system; Part 2: Inhaler design, *in vitro* experiments and imaging  
 G.H.Spasov, J.P.Jamieson, A.P.McKiernan, M.J.Grill, K.W.Mueller, K.Burrowes, M.Quadrio, E.Estes, L.Cacopardo, A.J.Banko, Ma.Reddemann, F.F.Stellari, C.Cottini & A.Benassi  
@@ -35,7 +37,7 @@ G.H.Spasov, J.P.Jamieson, A.P.McKiernan, M.J.Grill, K.W.Mueller, K.Burrowes, M.Q
 
 - The aerodynamic performance of a transonic airfoil with spanwise forcing  
 N.Berizzi, D.Gatti, G.Soldati, S.Pirozzoli & M.Quadrio  
-[*J. Fluid Mechanics*](https://doi.org/10.1017/jfm.2025.332) **1010** A18, pp.1--xx, 2025
+[*J. Fluid Mechanics*](https://doi.org/10.1017/jfm.2025.332) **1010** A18, pp.1--29, 2025  
 [Arxiv:physics.flu-dyn/2502.04516](https://doi.org/10.48550/arXiv.2502.04516)
 
 - Near-field aeroacoustic effects of spanwise forcing on a transonic wing: a DNS study  
