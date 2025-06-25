@@ -10,7 +10,6 @@ permalink: /conferences/
 **F.Gattere**, A.Chiarini, M.Castelletti & M.Quadrio
 iTi
 
-
 Nmila x EFDC2 Dublin
 
 - Leveraging Computational Geometry for Data Augmentation in Medical Flow Fields Classification  
@@ -27,7 +26,7 @@ ECML risposta 26/5, conf. 15-19 settembre a Porto
 
 - Spanwise forcing for drag reduction and how to understand it (a little better) via phase-scale-space statistics
 **M.Quadrio**  
-Lille June 18 2025
+*Invited plenary lecture*, 2025 Lille Turbulence Program,Jun 17-20 2025, Lille (F)
 
 - Enhancing artificial intelligence with fluid mechanics: an opportunity for biomedical applications  
 **M.Quadrio**  

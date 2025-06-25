@@ -29,7 +29,7 @@ M.Atzori, E.Gallorini, C.Cottini, A.Benassi & M.Quadrio
 - Understanding the mismatch between in-vivo and in-silico rhinomanometry  
 M.Atzori, G. Dini Ciacci & M.Quadrio  
 [Arxiv:physics.flu-dyn/2506.10865](https://doi.org/10.48550/arXiv.2506.10865)  
-[BIORXIV/2025/659340](https://www.biorxiv.org/cgi/content/short/2025.06.12.659340v1)
+[Biorxiv/2025/659340](https://www.biorxiv.org/cgi/content/short/2025.06.12.659340v1)
 
 - Modeling and simulation of the human respiratory system; Part 2: Inhaler design, *in vitro* experiments and imaging  
 G.H.Spasov, J.P.Jamieson, A.P.McKiernan, M.J.Grill, K.W.Mueller, K.Burrowes, M.Quadrio, E.Estes, L.Cacopardo, A.J.Banko, Ma.Reddemann, F.F.Stellari, C.Cottini & A.Benassi  

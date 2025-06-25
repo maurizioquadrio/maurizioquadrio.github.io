@@ -8,9 +8,9 @@ permalink: /seminars/
 **M.Quadrio**  
 *Invited plenary lecture*, annual meeting of Finnish society of Oto, Rhino and Laryngology - Head & Neck Surgery, Tampere (FI), Oct 9-10 2025
 
-- Spanwise forcing for drag reduction, and how to understand it via phase-scale-space statistics  
+- Spanwise forcing for drag reduction and how to understand it (a little better) via phase-scale-space statistics
 **M.Quadrio**  
-*Invited plenary lecture*, 2025 Lille Turbulence Programme, Lille (F), Jun 17-20 2025
+*Invited plenary lecture*, 2025 Lille Turbulence Program,Jun 17-20 2025, Lille (F)
 
 - Enhancing artificial intelligence with fluid mechanics: an opportunity for biomedical applications  
 **M.Quadrio**  
