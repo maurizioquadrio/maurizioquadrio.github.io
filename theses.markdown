@@ -70,7 +70,7 @@ A DNS Analysis of the Effects of Cross-Sectional Geometric Defects on Riblet Per
 Turbolenza nei solidi? Aspetti statistici della deformazione intermittente nelle transizioni di fase martensitiche in leghe a memoria di forma
 
 - Karl **Vieths**(2025, April)   
-*[Spanwise forcing without walls]*(https://hdl.handle.net/10589/236294)
+*[Spanwise forcing without walls](https://hdl.handle.net/10589/236294)*
 
 - Francesco **Esposito** (2024, December)  
 *[DNS and LES with the immersed-boundary technique](https://hdl.handle.net/10589/230298)*
