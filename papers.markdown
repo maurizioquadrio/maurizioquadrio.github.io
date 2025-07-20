@@ -22,7 +22,7 @@ Submitted to International Journal for Numerical Methods in Biomedical Engineeri
 
 - A simple and efficient second-order immersed-boundary method for the incompressible Navier–Stokes equations  
 P.Luchini, D.Gatti, A.Chiarini, F.Gattere, M.Atzori & M.Quadrio  
-*[J. Comp. Physics](https://doi.org/10.1016/j.jcp.2025.114245)*
+*[J. Comp. Physics](https://doi.org/10.1016/j.jcp.2025.114245)*  
 [Arxiv:physics.flu-dyn/2506.14328](http://arxiv.org/abs/2506.14328)
 
 - Direct numerical simulations of inhalation in a 23-generation lung model  
@@ -31,7 +31,7 @@ M.Atzori, E.Gallorini, C.Cottini, A.Benassi & M.Quadrio
 
 - Understanding the mismatch between in-vivo and in-silico rhinomanometry  
 M.Atzori, G. Dini Ciacci & M.Quadrio  
-Accepted, Medical & Biological Eng & Computing (MBEC)
+Accepted, Medical & Biological Eng & Computing (MBEC)  
 [Arxiv:physics.flu-dyn/2506.10865](https://doi.org/10.48550/arXiv.2506.10865)  
 [Biorxiv/2025/659340](https://www.biorxiv.org/cgi/content/short/2025.06.12.659340v1)
 
