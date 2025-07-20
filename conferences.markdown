@@ -6,19 +6,21 @@ permalink: /conferences/
 
 <!---
 
+Marco Atzori, Emanuele Gallorini, Ciro Cottini, Andrea Benassi and Maurizio Quadrio
+DIRECT NUMERICAL SIMULATIONS OF RIGID LUNG MODELS
+ParCFD2025
+36th International Conference on Parallel Computational Fluid Dynamics
+Nov. 24-26, 2025, Mérida,Yucatán, Mexico
+
 - On the optimal parameters of spanwise forcing for turbulent drag reduction
 **F.Gattere**, A.Chiarini, M.Castelletti & M.Quadrio
 iTi
 
 Nmila x EFDC2 Dublin
 
-- Leveraging Computational Geometry for Data Augmentation in Medical Flow Fields Classification  
-**R.Margheritti**, A.Schillaci, C.Pipolo, M.Quadrio & G.Boracchi  
-26th Engineering Applications of Neural Networks / Engineering Applications and Advances of Artificial Intelligence, Jun 26-29 2025, Cyprus (GR)
-
 Physics-based region clustering
 Margheritti
-ECML risposta 26/5, conf. 15-19 settembre a Porto
+ECML accettato, conf. 15-19 settembre a Porto
 
 -->
 
@@ -27,6 +29,12 @@ ECML risposta 26/5, conf. 15-19 settembre a Porto
 - Spanwise forcing for drag reduction and how to understand it (a little better) via phase-scale-space statistics
 **M.Quadrio**  
 *Invited plenary lecture*, 2025 Lille Turbulence Program,Jun 17-20 2025, Lille (F)
+
+- Can CFD Improve Our Diagnostic Capabilities?
+Leveraging Computational Geometry for Data Augmentation in Medical Flow Fields Classification  
+**R.Margheritti**, A.Schillaci, C.Pipolo, M.Quadrio & G.Boracchi  
+26th Engineering Applications of Neural Networks / Engineering Applications and Advances of Artificial Intelligence, Jun 26-29 2025, Cyprus (GR)  
+In: Iliadis, L., Maglogiannis, I., Kyriacou, E., Jayne, C. (eds) Engineering Applications of Neural Networks. EANN 2025. Communications in Computer and Information Science, vol 2582. Springer, Cham. https://doi.org/10.1007/978-3-031-96199-1_9
 
 - Enhancing artificial intelligence with fluid mechanics: an opportunity for biomedical applications  
 **M.Quadrio**  

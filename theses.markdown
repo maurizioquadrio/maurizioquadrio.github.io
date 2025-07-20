@@ -51,26 +51,26 @@ Rhinomanometry and facial masks
 - Zainab **Mohamed Osman Ali**  
 Streamwise/spanwise forcing in turbulent Couette flow
 
-- Simone **Lomolino**  
-Tracers in a turbulent channel flow
-
 - Luca **Virecci Fana**  
 GPU-based FFT on a spectral DNS code
-
-- Carlantonio **Di Venosa**  
-Functional mapping for the human nose
-
-- Luigi **Raggi**  
-Riblets with imperfect geometry
-
-- Francesca **Cerbone**  
-Turbulence in solids
 
 
 # Master 
 
+- Simone **Lomolino** (2025, July)  
+Eulerian-Lagrangian analysis of turbulent channel flow with drag reduction
+
+- Carlantonio **Di Venosa** (2025, July)  
+CFD-driven Machine Learning for the Classification of Nasal Breathing Difficulties
+
+- Luigi **Raggi** (2025, July)  
+A DNS Analysis of the Effects of Cross-Sectional Geometric Defects on Riblet Performance
+
+- Francesca **Cerbone** (2025, July)  
+Turbolenza nei solidi? Aspetti statistici della deformazione intermittente nelle transizioni di fase martensitiche in leghe a memoria di forma
+
 - Karl **Vieths**(2025, April)   
-Spanwise forcing without walls
+*[Spanwise forcing without walls]*(https://hdl.handle.net/10589/236294)
 
 - Francesco **Esposito** (2024, December)  
 *[DNS and LES with the immersed-boundary technique](https://hdl.handle.net/10589/230298)*
@@ -80,6 +80,8 @@ Spanwise forcing without walls
 
 - Lorenzo **Pionetti** (2024, December)  
 *[Turbulent skin-friction drag reduction by tensegrity fabric](https://hdl.handle.net/10589/230488)*
+
+<!--- 160 -->
 
 - Andrea **Portioli** (2024, December)  
 *[Porting a DNS solver to a multi-GPU architecture](https://hdl.handle.net/10589/231051)*
@@ -111,6 +113,8 @@ Numerical prediction of light-driven algal growth in a photobioreactor
 - Riccardo **Consonni** (2024, April)  
 *[Adjoint-based data assimilation of a compressible starting jet](https://hdl.handle.net/10589/219451)*
 
+<!--- 150 -->
+
 - Nil **Couto Ovejero** (2024, April)  
 *[Streamwise traveling waves of wall deformation for turbulent drag reduction](https://hdl.handle.net/10589/219541)*
 
@@ -140,6 +144,8 @@ Numerical prediction of light-driven algal growth in a photobioreactor
 
 - Lorenzo **Pierpaoli** (2023, July)  
 *[Critical assessment of RANS turbulence models in predicting the turbulent flow past a rectangular cylinder](https://hdl.handle.net/10589/212759)*
+
+<!--- 140 -->
 
 - Marco **Castelletti** (2023, May)  
 *[A machine-learning based zonal approach for turbulence modeling](https://hdl.handle.net/10589/206368)*
@@ -171,6 +177,8 @@ Numerical prediction of light-driven algal growth in a photobioreactor
 - Giulio **Foggi Rota** (2022, April)  
 *[On-off pumping for drag reduction in a turbulent channel flow](https://hdl.handle.net/10589/186461)*
 
+<!--- 130 -->
+
 - Marcello **Macellari** (2022, April)  
 *[Fluid dynamics optimization for the surgical treatment of septal deviations](https://hdl.handle.net/10589/187072)*
 
@@ -201,6 +209,8 @@ Verifica sperimentale di un rinomanometro a quattro fasi
 - Jimmy **Vianello** (2021, June)  
 *[Development of a multi-GPU Navier-Stokes solver](https://hdl.handle.net/10589/176080)*
 
+<!--- 120 -->
+
 - Jacopo **Casella** (2021, April)  
 *[Machine-learning based classification of geometrically defective airfoils](https://hdl.handle.net/10589/174213)*
 
@@ -230,6 +240,8 @@ Ottimizzazione fluidodinamica per la chirurgia del setto nasale
 
 - Alessandro **Testa** (2020, July)  
 *[Active turbulence control through wall deformation in channel flow](https://hdl.handle.net/10589/164354)*
+
+<!--- 110 -->
 
 - Maria Debora **Mauriello** (2020, June)  
 *[Inner-outer scale interactions in turbulent Couette flow](https://hdl.handle.net/10589/154347)*
@@ -263,6 +275,8 @@ LM in Design & Engineering
 - Mirco **Meazzo** (2019, October)  
 *[Scaling Performance of a DNS solver written in CPL](https://hdl.handle.net/10589/149489)*
 
+<!--- 100 -->
+
 - Mattia **Ciarlatani** (2019, July)  
 *[Ottimizzazione di forma adjoint-based per flussi turbolenti](https://hdl.handle.net/10589/148399)*
 
@@ -293,6 +307,8 @@ LM in Computer Science and Engineering
 
 - Alessandro **Chiarini** (2018, April)  
 *[Production, transport and dissipation of turbulent stresses in channels](https://hdl.handle.net/10589/139450)*
+
+<!--- 90 -->
 
 - Luca **Guastoni** (2018, April)  
 *[Direct Numerical Simulation of turbulent channel flow on Intel Xeon PHI (KNL) architecture](https://hdl.handle.net/10589/141085)* 
@@ -325,6 +341,8 @@ LM in Mathematical Engineering
 - Celeste M. **Monti** (2017, April)  
 *[Metodo dei contorni immersi per la simulazione numerica diretta di correnti turbolente su pareti non piane](https://hdl.handle.net/10589/134501)*
 
+<!--- 80 -->
+
 - Alberto **Remigi** (2017, April)  
 *[Generalized Kolmogorov equation for turbulent wall flows with drag reduction](https://hdl.handle.net/10589/134044)*
 
@@ -355,6 +373,8 @@ LM in Mathematical Engineering
 - Joseph **Diano** (2015, July)  
 *Studio sperimentale di onde peristaltiche per la riduzione dell'attrito turbolento*
 
+<!--- 70 -->
+
 - Luca **Grizzetti** (2015, July)  
 *[Rilievo sperimentale del campo di velocita' intorno a corpi tozzi con inserti in materiale poroso](https://hdl.handle.net/10589/108972)*
 
@@ -381,6 +401,8 @@ LM in Mathematical Engineering
 
 - Luca **Cirrottola** (2014, April)  
 *[Optimal feedback control of plane channel flow over porous walls](https://hdl.handle.net/10589/91126)*
+
+<!--- 60 -->
 
 - Andrea **Codrignani** (2014, April)  
 *[Impulse Response in a Turbulent Channel Flow](https://hdl.handle.net/10589/91563)*
@@ -412,6 +434,8 @@ LM in Mathematical Engineering
 - Francesco **Gilardoni** (2013, July)  
 *[Sviluppo di un efficiente solutore Chebyshev-tau per la DNS di flussi turbolenti di parete](https://hdl.handle.net/10589/81445)*
 
+<!--- 50 -->
+
 - Chiara **Pesci** (2013, July)  
 *[OpenNOSE: an open-source procedure for the simulation of nasal aerodynamics](https://hdl.handle.net/10589/81309)*
 
@@ -442,6 +466,8 @@ e l’ottimizzazione geometrica](https://hdl.handle.net/10589/81422)*
 
 - Davide **Scarselli** (2013, April)  
 *[Non-modal stability of laminar channel flow over porous walls](https://hdl.handle.net/10589/79904)*
+
+<!--- 40 -->
 
 - Daniele **Cappelli** (2012, December)  
 *[Performance of Reynolds averaged Navier Stokes models in predicting separated flows : study of the hump flow model problem](https://hdl.handle.net/10589/71742)*
@@ -475,6 +501,8 @@ Politecnico di Torino - Alta Scuola Politecnica
 - Davide **Gatti** (2011, December)  
 *[Turbulent drag reduction at moderate Reynolds numbers via spanwise velocity waves](https://hdl.handle.net/10589/30923)*
 
+<!--- 30 -->
+
 - Francesco **Pasqua** (2011, December)  
 *[Analisi sperimentale preliminare di un dispositivo innovativo per il mixing turbolento](https://hdl.handle.net/10589/41501)*
 
@@ -502,6 +530,8 @@ LM in Mechanical Engineering
 
 - Claudio **Ottonelli** (2010, July)  
 *[Energy and enstrophy balances for wall-bounded turbulent flows with drag reduction](https://hdl.handle.net/10589/2513)*
+
+<!--- 20 -->
 
 - Marcello **Pelis**, Michele **Rampanelli** (2010, July)  
 *[Risposta impulsiva in un flusso turbolento](https://hdl.handle.net/10589/2562)*
@@ -534,6 +564,7 @@ LM in Fisica, Universita' degli Studi di Milano
 - Sara **Ceccon** (2005, October)  
 *Interazione fra campo fluidodinamico e campo elettrico*
 
+<!--- 10 -->
 - Stefano **Bisson** (2004, April)  
 *Risposta lineare del flusso turbolento in un canale*
 
