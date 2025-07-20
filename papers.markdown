@@ -65,7 +65,8 @@ G.H.Spasov, J.P.Jamieson, A.P.McKiernan, M.J.Grill, K.W.Mueller, K.Burrowes, M.Q
 
 - Comparison between topological and surface sensitivities for bio-fluid dynamics applications  
 E.Segalerba, E.Gallorini, M.Quadrio & J.O.Pralits  
-*[Meccanica](https://doi.org/10.1007/s11012-024-01920-0)* in press
+*[Meccanica](https://doi.org/10.1007/s11012-024-01920-0)* in press  
+*[Arxiv:physics.flu-dyn/2308.10701](https://doi.org/10.48550/arXiv.2308.10701)*
 
 - An adjoint-based approach for the surgical correction of nasal septal deviations  
 M.Macellari, A.Schillaci, U.Tanzini, M.Trimarchi & M.Quadrio  
