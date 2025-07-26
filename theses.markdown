@@ -61,10 +61,10 @@ GPU-based FFT on a spectral DNS code
 Eulerian-Lagrangian analysis of turbulent channel flow with drag reduction
 
 - Carlantonio **Di Venosa** (2025, July)  
-CFD-driven Machine Learning for the Classification of Nasal Breathing Difficulties
+CFD-driven Machine Learning for the classification of nasal breathing difficulties
 
 - Luigi **Raggi** (2025, July)  
-A DNS Analysis of the Effects of Cross-Sectional Geometric Defects on Riblet Performance
+A DNS analysis of the effects of cross-sectional geometric defects on riblet performance
 
 - Francesca **Cerbone** (2025, July)  
 Turbolenza nei solidi? Aspetti statistici della deformazione intermittente nelle transizioni di fase martensitiche in leghe a memoria di forma
