@@ -20,9 +20,14 @@ Submitted to International Journal for Numerical Methods in Biomedical Engineeri
 
 # 2025
 
+- Turbulent skin-friction drag reduction via spanwise forcing at high Reynolds number  
+D.Gatti, M.Quadrio, A.Chiarini, F.Gattere & S.Pirozzoli  
+[*J. Fluid Mechanics*](doi:10.1017/jfm.2025.10412) **1016** A58, pp.1--12, 2025  
+[Arxiv:physics.flu-dyn/2409.07230](https://doi.org/10.48550/arXiv.2409.07230)
+
 - A simple and efficient second-order immersed-boundary method for the incompressible Navier–Stokes equations  
 P.Luchini, D.Gatti, A.Chiarini, F.Gattere, M.Atzori & M.Quadrio  
-*[J. Comp. Physics](https://doi.org/10.1016/j.jcp.2025.114245)*  **539** p.114245, 2025
+*[J. Comp. Physics](https://doi.org/10.1016/j.jcp.2025.114245)*  **539** p.114245, 2025  
 [Arxiv:physics.flu-dyn/2506.14328](http://arxiv.org/abs/2506.14328)
 
 - Direct numerical simulations of inhalation in a 23-generation lung model  
@@ -31,7 +36,7 @@ M.Atzori, E.Gallorini, C.Cottini, A.Benassi & M.Quadrio
 
 - Understanding the mismatch between in-vivo and in-silico rhinomanometry  
 M.Atzori, G. Dini Ciacci & M.Quadrio  
-Accepted, Medical & Biological Eng & Computing (MBEC)  
+In press, Medical & Biological Eng & Computing (MBEC)  
 [Arxiv:physics.flu-dyn/2506.10865](https://doi.org/10.48550/arXiv.2506.10865)  
 [Biorxiv/2025/659340](https://www.biorxiv.org/cgi/content/short/2025.06.12.659340v1)
 
@@ -47,11 +52,6 @@ N.Berizzi, D.Gatti, G.Soldati, S.Pirozzoli & M.Quadrio
 - Near-field aeroacoustic effects of spanwise forcing on a transonic wing: a DNS study  
 N.Berizzi, D.Gatti, G.Soldati, S.Pirozzoli & M.Quadrio  
 *[Applied Science](https://doi.org/10.3390/app15020814)*, **15**(2), p.814, 2025
-
-- Turbulent skin-friction drag reduction via spanwise forcing at high Reynolds number  
-D.Gatti, M.Quadrio, A.Chiarini, F.Gattere & S.Pirozzoli  
-Accepted, *J. Fluid Mechanics*, 2025  
-[Arxiv:physics.flu-dyn/2409.07230](https://doi.org/10.48550/arXiv.2409.07230)
 
 ------
 
