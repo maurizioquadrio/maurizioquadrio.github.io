@@ -6,8 +6,6 @@ permalink: /conferences/
 
 <!---
 
-Nmila x EFDC2 Dublin
-
 Physics-based region clustering
 Margheritti
 ECML accettato, conf. 15-19 settembre a Porto
@@ -16,14 +14,49 @@ ECML accettato, conf. 15-19 settembre a Porto
 
 # 2025
 
+
+
+- Direct numerical simulation of rigid lung models  
+**M.Atzori**, E.Gallorini, C.Cottini, A.Benassi & M.Quadrio  
+ParCFD2025 -- 36th International Conference on Parallel Computational Fluid Dynamics
+Nov. 24-26, 2025, Mérida,Yucatán, Mexico
+
+
+- Flow in a 23-generation model of human airways: laminar but not steady!  
+**M.Atzori**, E.Gallorini, A.Benassi & M.Quadrio  
+2nd European Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
+
+- Streamwise travelling waves for drag reduction on a transonic airfoil  
+**N.Berizzi**, D.Gatti, G.Soldati, S.Pirozzoli & M.Quadrio  
+2nd European Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
+
+- Wiener filtering in wall turbulence  
+**M.Castelletti**, F.Gattere, P.Luchini & M.Quadrio  
+2nd European Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
+
+- Turbulence without spectra: Looking at turbulent structures in inhomogeneous anisotropic flows  
+A.Chiarini, E.Gallorini, F.Gattere, D.Gatti & **M.Quadrio**  
+2nd European Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
+
+- A non-planar Hele-Shaw model for the airflow in the nasal cavity  
+**A.R.Favero**, P.Luchini & M.Quadrio  
+2nd European Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
+
+- Numerical Study of turbulent skin-friction drag reduction via spanwise forcing at large Reynolds numbers  
+**D.Gatti**, M.Quadrio, F.Gattere, A.Chiarini & S.Pirozzoli
+2nd European Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
+
+- Potential of the Linear Impulse Response Function of a Turbulent Channel Flow  
+**F.Gattere**, A.Codrignani, D.Gatti & M.Quadrio  
+2nd European Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
+
+- High-performance GPU-accelerated DNS solver for human airways  
+**A.Portioli**, M.Atzori, A.Benassi & M.Quadrio  
+2nd European Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
+
 - On the optimal period of spanwise forcing for turbulent drag reduction  
 **F.Gattere**, A.Chiarini, M.Castelletti & M.Quadrio  
 ITI XI July 27 -- 30 2025, Bertinoro (I)
-
-Direct numerical simulation of rigid lung models  
-- **M.Atzori**, E.Gallorini, C.Cottini, A.Benassi & M.Quadrio  
-ParCFD2025 -- 36th International Conference on Parallel Computational Fluid Dynamics
-Nov. 24-26, 2025, Mérida,Yucatán, Mexico
 
 - Spanwise forcing for drag reduction and how to understand it (a little better) via phase-scale-space statistics  
 **M.Quadrio**  
