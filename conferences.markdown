@@ -42,12 +42,12 @@ A.Chiarini, E.Gallorini, F.Gattere, D.Gatti & **M.Quadrio**
 **A.R.Favero**, P.Luchini & M.Quadrio  
 2nd European Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
 
-- Numerical Study of turbulent skin-friction drag reduction via spanwise forcing at large Reynolds numbers  
-**D.Gatti**, M.Quadrio, F.Gattere, A.Chiarini & S.Pirozzoli
-2nd European Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
-
 - Potential of the Linear Impulse Response Function of a Turbulent Channel Flow  
 **F.Gattere**, A.Codrignani, D.Gatti & M.Quadrio  
+2nd European Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
+
+- Numerical Study of turbulent skin-friction drag reduction via spanwise forcing at large Reynolds numbers  
+**D.Gatti**, M.Quadrio, F.Gattere, A.Chiarini & S.Pirozzoli  
 2nd European Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
 
 - High-performance GPU-accelerated DNS solver for human airways  
