@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Invited
+title: Invited talks
 permalink: /seminars/
 ---
 
@@ -14,7 +14,7 @@ permalink: /seminars/
 
 - Enhancing artificial intelligence with fluid mechanics: an opportunity for biomedical applications  
 **M.Quadrio**  
-*Invited keynote lecture*, AI and Fluid Mechanics, 1st International Symposium, Chania (GR), May 27-30, 2025
+*Invited **keynote** lecture*, AI and Fluid Mechanics, 1st International Symposium, Chania (GR), May 27-30, 2025
 
 - Spanwise forcing at PoliMI  
 **M.Quadrio**  
@@ -30,11 +30,11 @@ permalink: /seminars/
 
 - Fluid mechanics of the human nose: where surgery meets flow control  
 **M.Quadrio**  
-*Invited plenary lecture*, IX ECCOMAS Congress, Lisbon (P), Jun 3-7 2024
+*Invited **plenary** lecture*, IX ECCOMAS Congress, Lisbon (P), Jun 3-7 2024
 
 - The OpenNOSE project: reasons of interest for the lung modelling community  
 **M.Quadrio**  
-*Invited lecture*, Lung Modelling Congress, Parma (I), Nov 22–23 2023
+*Invited **keynote** lecture*, Lung Modelling Congress, Parma (I), Nov 22–23 2023
 
 - Fluid Dynamics of the Human Nose: where flow control meets surgery  
 **M.Quadrio**  
@@ -54,7 +54,7 @@ permalink: /seminars/
 
 - Fluid dynamics of the human nose: modeling and clinical perspectives  
 **M.Quadrio**  
-*Invited Keynote lecture*, CFDparschool L'Aquila (I), Jul 16-21 2023
+*Invited **Keynote** lecture*, CFDparschool L'Aquila (I), Jul 16-21 2023
 
 - Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD  
 **M.Quadrio**  
@@ -62,7 +62,7 @@ permalink: /seminars/
 
 - Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD  
 **M.Quadrio**  
-*Invited plenary lecture*, European Fluid Mechanics Conference, Athens (GR), Sep 13-16 2022
+*Invited **plenary** lecture*, European Fluid Mechanics Conference, Athens (GR), Sep 13-16 2022
 
 - Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD  
 **M.Quadrio**  
@@ -82,7 +82,7 @@ permalink: /seminars/
 
 - Machine learning and fluid mechanics in biological applications  
 **M.Quadrio**  
-*Invited lecture*, International Workshop on Data-driven Modeling and Optimization in Fluid Mechanics, Karlsruhe (D),  Sep 16-17 2019
+*Invited **keynote** lecture*, International Workshop on Data-driven Modeling and Optimization in Fluid Mechanics, Karlsruhe (D),  Sep 16-17 2019
 
 - How skin-friction drag reduction affects airplane drag  
 **M.Quadrio**  
@@ -102,7 +102,7 @@ permalink: /seminars/
 
 - Skin-friction drag reduction, and how to assess it  
 **M.Quadrio**  
-*Invited plenary lecture* at the China-EU Aviation technology Cooperation Workshop, Wuzhen (PRC), Nov 6-10 2017
+*Invited **plenary** lecture* at the China-EU Aviation technology Cooperation Workshop, Wuzhen (PRC), Nov 6-10 2017
 
 - Turbulent drag reduction by spanwise wall forcing  
 **M.Quadrio**  
@@ -114,7 +114,7 @@ permalink: /seminars/
 
 - Turbulent drag reduction by spanwise forcing  
 **M.Quadrio**  
-*Invited lecture*, FOR 1779 Symposium on Active Drag Reduction, Aachen (D), Nov 9-10 2015
+*Invited **keynote** lecture*, FOR 1779 Symposium on Active Drag Reduction, Aachen (D), Nov 9-10 2015
 
 - Fluid dynamics of the nasal cavity: how to, what for  
 **M.Quadrio**  
@@ -126,7 +126,7 @@ permalink: /seminars/
 
 - Turbulent skin-friction drag reduction by spanwise forcing (with some implications for the transition modelling community)  
 **M. Quadrio**  
-*Invited lecture*, 11th SIG33 ERCOFTAC Workshop, Jersey (UK), Apr 15 2015
+*Invited **keynote** lecture*, 11th SIG33 ERCOFTAC Workshop, Jersey (UK), Apr 15 2015
 
 - Turbulent drag reduction by spanwise wall forcing  
 **M. Quadrio**  
@@ -138,7 +138,7 @@ permalink: /seminars/
 
 - Modern View(s) of Wall Turbulence: What changed in the last 50 years  
 **M. Quadrio**  
-*Invited keynote lecture*, 31st UIT Heat Transfer Conference, Moltrasio (I), Jun 25-27 2013
+*Invited **keynote** lecture*, 31st UIT Heat Transfer Conference, Moltrasio (I), Jun 25-27 2013
 
 - Fluid dynamics of the nasal cavity: How to, what for  
 **M. Quadrio**  
@@ -162,7 +162,7 @@ permalink: /seminars/
 
 - Drag-reducing characteristics of the generalized spanwise Stokes Layer: experiments and numerical simulations  
 **M.Quadrio**  
-*Invited lecture*, International Specialist Workshop on Open-Loop versus Closed-Loop Control of Wall Turbulence, Tokyo (JP), Mar 17-19 2010
+*Invited **keynote** lecture*, International Specialist Workshop on Open-Loop versus Closed-Loop Control of Wall Turbulence, Tokyo (JP), Mar 17-19 2010
 
 - Turbulent drag reduction by spanwise wall forcing  
 **M.Quadrio**  
@@ -198,4 +198,4 @@ permalink: /seminars/
 
 - Direct numerical simulation of active control of turbulence  
 **M.Quadrio**  
-*Invited lecture*, EUROMECH Colloquium 332 on *Drag Reduction*, IX European Drag Reduction Working Meeting, Ravello (I), Apr 19-21 1995
+*Invited **keynote** lecture*, EUROMECH Colloquium 332 on *Drag Reduction*, IX European Drag Reduction Working Meeting, Ravello (I), Apr 19-21 1995
