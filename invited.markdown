@@ -6,7 +6,7 @@ permalink: /seminars/
 
 - Title: TBD  
 **M.Quadrio**  
-<u>*Invited plenary lecture*</u>, annual meeting of Finnish society of Oto, Rhino and Laryngology - Head & Neck Surgery, Tampere (FI), Oct 9-10 2025
+<u>*Invited plenary lecturex*</u>, annual meeting of Finnish society of Oto, Rhino and Laryngology - Head & Neck Surgery, Tampere (FI), Oct 9-10 2025
 
 - Spanwise forcing for drag reduction and how to understand it (a little better) via phase-scale-space statistics  
 **M.Quadrio**  
