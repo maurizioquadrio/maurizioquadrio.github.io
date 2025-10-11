@@ -4,9 +4,9 @@ title: Invited talks
 permalink: /seminars/
 ---
 
-- Title: TBD  
+- Title: Computational Fluid Dynamics in rhinology (a personal view)  
 **M.Quadrio**  
-*Invited **plenary** lecture*, annual meeting of Finnish society of Oto, Rhino and Laryngology - Head & Neck Surgery, Tampere (FI), Oct 9-10 2025
+*Invited **plenary** lecture*, Otorhinolaryngology – Head and Neck Surgery Society of Finland, Autumn Training Days 2025, Tampere (FI), Oct 9-10 2025
 
 - Spanwise forcing for drag reduction and how to understand it (a little better) via phase-scale-space statistics  
 **M.Quadrio**  

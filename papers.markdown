@@ -36,7 +36,7 @@ M.Atzori, E.Gallorini, C.Cottini, A.Benassi & M.Quadrio
 
 - Understanding the mismatch between in-vivo and in-silico rhinomanometry  
 M.Atzori, G. Dini Ciacci & M.Quadrio  
-In press, Medical & Biological Eng & Computing (MBEC)  
+*[Medical & Biological Eng & Computing (MBEC)](https://doi.org/10.1007/s11517-025-03450-7), pp.1--11, 2025  
 [Arxiv:physics.flu-dyn/2506.10865](https://doi.org/10.48550/arXiv.2506.10865)  
 [Biorxiv/2025/659340](https://www.biorxiv.org/cgi/content/short/2025.06.12.659340v1)
 
