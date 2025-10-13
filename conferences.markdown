@@ -18,7 +18,7 @@ K.Vieths, D.Gatti & M.Quadrio
 
 # 2025
 
-- Title: Computational Fluid Dynamics in rhinology (a personal view)
+- Computational Fluid Dynamics in rhinology (a personal view)
 **M.Quadrio**  
 *Invited **plenary** lecture*, Otorhinolaryngology – Head and Neck Surgery Society of Finland, Autumn Training Days 2025, Tampere (FI), Oct 9-10 2025
 
