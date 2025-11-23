@@ -22,11 +22,11 @@ Submitted to International Journal for Numerical Methods in Biomedical Engineeri
 
 - Feature Extraction from Flow Fields: Physics-Based Clustering and Morphing with Applications  
 R.Margheritti, O.Semeraro, M.Quadrio & G.Boracchi  
-[*Applied Sciences*](doi.org/10.3390/app152312421) **15** n.23, 2025
+[*Applied Sciences*](https://doi.org/10.3390/app152312421) **15** n.23, 2025
 
 - Turbulent skin-friction drag reduction via spanwise forcing at high Reynolds number  
 D.Gatti, M.Quadrio, A.Chiarini, F.Gattere & S.Pirozzoli  
-[*J. Fluid Mechanics*](doi:10.1017/jfm.2025.10412) **1016** A58, pp.1--12, 2025  
+[*J. Fluid Mechanics*](https://doi:10.1017/jfm.2025.10412) **1016** A58, pp.1--12, 2025  
 [Arxiv:physics.flu-dyn/2409.07230](https://doi.org/10.48550/arXiv.2409.07230)
 
 - A simple and efficient second-order immersed-boundary method for the incompressible Navier–Stokes equations  
