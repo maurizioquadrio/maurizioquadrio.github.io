@@ -24,12 +24,10 @@ Submitted to International Journal for Numerical Methods in Biomedical Engineeri
 R.Margheritti, O.Semeraro, M.Quadrio & G.Boracchi  
 [*Applied Sciences*](https://doi.org/10.3390/app152312421) **15** n.23, 2025
 
-- x Turbulent skin-friction drag reduction via spanwise forcing at high Reynolds number  
+- Turbulent skin-friction drag reduction via spanwise forcing at high Reynolds number  
 D.Gatti, M.Quadrio, A.Chiarini, F.Gattere & S.Pirozzoli  
 [*J. Fluid Mechanics*](https://doi.org/10.1017/jfm.2025.10412) **1016** A58, pp.1--12, 2025  
 [Arxiv:physics.flu-dyn/2409.07230](https://doi.org/10.48550/arXiv.2409.07230)
-
-https://doi.org/10.1017/jfm.2025.10412
 
 - A simple and efficient second-order immersed-boundary method for the incompressible Navier–Stokes equations  
 P.Luchini, D.Gatti, A.Chiarini, F.Gattere, M.Atzori & M.Quadrio  
