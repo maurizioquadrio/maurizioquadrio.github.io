@@ -20,6 +20,10 @@ Submitted to International Journal for Numerical Methods in Biomedical Engineeri
 
 # 2025
 
+- Feature Extraction from Flow Fields: Physics-Based Clustering and Morphing with Applications  
+R.Margheritti, O.Semeraro, M.Quadrio & G.Boracchi  
+[*Applied Sciences*](doi.org/10.3390/app152312421) **15** n.23, 2025
+
 - Turbulent skin-friction drag reduction via spanwise forcing at high Reynolds number  
 D.Gatti, M.Quadrio, A.Chiarini, F.Gattere & S.Pirozzoli  
 [*J. Fluid Mechanics*](doi:10.1017/jfm.2025.10412) **1016** A58, pp.1--12, 2025  
@@ -36,7 +40,7 @@ M.Atzori, E.Gallorini, C.Cottini, A.Benassi & M.Quadrio
 
 - Understanding the mismatch between in-vivo and in-silico rhinomanometry  
 M.Atzori, G. Dini Ciacci & M.Quadrio  
-*[Medical & Biological Eng & Computing (MBEC)](https://doi.org/10.1007/s11517-025-03450-7), pp.1--11, 2025  
+[Medical & Biological Eng & Computing (MBEC)](https://doi.org/10.1007/s11517-025-03450-7), pp.1--11, 2025  
 [Arxiv:physics.flu-dyn/2506.10865](https://doi.org/10.48550/arXiv.2506.10865)  
 [Biorxiv/2025/659340](https://www.biorxiv.org/cgi/content/short/2025.06.12.659340v1)
 

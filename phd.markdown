@@ -15,6 +15,9 @@ permalink: /phd/
 
 - Marco **Castelletti**  
 
+- Riccardo **Margheritti** (co-advisor)
+
+
 # PhD theses 
 
 - Federica **Gattere** (2024)  

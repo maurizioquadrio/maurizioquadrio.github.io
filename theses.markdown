@@ -40,7 +40,7 @@ Stabilita' del flusso intorno a un'ala di libellula
 HST con point particles
 
 - Martina **Buffoli**  
-Fluidodinamica nasale 
+Fluidodinamica nasale: analisi in frequenza di perforazione settale 
 
 - Jacopo **Alberti**  
 Fluidodinamica nasale
