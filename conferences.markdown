@@ -6,10 +6,6 @@ permalink: /conferences/
 
 <!---
 
-Physics-based region clustering
-Margheritti
-ECML accettato, conf. 15-19 settembre a Porto
-
 14th International Symposium on Turbulence and Shear Flow Phenomena (TSFP14), Heidelberg, Germany, July 28–31, 2026
 Spanwise forcing without walls
 K.Vieths, D.Gatti & M.Quadrio
@@ -18,14 +14,19 @@ K.Vieths, D.Gatti & M.Quadrio
 
 # 2025
 
-- Computational Fluid Dynamics in rhinology (a personal view)
-**M.Quadrio**  
-*Invited **plenary** lecture*, Otorhinolaryngology – Head and Neck Surgery Society of Finland, Autumn Training Days 2025, Tampere (FI), Oct 9-10 2025
 
 - Direct numerical simulation of rigid lung models  
 **M.Atzori**, E.Gallorini, C.Cottini, A.Benassi & M.Quadrio  
 ParCFD2025 -- 36th International Conference on Parallel Computational Fluid Dynamics
-Nov. 24-26, 2025, Mérida,Yucatán, Mexico
+Nov. 24-26, 2025, Mérida, Yucatán, Mexico
+
+- Computational Fluid Dynamics in rhinology (a personal view)
+**M.Quadrio**  
+*Invited **plenary** lecture*, Otorhinolaryngology – Head and Neck Surgery Society of Finland, Autumn Training Days 2025, Tampere (FI), Oct 9-10 2025
+
+- Physics-Based Region Clustering to Boost Inference on Computational Fluid Dynamics Flow Fields  
+**R.Margheritti**, O.Semeraro, M.Quadrio & G.Boracchi  
+Machine Learning and Knowledge Discovery in Databases. Applied Data Science Track and Demo Track; European Conference, ECML PKDD 2025, Sept 15-–19, 2025, Porto (P), Proceedings, Part X
 
 - Flow in a 23-generation model of human airways: laminar but not steady!  
 **M.Atzori**, E.Gallorini, A.Benassi & M.Quadrio  
