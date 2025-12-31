@@ -4,6 +4,10 @@ title: Invited talks
 permalink: /seminars/
 ---
 
+- The flow in the human nose: CFD, surgery and flow control
+**M.Quadrio**  
+*Invited seminar*, Universita' di Genova (I), Dec 11 2025
+
 - Computational Fluid Dynamics in rhinology (a personal view)  
 **M.Quadrio**  
 *Invited **plenary** lecture*, Otorhinolaryngology – Head and Neck Surgery Society of Finland, Autumn Training Days 2025, Tampere (FI), Oct 9-10 2025
