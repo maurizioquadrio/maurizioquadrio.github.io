@@ -4,7 +4,7 @@ title: Invited talks
 permalink: /seminars/
 ---
 
-- The flow in the human nose: CFD, surgery and flow control
+- The flow in the human nose: CFD, surgery and flow control  
 **M.Quadrio**  
 *Invited seminar*, Universita' di Genova (I), Dec 11 2025
 

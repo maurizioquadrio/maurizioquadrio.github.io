@@ -20,7 +20,7 @@ K.Vieths, D.Gatti & M.Quadrio
 ParCFD2025 -- 36th International Conference on Parallel Computational Fluid Dynamics
 Nov. 24-26, 2025, Mérida, Yucatán, Mexico
 
-- Computational Fluid Dynamics in rhinology (a personal view)
+- Computational Fluid Dynamics in rhinology (a personal view)   
 **M.Quadrio**  
 *Invited **plenary** lecture*, Otorhinolaryngology – Head and Neck Surgery Society of Finland, Autumn Training Days 2025, Tampere (FI), Oct 9-10 2025
 
