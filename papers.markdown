@@ -19,6 +19,7 @@ Submitted to International Journal for Numerical Methods in Biomedical Engineeri
 ------
 
 # 2025
+<!--- 98 -->
 
 - Feature Extraction from Flow Fields: Physics-Based Clustering and Morphing with Applications  
 R.Margheritti, O.Semeraro, M.Quadrio & G.Boracchi  
@@ -69,7 +70,7 @@ G.H.Spasov, J.P.Jamieson, A.P.McKiernan, M.J.Grill, K.W.Mueller, K.Burrowes, M.Q
 
 - Comparison between topological and surface sensitivities for bio-fluid dynamics applications  
 E.Segalerba, E.Gallorini, M.Quadrio & J.O.Pralits  
-*[Meccanica](https://doi.org/10.1007/s11012-024-01920-0)* in press  
+*[Meccanica](https://doi.org/10.1007/s11012-024-01920-0)* **60**, pp.1533-1544, 2025  
 *[Arxiv:physics.flu-dyn/2308.10701](https://doi.org/10.48550/arXiv.2308.10701)*
 
 - An adjoint-based approach for the surgical correction of nasal septal deviations  
