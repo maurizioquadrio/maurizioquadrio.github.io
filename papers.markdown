@@ -12,8 +12,8 @@ NCA/rejected; poi EAAI, Eng App Artificial Intelligence
 
 - Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose".
 Submitted/rejected to "Applied Mathematical Modelling" (PENNISI)
-Submitted to International Journal for Numerical Methods in Biomedical Engineering
-
+Submitted/rejected to International Journal for Numerical Methods in Biomedical Engineering
+Submitted to IJHMT
 -->
 
 ------
@@ -41,7 +41,7 @@ M.Atzori, E.Gallorini, C.Cottini, A.Benassi & M.Quadrio
 
 - Understanding the mismatch between in-vivo and in-silico rhinomanometry  
 M.Atzori, G. Dini Ciacci & M.Quadrio  
-[Medical & Biological Eng & Computing (MBEC)](https://doi.org/10.1007/s11517-025-03450-7), pp.1--11, 2025  
+[Medical & Biological Eng & Computing (MBEC)](https://doi.org/10.1007/s11517-025-03450-7), **64** pp.219--229, 2026  
 [Arxiv:physics.flu-dyn/2506.10865](https://doi.org/10.48550/arXiv.2506.10865)  
 [Biorxiv/2025/659340](https://www.biorxiv.org/cgi/content/short/2025.06.12.659340v1)
 
