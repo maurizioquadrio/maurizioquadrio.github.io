@@ -16,6 +16,12 @@ Submitted/rejected to International Journal for Numerical Methods in Biomedical 
 Submitted to IJHMT
 -->
 
+# 2026
+
+- Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose  
+E.Segalerba, E.Nabil Ahmed, M.V.Pennisi, M.Quadrio & J.O.Pralits  
+[*International Journal of Heat and Mass Transfer*](https://doi.org/10.1016/j.ijheatmasstransfer.2026.128523) **261** 128523, 2026
+
 ------
 
 # 2025
