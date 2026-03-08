@@ -4,28 +4,10 @@ title: Theses
 permalink: /theses/
 ---
 
-<!---
-
-- AGKE x fluidi non newtoniani
-- cont. tesi Marildo
-- jet entrainment (con o senza particelle) 
-- estensione bump Mollicone con particelle 
-- particelle bidisperse in HIT
-- variare l'invariante di E(k) in HIT
-- phiAGKE con superficial pattern
-- phiAGKE per shedding (BARC in fase)
-- AGKE per scalare passivo (Zonta)
-- controllo di corpo tozzo (attivo? passivo? a quale scopo?)
-
-- Michele **Andreozzi**  
-Wiener-Hopf control of turbulence
- 
--->
-
 # Ongoing
 
-- Raffaele **Mancuso**  
-phiAGKE in flussi turbolenti su superfici con pattern
+- Alessandro **Segala**
+Extracting nasal performance from temperature
 
 - Marina **Zenobi**  
 Vortex stretching in turbulence
@@ -33,29 +15,25 @@ Vortex stretching in turbulence
 - Davide **Alloggio**  
 Flow control per corpi di geometria complessa: ottimizazione della posizione degli attuatori
 
-- Giorgia **Pallara**  
-Stabilita' del flusso intorno a un'ala di libellula
-
-- Marco **Zappoli**  
-HST con point particles
-
 - Martina **Buffoli**  
 Fluidodinamica nasale: analisi in frequenza di perforazione settale 
 
-- Jacopo **Alberti**  
-Fluidodinamica nasale
-
 - Ömer **Altay**  
 Rhinomanometry and facial masks
-
-- Zainab **Mohamed Osman Ali**  
-Streamwise/spanwise forcing in turbulent Couette flow
 
 - Luca **Virecci Fana**  
 GPU-based FFT on a spectral DNS code
 
 
 # Master 
+
+<!--- 170 -->
+
+- Jacopo **Alberti**(2026, March)  
+A reliable sinonasal CT segmentation procedure for the CFD of the nasal airflow
+
+- Zainab **Mohamed Osman Ali**(2026, March)  
+On the effect of spanwise forcing in Couette flow
 
 - Simone **Lomolino** (2025, July)  
 Eulerian-Lagrangian analysis of turbulent channel flow with drag reduction

@@ -10,10 +10,9 @@ permalink: /papers/
 Margheritti, Schillaci, Pipolo, Quadrio, Boracchi
 NCA/rejected; poi EAAI, Eng App Artificial Intelligence
 
-- Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose".
-Submitted/rejected to "Applied Mathematical Modelling" (PENNISI)
-Submitted/rejected to International Journal for Numerical Methods in Biomedical Engineering
-Submitted to IJHMT
+"The importance of nasal airflow distribution for olfactory function and paranasal sinus ventilation: Insights from a Computational Fluid Dynamics evaluation in Dupilumab-treated CRSwNP Patients" 
+by Pipolo, Carlotta; Nava, Nicolò; Pierpaoli, Lorenzo; saibene, alberto; Ferella, Francesco; Ottavia, Alice; Quadrio, Maurizio; Felisati, Giovanni
+International Forum of Allergy & Rhinology.
 -->
 
 # 2026
