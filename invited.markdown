@@ -5,7 +5,7 @@ permalink: /seminars/
 ---
 
 - The flow in the human nose: CFD, surgery and flow control  
-*Invited seminar*, Universita' di Genova (I), Dec 11 2025
+*Invited seminar*, Università di Genova (I), Dec 11 2025
 
 - Computational Fluid Dynamics in rhinology (a personal view)  
 *Invited **plenary** lecture*, Otorhinolaryngology – Head and Neck Surgery Society of Finland, Autumn Training Days 2025, Tampere (FI), Oct 9-10 2025
@@ -17,7 +17,7 @@ permalink: /seminars/
 *Invited **keynote** lecture*, AI and Fluid Mechanics, 1st International Symposium, Chania (GR), May 27-30, 2025
 
 - Spanwise forcing at PoliMI  
-*Invited seminar*, Universita' di Modena e Reggio Emilia (I), May 8 2025
+*Invited seminar*, Università di Modena e Reggio Emilia (I), May 8 2025
 
 - Fluid mechanics of the human nose: where surgery meets flow control  
 *Invited seminar*, Delft University of Technology (NL), Jan 17 2025
@@ -105,69 +105,52 @@ permalink: /seminars/
 *Invited seminar*, Institute for Science and Technology - Austria, Wien (A), Oct 29 2014 
 
 - Fluid dynamics of the nasal cavity: how to, what for  
-**M. Quadrio**  
 *Invited seminar*, Università di Genova (I), Feb 21 2014
 
 - Modern View(s) of Wall Turbulence: What changed in the last 50 years  
-**M. Quadrio**  
 *Invited **keynote** lecture*, 31st UIT Heat Transfer Conference, Moltrasio (I), Jun 25-27 2013
 
 - Fluid dynamics of the nasal cavity: How to, what for  
-**M. Quadrio**  
 *Invited seminar*, University College Dublin (IRL), Jan 30 2013
 
 - Comparing drag reduction techniques in the "Money vs Time" framework  
-**M. Quadrio**  
 *Invited seminar*, Warwick University (UK), Jan 16 2013 
 
 - Turbulent wall flow control  
-**M. Quadrio**  
 *Invited lecture*, ERCOFTAC Flow Control Course, Cranfield (UK), Dec 9-10 2013
 
 - Fluidodinamica della cavita' nasale: aspetti metodologici e clinici  
-**M.Quadrio**  
 *Invited seminar*, Università di Brescia (I), May 23 2012
 
 - Drag-reducing characteristics of the generalized spanwise Stokes layer: experiments and numerical simulations  
-**M.Quadrio**  
 *Invited seminar*, Università di Roma Tor Vergata (I), May 5 2011
 
 - Drag-reducing characteristics of the generalized spanwise Stokes Layer: experiments and numerical simulations  
-**M.Quadrio**  
 *Invited **keynote** lecture*, International Specialist Workshop on Open-Loop versus Closed-Loop Control of Wall Turbulence, Tokyo (JP), Mar 17-19 2010
 
 - Turbulent drag reduction by spanwise wall forcing  
-**M.Quadrio**  
 *Invited seminar*, Technische Universitaet Darmstadt (D), Jun 15 2010
 
 - Spanwise forcing of wall flows for turbulent drag reduction  
-**M.Quadrio**  
 *Invited seminar*, Università di Bologna a Forlì (I), Dec 1 2009
 
 - Experimental measurement of turbulent drag reduction by streamwise-traveling waves  
-**M.Quadrio**  
 *Invited seminar*, King's College London (UK), Nov 25 2009
 
 - Phase-locked linear response of a turbulent channel flow  
-**M.Quadrio**  
 *Invited seminar*, LadHyx, Ecole Politechnique, Paris (F), Oct 2 2008 
 
 - Phase-locked linear response of a turbulent channel flow  
-**M.Quadrio**  
 *Invited seminar*, Politecnico di Torino (I), Jan 12 2007 
 
 - Spanwise forcing of turbulent wall flows for drag reduction  
-**M.Quadrio**  
 *Invited seminar*, King's College London (UK), 2006
 
 - Flussi turbolenti su pareti curve: studio numerico e sperimentale  
-**M.Quadrio**  
 *Invited seminar*, Università di Napoli Federico II (I), Sep 30 2006
 
 - Control of Turbulent Wall Flows: A survey of strategies explored at Politecnico di Milano  
-**M.Quadrio**  
 *Invited seminar*, Imperial College, Sep 30 2004, London (UK)
 
 - Direct numerical simulation of active control of turbulence  
-**M.Quadrio**  
 *Invited **keynote** lecture*, EUROMECH Colloquium 332 on *Drag Reduction*, IX European Drag Reduction Working Meeting, Ravello (I), Apr 19-21 1995
