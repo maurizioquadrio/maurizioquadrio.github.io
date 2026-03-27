@@ -30,12 +30,12 @@ GPU-based FFT on a spectral DNS code
 
 # Master 
 
-- Jacopo **Alberti**(2026, March)  
+- Jacopo **Alberti** (2026, March)  
 A reliable sinonasal CT segmentation procedure for the CFD of the nasal airflow
 
 <!--- 170 -->
 
-- Zainab **Mohamed Osman Ali**(2026, March)  
+- Zainab **Mohamed Osman Ali** (2026, March)  
 On the effect of spanwise forcing in Couette flow
 
 - Marco **Zappoli** (2026, March; co-advisor)  
