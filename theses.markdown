@@ -51,7 +51,7 @@ Clustering and preferential sampling in homogeneous shear turbulence
 *[A DNS analysis of the effects of cross-sectional geometric defects on riblet performance](https://hdl.handle.net/10589/240794)*
 
 - Francesca **Cerbone** (2025, July)  
-*[Turbolenza nei solidi? Aspetti statistici della deformazione intermittente nelle transizioni di fase martensitiche in leghe a memoria di forma}(https://hdl.handle.net/10589/240273)*
+*[Turbolenza nei solidi? Aspetti statistici della deformazione intermittente nelle transizioni di fase martensitiche in leghe a memoria di forma](https://hdl.handle.net/10589/240273)*
 
 - Karl **Vieths**(2025, April)   
 *[Spanwise forcing without walls](https://hdl.handle.net/10589/236294)*
