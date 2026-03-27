@@ -188,7 +188,7 @@ A.Schillaci & M.Quadrio
 A.Chiarini, M.Quadrio & F.Auteri  
 *[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2022.99)* **936** R2, pp.1--11, 2022
 
-- On the frequency selection mechanism of the low-$Re$ flow around rectangular cylinders  
+- On the frequency selection mechanism of the low-*Re* flow around rectangular cylinders  
 A.Chiarini, M.Quadrio & F.Auteri, 2022  
 *[Journal of Fluid Mechanics](https://doi.org/10.1017/jfm.2021.1027)* **933** A44 pp.1--25, 2022
 

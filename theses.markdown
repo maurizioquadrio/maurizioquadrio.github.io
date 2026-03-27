@@ -6,7 +6,10 @@ permalink: /theses/
 
 # Ongoing
 
-- Alessandro **Segala**
+- Filippo **Scrivano**   
+Classification of nasal flows
+
+- Alessandro **Segala**  
 Extracting nasal performance from temperature
 
 - Marina **Zenobi**  
@@ -27,25 +30,28 @@ GPU-based FFT on a spectral DNS code
 
 # Master 
 
-<!--- 170 -->
-
 - Jacopo **Alberti**(2026, March)  
 A reliable sinonasal CT segmentation procedure for the CFD of the nasal airflow
+
+<!--- 170 -->
 
 - Zainab **Mohamed Osman Ali**(2026, March)  
 On the effect of spanwise forcing in Couette flow
 
+- Marco **Zappoli** (2026, March; co-advisor)  
+Clustering and preferential sampling in homogeneous shear turbulence
+
 - Simone **Lomolino** (2025, July)  
-Eulerian-Lagrangian analysis of turbulent channel flow with drag reduction
+*[Eulerian-Lagrangian analysis of turbulent channel flow with drag reduction](https://hdl.handle.net/10589/240496)*
 
 - Carlantonio **Di Venosa** (2025, July)  
-CFD-driven Machine Learning for the classification of nasal breathing difficulties
+*[CFD-driven Machine Learning for the classification of nasal breathing difficulties](https://hdl.handle.net/10589/240597)*
 
 - Luigi **Raggi** (2025, July)  
-A DNS analysis of the effects of cross-sectional geometric defects on riblet performance
+*[A DNS analysis of the effects of cross-sectional geometric defects on riblet performance](https://hdl.handle.net/10589/240794)*
 
 - Francesca **Cerbone** (2025, July)  
-Turbolenza nei solidi? Aspetti statistici della deformazione intermittente nelle transizioni di fase martensitiche in leghe a memoria di forma
+*[Turbolenza nei solidi? Aspetti statistici della deformazione intermittente nelle transizioni di fase martensitiche in leghe a memoria di forma}(https://hdl.handle.net/10589/240273)*
 
 - Karl **Vieths**(2025, April)   
 *[Spanwise forcing without walls](https://hdl.handle.net/10589/236294)*
