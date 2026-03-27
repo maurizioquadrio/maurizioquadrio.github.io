@@ -12,9 +12,6 @@ Classification of nasal flows
 - Alessandro **Segala**  
 Extracting nasal performance from temperature
 
-- Marina **Zenobi**  
-Vortex stretching in turbulence
-
 - Davide **Alloggio**  
 Flow control per corpi di geometria complessa: ottimizazione della posizione degli attuatori
 
