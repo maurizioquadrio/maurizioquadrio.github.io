@@ -11,11 +11,25 @@ Margheritti, Schillaci, Pipolo, Quadrio, Boracchi
 NCA/rejected; poi EAAI, Eng App Artificial Intelligence
 
 "The importance of nasal airflow distribution for olfactory function and paranasal sinus ventilation: Insights from a Computational Fluid Dynamics evaluation in Dupilumab-treated CRSwNP Patients" 
-by Pipolo, Carlotta; Nava, Nicolò; Pierpaoli, Lorenzo; saibene, alberto; Ferella, Francesco; Ottavia, Alice; Quadrio, Maurizio; Felisati, Giovanni
+by Pipolo, Carlotta; Nava, Nicolò; Pierpaoli, Lorenzo; Saibene, Alberto; Ferella, Francesco; Ottavi, Alice; Quadrio, Maurizio; Felisati, Giovanni
 International Forum of Allergy & Rhinology.
+
+Handling geometric singularities efficiently with the immersed-boundary method: application to riblets
+Cipelli, Chiarini, Quadrio, Gatti, Luchini
+JCP
+
 -->
 
 # 2026
+
+- On the optimal period of spanwise wall forcing for turbulent drag reduction  
+M.Quadrio, F.Gattere, M.Castelletti & A.Chiarini  
+Accepted for publication, *J. Fluid Mechanics*  
+[Arxiv:physics.flu-dyn/2604.12074v1](https://doi.org/10.48550/arXiv.2604.12074)
+
+- Comparison between localized skin-friction reduction and suction on a supercritical airfoil  
+A.Frede, G.Soldati, S.Pirozzoli, N.Berizzi, M.Quadrio & D.Gatti  
+Accepted for publication, *Flow, Turbulence and Combustion*
 
 - Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose  
 E.Segalerba, E.Nabil Ahmed, M.V.Pennisi, M.Quadrio & J.O.Pralits  
