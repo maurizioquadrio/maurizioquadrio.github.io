@@ -16,13 +16,13 @@ Extracting nasal performance from temperature
 Flow control per corpi di geometria complessa: ottimizazione della posizione degli attuatori
 
 - Martina **Buffoli**  
-Fluidodinamica nasale: analisi in frequenza di perforazione settale 
+Fluidodinamica nasale: analisi in frequenza di segnali temporali
 
 - Ömer **Altay**  
 Rhinomanometry and facial masks
 
 - Luca **Virecci Fana**  
-GPU-based FFT on a spectral DNS code
+GPU programming for a DNS code
 
 
 # Master 
