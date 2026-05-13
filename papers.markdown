@@ -24,7 +24,7 @@ JCP
 
 - Wiener filtering in wall turbulence  
 M.Castelletti, F.Gattere & M.Quadrio  
-[*Journal of Physics: Conference Series*](doi:10.1088/1742-6596/3230/1/012010) **3230** (2026) 012010
+[*Journal of Physics: Conference Series*](doi:10.1088/1742-6596/3230/1/012010) **3230** (2026) 012010, pp.1--16
 
 - On the optimal period of spanwise wall forcing for turbulent drag reduction  
 M.Quadrio, F.Gattere, M.Castelletti & A.Chiarini  
@@ -33,7 +33,7 @@ Accepted for publication, *J. Fluid Mechanics*
 
 - Comparison between localized skin-friction reduction and suction on a supercritical airfoil  
 A.Frede, G.Soldati, S.Pirozzoli, N.Berizzi, M.Quadrio & D.Gatti  
-Accepted for publication, *Flow, Turbulence and Combustion*
+[*Flow, Turbulence and Combustion*](https://doi.org/10.1007/s10494-026-00748-w) **116** n.50, pp.1--31
 
 - Modeling of conjugate forced convection using effective boundary conditions: From plane channel to the human nose  
 E.Segalerba, E.Nabil Ahmed, M.V.Pennisi, M.Quadrio & J.O.Pralits  
