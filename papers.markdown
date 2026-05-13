@@ -8,7 +8,7 @@ permalink: /papers/
 
 - Data Augmentation and Preparation for Training Machine Learning Models on Flow Fields
 Margheritti, Schillaci, Pipolo, Quadrio, Boracchi
-NCA/rejected; poi EAAI, Eng App Artificial Intelligence
+NCA/rejected; poi EAAI, Eng App Artificial Intelligence, tutto rejected. Al momento siamo su CG
 
 "The importance of nasal airflow distribution for olfactory function and paranasal sinus ventilation: Insights from a Computational Fluid Dynamics evaluation in Dupilumab-treated CRSwNP Patients" 
 by Pipolo, Carlotta; Nava, Nicolò; Pierpaoli, Lorenzo; Saibene, Alberto; Ferella, Francesco; Ottavi, Alice; Quadrio, Maurizio; Felisati, Giovanni
@@ -21,6 +21,10 @@ JCP
 -->
 
 # 2026
+
+- Wiener filtering in wall turbulence  
+M.Castelletti, F.Gattere & M.Quadrio  
+[*Journal of Physics: Conference Series*](doi:10.1088/1742-6596/3230/1/012010) **3230** (2026) 012010
 
 - On the optimal period of spanwise wall forcing for turbulent drag reduction  
 M.Quadrio, F.Gattere, M.Castelletti & A.Chiarini  
