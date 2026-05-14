@@ -24,7 +24,7 @@ JCP
 
 - Wiener filtering in wall turbulence  
 M.Castelletti, F.Gattere & M.Quadrio  
-[*Journal of Physics: Conference Series*](doi:10.1088/1742-6596/3230/1/012010) **3230** (2026) 012010, pp.1--16
+[*Journal of Physics: Conference Series*](https://doi.org/10.1088/1742-6596/3230/1/012010) **3230** (2026) 012010, pp.1--16
 
 - On the optimal period of spanwise wall forcing for turbulent drag reduction  
 M.Quadrio, F.Gattere, M.Castelletti & A.Chiarini  
@@ -39,10 +39,17 @@ A.Frede, G.Soldati, S.Pirozzoli, N.Berizzi, M.Quadrio & D.Gatti
 E.Segalerba, E.Nabil Ahmed, M.V.Pennisi, M.Quadrio & J.O.Pralits  
 [*International Journal of Heat and Mass Transfer*](https://doi.org/10.1016/j.ijheatmasstransfer.2026.128523) **261** 128523, 2026
 
+- Understanding the mismatch between in-vivo and in-silico rhinomanometry  
+M.Atzori, G. Dini Ciacci & M.Quadrio  
+[Medical & Biological Eng & Computing (MBEC)](https://doi.org/10.1007/s11517-025-03450-7), **64** pp.219--229, 2026  
+[Arxiv:physics.flu-dyn/2506.10865](https://doi.org/10.48550/arXiv.2506.10865)  
+[Biorxiv/2025/659340](https://www.biorxiv.org/cgi/content/short/2025.06.12.659340v1)
+
+
 ------
 
 # 2025
-<!--- 98 -->
+<!--- 97 -->
 
 - Feature Extraction from Flow Fields: Physics-Based Clustering and Morphing with Applications  
 R.Margheritti, O.Semeraro, M.Quadrio & G.Boracchi  
@@ -61,12 +68,6 @@ P.Luchini, D.Gatti, A.Chiarini, F.Gattere, M.Atzori & M.Quadrio
 - Direct numerical simulations of inhalation in a 23-generation lung model  
 M.Atzori, E.Gallorini, C.Cottini, A.Benassi & M.Quadrio  
 [Arxiv:physics.flu-dyn/2506.14729](http://arxiv.org/abs/2506.14729)
-
-- Understanding the mismatch between in-vivo and in-silico rhinomanometry  
-M.Atzori, G. Dini Ciacci & M.Quadrio  
-[Medical & Biological Eng & Computing (MBEC)](https://doi.org/10.1007/s11517-025-03450-7), **64** pp.219--229, 2026  
-[Arxiv:physics.flu-dyn/2506.10865](https://doi.org/10.48550/arXiv.2506.10865)  
-[Biorxiv/2025/659340](https://www.biorxiv.org/cgi/content/short/2025.06.12.659340v1)
 
 - Modeling and simulation of the human respiratory system; Part 2: Inhaler design, *in vitro* experiments and imaging  
 G.H.Spasov, J.P.Jamieson, A.P.McKiernan, M.J.Grill, K.W.Mueller, K.Burrowes, M.Quadrio, E.Estes, L.Cacopardo, A.J.Banko, Ma.Reddemann, F.F.Stellari, C.Cottini & A.Benassi  
