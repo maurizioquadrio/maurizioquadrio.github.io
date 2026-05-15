@@ -22,14 +22,14 @@ JCP
 
 # 2026
 
+- On the optimal period of spanwise wall forcing for turbulent drag reduction  
+M.Quadrio, F.Gattere, M.Castelletti & A.Chiarini  
+[*J. Fluid Mechanics*](https://doi.org/10.1017/jfm.2026.11562)**1035** R1, pp.1--13, 2026   
+[Arxiv:physics.flu-dyn/2604.12074v1](https://doi.org/10.48550/arXiv.2604.12074)
+
 - Wiener filtering in wall turbulence  
 M.Castelletti, F.Gattere & M.Quadrio  
 [*Journal of Physics: Conference Series*](https://doi.org/10.1088/1742-6596/3230/1/012010) **3230** (2026) 012010, pp.1--16
-
-- On the optimal period of spanwise wall forcing for turbulent drag reduction  
-M.Quadrio, F.Gattere, M.Castelletti & A.Chiarini  
-Accepted for publication, *J. Fluid Mechanics*  
-[Arxiv:physics.flu-dyn/2604.12074v1](https://doi.org/10.48550/arXiv.2604.12074)
 
 - Comparison between localized skin-friction reduction and suction on a supercritical airfoil  
 A.Frede, G.Soldati, S.Pirozzoli, N.Berizzi, M.Quadrio & D.Gatti  
