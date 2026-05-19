@@ -10,11 +10,14 @@ permalink: /conferences/
 Spanwise forcing without walls
 K.Vieths, D.Gatti & M.Quadrio
 
-DNS of nasal flows with a new immersed-boundary solver
-A.Portioli
-DLES15
-
 -->
+
+# 2026
+
+- DNS of nasal flows with a new immersed-boundary solver  
+**A.Portioli**, M.Atzori & M.Quadrio  
+DLES15, May 20-22, Delft (NL)
+
 
 # 2025
 <!--- 166 -->
