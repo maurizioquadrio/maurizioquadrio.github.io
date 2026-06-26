@@ -15,10 +15,10 @@ permalink: /phd/
 
 - Marco **Castelletti**  
 
-- Riccardo **Margheritti** (co-advisor)
-
-
 # PhD theses 
+
+- Riccardo **Margheritti** (co-advisor, 2026)  
+*[Machine Learning Models for Inference from Flow Fields](Files-margheritti.pdf)*  
 
 - Federica **Gattere** (2024)  
 *[Skin-friction drag reduction in turbulent flows: physical understanding and practical applications](Files/gattere.pdf)*

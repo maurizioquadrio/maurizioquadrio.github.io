@@ -12,9 +12,6 @@ Classification of nasal flows
 - Alessandro **Segala**  
 Extracting nasal performance from temperature
 
-- Davide **Alloggio**  
-Flow control per corpi di geometria complessa: ottimizazione della posizione degli attuatori
-
 - Martina **Buffoli**  
 Fluidodinamica nasale: analisi in frequenza di segnali temporali
 
@@ -26,6 +23,9 @@ GPU programming for a DNS code
 
 
 # Master 
+
+- Davide **Alloggio** (2026, July)  
+Enhancing Transonic Airfoil Efficiency Through Localized Friction Reduction 
 
 - Jacopo **Alberti** (2026, March)  
 A reliable sinonasal CT segmentation procedure for the CFD of the nasal airflow

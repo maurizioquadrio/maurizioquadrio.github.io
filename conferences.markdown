@@ -6,13 +6,24 @@ permalink: /conferences/
 
 <!---
 
+
 14th International Symposium on Turbulence and Shear Flow Phenomena (TSFP14), Heidelberg, Germany, July 28–31, 2026
 Spanwise forcing without walls
 K.Vieths, D.Gatti & M.Quadrio
 
+EDRFCM: 
+1) SPANWISE WALL OSCILLATIONS FOR DRAG REDUCTION, WITHOUT WALLS
+K. Vieths1∗ , D. Gatti1 , M. Quadrio2
+2) MIO
+3) NICK
+4) CAST
 -->
 
 # 2026
+
+- Linear prediction in a turbulent channel flow from wall-based measurements  
+**M.Castelletti**, F.Gattere, P.Luchini & M.Quadrio  
+EUROMECH Colloquium 665, Paris, June 8 2026
 
 - DNS of nasal flows with a new immersed-boundary solver  
 **A.Portioli**, M.Atzori & M.Quadrio  
