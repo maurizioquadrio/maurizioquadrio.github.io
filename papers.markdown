@@ -22,6 +22,11 @@ JCP
 
 # 2026
 
+- Direct numerical simulations of inhalation in a 23-generation lung model  
+M.Atzori, E.Gallorini, C.Cottini, A.Benassi & M.Quadrio  
+Accept for publication, *J. for Numerical Methods in Biomedical Engineering*
+[Arxiv:physics.flu-dyn/2506.14729](http://arxiv.org/abs/2506.14729)
+
 - On the optimal period of spanwise wall forcing for turbulent drag reduction  
 M.Quadrio, F.Gattere, M.Castelletti & A.Chiarini  
 [*J. Fluid Mechanics*](https://doi.org/10.1017/jfm.2026.11562)**1035** R1, pp.1--13, 2026   
@@ -49,7 +54,7 @@ M.Atzori, G. Dini Ciacci & M.Quadrio
 ------
 
 # 2025
-<!--- 97 -->
+<!--- 98 -->
 
 - Feature Extraction from Flow Fields: Physics-Based Clustering and Morphing with Applications  
 R.Margheritti, O.Semeraro, M.Quadrio & G.Boracchi  
@@ -64,10 +69,6 @@ D.Gatti, M.Quadrio, A.Chiarini, F.Gattere & S.Pirozzoli
 P.Luchini, D.Gatti, A.Chiarini, F.Gattere, M.Atzori & M.Quadrio  
 *[J. Comp. Physics](https://doi.org/10.1016/j.jcp.2025.114245)*  **539** p.114245, 2025  
 [Arxiv:physics.flu-dyn/2506.14328](http://arxiv.org/abs/2506.14328)
-
-- Direct numerical simulations of inhalation in a 23-generation lung model  
-M.Atzori, E.Gallorini, C.Cottini, A.Benassi & M.Quadrio  
-[Arxiv:physics.flu-dyn/2506.14729](http://arxiv.org/abs/2506.14729)
 
 - Modeling and simulation of the human respiratory system; Part 2: Inhaler design, *in vitro* experiments and imaging  
 G.H.Spasov, J.P.Jamieson, A.P.McKiernan, M.J.Grill, K.W.Mueller, K.Burrowes, M.Quadrio, E.Estes, L.Cacopardo, A.J.Banko, Ma.Reddemann, F.F.Stellari, C.Cottini & A.Benassi  
