@@ -21,7 +21,12 @@ K. Vieths1∗ , D. Gatti1 , M. Quadrio2
 
 # 2026
 
-- Linear prediction in a turbulent channel flow from wall-based measurements  
+- Spanwise Wall Oscillations for Drag Reduction, Without Walls  
+K. Vieths, D.Gatti  \& M.Quadrio  
+14th International Symposium on Turbulence and Shear Flow Phenomena (TSFP14),
+July 28–31, 2026, Heidelberg (D) 
+
+- Turbulent channel flow: linear prediction from wall-based measurements  
 **M.Castelletti**, F.Gattere, P.Luchini & M.Quadrio  
 EUROMECH Colloquium 665, Paris, June 8 2026
 
