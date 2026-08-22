@@ -24,12 +24,12 @@ JCP
 
 - Direct numerical simulations of inhalation in a 23-generation lung model  
 M.Atzori, E.Gallorini, C.Cottini, A.Benassi & M.Quadrio  
-Accept for publication, *J. for Numerical Methods in Biomedical Engineering*
+[*J. for Numerical Methods in Biomedical Engineering*](https://doi.org/10.1002/cnm.70208) **42** n.8, e70208, pp.1--19  
 [Arxiv:physics.flu-dyn/2506.14729](http://arxiv.org/abs/2506.14729)
 
 - On the optimal period of spanwise wall forcing for turbulent drag reduction  
 M.Quadrio, F.Gattere, M.Castelletti & A.Chiarini  
-[*J. Fluid Mechanics*](https://doi.org/10.1017/jfm.2026.11562)**1035** R1, pp.1--13, 2026   
+[*J. Fluid Mechanics*](https://doi.org/10.1017/jfm.2026.11562) **1035** R1, pp.1--13, 2026   
 [Arxiv:physics.flu-dyn/2604.12074v1](https://doi.org/10.48550/arXiv.2604.12074)
 
 - Wiener filtering in wall turbulence  
