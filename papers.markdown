@@ -22,6 +22,11 @@ JCP
 
 # 2026
 
+- Energy transfer and scale organisation in dense canopy turbulence
+R.Bertoncello, A.Chiarini, G.Foggi Rota, M.Quadrio \& M.E.Rosti
+Accepted for publication on *J. Fluid Mechanics*   
+[Arxiv:physics.flu-dyn/2608.27272](https://doi.org/10.48550/arXiv.2608.27272)
+
 - Direct numerical simulations of inhalation in a 23-generation lung model  
 M.Atzori, E.Gallorini, C.Cottini, A.Benassi & M.Quadrio  
 [*J. for Numerical Methods in Biomedical Engineering*](https://doi.org/10.1002/cnm.70208) **42** n.8, e70208, pp.1--19  
