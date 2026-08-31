@@ -6,6 +6,9 @@ permalink: /theses/
 
 # Ongoing
 
+- Viola **Monti**
+Normalita' funzionale nella fluidodinamica nasale
+
 - Filippo **Scrivano**   
 Classification of nasal flows
 
@@ -19,7 +22,7 @@ Fluidodinamica nasale: analisi in frequenza di segnali temporali
 Rhinomanometry and facial masks
 
 - Luca **Virecci Fana**  
-GPU programming for a DNS code
+GPU programming for an incompressible DNS solver
 
 
 # Master 
