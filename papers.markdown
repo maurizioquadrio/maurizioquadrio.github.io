@@ -25,6 +25,7 @@ JCP
 - Drag reduction and subcritical turbulence in controlled pipe flows  
 E.Gallorini, D.Massaro, P.Schlatter & M.Quadrio  
 Accepted for publication on *J. Fluid Mechanics*   
+[Arxiv:physics.flu-dyn/2608.30452](https://arxiv.org/abs/2608.30452)
 
 - Energy transfer and scale organisation in dense canopy turbulence  
 R.Bertoncello, A.Chiarini, G.Foggi Rota, M.Quadrio & M.E.Rosti  
