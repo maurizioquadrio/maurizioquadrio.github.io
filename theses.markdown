@@ -6,7 +6,7 @@ permalink: /theses/
 
 # Ongoing
 
-- Viola **Monti**
+- Viola **Monti**   
 Normalita' funzionale nella fluidodinamica nasale
 
 - Filippo **Scrivano**   
