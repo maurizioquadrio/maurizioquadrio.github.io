@@ -6,23 +6,20 @@ permalink: /conferences/
 
 <!---
 
-
-14th International Symposium on Turbulence and Shear Flow Phenomena (TSFP14), Heidelberg, Germany, July 28–31, 2026
-Spanwise forcing without walls
-K.Vieths, D.Gatti & M.Quadrio
-
-EDRFCM: 
-1) SPANWISE WALL OSCILLATIONS FOR DRAG REDUCTION, WITHOUT WALLS
-K. Vieths1∗ , D. Gatti1 , M. Quadrio2
-2) MIO
-3) NICK
-4) CAST
 -->
 
 # 2026
 
+- Linear prediction and control in a turbulent channel flow  
+**M.Castelletti**, F.Gattere, P.Luchini & M.Quadrio  
+European Drag Reduction and Flow Control Meeting, Sept 8--11 2026, Madrid (E)
+
+- On the effects of spanwise forcing on shock wave–boundary layer interaction  
+**N.Berizzi**, G.Soldati, S.Pirozzoli & M.Quadrio  
+European Drag Reduction and Flow Control Meeting, Sept 8--11 2026, Madrid (E)
+
 - Spanwise Wall Oscillations for Drag Reduction, Without Walls  
-K. Vieths, D.Gatti  \& M.Quadrio  
+**K.Vieths**, D.Gatti & M.Quadrio  
 14th International Symposium on Turbulence and Shear Flow Phenomena (TSFP14),
 July 28–31, 2026, Heidelberg (D) 
 
