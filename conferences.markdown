@@ -10,13 +10,18 @@ permalink: /conferences/
 
 # 2026
 
+
+- Spanwise Wall Oscillations for Drag Reduction, Without Walls  
+K.Vieths1, **D.Gatti** & M.Quadrio  
+EUROMECH Drag Reduction and Flow Control Meeting, Sept 8--11 2026, Madrid (E)
+
 - Linear prediction and control in a turbulent channel flow  
 **M.Castelletti**, F.Gattere, P.Luchini & M.Quadrio  
-European Drag Reduction and Flow Control Meeting, Sept 8--11 2026, Madrid (E)
+EUROMECH Drag Reduction and Flow Control Meeting, Sept 8--11 2026, Madrid (E)
 
 - On the effects of spanwise forcing on shock wave–boundary layer interaction  
 **N.Berizzi**, G.Soldati, S.Pirozzoli & M.Quadrio  
-European Drag Reduction and Flow Control Meeting, Sept 8--11 2026, Madrid (E)
+EUROMECH Drag Reduction and Flow Control Meeting, Sept 8--11 2026, Madrid (E)
 
 - Spanwise Wall Oscillations for Drag Reduction, Without Walls  
 **K.Vieths**, D.Gatti & M.Quadrio  
@@ -136,23 +141,23 @@ European Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
 
 - Sinusoidal riblets for turbulent drag reduction  
 **S.Cipelli**, M.Quadrio, F.Gattere, A.Chiarini, P.Luchini & D.Gatti  
-European Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
+ERCOFTAC Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
 
 - On the optimal period of spanwise forcing for turbulent drag reduction  
 **F.Gattere**, A.Chiarini, M.Castelletti & M.Quadrio  
-European Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
+ERCOFTAC Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
 
 - Spanwise wall oscillation in a damped channel flow for turbulent drag reduction  
 **M.Castelletti**, E.Gallorini & M.Quadrio  
-European Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
+ERCOFTAC Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
 
 - Direct numerical simulations of a transonic airfoil with spanwise forcing for drag reduction  
 **N.Berizzi**, D.Gatti, S.Pirozzoli, G.Soldati & M.Quadrio  
-European Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
+ERCOFTAC Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
 
 - Numerical study of turbulent skin-friction drag reduction via spanwise forcing at large values of Reynolds number  
 **D.Gatti**, M.Quadrio, F.Gattere, A.Chiarini & S.Pirozzoli  
-European Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
+ERCOFTAC Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
 
 - Linear Impulse Response of a Turbulent Channel Flow  
 **F.Gattere**, A.Codrignani, D.Gatti & M.Quadrio  
@@ -251,11 +256,11 @@ New Results in Numerical and Experimental Fluid Mechanics XIV **154** pp 569–5
 
 - Scale-space budget equations for inhomogeneous (quasi-)periodic turbulent flows  
 **F.Gattere**, A.Chiarini, E.Gallorini & M.Quadrio  
-European Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
+Euromech Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
 
 - An almost subharmonic instability in the flow past rectangular cylinders  
 **A.Chiarini**, M.Quadrio & F.Auteri  
-European Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
+Euromech Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
 
 - On-off pumping for drag reduction in a turbulent channel ﬂow  
 **G.Foggi Rota**, A.Monti, M.E. Rosti & M.Quadrio  
@@ -271,23 +276,23 @@ European Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
 
 - Towards reliable and cost-effective DNS over riblets  
 **F.Gattere**, A.Chiarini, G.M.Cavallazzi, A.Rossi, D.Gatti, P.Luchini & M.Quadrio  
-European Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
+ERCOFTAC Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
 
 - Coherent near-wall structures and drag reduction by spanwise forcing  
 **E.Gallorini**, M.Quadrio & D.Gatti  
-European Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
+ERCOFTAC Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
 
 - Drag reduction on a transonic airfoil  
 **M.Quadrio**, A.Chiarini, D.Gatti, J.Banchetti, A.Memmolo & S.Pirozzoli  
-European Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
+ERCOFTAC Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
 
 - On-off pumping for drag reduction in a turbulent channel ﬂow  
 **G.Foggi Rota**, A.Monti, M.E. Rosti & M.Quadrio  
-European Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
+ERCOFTAC Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
 
 - Turbulent drag reduction using spanwise forcing in compressible regime  
 F.Gattere, **A.Chiarini**, M.Zanolini, D.Gatti, M.Bernardini & M.Quadrio  
-European Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
+ERCOFTAC Drag Reduction and Flow Control Meeting, Sept 6--9 2022, Paris (F)
 
 - Comparison of nasal anatomies using computational fluid dynamics  
 **E.Segalerba**, J.Pralits, M.Quadrio & J.Guerrero  
@@ -351,15 +356,15 @@ XVII Euromech Turbulence Conference 2019, , Sept. 3-6 2019, Turin (I)
 
 - A model for fluctuations of the spatial mean in a turbulent channel flow  
 **P.Luchini** & M.Quadrio  
-European Drag Reduction and Flow Control Meeting, Mar. 26--29 2019, Bad Herrenalb (D)
+ERCOFTAC Drag Reduction and Flow Control Meeting, Mar. 26--29 2019, Bad Herrenalb (D)
 
 - Turbulent drag reduction for a wall with a bump  
 **M.Quadrio**, J.Banchetti & P.Luchini  
-European Drag Reduction and Flow Control Meeting, Mar. 26--29 2019, Bad Herrenalb (D)
+ERCOFTAC Drag Reduction and Flow Control Meeting, Mar. 26--29 2019, Bad Herrenalb (D)
 
 - Skin-friction drag reduction described via the Anisotropic Generalised Kolmogorov Equations  
 **A.Chiarini**, M.Quadrio & D.Gatti  
-European Drag Reduction and Flow Control Meeting, Mar. 26--29 2019, Bad Herrenalb (D)
+ERCOFTAC Drag Reduction and Flow Control Meeting, Mar. 26--29 2019, Bad Herrenalb (D)
 
 - Turbulent Dissipation in Drag Reduced Flows  
 **B.Frohnapfel**, A.Cimarelli, Y.Hasegawa, M.Quadrio & D.Gatti  
@@ -413,23 +418,23 @@ PATC Workshop, HPC Methods for Engineering Applications, Jun 19-21 June 2017, Mi
 
 - Direct numerical simulation of drag reduction with uniform blowing over a two-dimensional roughness  
 **E.Mori**, M.Quadrio & K.Fukagata  
-European Drag Reduction and Flow Control Meeting, Apr 3-6 2017, Monte Porzio Catone (I)
+ERCOFTAC Drag Reduction and Flow Control Meeting, Apr 3-6 2017, Monte Porzio Catone (I)
 
 - Mean impulse response in a turbulent channel flow  
 **A.Codrignani**, D.Gatti & M.Quadrio  
-European Drag Reduction and Flow Control Meeting, Apr 3-6 2017, Monte Porzio Catone (I)
+ERCOFTAC Drag Reduction and Flow Control Meeting, Apr 3-6 2017, Monte Porzio Catone (I)
 
 - Drag reduction of a whole-aircraft configuration via spanwise forcing  
 A.Gadda, **J.Banchetti**, G.Romanelli & M.Quadrio  
-European Drag Reduction and Flow Control Meeting, Apr 3-6 2017, Monte Porzio Catone (I)
+ERCOFTAC Drag Reduction and Flow Control Meeting, Apr 3-6 2017, Monte Porzio Catone (I)
 
 - Energy transfer rates in turbulent channels with drag reduction at constant power input  
 **D.Gatti**, M.Quadrio, Y.Hasegawa, B.Frohnapfel & A.Cimarelli  
-European Drag Reduction and Flow Control Meeting, Apr 3-6 2017, Monte Porzio Catone (I)
+ERCOFTAC Drag Reduction and Flow Control Meeting, Apr 3-6 2017, Monte Porzio Catone (I)
 
 - DNS of turbulent channel flow with different types of spanwise forcing  
 **S.Pirozzoli**, M.Bernardini, M.Quadrio & P.Ricco  
-European Drag Reduction and Flow Control Meeting, Apr 3-6 2017, Monte Porzio Catone (I)
+ERCOFTAC Drag Reduction and Flow Control Meeting, Apr 3-6 2017, Monte Porzio Catone (I)
 
 -------
 
