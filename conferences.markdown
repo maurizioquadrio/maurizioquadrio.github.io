@@ -55,35 +55,35 @@ Machine Learning and Knowledge Discovery in Databases. Applied Data Science Trac
 
 - Flow in a 23-generation model of human airways: laminar but not steady!  
 **M.Atzori**, E.Gallorini, A.Benassi & M.Quadrio  
-2nd European Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
+2nd EUROMECH Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
 
 - Streamwise travelling waves for drag reduction on a transonic airfoil  
 **N.Berizzi**, D.Gatti, G.Soldati, S.Pirozzoli & M.Quadrio  
-2nd European Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
+2nd EUROMECH Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
 
 - Wiener filtering in wall turbulence  
 **M.Castelletti**, F.Gattere, P.Luchini & M.Quadrio  
-2nd European Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
+2nd EUROMECH Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
 
 - Turbulence without spectra: Looking at turbulent structures in inhomogeneous anisotropic flows  
 A.Chiarini, E.Gallorini, F.Gattere, D.Gatti & **M.Quadrio**  
-2nd European Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
+2nd EUROMECH Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
 
 - A non-planar Hele-Shaw model for the airflow in the nasal cavity  
 **A.R.Favero**, P.Luchini & M.Quadrio  
-2nd European Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
+2nd EUROMECH Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
 
 - Potential of the Linear Impulse Response Function of a Turbulent Channel Flow  
 **F.Gattere**, A.Codrignani, D.Gatti & M.Quadrio  
-2nd European Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
+2nd EUROMECH Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
 
 - Numerical Study of turbulent skin-friction drag reduction via spanwise forcing at large Reynolds numbers  
 **D.Gatti**, M.Quadrio, F.Gattere, A.Chiarini & S.Pirozzoli  
-2nd European Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
+2nd EUROMECH Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
 
 - High-performance GPU-accelerated DNS solver for human airways  
 **A.Portioli**, M.Atzori, A.Benassi & M.Quadrio  
-2nd European Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
+2nd EUROMECH Fluid Dynamics Conference, Aug 26--30 2025, Dublin (IRL)
 
 - On the optimal period of spanwise forcing for turbulent drag reduction  
 **F.Gattere**, A.Chiarini, M.Castelletti & M.Quadrio  
@@ -108,7 +108,7 @@ AI and Fluid Mechanics, 1st International AIFLUIDs Symposium, Chania (GR), May 2
 
 - Can we move beyond Engineered CFD Features? Combining Physics-Based clustering and DL to Identify Pathologies and Defects from CFD  
 **R.Margheritti**, O.Semeraro, M.Quadrio & G.Boracchi  
-Euromech Colloquium 629, Data-driven Fluid Mechanics, Apr 2--4 2025, London (UK)
+EUROMECH Colloquium 629, Data-driven Fluid Mechanics, Apr 2--4 2025, London (UK)
 
 - Can we move beyond Engineered CFD Features? Leveraging Machine Learning for CFD Flow Field Classiﬁcation  
 **R.Margheritti**, O.Semeraro, M.Quadrio & G.Boracchi  
@@ -121,23 +121,23 @@ DTE & AICOMAS 2025 - 3rd IACM Digital Twins in Engineering Conference (DTE 2025)
 
 - A machine-learning-based zonal approach for turbulence modeling  
 **M.Castelletti** & M.Quadrio  
-1st European Fluid Dynamics Conference, Sept 16--20 2024, Aachen (DE)
+1st EUROMECH Fluid Dynamics Conference, Sept 16--20 2024, Aachen (DE)
 
 - Machine learning and CFD can work together for surgery planning in the human nose  
 **M.Quadrio**, A.R.Favero & A.Schillaci  
-1st European Fluid Dynamics Conference, Sept 16--20 2024, Aachen (DE)
+1st EUROMECH Fluid Dynamics Conference, Sept 16--20 2024, Aachen (DE)
 
 - Mean Impulse Response in a Turbulent Channel Flow  
 **F.Gattere**, A.Codrignani, D.Gatti & M.Quadrio  
-1st European Fluid Dynamics Conference, Sept 16--20 2024, Aachen (DE)
+1st EUROMECH Fluid Dynamics Conference, Sept 16--20 2024, Aachen (DE)
 
 - A large scale multipatient DNS study of nasal flow  
 **E.Gallorini** & M.Quadrio  
-1st European Fluid Dynamics Conference, Sept 16--20 2024, Aachen (DE)
+1st EUROMECH Fluid Dynamics Conference, Sept 16--20 2024, Aachen (DE)
 
 - The state of turbulence in a pipe flow with drag reduction  
 **E.Gallorini**, D.Massaro, P.Schlatter & M.Quadrio  
-European Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
+ERCOFTAC Drag Reduction and Flow Control Meeting, Sept 10--13 2024, Torino (I)
 
 - Sinusoidal riblets for turbulent drag reduction  
 **S.Cipelli**, M.Quadrio, F.Gattere, A.Chiarini, P.Luchini & D.Gatti  
@@ -210,19 +210,19 @@ The 6th Symposium on Fluid-Structure-Sound Interactions and Control FSSIC, Aug. 
 
 - Accurate and efficient direct numerical simulation of turbulent drag reduction by riblets  
 **D.Gatti**, S.Cipelli, F.Gattere, A.Chiarini, P.Luchini & M.Quadrio  
-XVIII Euromech Turbulence Conference, Sept. 4-6 2023, Valencia (E)
+XVIII EUROMECH Turbulence Conference, Sept. 4-6 2023, Valencia (E)
 
 - Effect of control dicretization on streamwise travelling waves of spanwise wall velocity  
 **E.Gallorini** & M.Quadrio  
-XVIII Euromech Turbulence Conference, Sept. 4-6 2023, Valencia (E)
+XVIII EUROMECH Turbulence Conference, Sept. 4-6 2023, Valencia (E)
 
 - Spanwise forcing for turbulent drag reduction: the optimal oscillation period  
 **M.Quadrio**, A.Chiarini, A.Conforti & F.Gattere  
-XVIII Euromech Turbulence Conference, Sept. 4-6 2023, Valencia (E)
+XVIII EUROMECH Turbulence Conference, Sept. 4-6 2023, Valencia (E)
 
 - Turbulent drag reduction with streamwise travelling waves in the compressible regime  
 **F.Gattere**, A.Chiarini, M.Zanolini, D.Gatti, M.Bernardini & M.Quadrio  
-XVIII Euromech Turbulence Conference, Sept. 4-6 2023, Valencia (E)
+XVIII EUROMECH Turbulence Conference, Sept. 4-6 2023, Valencia (E)
 
 - Fluid dynamics of the human nose: modeling and clinical perspectives  
 **M.Quadrio**  
@@ -256,23 +256,23 @@ New Results in Numerical and Experimental Fluid Mechanics XIV **154** pp 569–5
 
 - Scale-space budget equations for inhomogeneous (quasi-)periodic turbulent flows  
 **F.Gattere**, A.Chiarini, E.Gallorini & M.Quadrio  
-Euromech Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
+EUROMECH Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
 
 - An almost subharmonic instability in the flow past rectangular cylinders  
 **A.Chiarini**, M.Quadrio & F.Auteri  
-Euromech Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
+EUROMECH Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
 
 - On-off pumping for drag reduction in a turbulent channel ﬂow  
 **G.Foggi Rota**, A.Monti, M.E. Rosti & M.Quadrio  
-European Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
+EUROMECH Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
 
 - A CFD-augmented machine-learning approach for the classification of nasal pathologies  
 **A.Schillaci**, G.Boracchi, C.Pipolo & M.Quadrio  
-European Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
+EUROMECH Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
 
 - Fluid Dynamics of the Human Nose: An overview of clinical perspectives enabled by CFD  
 **M.Quadrio**  
-*Invited Plenary Talk*, European Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
+*Invited Plenary Talk*, EUROMECH Fluid Mechanics Conference, Sept 13--16 2022, Athens (GR)
 
 - Towards reliable and cost-effective DNS over riblets  
 **F.Gattere**, A.Chiarini, G.M.Cavallazzi, A.Rossi, D.Gatti, P.Luchini & M.Quadrio  
@@ -348,7 +348,7 @@ iTi, Feb. 25-26 2021, Bertinoro (I)
 
 - Turbulent drag reduction for a wall with a bump  
 **J.Banchetti** & M.Quadrio  
-XVII Euromech Turbulence Conference 2019, , Sept. 3-6 2019, Turin (I)
+XVII EUROMECH Turbulence Conference 2019, , Sept. 3-6 2019, Turin (I)
 
 - Machine learning and fluid mechanics in biological applications  
 **M.Quadrio**  
@@ -406,7 +406,7 @@ DFD17 Meeting of The American Physical Society, Nov 19--21, 2017, Denver (Tx, US
 
 - Scale energy fluxes in turbulent channels with drag reduction at constant power input  
 **D.Gatti**, A.Remigi, A.Cimarelli, Y.Hasegawa, B.Frohnapfel & M.Quadrio  
-XVI Euromech Turbulence Conference, Aug. 21-24 2017, Stockholm (S), 
+XVI EUROMECH Turbulence Conference, Aug. 21-24 2017, Stockholm (S), 
 
 - Simulation of the nasal airflow with Computational Fluiddynamics in Nasal Breathing Difficulties: the LES approach  
 **C.Pipolo**, M.Quadrio, A.M.Saibene, C.Rosso, L.Castellani & G.Felisati  
@@ -491,11 +491,11 @@ International CAE Conference, Oct 19-20 2015, Pacengo sul Garda (I)
 
 - Reynolds number effect on turbulent drag reduction  
 **D.Gatti**, M.Quadrio & B.Frohnapfel  
-XV Euromech Turbulence Conference, Aug 25-28 2015, Delft (NL)
+XV EUROMECH Turbulence Conference, Aug 25-28 2015, Delft (NL)
 
 - Turbulent drag reduction by travelling waves of spanwise forcing  
 M.Quadrio & **W.Xie**  
-XV Euromech Turbulence Conference, Aug 25-28 2015, Delft (NL)
+XV EUROMECH Turbulence Conference, Aug 25-28 2015, Delft (NL)
 
 - Simulation of the nasal airflow with Computational Fluid Dynamics in Nasal Breathing Difficulties: definition of parameters  
 **C.Pipolo**, L.Castellani, M.Quadrio, S.Raina, A.M.Saibene, F.Messina, G.Felisati  
@@ -518,7 +518,7 @@ Rome (I), Sept 19-20 2014, Rome (I)
 
 - Dielectric Electroactive Polymers for drag-reducing wall oscillations in low-Reynolds turbulent channel flows  
 **D.Gatti**, A.Güttler, M.Quadrio, H.F.Schlaak, C.Tropea and B.Frohnapfel  
-Euromech Fluid Mechanics Conference X, Sep 14-18 2014, Copenhagen (DK)
+EUROMECH Fluid Mechanics Conference X, Sep 14-18 2014, Copenhagen (DK)
 
 
 -------
@@ -528,19 +528,19 @@ Euromech Fluid Mechanics Conference X, Sep 14-18 2014, Copenhagen (DK)
 
 - On the effects of porous wall on transitional and turbulent channel flows  
 **M.Quadrio**, M.Rosti, D.Scarselli & L.Cortelezzi  
-XIV Euromech Turbulence Conference, Sept. 1-4 2013, Lyon (F)
+XIV EUROMECH Turbulence Conference, Sept. 1-4 2013, Lyon (F)
 
 - Wall turbulence control by spanwise traveling waves  
 **W.Xie** & M.Quadrio  
-XIV Euromech Turbulence Conference, Sept. 1-4 2013, Lyon (F)
+XIV EUROMECH Turbulence Conference, Sept. 1-4 2013, Lyon (F)
 
 - Effectiveness of spanwise forcing for turbulent drag reduction at higher *Re*  
 **D.Gatti**, M.Quadrio, C.Tropea & B. Frohnapfel  
-XIV Euromech Turbulence Conference, Sept. 1-4 2013, Lyon (F)
+XIV EUROMECH Turbulence Conference, Sept. 1-4 2013, Lyon (F)
 
 - Direct Numerical Simulation of Turbulent Wall Flows at Constant Power Input  
 **Y.Hasegawa**,  B.Frohnapfel & M.Quadrio  
-XIV Euromech Turbulence Conference, Sept. 1-4 2013, Lyon (F)
+XIV EUROMECH Turbulence Conference, Sept. 1-4 2013, Lyon (F)
 
 - Turbulent skin-friction drag reduction by spanwise wall oscillation with generic temporal waveform  
 **A.Cimarelli**, E.De Angelis, B.Frohnapfel, Y.Hasegawa & M.Quadrio  
@@ -561,11 +561,11 @@ Turbulent Shear Flow Phenomena 8, Aug. 28-30 2013, Poitiers (F)
 
 - Comparing drag reduction techniques in the "Money-vs-Time" framework  
 **M.Quadrio**, B.Frohnapfel & Y.Hasegawa  
-ERCOFTAC Drag reduction and flow control workshop,  Dec 10-12 2012, Toulouse (F)
+ERCOFTAC Drag reduction and flow control meeting,  Dec 10-12 2012, Toulouse (F)
 
 - Near-wall enstrophy generation in a drag-reduced turbulent channel flow with spanwise wall oscillations  
 **P. Ricco**, C. Ottonelli, Y. Hasegawa & M. Quadrio  
-ERCOFTAC Drag reduction and flow control workshop, Dec 10-12 2012, Toulouse (F)
+ERCOFTAC Drag reduction and flow control meeting, Dec 10-12 2012, Toulouse (F)
 
 - Fluid dynamics of the nasal cavity: how to, what for  
 **M.Quadrio**  
@@ -573,15 +573,15 @@ HPC enabling of OpenFOAM for industrial applications, Nov 26-28 2012, CINECA Cas
 
 - Turbulent drag reduction by spanwise-traveling waves of spanwise wall velocity  
 **W.Xie** & M.Quadrio  
-Euromech Fluid Mechanics Conference 9,Sep 9-13, 2012, Roma (I)
+EUROMECH Fluid Mechanics Conference 9,Sep 9-13, 2012, Roma (I)
 
 - What happens to turbulent drag reduction at higher *Re*?  
 D.Gatti & **M.Quadrio**  
-Euromech Fluid Mechanics Conference 9,Sep 9-13, 2012, Roma (I)
+EUROMECH Fluid Mechanics Conference 9,Sep 9-13, 2012, Roma (I)
 
 - The drag-reduction oscillating-wall problem: new insight after 20 years  
 **P.Ricco**, C.Ottonelli, Y.Hasegawa & M.Quadrio  
-Euromech Fluid Mechanics Conference 9,Sep 9-13, 2012, Roma (I)
+EUROMECH Fluid Mechanics Conference 9,Sep 9-13, 2012, Roma (I)
 
 - Turbulence Drag Reduction by In-Plane Wall Motion  
 **W.Xie** & M.Quadrio  
@@ -621,7 +621,7 @@ GAMM, Mar 26-30 2012, Darmstadt (D)
 - Linear stability of Poiseuille flow over a generalized Stokes layer  
 **M.Quadrio**, F.Martinelli & P.J.Schmid  
 *Journal of Physics: Conference Series* **318**  
-Euromech Turbulence Conference XIII, Sep 12-15 2011, Warsaw (PL)
+EUROMECH Turbulence Conference XIII, Sep 12-15 2011, Warsaw (PL)
 
 - Stability of planar shear flow in presence of electroconvection  
 F.Martinelli, **M.Quadrio** & P.J.Schmid  
@@ -634,7 +634,7 @@ Turbulent Shear Flow Phenomena 7, Jul 28-31 2011, Ottawa (CAN)
 
 - Spanwise generalized Stokes layer and turbulent drag reduction  
 **M.Quadrio** & P.Ricco  
-Euromech Fluid Mechanics Conference - 8,  Sep 13-16 2010, Bad Reichenhall (D)
+EUROMECH Fluid Mechanics Conference - 8,  Sep 13-16 2010, Bad Reichenhall (D)
 
 - Turbulent superfluid profiles in a counterflow channel  
 **L.Galantucci**, C.F.Barenghi, M.Sciacca, M.Quadrio & P.Luchini   
@@ -692,11 +692,11 @@ ITI Conference on Turbulence III, Oct 12-15 2008, Bertinoro (I)
 
 - Drag reduction effects in a turbulent channel flow induced by spanwise wall oscillations  
 **P.Ricco** & M.Quadrio  
-Euromech Fluid Mechanics Conference - 7, Sep 14-18 2008, Manchester (UK)
+EUROMECH Fluid Mechanics Conference - 7, Sep 14-18 2008, Manchester (UK)
 
 - Modification of turbulent friction drag by streamwise-traveling waves of spanwise velocity  
 **P.Ricco**, M.Quadrio & C. Viotti  
-European Drag Reduction and Flow Control Meeting -- EDRFCM 2008, Sep 8-11 2008, Ostritz - St. Marienthal (D)
+ERCOFTAC Drag Reduction and Flow Control Meeting -- EDRFCM 2008, Sep 8-11 2008, Ostritz - St. Marienthal (D)
 
 -------
 
@@ -718,7 +718,7 @@ AIDAA Conference, Sep 17-21 2007, Forli' (I)
 
 - Skin-friction drag reduction via steady streamwise oscillations of spanwise velocity  
 **M.Quadrio**, C.Viotti & P.Luchini  
-XI EUROMECH European Turbulence Conference, Jun 25-28 2007, Porto (P)  
+XI EUROMECH Turbulence Conference, Jun 25-28 2007, Porto (P)  
 Advances in Turbulence XI, J.M.L.M. Palma and A. Silva Lopez, Springer, 2007. ISBN 9783540726036, 2007, p. 659-661
 
 -------
@@ -732,11 +732,11 @@ XIV AIVELA Conference, Sep 6-7 2006, Rome (I)
 
 - Wiener filters in active-feedback drag reduction of turbulent channel flow  
 **P.Luchini**, T.Bewley & M.Quadrio  
-Euromech Fluid Mechanics Conference - 6, Jun 26-30 2006, Stockholm (S)
+EUROMECH Fluid Mechanics Conference - 6, Jun 26-30 2006, Stockholm (S)
 
 - Phase-locked linear response of a turbulent channel flow  
 P.Luchini, **M.Quadrio** & S.Zuccher  
-ERCOFTAC European Drag Reduction and Flow Control Meeting, Apr 10-13 2006, Ischia (I)
+ERCOFTAC Drag Reduction and Flow Control Meeting, Apr 10-13 2006, Ischia (I)
 
 -------
 
@@ -766,11 +766,11 @@ XVII AIDAA Meeting, Sep 15-19 2003, pp. 1179--1186, Roma (I)
 
 - Control of Turbulent Channel Flow using Distributed Suction  
 **M.Quadrio**, J.M.Floryan & P.Luchini  
-5th Euromech Fluid Mechanics Conference, Aug 24-28 2003, Toulouse (FR)
+5th EUROMECH Fluid Mechanics Conference, Aug 24-28 2003, Toulouse (FR)
 
 - Turbulent Drag Reduction over an Oscillating Wall  
 **P.Ricco** & M.Quadrio  
-5th Euromech Fluid Mechanics Conference, Aug 24-28 2003, Toulouse (FR)
+5th EUROMECH Fluid Mechanics Conference, Aug 24-28 2003, Toulouse (FR)
 
 - A Parallel Algorithm for the Direct Numerical Simulation of Turbulent Channel Flow  
 **M.Quadrio**, P.Luchini & J.M.Floryan  
@@ -792,7 +792,7 @@ ASME Fluids Engineering Division Forum on {\em Flow Control}, Jul 14-18 2002, Mo
 
 - The linear response of a turbulent channel flow  
 **M.Quadrio** & P.Luchini  
-IX EUROMECH European Turbulence Conference, July 2-5 2002,  Southampton (UK)
+IX EUROMECH Turbulence Conference, July 2-5 2002,  Southampton (UK)
 
 
 -------
