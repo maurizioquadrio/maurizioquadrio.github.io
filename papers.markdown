@@ -22,6 +22,11 @@ JCP
 
 # 2026
 
+
+- Handling geometric singularities efficiently with the immersed-boundary method: application to riblets  
+S.Cipelli, A.Chiarini, M.Quadrio, D.Gatti, P.Luchini
+[Arxiv:physics.flu-dyn/2609.35050](https://arxivorg/abs/2609.35050)
+  
 - Drag reduction and subcritical turbulence in controlled pipe flows  
 E.Gallorini, D.Massaro, P.Schlatter & M.Quadrio  
 Accepted for publication on *J. Fluid Mechanics*   
