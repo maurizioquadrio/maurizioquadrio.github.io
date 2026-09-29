@@ -29,7 +29,7 @@ S.Cipelli, A.Chiarini, M.Quadrio, D.Gatti, P.Luchini
   
 - Drag reduction and subcritical turbulence in controlled pipe flows  
 E.Gallorini, D.Massaro, P.Schlatter & M.Quadrio  
-Accepted for publication on *J. Fluid Mechanics*   
+[*J. Fluid Mechanics*](https://doi.org/10.1017/jfm.2026.12073)  
 [Arxiv:physics.flu-dyn/2608.30452](https://arxiv.org/abs/2608.30452)
 
 - Energy transfer and scale organisation in dense canopy turbulence  
