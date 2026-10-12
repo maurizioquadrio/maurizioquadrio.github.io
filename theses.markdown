@@ -6,6 +6,9 @@ permalink: /theses/
 
 # Ongoing
 
+- Sergio **Egea Soto**  
+Optimal placement of drag reduction devices in transonic flows  
+
 - Viola **Monti**   
 Normalita' funzionale nella fluidodinamica nasale
 
@@ -22,7 +25,7 @@ Fluidodinamica nasale: analisi in frequenza di segnali temporali
 Rhinomanometry and facial masks
 
 - Luca **Virecci Fana**  
-GPU programming for an incompressible DNS solver
+GPU programming and optimization for an incompressible DNS solver
 
 
 # Master 

@@ -10,6 +10,10 @@ permalink: /conferences/
 
 # 2026
 
+- Numerical investigation of the global mechanism driving transonic buffet  
+**G.Soldati**, H.Song, S.Pirozzoli, M.Quadrio & S.Lele  
+2026 APS Division of Fluid Dynamics Annual Meeting, Nov 21--24 2026, Orlando - FL (USA)
+
 
 - Spanwise Wall Oscillations for Drag Reduction, Without Walls  
 K.Vieths1, **D.Gatti** & M.Quadrio  
