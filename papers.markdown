@@ -30,15 +30,15 @@ G.Soldati, F.Salvadore, D.Gatti, N.Berizzi, M.Quadrio and S.Pirozzoli
 S.Cipelli, A.Chiarini, M.Quadrio, D.Gatti & P.Luchini  
 [Arxiv:physics.flu-dyn/2609.35050](https://arxivorg/abs/2609.35050)
   
+- Energy transfer and scale organisation in dense canopy turbulence  
+R.Bertoncello, A.Chiarini, G.Foggi Rota, M.Quadrio & M.E.Rosti  
+[*J. Fluid Mechanics*](https://doi.org/10.1017/jfm.2026.12076)  **1045** A12, pp.1--26, 2026  
+[Arxiv:physics.flu-dyn/2608.27272](https://doi.org/10.48550/arXiv.2608.27272)
+
 - Drag reduction and subcritical turbulence in controlled pipe flows  
 E.Gallorini, D.Massaro, P.Schlatter & M.Quadrio  
 [*J. Fluid Mechanics*](https://doi.org/10.1017/jfm.2026.12073)  **1043** A45, pp.1--27, 2026  
 [Arxiv:physics.flu-dyn/2608.30452](https://arxiv.org/abs/2608.30452)
-
-- Energy transfer and scale organisation in dense canopy turbulence  
-R.Bertoncello, A.Chiarini, G.Foggi Rota, M.Quadrio & M.E.Rosti  
-Accepted for publication on *J. Fluid Mechanics*   
-[Arxiv:physics.flu-dyn/2608.27272](https://doi.org/10.48550/arXiv.2608.27272)
 
 - Direct numerical simulations of inhalation in a 23-generation lung model  
 M.Atzori, E.Gallorini, C.Cottini, A.Benassi & M.Quadrio  

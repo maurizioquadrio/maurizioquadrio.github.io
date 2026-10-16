@@ -4,6 +4,9 @@ title: Invited talks
 permalink: /seminars/
 ---
 
+- Turbulent channel flow DNS: Looking beyond the periodic box  
+*Invited lecture*, "RV60: From Earth to Hearth", Gran Sasso Science Institute, L'Aquila (I), Oct 15-16, 2026
+
 - The flow in the human nose: CFD, surgery and flow control  
 *Invited seminar*, Università di Genova (I), Dec 11 2025
 
