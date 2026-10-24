@@ -6,6 +6,9 @@ permalink: /theses/
 
 # Ongoing
 
+- Javier **Martinez Lorenzo**  
+DNS study of the interaction between a vortex and a shear layer
+
 - Sergio **Egea Soto**  
 Optimal placement of drag reduction devices in transonic flows  
 

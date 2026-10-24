@@ -6,13 +6,16 @@ permalink: /papers/
 
 <!---
 
+- DAMP
+PRF, submitted
+
 - Data Augmentation and Preparation for Training Machine Learning Models on Flow Fields
 Margheritti, Schillaci, Pipolo, Quadrio, Boracchi
 NCA/rejected; poi EAAI, Eng App Artificial Intelligence, tutto rejected. Al momento siamo su CG
 
 - Handling geometric singularities efficiently with the immersed-boundary method: application to riblets
 Cipelli, Chiarini, Quadrio, Gatti, Luchini
-JCP
+JCP, submitted
 
 - Active control of shock–boundary-layer interaction for drag reduction on supercritical airfoils
 G.Soldati, F.Salvadore, D.Gatti, N.Berizzi, M.Quadrio and S.Pirozzoli
@@ -23,7 +26,7 @@ G.Soldati, F.Salvadore, D.Gatti, N.Berizzi, M.Quadrio and S.Pirozzoli
 
 - The importance of nasal airflow distribution for olfactory function and paranasal sinus ventilation: Insights from a Computational Fluid Dynamics evaluation in Dupilumab-treated CRSwNP Patients  
 C.Pipolo, N.Nava, L.Pierpaoli, A.Saibene, F.Ferella, A.Ottavi, M.Quadrio & G.Felisati  
-Accepted for publication, *International Forum of Allergy & Rhinology*, 2026
+[*International Forum of Allergy & Rhinology*](https://doi.org/10.1002/alr.70300), 2026
 
 - Handling geometric singularities efficiently with the immersed-boundary method: application to riblets  
 S.Cipelli, A.Chiarini, M.Quadrio, D.Gatti & P.Luchini  
