@@ -7,7 +7,8 @@ permalink: /theses/
 # Ongoing
 
 - Javier **Martinez Lorenzo**  
-DNS study of the interaction between a vortex and a shear layer
+DNS study of a turbulent flow about a measured pavement roughness  
+In collaboration with Haas  
 
 - Sergio **Egea Soto**  
 Optimal placement of drag reduction devices in transonic flows  
