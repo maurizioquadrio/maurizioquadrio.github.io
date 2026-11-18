@@ -35,10 +35,10 @@ GPU programming and optimization for an incompressible DNS solver
 Analisi tempo-dipendente nel flusso in una cavita' nasale con ostio accessorio
 
 - Davide **Alloggio** (2026, July)  
-Enhancing Transonic Airfoil Efficiency Through Localized Friction Reduction 
+*[Enhancing Transonic Airfoil Efficiency Through Localized Friction Reduction}(https://hdl.handle.net/10589/261178)*
 
 - Jacopo **Alberti** (2026, March)  
-A reliable sinonasal CT segmentation procedure for the CFD of the nasal airflow
+*[A reliable sinonasal CT segmentation procedure for the CFD of the nasal airflow](https://hdl.handle.net/10589/253388)*
 
 <!--- 170 -->
 
