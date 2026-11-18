@@ -22,9 +22,6 @@ Classification of nasal flows
 - Alessandro **Segala**  
 Extracting nasal performance from temperature
 
-- Martina **Buffoli**  
-Fluidodinamica nasale: analisi in frequenza di segnali temporali
-
 - Ömer **Altay**  
 Rhinomanometry and facial masks
 
@@ -33,6 +30,9 @@ GPU programming and optimization for an incompressible DNS solver
 
 
 # Master 
+
+- Martina **Buffoli** (2026, December)  
+Analisi tempo-dipendente nel flusso in una cavita' nasale con ostio accessorio
 
 - Davide **Alloggio** (2026, July)  
 Enhancing Transonic Airfoil Efficiency Through Localized Friction Reduction 
@@ -46,7 +46,7 @@ A reliable sinonasal CT segmentation procedure for the CFD of the nasal airflow
 On the effect of spanwise forcing in Couette flow
 
 - Marco **Zappoli** (2026, March; co-advisor)  
-Clustering and preferential sampling in homogeneous shear turbulence
+*[Clustering and preferential sampling in homogeneous shear turbulence](https://hdl.handle.net/10589/250378)*
 
 - Simone **Lomolino** (2025, July)  
 *[Eulerian-Lagrangian analysis of turbulent channel flow with drag reduction](https://hdl.handle.net/10589/240496)*
